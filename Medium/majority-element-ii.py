@@ -1,3 +1,7 @@
+# Author: Runar Fosse
+# Time complexity: O(n)
+# Space complexity: O(1)
+
 class Solution:
     def majorityElement(self, nums: List[int]) -> List[int]:
         n1, c1 = None, 0
