@@ -1,20 +1,19 @@
 # Author: Runar Fosse
-# Time complexity: O(n*m)
+# Time complexity: O(nlog n)
 # Space complexity: O(m)
 
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
-        prefix = strs[0]
-        for i in range(1, len(strs)):
-            str = strs[i]
-            if len(str) < len(prefix):
-                prefix = prefix[:len(str)]
+        # Using lexicographical sorting
+        strs.sort()
 
-            for j in range(0, len(str)):
-                if j >= len(prefix):
-                    break
-                if prefix[j] != strs[i][j]:
-                    prefix = prefix[0:j]
-                    break
+        prefix_index = 0 if len(strs[0]) < len(strs[-1]) else -1
+        other_index = abs(prefix_index) - 1
 
+        prefix = ""
+        for i in range(0, len(strs[prefix_index])):
+            if strs[prefix_index][i] != strs[other_index][i]:
+                break
+            prefix += strs[prefix_index][i]
+        
         return prefix
