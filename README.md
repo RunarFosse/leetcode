@@ -1,2 +1,2 @@
-# My leetcode solutions
+# My Leetcode Solutions
 All problems are tried solving in the most optimal way possible.
