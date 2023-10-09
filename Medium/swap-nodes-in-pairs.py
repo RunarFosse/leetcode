@@ -1,6 +1,6 @@
 # Author: Runar Fosse
 # Time complexity: O(n)
-# Space complexity: O(1)
+# Space complexity: O(n)
 
 # Definition for singly-linked list.
 # class ListNode:
