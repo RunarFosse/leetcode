@@ -9,4 +9,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Run update-readme.sh script
-        run: ./update-readme.sh ${{ github.actor }} | git diff
+        run: ./update-readme.sh ${{ github.actor }}
+      - name: Push new changes to git
+        run: git add README.md | git commit -m"Updated README.md"
