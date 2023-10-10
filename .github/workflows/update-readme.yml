@@ -6,6 +6,9 @@ on:
 jobs:
   check-bats-version:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./
     steps:
-      - run: ls
+      - name: Run update-readme.sh script
       - run: ./update-readme.sh ${{ github.actor }}
