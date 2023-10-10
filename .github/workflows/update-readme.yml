@@ -4,11 +4,11 @@ on:
   push:
 
 jobs:
-  check-bats-version:
+  update-readme-job:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: ./
+        working-directory: .
     steps:
       - name: Run update-readme.sh script
       - run: ./update-readme.sh ${{ github.actor }}
