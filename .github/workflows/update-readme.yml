@@ -11,11 +11,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Run update-readme.sh script
-        run: ./update-readme.sh ${{ github.actor }}
+        run: ./update-readme.sh ${{ github.event.pusher.name }}
 
       - name: Push to git
         run: |
-          git config --global user.name "${{ github.actor }}"
+          git config --global user.name ${{ github.event.pusher.name }}"
           git add README.md
           git commit -m"Updated README.md"
           git push
