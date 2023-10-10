@@ -16,6 +16,7 @@ jobs:
       - name: Push to git
         run: |
           git config --global user.name ${{ github.event.pusher.name }}
+          git config --global user.email ${{ github.event.pusher.email }}
           git add README.md
           git commit -m"Updated README.md"
           git push
