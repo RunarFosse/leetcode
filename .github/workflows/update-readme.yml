@@ -11,6 +11,9 @@ jobs:
       - name: Run update-readme.sh script
         run: ./update-readme.sh ${{ github.actor }}
 
+      - name: Set git user and email
+        run: git config --global user.name "Runar Fosse"
+
       - name: Add changes to git
         run: git add README.md
       - name: Commit changes to git
