@@ -6,9 +6,7 @@ on:
 jobs:
   update-readme-job:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: .
     steps:
+      - run: actions/checkout@v2
       - name: Run update-readme.sh script
         run: ./update-readme.sh ${{ github.actor }}
