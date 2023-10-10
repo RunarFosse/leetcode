@@ -6,18 +6,17 @@ on:
 jobs:
   update-readme-job:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v2
       - name: Run update-readme.sh script
         run: ./update-readme.sh ${{ github.actor }}
 
-      - name: Set git user and email
-        run: git config --global user.name "Runar Fosse"
-
-      - name: Add changes to git
-        run: git add README.md
-      - name: Commit changes to git
-        run: git commit -m"Updated README.md"
-      - name: Push changes to git
-        run: git push
+      - name: Push to git
+        run: |
+          git config --global user.name "${{ github.actor }}"
+          git add README.md
+          git commit -m"Updated README.md"
+          git push
 
