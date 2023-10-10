@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Run update-readme.sh script
-        run: ./update-readme.sh ${{ github.event.pusher.name }}
+        run: ./update-readme.sh "${{ github.event.pusher.name }}"
 
       - name: Push to git
         run: |
