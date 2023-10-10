@@ -7,4 +7,5 @@ jobs:
   check-bats-version:
     runs-on: ubuntu-latest
     steps:
-      - run: ./update-readme.sh
+      - run: ls
+      - run: ./update-readme.sh ${{ github.actor }}
