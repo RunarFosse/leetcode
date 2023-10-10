@@ -9,6 +9,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Run update-readme.sh script
-        run: | 
-        ./update-readme.sh ${{ github.actor }}
-        git diff
+        run: ./update-readme.sh ${{ github.actor }} | git diff
