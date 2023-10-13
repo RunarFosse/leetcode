@@ -21,7 +21,7 @@ print_directory_problems () {
         local space_complexity=$(cat $f | grep "Space complexity:" -m 1 | grep -oE "O\(.*\)")
 
         # Print table row
-        echo "| [$f]($directory/$f) | $time_complexity | $space_complexity | [Link](https://leetcode.com/problems/${f%.py}/)\n"
+        echo "| [$f]($directory/$f) | $time_complexity | $space_complexity | <a href="https://leetcode.com/problems/${f%.py}/" target="_blank">Link</a>\n"
     done
     cd ..
 }
