@@ -6,6 +6,7 @@ All problems are tried solving in the most optimal way possible.
  | :------ | :-------------: | :--------------: | :--------------: |
  | [isomorphic-strings.py](Easy/isomorphic-strings.py) | O(n) | O(m) | [Link](https://leetcode.com/problems/isomorphic-strings/)
  | [longest-common-prefix.py](Easy/longest-common-prefix.py) | O(nlog n) | O(m) | [Link](https://leetcode.com/problems/longest-common-prefix/)
+ | [merge-two-sorted-lists.py](Easy/merge-two-sorted-lists.py) | O(n) | O(n) | [Link](https://leetcode.com/problems/merge-two-sorted-lists/)
  | [min-cost-climbing-stairs.py](Easy/min-cost-climbing-stairs.py) | O(n) | O(n) | [Link](https://leetcode.com/problems/min-cost-climbing-stairs/)
  | [search-insert-position.py](Easy/search-insert-position.py) | O(log n) | O(1) | [Link](https://leetcode.com/problems/search-insert-position/)
  | [two-sum.py](Easy/two-sum.py) | O(n) | O(n) | [Link](https://leetcode.com/problems/two-sum/)
@@ -48,4 +49,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Oct 13 21:29:58 UTC 2023.
+Latest push from RunarFosse: Fri Oct 13 21:40:25 UTC 2023.
