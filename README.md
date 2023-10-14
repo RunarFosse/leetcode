@@ -45,9 +45,9 @@ All problems are tried solving in the most optimal way possible.
  | [max-dot-product-of-two-subsequences.py](Hard/max-dot-product-of-two-subsequences.py) | O(nm) | O(nm) | <a href="https://leetcode.com/problems/max-dot-product-of-two-subsequences/" target="_blank">Link</a>
  | [minimum-number-of-operations-to-make-array-continuous.py](Hard/minimum-number-of-operations-to-make-array-continuous.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/" target="_blank">Link</a>
  | [number-of-flowers-in-full-bloom.py](Hard/number-of-flowers-in-full-bloom.py) | O((n+m)log n) | O(n) | <a href="https://leetcode.com/problems/number-of-flowers-in-full-bloom/" target="_blank">Link</a>
- | [painting-the-walls.py](Hard/painting-the-walls.py) | O(n^2) | O(n^2) | <a href="https://leetcode.com/problems/painting-the-walls/" target="_blank">Link</a>
+ | [painting-the-walls.py](Hard/painting-the-walls.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/painting-the-walls/" target="_blank">Link</a>
  | [trapping-rain-water.py](Hard/trapping-rain-water.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/trapping-rain-water/" target="_blank">Link</a>
 
 
 
-Latest push from RunarFosse: Sat Oct 14 11:43:30 UTC 2023.
+Latest push from RunarFosse: Sat Oct 14 12:15:23 UTC 2023.
