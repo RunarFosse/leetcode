@@ -1,38 +1,33 @@
 # Author: Runar Fosse
 # Time complexity: O(n^2)
-# Space complexity: O(n^2)
+# Space complexity: O(n)
 
 class Solution:
     def paintWalls(self, cost: List[int], time: List[int]) -> int:
-        # Using dynamic programming
-        self.cost = cost
-        self.time = time
-        return self.opt(0, 0)
+        # Using bottom-up dynamic programming
+        n = len(cost)
+        opt = [0] + [1e9] * n
 
-    @functools.cache
-    def opt(self, i: int, j: int) -> int:
-        if i >= len(self.cost):
-            return 0 if j >= 0 else 1e9
-        if j > len(self.cost) - i:
-            return 0
+        for j in range(n):
+            for i in range(n, 0, -1):
+                opt[i] = min(opt[i], opt[max(i-1-time[j], 0)] + cost[j])
         
-        return min(self.cost[i] + self.opt(i+1, j+self.time[i]), self.opt(i+1, j-1))
-
+        return opt[n]
     
 # At each step, either the paint painter can paint, or the free painter
-
-# opt(i, j) - optimal cost at index i, where j is time free painter can paint
+# This can be re-thought as either the paid painter paints, or he doesn't
+# Then:
+# opt[i] - optimal cost painting i-walls
 
 # Base case:
-# opt(n, j) = 0 if j >= 0 else infinity
-# opt(i, j > (n-i)) = 0   # If paid painter is used for more than the remaining
-                          # time, free painter can take care of the rest
+# opt[0] = 0
+# opt[i] = infinity
 
 # Recurrency:
-# opt(i, j) = min (
-#    cost[i] + opt(i+1, j+time[i]),
-#    opt(i+1, j-1)
+# For each wall j:
+# opt[i] = min(
+#   opt[i] -> do not paint this wall (paint others instead), 
+#   opt[i-1-time[j]] + cost[j] -> paint this wall (and i-1 others)
 #)
 
-# N.o. states = n^2, runtime per state: O(1)
-# --> Time complexity of O(n^2)
+# N.o. states = n, runtime = O(n^2) (nested for-loop)
