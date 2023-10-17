@@ -37,6 +37,7 @@ All problems are tried solving in the most optimal way possible.
  | [search-in-rotated-sorted-array.py](Medium/search-in-rotated-sorted-array.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/search-in-rotated-sorted-array/" target="_blank">Link</a>
  | [swap-nodes-in-pairs.py](Medium/swap-nodes-in-pairs.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/swap-nodes-in-pairs/" target="_blank">Link</a>
  | [valid-sudoku.py](Medium/valid-sudoku.py) | O(n^2) | O(n^2) | <a href="https://leetcode.com/problems/valid-sudoku/" target="_blank">Link</a>
+ | [validate-binary-tree-nodes.py](Medium/validate-binary-tree-nodes.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/validate-binary-tree-nodes/" target="_blank">Link</a>
 
 
 ## Hard
@@ -54,4 +55,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Oct 16 09:16:45 UTC 2023.
+Latest push from RunarFosse: Tue Oct 17 14:51:09 UTC 2023.
