@@ -6,6 +6,7 @@ All problems are tried solving in the most optimal way possible.
  | :------ | :-------------: | :--------------: | :--------------: |
  | [backspace-string-compare.py](Easy/backspace-string-compare.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/backspace-string-compare/" target="_blank">Link</a>
  | [binary-tree-paths.py](Easy/binary-tree-paths.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/binary-tree-paths/" target="_blank">Link</a>
+ | [distribute-money-to-maximum-children.py](Easy/distribute-money-to-maximum-children.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/distribute-money-to-maximum-children/" target="_blank">Link</a>
  | [find-indices-with-index-and-value-difference-i.py](Easy/find-indices-with-index-and-value-difference-i.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/" target="_blank">Link</a>
  | [isomorphic-strings.py](Easy/isomorphic-strings.py) | O(n) | O(m) | <a href="https://leetcode.com/problems/isomorphic-strings/" target="_blank">Link</a>
  | [longest-common-prefix.py](Easy/longest-common-prefix.py) | O(nlog n) | O(m) | <a href="https://leetcode.com/problems/longest-common-prefix/" target="_blank">Link</a>
@@ -59,4 +60,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Oct 19 17:38:14 UTC 2023.
+Latest push from RunarFosse: Thu Oct 19 18:05:16 UTC 2023.
