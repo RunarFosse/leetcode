@@ -48,6 +48,7 @@ All problems are tried solving in the most optimal way possible.
  | Problem | Time complexity | Space complexity | Leetcode |
  | :------ | :-------------: | :--------------: | :--------------: |
  | [build-array-where-you-can-find-the-maximum-exactly-k-comparisons.py](Hard/build-array-where-you-can-find-the-maximum-exactly-k-comparisons.py) | O(nm^2k) | O(nmk) | <a href="https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/" target="_blank">Link</a>
+ | [constrained-subsequence-sum.py](Hard/constrained-subsequence-sum.py) | O(n) | O(k) | <a href="https://leetcode.com/problems/constrained-subsequence-sum/" target="_blank">Link</a>
  | [find-in-mountain-array.py](Hard/find-in-mountain-array.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/find-in-mountain-array/" target="_blank">Link</a>
  | [first-missing-positive.py](Hard/first-missing-positive.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/first-missing-positive/" target="_blank">Link</a>
  | [max-dot-product-of-two-subsequences.py](Hard/max-dot-product-of-two-subsequences.py) | O(nm) | O(nm) | <a href="https://leetcode.com/problems/max-dot-product-of-two-subsequences/" target="_blank">Link</a>
@@ -61,4 +62,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Oct 20 18:56:34 UTC 2023.
+Latest push from RunarFosse: Sat Oct 21 11:17:38 UTC 2023.
