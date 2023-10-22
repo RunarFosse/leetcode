@@ -52,6 +52,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-in-mountain-array.py](Hard/find-in-mountain-array.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/find-in-mountain-array/" target="_blank">Link</a>
  | [first-missing-positive.py](Hard/first-missing-positive.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/first-missing-positive/" target="_blank">Link</a>
  | [max-dot-product-of-two-subsequences.py](Hard/max-dot-product-of-two-subsequences.py) | O(nm) | O(nm) | <a href="https://leetcode.com/problems/max-dot-product-of-two-subsequences/" target="_blank">Link</a>
+ | [maximum-score-of-a-good-subarray.py](Hard/maximum-score-of-a-good-subarray.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-score-of-a-good-subarray/" target="_blank">Link</a>
  | [minimum-number-of-operations-to-make-array-continuous.py](Hard/minimum-number-of-operations-to-make-array-continuous.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/" target="_blank">Link</a>
  | [number-of-flowers-in-full-bloom.py](Hard/number-of-flowers-in-full-bloom.py) | O((n+m)log n) | O(n) | <a href="https://leetcode.com/problems/number-of-flowers-in-full-bloom/" target="_blank">Link</a>
  | [number-of-ways-to-stay-in-the-same-place-after-some-steps.py](Hard/number-of-ways-to-stay-in-the-same-place-after-some-steps.py) | O(n min(n,m)) | O(n min(n,m)) | <a href="https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/" target="_blank">Link</a>
@@ -62,4 +63,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Oct 21 11:17:38 UTC 2023.
+Latest push from RunarFosse: Sun Oct 22 09:57:54 UTC 2023.
