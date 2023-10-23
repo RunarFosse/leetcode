@@ -13,6 +13,7 @@ All problems are tried solving in the most optimal way possible.
  | [merge-two-sorted-lists.py](Easy/merge-two-sorted-lists.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/merge-two-sorted-lists/" target="_blank">Link</a>
  | [min-cost-climbing-stairs.py](Easy/min-cost-climbing-stairs.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/min-cost-climbing-stairs/" target="_blank">Link</a>
  | [pascals-triangle-ii.py](Easy/pascals-triangle-ii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/pascals-triangle-ii/" target="_blank">Link</a>
+ | [power-of-four.py](Easy/power-of-four.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/power-of-four/" target="_blank">Link</a>
  | [search-insert-position.py](Easy/search-insert-position.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/search-insert-position/" target="_blank">Link</a>
  | [two-sum.py](Easy/two-sum.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/two-sum/" target="_blank">Link</a>
  | [valid-parentheses.py](Easy/valid-parentheses.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/valid-parentheses/" target="_blank">Link</a>
@@ -64,4 +65,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Oct 22 10:42:52 UTC 2023.
+Latest push from RunarFosse: Mon Oct 23 08:12:57 UTC 2023.
