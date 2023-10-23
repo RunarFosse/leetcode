@@ -62,9 +62,10 @@ All problems are tried solving in the most optimal way possible.
  | [number-of-ways-to-stay-in-the-same-place-after-some-steps.py](Hard/number-of-ways-to-stay-in-the-same-place-after-some-steps.py) | O(n min(n,m)) | O(n min(n,m)) | <a href="https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/" target="_blank">Link</a>
  | [painting-the-walls.py](Hard/painting-the-walls.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/painting-the-walls/" target="_blank">Link</a>
  | [parallel-courses-iii.py](Hard/parallel-courses-iii.py) | O(n + m) | O(n + m) | <a href="https://leetcode.com/problems/parallel-courses-iii/" target="_blank">Link</a>
+ | [perfect-rectangle.py](Hard/perfect-rectangle.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/perfect-rectangle/" target="_blank">Link</a>
  | [russian-doll-envelopes.py](Hard/russian-doll-envelopes.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/russian-doll-envelopes/" target="_blank">Link</a>
  | [trapping-rain-water.py](Hard/trapping-rain-water.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/trapping-rain-water/" target="_blank">Link</a>
 
 
 
-Latest push from RunarFosse: Mon Oct 23 12:14:47 UTC 2023.
+Latest push from RunarFosse: Mon Oct 23 19:10:53 UTC 2023.
