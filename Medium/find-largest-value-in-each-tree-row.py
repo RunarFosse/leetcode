@@ -1,6 +1,6 @@
 # Author: Runar Fosse
 # Time complexity: O(n)
-# Space complexity: O(n)
+# Space complexity: O(log n)
 
 # Definition for a binary tree node.
 # class TreeNode:
@@ -10,16 +10,20 @@
 #         self.right = right
 class Solution:
     def largestValues(self, root: Optional[TreeNode]) -> List[int]:
-        self.largest = []
-        self.dfs(root, 0)
-        return self.largest
-        
-    def dfs(self, root: Optional[TreeNode], depth: int) -> None:
-        if root:
-            if len(self.largest) <= depth:
-                self.largest.append(root.val)
+        # Using DFS
+        largest = []
+        queue = [(root, 0)]
+        while queue:
+            node, depth = queue.pop()
+            if not node:
+                continue
+
+            if depth == len(largest):
+                largest.append(node.val)
             else:
-                self.largest[depth] = max(root.val, self.largest[depth])
-        
-            self.dfs(root.left, depth+1)
-            self.dfs(root.right, depth+1)
+                largest[depth] = max(node.val, largest[depth])
+            
+            queue.append((node.left, depth+1))
+            queue.append((node.right, depth+1))
+
+        return largest
