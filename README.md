@@ -37,6 +37,7 @@ All problems are tried solving in the most optimal way possible.
  | [integer-break.py](Medium/integer-break.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/integer-break/" target="_blank">Link</a>
  | [integer-to-roman.py](Medium/integer-to-roman.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/integer-to-roman/" target="_blank">Link</a>
  | [jump-game-ii.py](Medium/jump-game-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/jump-game-ii/" target="_blank">Link</a>
+ | [k-th-symbol-in-grammar.py](Medium/k-th-symbol-in-grammar.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/k-th-symbol-in-grammar/" target="_blank">Link</a>
  | [letter-combinations-of-a-phone-number.py](Medium/letter-combinations-of-a-phone-number.py) | O(nm) | O(m) | <a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/" target="_blank">Link</a>
  | [longest-substring-without-repeating-characters.py](Medium/longest-substring-without-repeating-characters.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/" target="_blank">Link</a>
  | [majority-element-ii.py](Medium/majority-element-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/majority-element-ii/" target="_blank">Link</a>
@@ -73,4 +74,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Oct 24 20:30:03 UTC 2023.
+Latest push from RunarFosse: Wed Oct 25 15:42:54 UTC 2023.
