@@ -13,6 +13,7 @@ All problems are tried solving in the most optimal way possible.
  | [invert-binary-tree.py](Easy/invert-binary-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/invert-binary-tree/" target="_blank">Link</a>
  | [isomorphic-strings.py](Easy/isomorphic-strings.py) | O(n) | O(m) | <a href="https://leetcode.com/problems/isomorphic-strings/" target="_blank">Link</a>
  | [longest-common-prefix.py](Easy/longest-common-prefix.py) | O(nlog n) | O(m) | <a href="https://leetcode.com/problems/longest-common-prefix/" target="_blank">Link</a>
+ | [merge-sorted-array.py](Easy/merge-sorted-array.py) | O(n+m) | O(1) | <a href="https://leetcode.com/problems/merge-sorted-array/" target="_blank">Link</a>
  | [merge-two-sorted-lists.py](Easy/merge-two-sorted-lists.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/merge-two-sorted-lists/" target="_blank">Link</a>
  | [min-cost-climbing-stairs.py](Easy/min-cost-climbing-stairs.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/min-cost-climbing-stairs/" target="_blank">Link</a>
  | [pascals-triangle-ii.py](Easy/pascals-triangle-ii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/pascals-triangle-ii/" target="_blank">Link</a>
@@ -74,4 +75,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Oct 25 15:42:54 UTC 2023.
+Latest push from RunarFosse: Wed Oct 25 19:30:35 UTC 2023.
