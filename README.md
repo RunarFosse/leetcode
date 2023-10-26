@@ -28,6 +28,7 @@ All problems are tried solving in the most optimal way possible.
  | Problem | Time complexity | Space complexity | Leetcode |
  | :------ | :-------------: | :--------------: | :--------------: |
  | [add-two-numbers.py](Medium/add-two-numbers.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/add-two-numbers/" target="_blank">Link</a>
+ | [binary-trees-with-factors.py](Medium/binary-trees-with-factors.py) | O(n sqrt(n)) | O(n) | <a href="https://leetcode.com/problems/binary-trees-with-factors/" target="_blank">Link</a>
  | [container-with-most-water.py](Medium/container-with-most-water.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/container-with-most-water/" target="_blank">Link</a>
  | [count-and-say.py](Medium/count-and-say.py) | O(nm) | O(nm) | <a href="https://leetcode.com/problems/count-and-say/" target="_blank">Link</a>
  | [count-ways-to-build-good-strings.py](Medium/count-ways-to-build-good-strings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-ways-to-build-good-strings/" target="_blank">Link</a>
@@ -76,4 +77,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Oct 25 19:55:44 UTC 2023.
+Latest push from RunarFosse: Thu Oct 26 11:04:14 UTC 2023.
