@@ -1,3 +1,7 @@
+# Author: Runar Fosse
+# Time complexity: O(n)
+# Space complexity: O(n)
+
 class Solution:
     @functools.cache
     def climbStairs(self, n: int) -> int:
