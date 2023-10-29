@@ -4,6 +4,7 @@ All problems are tried solving in the most optimal way possible.
 ## Easy
  | Problem | Time complexity | Space complexity | Leetcode |
  | :------ | :-------------: | :--------------: | :--------------: |
+ | [add-binary.py](Easy/add-binary.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/add-binary/" target="_blank">Link</a>
  | [backspace-string-compare.py](Easy/backspace-string-compare.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/backspace-string-compare/" target="_blank">Link</a>
  | [binary-tree-paths.py](Easy/binary-tree-paths.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/binary-tree-paths/" target="_blank">Link</a>
  | [climbing-stairs.py](Easy/climbing-stairs.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/climbing-stairs/" target="_blank">Link</a>
@@ -83,4 +84,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Oct 29 07:50:29 UTC 2023.
+Latest push from RunarFosse: Sun Oct 29 08:05:35 UTC 2023.
