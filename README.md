@@ -14,6 +14,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-the-index-of-the-first-occurrence-in-a-string.py](Easy/find-the-index-of-the-first-occurrence-in-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/" target="_blank">Link</a>
  | [invert-binary-tree.py](Easy/invert-binary-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/invert-binary-tree/" target="_blank">Link</a>
  | [isomorphic-strings.py](Easy/isomorphic-strings.py) | O(n) | O(m) | <a href="https://leetcode.com/problems/isomorphic-strings/" target="_blank">Link</a>
+ | [length-of-last-word.py](Easy/length-of-last-word.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/length-of-last-word/" target="_blank">Link</a>
  | [longest-common-prefix.py](Easy/longest-common-prefix.py) | O(nlog n) | O(m) | <a href="https://leetcode.com/problems/longest-common-prefix/" target="_blank">Link</a>
  | [merge-sorted-array.py](Easy/merge-sorted-array.py) | O(n+m) | O(1) | <a href="https://leetcode.com/problems/merge-sorted-array/" target="_blank">Link</a>
  | [merge-two-sorted-lists.py](Easy/merge-two-sorted-lists.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/merge-two-sorted-lists/" target="_blank">Link</a>
@@ -90,4 +91,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Oct 31 07:56:42 UTC 2023.
+Latest push from RunarFosse: Tue Oct 31 08:01:36 UTC 2023.
