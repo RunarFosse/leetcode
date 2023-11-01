@@ -78,6 +78,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-vowels-permutation.py](Hard/count-vowels-permutation.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-vowels-permutation/" target="_blank">Link</a>
  | [find-in-mountain-array.py](Hard/find-in-mountain-array.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/find-in-mountain-array/" target="_blank">Link</a>
  | [first-missing-positive.py](Hard/first-missing-positive.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/first-missing-positive/" target="_blank">Link</a>
+ | [largest-rectangle-in-histogram.py](Hard/largest-rectangle-in-histogram.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/largest-rectangle-in-histogram/" target="_blank">Link</a>
  | [max-dot-product-of-two-subsequences.py](Hard/max-dot-product-of-two-subsequences.py) | O(nm) | O(nm) | <a href="https://leetcode.com/problems/max-dot-product-of-two-subsequences/" target="_blank">Link</a>
  | [maximum-score-of-a-good-subarray.py](Hard/maximum-score-of-a-good-subarray.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-score-of-a-good-subarray/" target="_blank">Link</a>
  | [minimum-number-of-operations-to-make-array-continuous.py](Hard/minimum-number-of-operations-to-make-array-continuous.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/" target="_blank">Link</a>
@@ -93,4 +94,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Nov  1 07:47:39 UTC 2023.
+Latest push from RunarFosse: Wed Nov  1 09:23:53 UTC 2023.
