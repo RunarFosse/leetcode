@@ -38,6 +38,7 @@ All problems are tried solving in the most optimal way possible.
  | :------ | :-------------: | :--------------: | :--------------: |
  | [add-two-numbers.py](Medium/add-two-numbers.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/add-two-numbers/" target="_blank">Link</a>
  | [binary-trees-with-factors.py](Medium/binary-trees-with-factors.py) | O(n sqrt(n)) | O(n) | <a href="https://leetcode.com/problems/binary-trees-with-factors/" target="_blank">Link</a>
+ | [build-an-array-with-stack-operations.py](Medium/build-an-array-with-stack-operations.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/build-an-array-with-stack-operations/" target="_blank">Link</a>
  | [container-with-most-water.py](Medium/container-with-most-water.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/container-with-most-water/" target="_blank">Link</a>
  | [count-and-say.py](Medium/count-and-say.py) | O(nm) | O(nm) | <a href="https://leetcode.com/problems/count-and-say/" target="_blank">Link</a>
  | [count-nodes-equal-to-average-of-subtree.py](Medium/count-nodes-equal-to-average-of-subtree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/" target="_blank">Link</a>
@@ -95,4 +96,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Nov  2 09:44:41 UTC 2023.
+Latest push from RunarFosse: Fri Nov  3 08:29:05 UTC 2023.
