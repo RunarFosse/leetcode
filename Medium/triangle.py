@@ -1,6 +1,6 @@
 # Author: Runar Fosse
 # Time complexity: O(n)
-# Space complexity: O(n)
+# Space complexity: O(1)
 
 class Solution:
     def minimumTotal(self, triangle: List[List[int]]) -> int:
