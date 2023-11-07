@@ -44,6 +44,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-and-say.py](Medium/count-and-say.py) | O(nm) | O(nm) | <a href="https://leetcode.com/problems/count-and-say/" target="_blank">Link</a>
  | [count-nodes-equal-to-average-of-subtree.py](Medium/count-nodes-equal-to-average-of-subtree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/" target="_blank">Link</a>
  | [count-ways-to-build-good-strings.py](Medium/count-ways-to-build-good-strings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-ways-to-build-good-strings/" target="_blank">Link</a>
+ | [eliminate-maximum-number-of-monsters.py](Medium/eliminate-maximum-number-of-monsters.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/eliminate-maximum-number-of-monsters/" target="_blank">Link</a>
  | [find-first-and-last-position-of-element-in-sorted-array.py](Medium/find-first-and-last-position-of-element-in-sorted-array.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/" target="_blank">Link</a>
  | [find-largest-value-in-each-tree-row.py](Medium/find-largest-value-in-each-tree-row.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/find-largest-value-in-each-tree-row/" target="_blank">Link</a>
  | [find-peak-element.py](Medium/find-peak-element.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/find-peak-element/" target="_blank">Link</a>
@@ -101,4 +102,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Nov  6 09:41:31 UTC 2023.
+Latest push from RunarFosse: Tue Nov  7 13:44:32 UTC 2023.
