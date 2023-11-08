@@ -1,3 +1,7 @@
+# Author: Runar Fosse
+# Time complexity: O(n^2)
+# Space complexity: O(n^2)
+
 class Solution:
     def generate(self, numRows: int) -> List[List[int]]:
         triangle = [[1]]
