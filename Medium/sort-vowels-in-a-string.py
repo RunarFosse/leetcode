@@ -14,7 +14,7 @@ class Solution:
             if c in vowels:
                 counts[c] += 1
         
-        # Then recreate string, substituting vowels for sorted order (order of the set vowels)
+        # Then recreate string, substituting vowels for sorted order
         vowels_sorted = deque(vowel_string)
         string = ""
         for c in s:
