@@ -72,7 +72,7 @@ All problems are tried solving in the most optimal way possible.
  | [rotate-image.py](Medium/rotate-image.py) | O(n^2) | O(1) | <a href="https://leetcode.com/problems/rotate-image/" target="_blank">Link</a>
  | [search-a-2d-matrix.py](Medium/search-a-2d-matrix.py) | O(log(n*m)) | O(1) | <a href="https://leetcode.com/problems/search-a-2d-matrix/" target="_blank">Link</a>
  | [search-in-rotated-sorted-array.py](Medium/search-in-rotated-sorted-array.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/search-in-rotated-sorted-array/" target="_blank">Link</a>
- | [sort-vowels-in-a-string.py](Medium/sort-vowels-in-a-string.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/sort-vowels-in-a-string/" target="_blank">Link</a>
+ | [sort-vowels-in-a-string.py](Medium/sort-vowels-in-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/sort-vowels-in-a-string/" target="_blank">Link</a>
  | [string-to-integer-atoi.py](Medium/string-to-integer-atoi.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/string-to-integer-atoi/" target="_blank">Link</a>
  | [subarray-sum-equals-k.py](Medium/subarray-sum-equals-k.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/subarray-sum-equals-k/" target="_blank">Link</a>
  | [swap-nodes-in-pairs.py](Medium/swap-nodes-in-pairs.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/swap-nodes-in-pairs/" target="_blank">Link</a>
@@ -107,4 +107,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Nov 13 08:58:00 UTC 2023.
+Latest push from RunarFosse: Mon Nov 13 09:09:25 UTC 2023.
