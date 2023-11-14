@@ -17,16 +17,12 @@ class Solution:
         # Then, for each character that occured (max 26, as those in the english alphabet)
         # we find number of unique characters between (O(26*n)=O(n))
         palindromes = 0
-        uniques, seen = 0, set()
         for start, end in occurences.values():
-            for i in range(start+1, end):
-                if s[i] not in seen:
-                    uniques += 1
-                    seen.add(s[i])
-            palindromes += uniques
+            if end == -1:
+                continue
 
-            uniques = 0
-            seen.clear()
+            uniques_between = set(s[start+1:end])
+            palindromes += len(uniques_between)
 
         return palindromes
         
