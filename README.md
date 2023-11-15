@@ -63,6 +63,7 @@ All problems are tried solving in the most optimal way possible.
  | [longest-palindromic-substring.py](Medium/longest-palindromic-substring.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/longest-palindromic-substring/" target="_blank">Link</a>
  | [longest-substring-without-repeating-characters.py](Medium/longest-substring-without-repeating-characters.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/" target="_blank">Link</a>
  | [majority-element-ii.py](Medium/majority-element-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/majority-element-ii/" target="_blank">Link</a>
+ | [maximum-element-after-decreasing-and-rearranging.py](Medium/maximum-element-after-decreasing-and-rearranging.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/" target="_blank">Link</a>
  | [permutations-ii.py](Medium/permutations-ii.py) | O(n!) | O(n!) | <a href="https://leetcode.com/problems/permutations-ii/" target="_blank">Link</a>
  | [permutations.py](Medium/permutations.py) | O(n!) | O(n!) | <a href="https://leetcode.com/problems/permutations/" target="_blank">Link</a>
  | [powx-n.py](Medium/powx-n.py) | O(log n) | O(log n) | <a href="https://leetcode.com/problems/powx-n/" target="_blank">Link</a>
@@ -108,4 +109,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Nov 14 12:22:20 UTC 2023.
+Latest push from RunarFosse: Wed Nov 15 08:55:52 UTC 2023.
