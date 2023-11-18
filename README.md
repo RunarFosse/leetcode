@@ -53,6 +53,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-the-original-array-of-prefix-xor.py](Medium/find-the-original-array-of-prefix-xor.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-the-original-array-of-prefix-xor/" target="_blank">Link</a>
  | [find-the-winner-of-an-array-game.py](Medium/find-the-winner-of-an-array-game.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-winner-of-an-array-game/" target="_blank">Link</a>
  | [find-unique-binary-string.py](Medium/find-unique-binary-string.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-unique-binary-string/" target="_blank">Link</a>
+ | [frequency-of-the-most-frequent-element.py](Medium/frequency-of-the-most-frequent-element.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/frequency-of-the-most-frequent-element/" target="_blank">Link</a>
  | [generate-parentheses.py](Medium/generate-parentheses.py) | O(4^n) | O(n2^n) | <a href="https://leetcode.com/problems/generate-parentheses/" target="_blank">Link</a>
  | [integer-break.py](Medium/integer-break.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/integer-break/" target="_blank">Link</a>
  | [integer-to-roman.py](Medium/integer-to-roman.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/integer-to-roman/" target="_blank">Link</a>
@@ -112,4 +113,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Nov 17 09:01:50 UTC 2023.
+Latest push from RunarFosse: Sat Nov 18 09:10:02 UTC 2023.
