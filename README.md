@@ -13,6 +13,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-indices-with-index-and-value-difference-i.py](Easy/find-indices-with-index-and-value-difference-i.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/" target="_blank">Link</a>
  | [find-mode-in-binary-search-tree.py](Easy/find-mode-in-binary-search-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-mode-in-binary-search-tree/" target="_blank">Link</a>
  | [find-the-index-of-the-first-occurrence-in-a-string.py](Easy/find-the-index-of-the-first-occurrence-in-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/" target="_blank">Link</a>
+ | [happy-number.py](Easy/happy-number.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/happy-number/" target="_blank">Link</a>
  | [invert-binary-tree.py](Easy/invert-binary-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/invert-binary-tree/" target="_blank">Link</a>
  | [isomorphic-strings.py](Easy/isomorphic-strings.py) | O(n) | O(m) | <a href="https://leetcode.com/problems/isomorphic-strings/" target="_blank">Link</a>
  | [length-of-last-word.py](Easy/length-of-last-word.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/length-of-last-word/" target="_blank">Link</a>
@@ -114,4 +115,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Nov 19 09:09:15 UTC 2023.
+Latest push from RunarFosse: Sun Nov 19 09:19:46 UTC 2023.
