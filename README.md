@@ -70,6 +70,7 @@ All problems are tried solving in the most optimal way possible.
  | [permutations-ii.py](Medium/permutations-ii.py) | O(n!) | O(n!) | <a href="https://leetcode.com/problems/permutations-ii/" target="_blank">Link</a>
  | [permutations.py](Medium/permutations.py) | O(n!) | O(n!) | <a href="https://leetcode.com/problems/permutations/" target="_blank">Link</a>
  | [powx-n.py](Medium/powx-n.py) | O(log n) | O(log n) | <a href="https://leetcode.com/problems/powx-n/" target="_blank">Link</a>
+ | [reduction-operations-to-make-the-array-elements-equal.py](Medium/reduction-operations-to-make-the-array-elements-equal.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/" target="_blank">Link</a>
  | [remove-nth-node-from-end-of-list.py](Medium/remove-nth-node-from-end-of-list.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/" target="_blank">Link</a>
  | [restore-the-array-from-adjacent-pairs.py](Medium/restore-the-array-from-adjacent-pairs.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/" target="_blank">Link</a>
  | [reverse-integer.py](Medium/reverse-integer.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/reverse-integer/" target="_blank">Link</a>
@@ -113,4 +114,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Nov 18 09:10:02 UTC 2023.
+Latest push from RunarFosse: Sun Nov 19 09:09:15 UTC 2023.
