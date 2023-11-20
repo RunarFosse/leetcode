@@ -68,6 +68,7 @@ All problems are tried solving in the most optimal way possible.
  | [majority-element-ii.py](Medium/majority-element-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/majority-element-ii/" target="_blank">Link</a>
  | [maximum-element-after-decreasing-and-rearranging.py](Medium/maximum-element-after-decreasing-and-rearranging.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/" target="_blank">Link</a>
  | [minimize-maximum-pair-sum-in-array.py](Medium/minimize-maximum-pair-sum-in-array.py) | O(nlog n) | O(log n) | <a href="https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/" target="_blank">Link</a>
+ | [minimum-amount-of-time-to-collect-garbage.py](Medium/minimum-amount-of-time-to-collect-garbage.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/" target="_blank">Link</a>
  | [permutations-ii.py](Medium/permutations-ii.py) | O(n!) | O(n!) | <a href="https://leetcode.com/problems/permutations-ii/" target="_blank">Link</a>
  | [permutations.py](Medium/permutations.py) | O(n!) | O(n!) | <a href="https://leetcode.com/problems/permutations/" target="_blank">Link</a>
  | [powx-n.py](Medium/powx-n.py) | O(log n) | O(log n) | <a href="https://leetcode.com/problems/powx-n/" target="_blank">Link</a>
@@ -115,4 +116,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Nov 19 09:19:46 UTC 2023.
+Latest push from RunarFosse: Mon Nov 20 08:07:31 UTC 2023.
