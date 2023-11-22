@@ -1,6 +1,6 @@
 # Author: Runar Fosse
 # Time complexity: O(nk)
-# Space comeplexity: O(n)
+# Space complexity: O(n)
 
 class Solution:
     def canCross(self, stones: List[int]) -> bool:
