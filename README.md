@@ -39,6 +39,7 @@ All problems are tried solving in the most optimal way possible.
  | Problem | Time complexity | Space complexity | Leetcode |
  | :------ | :-------------: | :--------------: | :--------------: |
  | [add-two-numbers.py](Medium/add-two-numbers.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/add-two-numbers/" target="_blank">Link</a>
+ | [arithmetic-subarrays.py](Medium/arithmetic-subarrays.py) | O(n*m) | O(n) | <a href="https://leetcode.com/problems/arithmetic-subarrays/" target="_blank">Link</a>
  | [binary-trees-with-factors.py](Medium/binary-trees-with-factors.py) | O(n sqrt(n)) | O(n) | <a href="https://leetcode.com/problems/binary-trees-with-factors/" target="_blank">Link</a>
  | [build-an-array-with-stack-operations.py](Medium/build-an-array-with-stack-operations.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/build-an-array-with-stack-operations/" target="_blank">Link</a>
  | [container-with-most-water.py](Medium/container-with-most-water.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/container-with-most-water/" target="_blank">Link</a>
@@ -118,4 +119,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Nov 22 08:28:11 UTC 2023.
+Latest push from RunarFosse: Thu Nov 23 11:39:16 UTC 2023.
