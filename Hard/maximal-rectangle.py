@@ -1,16 +1,16 @@
 # Author: Runar Fosse
-# Time complexity: O(nm)
-# Space complexity: O(m)
+# Time complexity: O(mn)
+# Space complexity: O(n)
 
 class Solution:
     def maximalRectangle(self, matrix: List[List[str]]) -> int:
         # Using stack
-        n, m = len(matrix), len(matrix[0])
+        m, n = len(matrix), len(matrix[0])
 
         max_rectangle = 0
-        cumulative_row = [0 for _ in range(m)]
-        for i in range(n):
-            for j in range(m):
+        cumulative_row = [0 for _ in range(n)]
+        for i in range(m):
+            for j in range(n):
                 # Cumulate new row
                 if matrix[i][j] == "0":
                     cumulative_row[j] = 0
