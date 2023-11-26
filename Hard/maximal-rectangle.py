@@ -1,6 +1,6 @@
 # Author: Runar Fosse
 # Time complexity: O(nm)
-# Space complexity: O(n)
+# Space complexity: O(m)
 
 class Solution:
     def maximalRectangle(self, matrix: List[List[str]]) -> int:
