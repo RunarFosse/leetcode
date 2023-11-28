@@ -115,6 +115,7 @@ All problems are tried solving in the most optimal way possible.
  | [merge-k-sorted-lists.py](Hard/merge-k-sorted-lists.py) | O(nlog m) | O(n) | <a href="https://leetcode.com/problems/merge-k-sorted-lists/" target="_blank">Link</a>
  | [minimum-number-of-operations-to-make-array-continuous.py](Hard/minimum-number-of-operations-to-make-array-continuous.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/" target="_blank">Link</a>
  | [number-of-flowers-in-full-bloom.py](Hard/number-of-flowers-in-full-bloom.py) | O((n+m)log n) | O(n) | <a href="https://leetcode.com/problems/number-of-flowers-in-full-bloom/" target="_blank">Link</a>
+ | [number-of-ways-to-divide-a-long-corridor.py](Hard/number-of-ways-to-divide-a-long-corridor.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/" target="_blank">Link</a>
  | [number-of-ways-to-stay-in-the-same-place-after-some-steps.py](Hard/number-of-ways-to-stay-in-the-same-place-after-some-steps.py) | O(n min(n,m)) | O(n min(n,m)) | <a href="https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/" target="_blank">Link</a>
  | [painting-the-walls.py](Hard/painting-the-walls.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/painting-the-walls/" target="_blank">Link</a>
  | [parallel-courses-iii.py](Hard/parallel-courses-iii.py) | O(n + m) | O(n + m) | <a href="https://leetcode.com/problems/parallel-courses-iii/" target="_blank">Link</a>
@@ -126,4 +127,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Nov 27 10:16:07 UTC 2023.
+Latest push from RunarFosse: Tue Nov 28 07:23:37 UTC 2023.
