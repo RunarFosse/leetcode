@@ -22,6 +22,7 @@ All problems are tried solving in the most optimal way possible.
  | [merge-sorted-array.py](Easy/merge-sorted-array.py) | O(n+m) | O(1) | <a href="https://leetcode.com/problems/merge-sorted-array/" target="_blank">Link</a>
  | [merge-two-sorted-lists.py](Easy/merge-two-sorted-lists.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/merge-two-sorted-lists/" target="_blank">Link</a>
  | [min-cost-climbing-stairs.py](Easy/min-cost-climbing-stairs.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/min-cost-climbing-stairs/" target="_blank">Link</a>
+ | [number-of-1-bits.py](Easy/number-of-1-bits.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/number-of-1-bits/" target="_blank">Link</a>
  | [pascals-triangle-ii.py](Easy/pascals-triangle-ii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/pascals-triangle-ii/" target="_blank">Link</a>
  | [pascals-triangle.py](Easy/pascals-triangle.py) | O(n^2) | O(n^2) | <a href="https://leetcode.com/problems/pascals-triangle/" target="_blank">Link</a>
  | [plus-one.py](Easy/plus-one.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/plus-one/" target="_blank">Link</a>
@@ -127,4 +128,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Nov 28 07:23:37 UTC 2023.
+Latest push from RunarFosse: Wed Nov 29 06:53:28 UTC 2023.
