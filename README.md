@@ -78,6 +78,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-number-of-coins-you-can-get.py](Medium/maximum-number-of-coins-you-can-get.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximum-number-of-coins-you-can-get/" target="_blank">Link</a>
  | [minimize-maximum-pair-sum-in-array.py](Medium/minimize-maximum-pair-sum-in-array.py) | O(nlog n) | O(log n) | <a href="https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/" target="_blank">Link</a>
  | [minimum-amount-of-time-to-collect-garbage.py](Medium/minimum-amount-of-time-to-collect-garbage.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/" target="_blank">Link</a>
+ | [minimum-path-sum.py](Medium/minimum-path-sum.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-path-sum/" target="_blank">Link</a>
  | [permutations-ii.py](Medium/permutations-ii.py) | O(n!) | O(n!) | <a href="https://leetcode.com/problems/permutations-ii/" target="_blank">Link</a>
  | [permutations.py](Medium/permutations.py) | O(n!) | O(n!) | <a href="https://leetcode.com/problems/permutations/" target="_blank">Link</a>
  | [powx-n.py](Medium/powx-n.py) | O(log n) | O(log n) | <a href="https://leetcode.com/problems/powx-n/" target="_blank">Link</a>
@@ -133,4 +134,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Dec  1 18:56:00 UTC 2023.
+Latest push from RunarFosse: Fri Dec  1 19:15:17 UTC 2023.
