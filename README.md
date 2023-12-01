@@ -90,6 +90,7 @@ All problems are tried solving in the most optimal way possible.
  | [rotate-image.py](Medium/rotate-image.py) | O(n^2) | O(1) | <a href="https://leetcode.com/problems/rotate-image/" target="_blank">Link</a>
  | [search-a-2d-matrix.py](Medium/search-a-2d-matrix.py) | O(log(n*m)) | O(1) | <a href="https://leetcode.com/problems/search-a-2d-matrix/" target="_blank">Link</a>
  | [search-in-rotated-sorted-array.py](Medium/search-in-rotated-sorted-array.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/search-in-rotated-sorted-array/" target="_blank">Link</a>
+ | [set-matrix-zeroes.py](Medium/set-matrix-zeroes.py) | O(mn(m+n)) | O(1) | <a href="https://leetcode.com/problems/set-matrix-zeroes/" target="_blank">Link</a>
  | [simplify-path.py](Medium/simplify-path.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/simplify-path/" target="_blank">Link</a>
  | [sort-vowels-in-a-string.py](Medium/sort-vowels-in-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/sort-vowels-in-a-string/" target="_blank">Link</a>
  | [string-to-integer-atoi.py](Medium/string-to-integer-atoi.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/string-to-integer-atoi/" target="_blank">Link</a>
@@ -136,4 +137,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Dec  1 20:26:16 UTC 2023.
+Latest push from RunarFosse: Fri Dec  1 21:12:03 UTC 2023.
