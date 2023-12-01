@@ -9,7 +9,7 @@ class Solution:
             return len(word2)
 
         m, n = len(word1), len(word2)
-        previous, current = [i for i in range(n+1)], [0 for i in range(n+1)]
+        previous, current = [i for i in range(n+1)], [0 for _ in range(n+1)]
         
         for i in range(0, m):
             current[0] = i+1
