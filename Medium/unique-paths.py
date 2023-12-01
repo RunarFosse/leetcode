@@ -1,6 +1,6 @@
 # Author: Runar Fosse
-# Time complexity: O(nm)
-# Space complexity: O(nm)
+# Time complexity: O(mn)
+# Space complexity: O(mn)
 
 class Solution:
     @functools.cache
