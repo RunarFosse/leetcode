@@ -131,7 +131,8 @@ All problems are tried solving in the most optimal way possible.
  | [russian-doll-envelopes.py](Hard/russian-doll-envelopes.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/russian-doll-envelopes/" target="_blank">Link</a>
  | [text-justification.py](Hard/text-justification.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/text-justification/" target="_blank">Link</a>
  | [trapping-rain-water.py](Hard/trapping-rain-water.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/trapping-rain-water/" target="_blank">Link</a>
+ | [valid-number.py](Hard/valid-number.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/valid-number/" target="_blank">Link</a>
 
 
 
-Latest push from RunarFosse: Fri Dec  1 19:15:17 UTC 2023.
+Latest push from RunarFosse: Fri Dec  1 19:47:55 UTC 2023.
