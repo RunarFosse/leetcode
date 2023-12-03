@@ -28,6 +28,7 @@ All problems are tried solving in the most optimal way possible.
  | [number-of-1-bits.py](Easy/number-of-1-bits.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/number-of-1-bits/" target="_blank">Link</a>
  | [pascals-triangle-ii.py](Easy/pascals-triangle-ii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/pascals-triangle-ii/" target="_blank">Link</a>
  | [pascals-triangle.py](Easy/pascals-triangle.py) | O(n^2) | O(n^2) | <a href="https://leetcode.com/problems/pascals-triangle/" target="_blank">Link</a>
+ | [path-sum.py](Easy/path-sum.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/path-sum/" target="_blank">Link</a>
  | [plus-one.py](Easy/plus-one.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/plus-one/" target="_blank">Link</a>
  | [power-of-four.py](Easy/power-of-four.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/power-of-four/" target="_blank">Link</a>
  | [range-addition-ii.py](Easy/range-addition-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/range-addition-ii/" target="_blank">Link</a>
@@ -140,4 +141,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Dec  3 11:44:18 UTC 2023.
+Latest push from RunarFosse: Sun Dec  3 21:27:35 UTC 2023.
