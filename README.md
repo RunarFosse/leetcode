@@ -51,6 +51,7 @@ All problems are tried solving in the most optimal way possible.
  | [arithmetic-subarrays.py](Medium/arithmetic-subarrays.py) | O(n*m) | O(n) | <a href="https://leetcode.com/problems/arithmetic-subarrays/" target="_blank">Link</a>
  | [binary-trees-with-factors.py](Medium/binary-trees-with-factors.py) | O(n sqrt(n)) | O(n) | <a href="https://leetcode.com/problems/binary-trees-with-factors/" target="_blank">Link</a>
  | [build-an-array-with-stack-operations.py](Medium/build-an-array-with-stack-operations.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/build-an-array-with-stack-operations/" target="_blank">Link</a>
+ | [bulb-switcher.py](Medium/bulb-switcher.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/bulb-switcher/" target="_blank">Link</a>
  | [container-with-most-water.py](Medium/container-with-most-water.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/container-with-most-water/" target="_blank">Link</a>
  | [count-and-say.py](Medium/count-and-say.py) | O(nm) | O(nm) | <a href="https://leetcode.com/problems/count-and-say/" target="_blank">Link</a>
  | [count-nice-pairs-in-an-array.py](Medium/count-nice-pairs-in-an-array.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-nice-pairs-in-an-array/" target="_blank">Link</a>
@@ -144,4 +145,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Dec  6 10:46:49 UTC 2023.
+Latest push from RunarFosse: Wed Dec  6 19:24:02 UTC 2023.
