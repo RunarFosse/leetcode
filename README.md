@@ -38,6 +38,7 @@ All problems are tried solving in the most optimal way possible.
  | [power-of-three.py](Easy/power-of-three.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/power-of-three/" target="_blank">Link</a>
  | [range-addition-ii.py](Easy/range-addition-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/range-addition-ii/" target="_blank">Link</a>
  | [remove-duplicates-from-sorted-list.py](Easy/remove-duplicates-from-sorted-list.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list/" target="_blank">Link</a>
+ | [roman-to-integer.py](Easy/roman-to-integer.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/roman-to-integer/" target="_blank">Link</a>
  | [same-tree.py](Easy/same-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/same-tree/" target="_blank">Link</a>
  | [search-insert-position.py](Easy/search-insert-position.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/search-insert-position/" target="_blank">Link</a>
  | [sort-integers-by-the-number-of-1-bits.py](Easy/sort-integers-by-the-number-of-1-bits.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/" target="_blank">Link</a>
@@ -147,4 +148,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Dec  7 11:09:39 UTC 2023.
+Latest push from RunarFosse: Thu Dec  7 11:40:41 UTC 2023.
