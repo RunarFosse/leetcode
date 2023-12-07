@@ -22,6 +22,7 @@ All problems are tried solving in the most optimal way possible.
  | [invert-binary-tree.py](Easy/invert-binary-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/invert-binary-tree/" target="_blank">Link</a>
  | [isomorphic-strings.py](Easy/isomorphic-strings.py) | O(n) | O(m) | <a href="https://leetcode.com/problems/isomorphic-strings/" target="_blank">Link</a>
  | [largest-3-same-digit-number-in-string.py](Easy/largest-3-same-digit-number-in-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/largest-3-same-digit-number-in-string/" target="_blank">Link</a>
+ | [largest-odd-number-in-string.py](Easy/largest-odd-number-in-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/largest-odd-number-in-string/" target="_blank">Link</a>
  | [length-of-last-word.py](Easy/length-of-last-word.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/length-of-last-word/" target="_blank">Link</a>
  | [longest-common-prefix.py](Easy/longest-common-prefix.py) | O(nlog n) | O(m) | <a href="https://leetcode.com/problems/longest-common-prefix/" target="_blank">Link</a>
  | [merge-sorted-array.py](Easy/merge-sorted-array.py) | O(n+m) | O(1) | <a href="https://leetcode.com/problems/merge-sorted-array/" target="_blank">Link</a>
@@ -146,4 +147,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Dec  6 19:33:28 UTC 2023.
+Latest push from RunarFosse: Thu Dec  7 11:09:39 UTC 2023.
