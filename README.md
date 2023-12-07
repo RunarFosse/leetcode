@@ -43,6 +43,7 @@ All problems are tried solving in the most optimal way possible.
  | [search-insert-position.py](Easy/search-insert-position.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/search-insert-position/" target="_blank">Link</a>
  | [sort-integers-by-the-number-of-1-bits.py](Easy/sort-integers-by-the-number-of-1-bits.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/" target="_blank">Link</a>
  | [sqrtx.py](Easy/sqrtx.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/sqrtx/" target="_blank">Link</a>
+ | [symmetric-tree.py](Easy/symmetric-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/symmetric-tree/" target="_blank">Link</a>
  | [two-sum.py](Easy/two-sum.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/two-sum/" target="_blank">Link</a>
  | [valid-parentheses.py](Easy/valid-parentheses.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/valid-parentheses/" target="_blank">Link</a>
 
@@ -148,4 +149,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Dec  7 11:40:41 UTC 2023.
+Latest push from RunarFosse: Thu Dec  7 18:06:11 UTC 2023.
