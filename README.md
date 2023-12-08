@@ -76,6 +76,7 @@ All problems are tried solving in the most optimal way possible.
  | [frequency-of-the-most-frequent-element.py](Medium/frequency-of-the-most-frequent-element.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/frequency-of-the-most-frequent-element/" target="_blank">Link</a>
  | [generate-parentheses.py](Medium/generate-parentheses.py) | O(4^n) | O(n2^n) | <a href="https://leetcode.com/problems/generate-parentheses/" target="_blank">Link</a>
  | [integer-break.py](Medium/integer-break.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/integer-break/" target="_blank">Link</a>
+ | [integer-replacement.py](Medium/integer-replacement.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/integer-replacement/" target="_blank">Link</a>
  | [integer-to-roman.py](Medium/integer-to-roman.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/integer-to-roman/" target="_blank">Link</a>
  | [jump-game-ii.py](Medium/jump-game-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/jump-game-ii/" target="_blank">Link</a>
  | [jump-game.py](Medium/jump-game.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/jump-game/" target="_blank">Link</a>
@@ -152,4 +153,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Dec  8 17:51:12 UTC 2023.
+Latest push from RunarFosse: Fri Dec  8 18:33:30 UTC 2023.
