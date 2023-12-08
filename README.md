@@ -118,6 +118,7 @@ All problems are tried solving in the most optimal way possible.
  | [unique-paths.py](Medium/unique-paths.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/unique-paths/" target="_blank">Link</a>
  | [valid-sudoku.py](Medium/valid-sudoku.py) | O(n^2) | O(n^2) | <a href="https://leetcode.com/problems/valid-sudoku/" target="_blank">Link</a>
  | [validate-binary-tree-nodes.py](Medium/validate-binary-tree-nodes.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/validate-binary-tree-nodes/" target="_blank">Link</a>
+ | [wiggle-subsequence.py](Medium/wiggle-subsequence.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/wiggle-subsequence/" target="_blank">Link</a>
 
 
 ## Hard
@@ -151,4 +152,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Dec  8 17:35:56 UTC 2023.
+Latest push from RunarFosse: Fri Dec  8 17:51:12 UTC 2023.
