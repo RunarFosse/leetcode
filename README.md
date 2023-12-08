@@ -81,6 +81,7 @@ All problems are tried solving in the most optimal way possible.
  | [jump-game.py](Medium/jump-game.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/jump-game/" target="_blank">Link</a>
  | [k-th-symbol-in-grammar.py](Medium/k-th-symbol-in-grammar.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/k-th-symbol-in-grammar/" target="_blank">Link</a>
  | [knight-dialer.py](Medium/knight-dialer.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/knight-dialer/" target="_blank">Link</a>
+ | [largest-number.py](Medium/largest-number.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/largest-number/" target="_blank">Link</a>
  | [largest-submatrix-with-rearrangements.py](Medium/largest-submatrix-with-rearrangements.py) | O(mnlog n) | O(n) | <a href="https://leetcode.com/problems/largest-submatrix-with-rearrangements/" target="_blank">Link</a>
  | [last-moment-before-all-ants-fall-out-of-a-plank.py](Medium/last-moment-before-all-ants-fall-out-of-a-plank.py) | O(n+m) | O(1) | <a href="https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/" target="_blank">Link</a>
  | [letter-combinations-of-a-phone-number.py](Medium/letter-combinations-of-a-phone-number.py) | O(nm) | O(m) | <a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/" target="_blank">Link</a>
@@ -150,4 +151,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Dec  8 08:52:51 UTC 2023.
+Latest push from RunarFosse: Fri Dec  8 17:35:56 UTC 2023.
