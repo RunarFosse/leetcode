@@ -7,6 +7,7 @@ All problems are tried solving in the most optimal way possible.
  | [add-binary.py](Easy/add-binary.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/add-binary/" target="_blank">Link</a>
  | [assign-cookies.py](Easy/assign-cookies.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/assign-cookies/" target="_blank">Link</a>
  | [backspace-string-compare.py](Easy/backspace-string-compare.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/backspace-string-compare/" target="_blank">Link</a>
+ | [binary-tree-inorder-traversal.py](Easy/binary-tree-inorder-traversal.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/binary-tree-inorder-traversal/" target="_blank">Link</a>
  | [binary-tree-paths.py](Easy/binary-tree-paths.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/binary-tree-paths/" target="_blank">Link</a>
  | [calculate-money-in-leetcode-bank.py](Easy/calculate-money-in-leetcode-bank.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/calculate-money-in-leetcode-bank/" target="_blank">Link</a>
  | [check-if-two-string-arrays-are-equivalent.py](Easy/check-if-two-string-arrays-are-equivalent.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/" target="_blank">Link</a>
@@ -153,4 +154,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Dec  8 18:33:30 UTC 2023.
+Latest push from RunarFosse: Sat Dec  9 08:46:38 UTC 2023.
