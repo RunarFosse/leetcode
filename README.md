@@ -46,6 +46,7 @@ All problems are tried solving in the most optimal way possible.
  | [same-tree.py](Easy/same-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/same-tree/" target="_blank">Link</a>
  | [search-insert-position.py](Easy/search-insert-position.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/search-insert-position/" target="_blank">Link</a>
  | [sort-integers-by-the-number-of-1-bits.py](Easy/sort-integers-by-the-number-of-1-bits.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/" target="_blank">Link</a>
+ | [special-positions-in-a-binary-matrix.py](Easy/special-positions-in-a-binary-matrix.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/special-positions-in-a-binary-matrix/" target="_blank">Link</a>
  | [sqrtx.py](Easy/sqrtx.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/sqrtx/" target="_blank">Link</a>
  | [symmetric-tree.py](Easy/symmetric-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/symmetric-tree/" target="_blank">Link</a>
  | [transpose-matrix.py](Easy/transpose-matrix.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/transpose-matrix/" target="_blank">Link</a>
@@ -158,4 +159,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Dec 12 10:24:53 UTC 2023.
+Latest push from RunarFosse: Wed Dec 13 09:00:14 UTC 2023.
