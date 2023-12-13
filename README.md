@@ -14,6 +14,7 @@ All problems are tried solving in the most optimal way possible.
  | [climbing-stairs.py](Easy/climbing-stairs.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/climbing-stairs/" target="_blank">Link</a>
  | [construct-string-from-binary-tree.py](Easy/construct-string-from-binary-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/construct-string-from-binary-tree/" target="_blank">Link</a>
  | [count-of-matches-in-tournament.py](Easy/count-of-matches-in-tournament.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/count-of-matches-in-tournament/" target="_blank">Link</a>
+ | [counting-bits.py](Easy/counting-bits.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/counting-bits/" target="_blank">Link</a>
  | [distribute-money-to-maximum-children.py](Easy/distribute-money-to-maximum-children.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/distribute-money-to-maximum-children/" target="_blank">Link</a>
  | [divisible-and-non-divisible-sums-difference.py](Easy/divisible-and-non-divisible-sums-difference.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/" target="_blank">Link</a>
  | [element-appearing-more-than-25-in-sorted-array.py](Easy/element-appearing-more-than-25-in-sorted-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/" target="_blank">Link</a>
@@ -160,4 +161,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Dec 13 10:04:37 UTC 2023.
+Latest push from RunarFosse: Wed Dec 13 10:40:59 UTC 2023.
