@@ -5,6 +5,7 @@ All problems are tried solving in the most optimal way possible.
  | Problem | Time complexity | Space complexity | Leetcode |
  | :------ | :-------------: | :--------------: | :--------------: |
  | [add-binary.py](Easy/add-binary.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/add-binary/" target="_blank">Link</a>
+ | [add-digits.py](Easy/add-digits.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/add-digits/" target="_blank">Link</a>
  | [assign-cookies.py](Easy/assign-cookies.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/assign-cookies/" target="_blank">Link</a>
  | [backspace-string-compare.py](Easy/backspace-string-compare.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/backspace-string-compare/" target="_blank">Link</a>
  | [binary-tree-inorder-traversal.py](Easy/binary-tree-inorder-traversal.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/binary-tree-inorder-traversal/" target="_blank">Link</a>
@@ -167,4 +168,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Dec 17 17:51:54 UTC 2023.
+Latest push from RunarFosse: Sun Dec 17 20:07:05 UTC 2023.
