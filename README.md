@@ -56,6 +56,7 @@ All problems are tried solving in the most optimal way possible.
  | [symmetric-tree.py](Easy/symmetric-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/symmetric-tree/" target="_blank">Link</a>
  | [transpose-matrix.py](Easy/transpose-matrix.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/transpose-matrix/" target="_blank">Link</a>
  | [two-sum.py](Easy/two-sum.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/two-sum/" target="_blank">Link</a>
+ | [valid-anagram.py](Easy/valid-anagram.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/valid-anagram/" target="_blank">Link</a>
  | [valid-parentheses.py](Easy/valid-parentheses.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/valid-parentheses/" target="_blank">Link</a>
 
 
@@ -165,4 +166,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Dec 17 13:19:02 UTC 2023.
+Latest push from RunarFosse: Sun Dec 17 13:24:45 UTC 2023.
