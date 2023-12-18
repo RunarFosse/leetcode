@@ -31,6 +31,7 @@ All problems are tried solving in the most optimal way possible.
  | [largest-odd-number-in-string.py](Easy/largest-odd-number-in-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/largest-odd-number-in-string/" target="_blank">Link</a>
  | [length-of-last-word.py](Easy/length-of-last-word.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/length-of-last-word/" target="_blank">Link</a>
  | [longest-common-prefix.py](Easy/longest-common-prefix.py) | O(nlog n) | O(m) | <a href="https://leetcode.com/problems/longest-common-prefix/" target="_blank">Link</a>
+ | [maximum-product-difference-between-two-pairs.py](Easy/maximum-product-difference-between-two-pairs.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-product-difference-between-two-pairs/" target="_blank">Link</a>
  | [maximum-product-of-two-elements-in-an-array.py](Easy/maximum-product-of-two-elements-in-an-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/" target="_blank">Link</a>
  | [merge-sorted-array.py](Easy/merge-sorted-array.py) | O(n+m) | O(1) | <a href="https://leetcode.com/problems/merge-sorted-array/" target="_blank">Link</a>
  | [merge-two-sorted-lists.py](Easy/merge-two-sorted-lists.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/merge-two-sorted-lists/" target="_blank">Link</a>
@@ -168,4 +169,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Dec 17 20:07:05 UTC 2023.
+Latest push from RunarFosse: Mon Dec 18 09:57:25 UTC 2023.
