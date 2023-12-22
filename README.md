@@ -35,6 +35,7 @@ All problems are tried solving in the most optimal way possible.
  | [longest-common-prefix.py](Easy/longest-common-prefix.py) | O(nlog n) | O(m) | <a href="https://leetcode.com/problems/longest-common-prefix/" target="_blank">Link</a>
  | [maximum-product-difference-between-two-pairs.py](Easy/maximum-product-difference-between-two-pairs.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-product-difference-between-two-pairs/" target="_blank">Link</a>
  | [maximum-product-of-two-elements-in-an-array.py](Easy/maximum-product-of-two-elements-in-an-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/" target="_blank">Link</a>
+ | [maximum-score-after-splitting-a-string.py](Easy/maximum-score-after-splitting-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-score-after-splitting-a-string/" target="_blank">Link</a>
  | [merge-sorted-array.py](Easy/merge-sorted-array.py) | O(n+m) | O(1) | <a href="https://leetcode.com/problems/merge-sorted-array/" target="_blank">Link</a>
  | [merge-two-sorted-lists.py](Easy/merge-two-sorted-lists.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/merge-two-sorted-lists/" target="_blank">Link</a>
  | [min-cost-climbing-stairs.py](Easy/min-cost-climbing-stairs.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/min-cost-climbing-stairs/" target="_blank">Link</a>
@@ -172,4 +173,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Dec 21 13:44:53 UTC 2023.
+Latest push from RunarFosse: Fri Dec 22 11:55:38 UTC 2023.
