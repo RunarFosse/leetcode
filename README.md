@@ -80,6 +80,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-nodes-equal-to-average-of-subtree.py](Medium/count-nodes-equal-to-average-of-subtree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/" target="_blank">Link</a>
  | [count-number-of-homogenous-substrings.py](Medium/count-number-of-homogenous-substrings.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-number-of-homogenous-substrings/" target="_blank">Link</a>
  | [count-ways-to-build-good-strings.py](Medium/count-ways-to-build-good-strings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-ways-to-build-good-strings/" target="_blank">Link</a>
+ | [decode-ways.py](Medium/decode-ways.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/decode-ways/" target="_blank">Link</a>
  | [determine-if-a-cell-is-reachable-at-a-given-time.py](Medium/determine-if-a-cell-is-reachable-at-a-given-time.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/" target="_blank">Link</a>
  | [diagonal-traverse-ii.py](Medium/diagonal-traverse-ii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/diagonal-traverse-ii/" target="_blank">Link</a>
  | [difference-between-ones-and-zeros-in-row-and-column.py](Medium/difference-between-ones-and-zeros-in-row-and-column.py) | O(mn) | O(m+n) | <a href="https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/" target="_blank">Link</a>
@@ -174,4 +175,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Dec 23 09:47:04 UTC 2023.
+Latest push from RunarFosse: Mon Dec 25 16:28:41 UTC 2023.
