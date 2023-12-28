@@ -172,10 +172,11 @@ All problems are tried solving in the most optimal way possible.
  | [perfect-rectangle.py](Hard/perfect-rectangle.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/perfect-rectangle/" target="_blank">Link</a>
  | [poor-pigs.py](Hard/poor-pigs.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/poor-pigs/" target="_blank">Link</a>
  | [russian-doll-envelopes.py](Hard/russian-doll-envelopes.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/russian-doll-envelopes/" target="_blank">Link</a>
+ | [string-compression-ii.py](Hard/string-compression-ii.py) | O(n^2*k) | O(m*n) | <a href="https://leetcode.com/problems/string-compression-ii/" target="_blank">Link</a>
  | [text-justification.py](Hard/text-justification.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/text-justification/" target="_blank">Link</a>
  | [trapping-rain-water.py](Hard/trapping-rain-water.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/trapping-rain-water/" target="_blank">Link</a>
  | [valid-number.py](Hard/valid-number.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/valid-number/" target="_blank">Link</a>
 
 
 
-Latest push from RunarFosse: Wed Dec 27 17:30:20 UTC 2023.
+Latest push from RunarFosse: Thu Dec 28 18:06:14 UTC 2023.
