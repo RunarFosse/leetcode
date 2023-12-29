@@ -162,6 +162,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximal-rectangle.py](Hard/maximal-rectangle.py) | O(mn) | O(n) | <a href="https://leetcode.com/problems/maximal-rectangle/" target="_blank">Link</a>
  | [maximum-score-of-a-good-subarray.py](Hard/maximum-score-of-a-good-subarray.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-score-of-a-good-subarray/" target="_blank">Link</a>
  | [merge-k-sorted-lists.py](Hard/merge-k-sorted-lists.py) | O(nlog m) | O(n) | <a href="https://leetcode.com/problems/merge-k-sorted-lists/" target="_blank">Link</a>
+ | [minimum-difficulty-of-a-job-schedule.py](Hard/minimum-difficulty-of-a-job-schedule.py) | O(nd) | O(nd) | <a href="https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/" target="_blank">Link</a>
  | [minimum-number-of-operations-to-make-array-continuous.py](Hard/minimum-number-of-operations-to-make-array-continuous.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/" target="_blank">Link</a>
  | [minimum-one-bit-operations-to-make-integers-zero.py](Hard/minimum-one-bit-operations-to-make-integers-zero.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/" target="_blank">Link</a>
  | [number-of-flowers-in-full-bloom.py](Hard/number-of-flowers-in-full-bloom.py) | O((n+m)log n) | O(n) | <a href="https://leetcode.com/problems/number-of-flowers-in-full-bloom/" target="_blank">Link</a>
@@ -179,4 +180,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Dec 28 18:06:14 UTC 2023.
+Latest push from RunarFosse: Fri Dec 29 10:29:42 UTC 2023.
