@@ -51,6 +51,7 @@ All problems are tried solving in the most optimal way possible.
  | [power-of-four.py](Easy/power-of-four.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/power-of-four/" target="_blank">Link</a>
  | [power-of-three.py](Easy/power-of-three.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/power-of-three/" target="_blank">Link</a>
  | [range-addition-ii.py](Easy/range-addition-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/range-addition-ii/" target="_blank">Link</a>
+ | [redistribute-characters-to-make-all-strings-equal.py](Easy/redistribute-characters-to-make-all-strings-equal.py) | O(nk) | O(1) | <a href="https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/" target="_blank">Link</a>
  | [remove-duplicates-from-sorted-list.py](Easy/remove-duplicates-from-sorted-list.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list/" target="_blank">Link</a>
  | [reverse-bits.py](Easy/reverse-bits.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/reverse-bits/" target="_blank">Link</a>
  | [roman-to-integer.py](Easy/roman-to-integer.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/roman-to-integer/" target="_blank">Link</a>
@@ -180,4 +181,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Dec 29 10:29:42 UTC 2023.
+Latest push from RunarFosse: Sat Dec 30 09:44:29 UTC 2023.
