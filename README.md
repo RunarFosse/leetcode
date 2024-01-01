@@ -34,6 +34,7 @@ All problems are tried solving in the most optimal way possible.
  | [largest-substring-between-two-equal-characters.py](Easy/largest-substring-between-two-equal-characters.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/largest-substring-between-two-equal-characters/" target="_blank">Link</a>
  | [length-of-last-word.py](Easy/length-of-last-word.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/length-of-last-word/" target="_blank">Link</a>
  | [longest-common-prefix.py](Easy/longest-common-prefix.py) | O(nlog n) | O(m) | <a href="https://leetcode.com/problems/longest-common-prefix/" target="_blank">Link</a>
+ | [maximum-depth-of-binary-tree.py](Easy/maximum-depth-of-binary-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/" target="_blank">Link</a>
  | [maximum-product-difference-between-two-pairs.py](Easy/maximum-product-difference-between-two-pairs.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-product-difference-between-two-pairs/" target="_blank">Link</a>
  | [maximum-product-of-two-elements-in-an-array.py](Easy/maximum-product-of-two-elements-in-an-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/" target="_blank">Link</a>
  | [maximum-score-after-splitting-a-string.py](Easy/maximum-score-after-splitting-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-score-after-splitting-a-string/" target="_blank">Link</a>
@@ -185,4 +186,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Jan  1 13:12:45 UTC 2024.
+Latest push from RunarFosse: Mon Jan  1 13:16:03 UTC 2024.
