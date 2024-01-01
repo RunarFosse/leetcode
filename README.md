@@ -56,6 +56,7 @@ All problems are tried solving in the most optimal way possible.
  | [redistribute-characters-to-make-all-strings-equal.py](Easy/redistribute-characters-to-make-all-strings-equal.py) | O(nk) | O(1) | <a href="https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/" target="_blank">Link</a>
  | [remove-duplicates-from-sorted-array.py](Easy/remove-duplicates-from-sorted-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/" target="_blank">Link</a>
  | [remove-duplicates-from-sorted-list.py](Easy/remove-duplicates-from-sorted-list.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list/" target="_blank">Link</a>
+ | [remove-element.py](Easy/remove-element.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/remove-element/" target="_blank">Link</a>
  | [reverse-bits.py](Easy/reverse-bits.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/reverse-bits/" target="_blank">Link</a>
  | [roman-to-integer.py](Easy/roman-to-integer.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/roman-to-integer/" target="_blank">Link</a>
  | [same-tree.py](Easy/same-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/same-tree/" target="_blank">Link</a>
@@ -184,4 +185,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Dec 31 12:44:51 UTC 2023.
+Latest push from RunarFosse: Mon Jan  1 13:12:45 UTC 2024.
