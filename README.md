@@ -8,6 +8,7 @@ All problems are tried solving in the most optimal way possible.
  | [add-digits.py](Easy/add-digits.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/add-digits/" target="_blank">Link</a>
  | [assign-cookies.py](Easy/assign-cookies.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/assign-cookies/" target="_blank">Link</a>
  | [backspace-string-compare.py](Easy/backspace-string-compare.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/backspace-string-compare/" target="_blank">Link</a>
+ | [balanced-binary-tree.py](Easy/balanced-binary-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/balanced-binary-tree/" target="_blank">Link</a>
  | [binary-tree-inorder-traversal.py](Easy/binary-tree-inorder-traversal.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/binary-tree-inorder-traversal/" target="_blank">Link</a>
  | [binary-tree-paths.py](Easy/binary-tree-paths.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/binary-tree-paths/" target="_blank">Link</a>
  | [buy-two-chocolates.py](Easy/buy-two-chocolates.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/buy-two-chocolates/" target="_blank">Link</a>
@@ -189,4 +190,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Jan  3 10:31:18 UTC 2024.
+Latest push from RunarFosse: Wed Jan  3 16:22:37 UTC 2024.
