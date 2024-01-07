@@ -164,6 +164,7 @@ All problems are tried solving in the most optimal way possible.
 ## Hard
  | Problem | Time complexity | Space complexity | Leetcode |
  | :------ | :-------------: | :--------------: | :--------------: |
+ | [arithmetic-slices-ii-subsequence.py](Hard/arithmetic-slices-ii-subsequence.py) | O(n^2) | O(n^2) | <a href="https://leetcode.com/problems/arithmetic-slices-ii-subsequence/" target="_blank">Link</a>
  | [build-array-where-you-can-find-the-maximum-exactly-k-comparisons.py](Hard/build-array-where-you-can-find-the-maximum-exactly-k-comparisons.py) | O(nm^2k) | O(nmk) | <a href="https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/" target="_blank">Link</a>
  | [bus-routes.py](Hard/bus-routes.py) | O(n+m) | O(n+m) | <a href="https://leetcode.com/problems/bus-routes/" target="_blank">Link</a>
  | [constrained-subsequence-sum.py](Hard/constrained-subsequence-sum.py) | O(n) | O(k) | <a href="https://leetcode.com/problems/constrained-subsequence-sum/" target="_blank">Link</a>
@@ -195,4 +196,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Jan  7 12:08:50 UTC 2024.
+Latest push from RunarFosse: Sun Jan  7 13:24:25 UTC 2024.
