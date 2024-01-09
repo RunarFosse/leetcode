@@ -33,6 +33,7 @@ All problems are tried solving in the most optimal way possible.
  | [largest-3-same-digit-number-in-string.py](Easy/largest-3-same-digit-number-in-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/largest-3-same-digit-number-in-string/" target="_blank">Link</a>
  | [largest-odd-number-in-string.py](Easy/largest-odd-number-in-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/largest-odd-number-in-string/" target="_blank">Link</a>
  | [largest-substring-between-two-equal-characters.py](Easy/largest-substring-between-two-equal-characters.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/largest-substring-between-two-equal-characters/" target="_blank">Link</a>
+ | [leaf-similar-trees.py](Easy/leaf-similar-trees.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/leaf-similar-trees/" target="_blank">Link</a>
  | [length-of-last-word.py](Easy/length-of-last-word.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/length-of-last-word/" target="_blank">Link</a>
  | [longest-common-prefix.py](Easy/longest-common-prefix.py) | O(nlog n) | O(m) | <a href="https://leetcode.com/problems/longest-common-prefix/" target="_blank">Link</a>
  | [maximum-depth-of-binary-tree.py](Easy/maximum-depth-of-binary-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/" target="_blank">Link</a>
@@ -198,4 +199,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Jan  8 10:40:03 UTC 2024.
+Latest push from RunarFosse: Tue Jan  9 10:36:40 UTC 2024.
