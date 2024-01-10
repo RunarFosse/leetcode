@@ -82,6 +82,7 @@ All problems are tried solving in the most optimal way possible.
  | Problem | Time complexity | Space complexity | Leetcode |
  | :------ | :-------------: | :--------------: | :--------------: |
  | [add-two-numbers.py](Medium/add-two-numbers.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/add-two-numbers/" target="_blank">Link</a>
+ | [amount-of-time-for-binary-tree-to-be-infected.py](Medium/amount-of-time-for-binary-tree-to-be-infected.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/" target="_blank">Link</a>
  | [arithmetic-slices.py](Medium/arithmetic-slices.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/arithmetic-slices/" target="_blank">Link</a>
  | [arithmetic-subarrays.py](Medium/arithmetic-subarrays.py) | O(n*m) | O(n) | <a href="https://leetcode.com/problems/arithmetic-subarrays/" target="_blank">Link</a>
  | [binary-trees-with-factors.py](Medium/binary-trees-with-factors.py) | O(n sqrt(n)) | O(n) | <a href="https://leetcode.com/problems/binary-trees-with-factors/" target="_blank">Link</a>
@@ -199,4 +200,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Jan  9 10:36:40 UTC 2024.
+Latest push from RunarFosse: Wed Jan 10 10:37:08 UTC 2024.
