@@ -125,6 +125,7 @@ All problems are tried solving in the most optimal way possible.
  | [longest-palindromic-substring.py](Medium/longest-palindromic-substring.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/longest-palindromic-substring/" target="_blank">Link</a>
  | [longest-substring-without-repeating-characters.py](Medium/longest-substring-without-repeating-characters.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/" target="_blank">Link</a>
  | [majority-element-ii.py](Medium/majority-element-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/majority-element-ii/" target="_blank">Link</a>
+ | [maximum-difference-between-node-and-ancestor.py](Medium/maximum-difference-between-node-and-ancestor.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/" target="_blank">Link</a>
  | [maximum-element-after-decreasing-and-rearranging.py](Medium/maximum-element-after-decreasing-and-rearranging.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/" target="_blank">Link</a>
  | [maximum-number-of-coins-you-can-get.py](Medium/maximum-number-of-coins-you-can-get.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximum-number-of-coins-you-can-get/" target="_blank">Link</a>
  | [minimize-maximum-pair-sum-in-array.py](Medium/minimize-maximum-pair-sum-in-array.py) | O(nlog n) | O(log n) | <a href="https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/" target="_blank">Link</a>
@@ -200,4 +201,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Jan 10 10:37:08 UTC 2024.
+Latest push from RunarFosse: Thu Jan 11 10:34:55 UTC 2024.
