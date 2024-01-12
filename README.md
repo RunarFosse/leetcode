@@ -19,6 +19,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-of-matches-in-tournament.py](Easy/count-of-matches-in-tournament.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/count-of-matches-in-tournament/" target="_blank">Link</a>
  | [counting-bits.py](Easy/counting-bits.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/counting-bits/" target="_blank">Link</a>
  | [destination-city.py](Easy/destination-city.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/destination-city/" target="_blank">Link</a>
+ | [determine-if-string-halves-are-alike.py](Easy/determine-if-string-halves-are-alike.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/determine-if-string-halves-are-alike/" target="_blank">Link</a>
  | [distribute-money-to-maximum-children.py](Easy/distribute-money-to-maximum-children.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/distribute-money-to-maximum-children/" target="_blank">Link</a>
  | [divisible-and-non-divisible-sums-difference.py](Easy/divisible-and-non-divisible-sums-difference.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/" target="_blank">Link</a>
  | [element-appearing-more-than-25-in-sorted-array.py](Easy/element-appearing-more-than-25-in-sorted-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/" target="_blank">Link</a>
@@ -201,4 +202,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Jan 11 10:34:55 UTC 2024.
+Latest push from RunarFosse: Fri Jan 12 19:33:32 UTC 2024.
