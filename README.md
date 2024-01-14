@@ -36,6 +36,7 @@ All problems are tried solving in the most optimal way possible.
  | [largest-substring-between-two-equal-characters.py](Easy/largest-substring-between-two-equal-characters.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/largest-substring-between-two-equal-characters/" target="_blank">Link</a>
  | [leaf-similar-trees.py](Easy/leaf-similar-trees.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/leaf-similar-trees/" target="_blank">Link</a>
  | [length-of-last-word.py](Easy/length-of-last-word.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/length-of-last-word/" target="_blank">Link</a>
+ | [linked-list-cycle.py](Easy/linked-list-cycle.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/linked-list-cycle/" target="_blank">Link</a>
  | [longest-common-prefix.py](Easy/longest-common-prefix.py) | O(nlog n) | O(m) | <a href="https://leetcode.com/problems/longest-common-prefix/" target="_blank">Link</a>
  | [maximum-depth-of-binary-tree.py](Easy/maximum-depth-of-binary-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/" target="_blank">Link</a>
  | [maximum-product-difference-between-two-pairs.py](Easy/maximum-product-difference-between-two-pairs.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-product-difference-between-two-pairs/" target="_blank">Link</a>
@@ -204,4 +205,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Jan 14 12:45:01 UTC 2024.
+Latest push from RunarFosse: Sun Jan 14 20:08:11 UTC 2024.
