@@ -132,6 +132,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimize-maximum-pair-sum-in-array.py](Medium/minimize-maximum-pair-sum-in-array.py) | O(nlog n) | O(log n) | <a href="https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/" target="_blank">Link</a>
  | [minimum-amount-of-time-to-collect-garbage.py](Medium/minimum-amount-of-time-to-collect-garbage.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/" target="_blank">Link</a>
  | [minimum-number-of-operations-to-make-array-empty.py](Medium/minimum-number-of-operations-to-make-array-empty.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/" target="_blank">Link</a>
+ | [minimum-number-of-steps-to-make-two-strings-anagram.py](Medium/minimum-number-of-steps-to-make-two-strings-anagram.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/" target="_blank">Link</a>
  | [minimum-path-sum.py](Medium/minimum-path-sum.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-path-sum/" target="_blank">Link</a>
  | [minimum-time-to-make-rope-colorful.py](Medium/minimum-time-to-make-rope-colorful.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-time-to-make-rope-colorful/" target="_blank">Link</a>
  | [number-of-dice-rolls-with-target-sum.py](Medium/number-of-dice-rolls-with-target-sum.py) | O(mnk) | O(mn) | <a href="https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/" target="_blank">Link</a>
@@ -202,4 +203,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Jan 12 19:33:32 UTC 2024.
+Latest push from RunarFosse: Sun Jan 14 12:25:28 UTC 2024.
