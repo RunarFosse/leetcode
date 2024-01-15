@@ -108,6 +108,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-first-and-last-position-of-element-in-sorted-array.py](Medium/find-first-and-last-position-of-element-in-sorted-array.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/" target="_blank">Link</a>
  | [find-largest-value-in-each-tree-row.py](Medium/find-largest-value-in-each-tree-row.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/find-largest-value-in-each-tree-row/" target="_blank">Link</a>
  | [find-peak-element.py](Medium/find-peak-element.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/find-peak-element/" target="_blank">Link</a>
+ | [find-players-with-zero-or-one-losses.py](Medium/find-players-with-zero-or-one-losses.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/find-players-with-zero-or-one-losses/" target="_blank">Link</a>
  | [find-the-original-array-of-prefix-xor.py](Medium/find-the-original-array-of-prefix-xor.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-the-original-array-of-prefix-xor/" target="_blank">Link</a>
  | [find-the-winner-of-an-array-game.py](Medium/find-the-winner-of-an-array-game.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-winner-of-an-array-game/" target="_blank">Link</a>
  | [find-unique-binary-string.py](Medium/find-unique-binary-string.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-unique-binary-string/" target="_blank">Link</a>
@@ -206,4 +207,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Jan 14 20:12:54 UTC 2024.
+Latest push from RunarFosse: Mon Jan 15 14:36:56 UTC 2024.
