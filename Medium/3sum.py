@@ -4,24 +4,37 @@
 
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
+        # Using two pointer approach
         n = len(nums)
 
-        triplets = set()
+        nums.sort()
+        triplets = []
         for i in range(n):
-            current_pairs = set()
-            for j in range(i+1, n):
-                # If the negative version of the current number exists, we
-                # have found a triplet
-                if -nums[j] in current_pairs:
-                    # Sort the triplet to prevent duplicate triplets
-                    triplet = sorted([nums[i], -nums[j] - nums[i], nums[j]])
-                    triplets.add(tuple(triplet))
+            # If current number is bigger than 0, prematurely exit loop
+            if nums[i] > 0:
+                break
+            # First number needs to be unique from last iteration
+            if i > 0 and nums[i] == nums[i-1]:
+                continue
 
-                current_pairs.add(nums[i] + nums[j])
-        
-        return list(triplets)
-    
-# This can be solved by solving two sum for each number in the suffix array of nums
+            j = i+1
+            k = n-1
+            while j < k:
+                triplet = [nums[i], nums[j], nums[k]]
+                sum = nums[i] + nums[j] + nums[k]
+                if sum == 0:
+                    triplets.append(triplet)
 
-# Not, we are sorting each triplet, but as they only contain three values, this
-# is equivalent to constant time. (O(3log 3) == O(1))
+                    # Update the window, keeping the second number
+                    # also unique from last iteration
+                    j += 1
+                    while j < k and nums[j] == nums[j-1]:
+                        j += 1
+                
+                # If not, shrink the window based on the sum size
+                elif sum < 0:
+                    j += 1
+                else:
+                    k -= 1
+                
+        return triplets
