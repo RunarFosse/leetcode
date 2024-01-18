@@ -86,6 +86,7 @@ All problems are tried solving in the most optimal way possible.
 ## Medium
  | Problem | Time complexity | Space complexity | Leetcode |
  | :------ | :-------------: | :--------------: | :--------------: |
+ | [3sum-closest.py](Medium/3sum-closest.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/3sum-closest/" target="_blank">Link</a>
  | [3sum.py](Medium/3sum.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/3sum/" target="_blank">Link</a>
  | [add-two-numbers.py](Medium/add-two-numbers.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/add-two-numbers/" target="_blank">Link</a>
  | [amount-of-time-for-binary-tree-to-be-infected.py](Medium/amount-of-time-for-binary-tree-to-be-infected.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/" target="_blank">Link</a>
@@ -211,4 +212,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Jan 18 09:39:32 UTC 2024.
+Latest push from RunarFosse: Thu Jan 18 10:02:29 UTC 2024.
