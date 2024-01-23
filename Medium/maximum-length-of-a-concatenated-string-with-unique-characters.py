@@ -1,5 +1,5 @@
 # Author: Runar Fosse
-# Time complexity: O(nm)
+# Time complexity: O(2^n)
 # Space complexity: O(n)
 
 class Solution:
