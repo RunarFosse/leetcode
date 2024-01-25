@@ -6,6 +6,7 @@ All problems are tried solving in the most optimal way possible.
  | :------ | :-------------: | :--------------: | :--------------: |
  | [add-binary.py](Easy/add-binary.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/add-binary/" target="_blank">Link</a>
  | [add-digits.py](Easy/add-digits.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/add-digits/" target="_blank">Link</a>
+ | [add-strings.py](Easy/add-strings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/add-strings/" target="_blank">Link</a>
  | [arranging-coins.py](Easy/arranging-coins.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/arranging-coins/" target="_blank">Link</a>
  | [assign-cookies.py](Easy/assign-cookies.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/assign-cookies/" target="_blank">Link</a>
  | [backspace-string-compare.py](Easy/backspace-string-compare.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/backspace-string-compare/" target="_blank">Link</a>
@@ -221,4 +222,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Jan 25 12:34:31 UTC 2024.
+Latest push from RunarFosse: Thu Jan 25 12:48:05 UTC 2024.
