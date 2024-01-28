@@ -210,6 +210,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-number-of-operations-to-make-array-continuous.py](Hard/minimum-number-of-operations-to-make-array-continuous.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/" target="_blank">Link</a>
  | [minimum-one-bit-operations-to-make-integers-zero.py](Hard/minimum-one-bit-operations-to-make-integers-zero.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/" target="_blank">Link</a>
  | [number-of-flowers-in-full-bloom.py](Hard/number-of-flowers-in-full-bloom.py) | O((n+m)log n) | O(n) | <a href="https://leetcode.com/problems/number-of-flowers-in-full-bloom/" target="_blank">Link</a>
+ | [number-of-submatrices-that-sum-to-target.py](Hard/number-of-submatrices-that-sum-to-target.py) | O(m^2n) | O(m) | <a href="https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/" target="_blank">Link</a>
  | [number-of-ways-to-divide-a-long-corridor.py](Hard/number-of-ways-to-divide-a-long-corridor.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/" target="_blank">Link</a>
  | [number-of-ways-to-stay-in-the-same-place-after-some-steps.py](Hard/number-of-ways-to-stay-in-the-same-place-after-some-steps.py) | O(n min(n,m)) | O(n min(n,m)) | <a href="https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/" target="_blank">Link</a>
  | [painting-the-walls.py](Hard/painting-the-walls.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/painting-the-walls/" target="_blank">Link</a>
@@ -224,4 +225,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Jan 27 16:58:03 UTC 2024.
+Latest push from RunarFosse: Sun Jan 28 11:35:38 UTC 2024.
