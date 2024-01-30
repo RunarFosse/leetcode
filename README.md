@@ -113,6 +113,7 @@ All problems are tried solving in the most optimal way possible.
  | [divide-two-integers.py](Medium/divide-two-integers.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/divide-two-integers/" target="_blank">Link</a>
  | [edit-distance.py](Medium/edit-distance.py) | O(m*n) | O(n) | <a href="https://leetcode.com/problems/edit-distance/" target="_blank">Link</a>
  | [eliminate-maximum-number-of-monsters.py](Medium/eliminate-maximum-number-of-monsters.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/eliminate-maximum-number-of-monsters/" target="_blank">Link</a>
+ | [evaluate-reverse-polish-notation.py](Medium/evaluate-reverse-polish-notation.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/evaluate-reverse-polish-notation/" target="_blank">Link</a>
  | [find-first-and-last-position-of-element-in-sorted-array.py](Medium/find-first-and-last-position-of-element-in-sorted-array.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/" target="_blank">Link</a>
  | [find-largest-value-in-each-tree-row.py](Medium/find-largest-value-in-each-tree-row.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/find-largest-value-in-each-tree-row/" target="_blank">Link</a>
  | [find-peak-element.py](Medium/find-peak-element.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/find-peak-element/" target="_blank">Link</a>
@@ -225,4 +226,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Jan 29 09:08:03 UTC 2024.
+Latest push from RunarFosse: Tue Jan 30 09:33:46 UTC 2024.
