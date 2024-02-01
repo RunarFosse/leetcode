@@ -111,6 +111,7 @@ All problems are tried solving in the most optimal way possible.
  | [determine-if-two-strings-are-close.py](Medium/determine-if-two-strings-are-close.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/determine-if-two-strings-are-close/" target="_blank">Link</a>
  | [diagonal-traverse-ii.py](Medium/diagonal-traverse-ii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/diagonal-traverse-ii/" target="_blank">Link</a>
  | [difference-between-ones-and-zeros-in-row-and-column.py](Medium/difference-between-ones-and-zeros-in-row-and-column.py) | O(mn) | O(m+n) | <a href="https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/" target="_blank">Link</a>
+ | [divide-array-into-arrays-with-max-difference.py](Medium/divide-array-into-arrays-with-max-difference.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/" target="_blank">Link</a>
  | [divide-two-integers.py](Medium/divide-two-integers.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/divide-two-integers/" target="_blank">Link</a>
  | [edit-distance.py](Medium/edit-distance.py) | O(m*n) | O(n) | <a href="https://leetcode.com/problems/edit-distance/" target="_blank">Link</a>
  | [eliminate-maximum-number-of-monsters.py](Medium/eliminate-maximum-number-of-monsters.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/eliminate-maximum-number-of-monsters/" target="_blank">Link</a>
@@ -227,4 +228,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Jan 31 10:39:53 UTC 2024.
+Latest push from RunarFosse: Thu Feb  1 17:20:28 UTC 2024.
