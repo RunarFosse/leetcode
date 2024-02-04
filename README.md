@@ -214,6 +214,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-difficulty-of-a-job-schedule.py](Hard/minimum-difficulty-of-a-job-schedule.py) | O(nd) | O(nd) | <a href="https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/" target="_blank">Link</a>
  | [minimum-number-of-operations-to-make-array-continuous.py](Hard/minimum-number-of-operations-to-make-array-continuous.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/" target="_blank">Link</a>
  | [minimum-one-bit-operations-to-make-integers-zero.py](Hard/minimum-one-bit-operations-to-make-integers-zero.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/" target="_blank">Link</a>
+ | [minimum-window-substring.py](Hard/minimum-window-substring.py) | O(m + n) | O(m) | <a href="https://leetcode.com/problems/minimum-window-substring/" target="_blank">Link</a>
  | [number-of-flowers-in-full-bloom.py](Hard/number-of-flowers-in-full-bloom.py) | O((n+m)log n) | O(n) | <a href="https://leetcode.com/problems/number-of-flowers-in-full-bloom/" target="_blank">Link</a>
  | [number-of-submatrices-that-sum-to-target.py](Hard/number-of-submatrices-that-sum-to-target.py) | O(m^2n) | O(m) | <a href="https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/" target="_blank">Link</a>
  | [number-of-ways-to-divide-a-long-corridor.py](Hard/number-of-ways-to-divide-a-long-corridor.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/" target="_blank">Link</a>
@@ -230,4 +231,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Feb  4 13:03:48 UTC 2024.
+Latest push from RunarFosse: Sun Feb  4 14:13:34 UTC 2024.
