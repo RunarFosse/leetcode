@@ -1,6 +1,6 @@
 # Author: Runar Fosse
-# Time complexity: O(log(m - n) log(m))
-# Space complexity: O(log(m - n))
+# Time complexity: O(log(m/n)*log(m))
+# Space complexity: O(log(m/n))
 
 class Solution:
     def sequentialDigits(self, low: int, high: int) -> List[int]:
