@@ -168,6 +168,7 @@ All problems are tried solving in the most optimal way possible.
  | [rotate-image.py](Medium/rotate-image.py) | O(n^2) | O(1) | <a href="https://leetcode.com/problems/rotate-image/" target="_blank">Link</a>
  | [search-a-2d-matrix.py](Medium/search-a-2d-matrix.py) | O(log(n*m)) | O(1) | <a href="https://leetcode.com/problems/search-a-2d-matrix/" target="_blank">Link</a>
  | [search-in-rotated-sorted-array.py](Medium/search-in-rotated-sorted-array.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/search-in-rotated-sorted-array/" target="_blank">Link</a>
+ | [sequential-digits.py](Medium/sequential-digits.py) | O(log(m - n) log(m)) | O(log(m - n)) | <a href="https://leetcode.com/problems/sequential-digits/" target="_blank">Link</a>
  | [set-matrix-zeroes.py](Medium/set-matrix-zeroes.py) | O(mn(m+n)) | O(1) | <a href="https://leetcode.com/problems/set-matrix-zeroes/" target="_blank">Link</a>
  | [simplify-path.py](Medium/simplify-path.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/simplify-path/" target="_blank">Link</a>
  | [sort-colors.py](Medium/sort-colors.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/sort-colors/" target="_blank">Link</a>
@@ -228,4 +229,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Feb  1 17:20:28 UTC 2024.
+Latest push from RunarFosse: Sun Feb  4 11:06:22 UTC 2024.
