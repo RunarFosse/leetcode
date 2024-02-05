@@ -31,6 +31,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-mode-in-binary-search-tree.py](Easy/find-mode-in-binary-search-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-mode-in-binary-search-tree/" target="_blank">Link</a>
  | [find-the-index-of-the-first-occurrence-in-a-string.py](Easy/find-the-index-of-the-first-occurrence-in-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/" target="_blank">Link</a>
  | [find-words-that-can-be-formed-by-characters.py](Easy/find-words-that-can-be-formed-by-characters.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/" target="_blank">Link</a>
+ | [first-unique-character-in-a-string.py](Easy/first-unique-character-in-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/first-unique-character-in-a-string/" target="_blank">Link</a>
  | [happy-number.py](Easy/happy-number.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/happy-number/" target="_blank">Link</a>
  | [image-smoother.py](Easy/image-smoother.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/image-smoother/" target="_blank">Link</a>
  | [invert-binary-tree.py](Easy/invert-binary-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/invert-binary-tree/" target="_blank">Link</a>
@@ -231,4 +232,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Feb  4 14:13:34 UTC 2024.
+Latest push from RunarFosse: Mon Feb  5 10:25:55 UTC 2024.
