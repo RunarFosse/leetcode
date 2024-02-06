@@ -127,6 +127,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-unique-binary-string.py](Medium/find-unique-binary-string.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-unique-binary-string/" target="_blank">Link</a>
  | [frequency-of-the-most-frequent-element.py](Medium/frequency-of-the-most-frequent-element.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/frequency-of-the-most-frequent-element/" target="_blank">Link</a>
  | [generate-parentheses.py](Medium/generate-parentheses.py) | O(4^n) | O(n2^n) | <a href="https://leetcode.com/problems/generate-parentheses/" target="_blank">Link</a>
+ | [group-anagrams.py](Medium/group-anagrams.py) | O(mnlog m) | O(mn) | <a href="https://leetcode.com/problems/group-anagrams/" target="_blank">Link</a>
  | [house-robber.py](Medium/house-robber.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/house-robber/" target="_blank">Link</a>
  | [integer-break.py](Medium/integer-break.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/integer-break/" target="_blank">Link</a>
  | [integer-replacement.py](Medium/integer-replacement.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/integer-replacement/" target="_blank">Link</a>
@@ -233,4 +234,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Feb  5 10:36:59 UTC 2024.
+Latest push from RunarFosse: Tue Feb  6 11:01:24 UTC 2024.
