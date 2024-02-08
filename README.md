@@ -161,6 +161,7 @@ All problems are tried solving in the most optimal way possible.
  | [number-of-laser-beams-in-a-bank.py](Medium/number-of-laser-beams-in-a-bank.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/number-of-laser-beams-in-a-bank/" target="_blank">Link</a>
  | [out-of-boundary-paths.py](Medium/out-of-boundary-paths.py) | O(mnN) | O(mnN) | <a href="https://leetcode.com/problems/out-of-boundary-paths/" target="_blank">Link</a>
  | [partition-array-for-maximum-sum.py](Medium/partition-array-for-maximum-sum.py) | O(nk) | O(n) | <a href="https://leetcode.com/problems/partition-array-for-maximum-sum/" target="_blank">Link</a>
+ | [perfect-squares.py](Medium/perfect-squares.py) | O(sqrt(n)) | O(1) | <a href="https://leetcode.com/problems/perfect-squares/" target="_blank">Link</a>
  | [permutations-ii.py](Medium/permutations-ii.py) | O(n!) | O(n!) | <a href="https://leetcode.com/problems/permutations-ii/" target="_blank">Link</a>
  | [permutations.py](Medium/permutations.py) | O(n!) | O(n!) | <a href="https://leetcode.com/problems/permutations/" target="_blank">Link</a>
  | [powx-n.py](Medium/powx-n.py) | O(log n) | O(log n) | <a href="https://leetcode.com/problems/powx-n/" target="_blank">Link</a>
@@ -235,4 +236,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Feb  7 09:59:25 UTC 2024.
+Latest push from RunarFosse: Thu Feb  8 10:31:27 UTC 2024.
