@@ -161,6 +161,7 @@ All problems are tried solving in the most optimal way possible.
  | [number-of-dice-rolls-with-target-sum.py](Medium/number-of-dice-rolls-with-target-sum.py) | O(mnk) | O(mn) | <a href="https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/" target="_blank">Link</a>
  | [number-of-laser-beams-in-a-bank.py](Medium/number-of-laser-beams-in-a-bank.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/number-of-laser-beams-in-a-bank/" target="_blank">Link</a>
  | [out-of-boundary-paths.py](Medium/out-of-boundary-paths.py) | O(mnN) | O(mnN) | <a href="https://leetcode.com/problems/out-of-boundary-paths/" target="_blank">Link</a>
+ | [palindromic-substrings.py](Medium/palindromic-substrings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/palindromic-substrings/" target="_blank">Link</a>
  | [partition-array-for-maximum-sum.py](Medium/partition-array-for-maximum-sum.py) | O(nk) | O(n) | <a href="https://leetcode.com/problems/partition-array-for-maximum-sum/" target="_blank">Link</a>
  | [perfect-squares.py](Medium/perfect-squares.py) | O(sqrt(n)) | O(1) | <a href="https://leetcode.com/problems/perfect-squares/" target="_blank">Link</a>
  | [permutations-ii.py](Medium/permutations-ii.py) | O(n!) | O(n!) | <a href="https://leetcode.com/problems/permutations-ii/" target="_blank">Link</a>
@@ -237,4 +238,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Feb  9 12:52:23 UTC 2024.
+Latest push from RunarFosse: Sat Feb 10 11:28:46 UTC 2024.
