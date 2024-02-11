@@ -6,21 +6,23 @@ class Solution:
     def cherryPickup(self, grid: List[List[int]]) -> int:
         # Using dynamic programming
         m, n = len(grid), len(grid[0])
-        opt = [[[0 for _ in range(n)] for _ in range(n)] for _ in range(m + 1)]
+        opt = [[0 for _ in range(n)] for _ in range(n)]
 
         for i in reversed(range(m)):
+            current_row = [[0 for _ in range(n)] for _ in range(n)]
             for j1 in range(n-1):
                 for j2 in range(j1+1, n):
-                    opt[i][j1][j2] = grid[i][j1] + grid[i][j2]
-                    opt[i][j1][j2] += max(
-                        opt[i+1][j1_][j2_]
+                    current_row[j1][j2] = grid[i][j1] + grid[i][j2]
+                    current_row[j1][j2] += max(
+                        opt[j1_][j2_]
                         for j1_ in range(max(j1-1, 0),min(j1+2, n))
                         for j2_ in range(max(j2-1, 0),min(j2+2, n))
                         if j1_ < j2_
                         )
+            opt = current_row
         
         # Return the values if for intial robot positions
-        return opt[0][0][n-1]
+        return opt[0][n-1]
         
 # This is a longest path problem, and can be solved using dynamic programming.
 # As we have 2 robots, we put an additional constraint keeping robot 1 left of
