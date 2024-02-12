@@ -43,6 +43,7 @@ All problems are tried solving in the most optimal way possible.
  | [length-of-last-word.py](Easy/length-of-last-word.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/length-of-last-word/" target="_blank">Link</a>
  | [linked-list-cycle.py](Easy/linked-list-cycle.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/linked-list-cycle/" target="_blank">Link</a>
  | [longest-common-prefix.py](Easy/longest-common-prefix.py) | O(nlog n) | O(m) | <a href="https://leetcode.com/problems/longest-common-prefix/" target="_blank">Link</a>
+ | [majority-element.py](Easy/majority-element.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/majority-element/" target="_blank">Link</a>
  | [maximum-depth-of-binary-tree.py](Easy/maximum-depth-of-binary-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/" target="_blank">Link</a>
  | [maximum-product-difference-between-two-pairs.py](Easy/maximum-product-difference-between-two-pairs.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-product-difference-between-two-pairs/" target="_blank">Link</a>
  | [maximum-product-of-two-elements-in-an-array.py](Easy/maximum-product-of-two-elements-in-an-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/" target="_blank">Link</a>
@@ -239,4 +240,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Feb 11 10:56:46 UTC 2024.
+Latest push from RunarFosse: Mon Feb 12 09:01:57 UTC 2024.
