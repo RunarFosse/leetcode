@@ -5,7 +5,6 @@
 class Solution:
     def firstPalindrome(self, words: List[str]) -> str:
         # Using two pointer approach
-
         for word in words:
             # Check if first and last character matches
             # iterating through the word
@@ -21,6 +20,7 @@ class Solution:
 
             if isPalindrome:
                 return word
+            
         return ""
 
 
