@@ -129,6 +129,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-the-winner-of-an-array-game.py](Medium/find-the-winner-of-an-array-game.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-winner-of-an-array-game/" target="_blank">Link</a>
  | [find-unique-binary-string.py](Medium/find-unique-binary-string.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-unique-binary-string/" target="_blank">Link</a>
  | [frequency-of-the-most-frequent-element.py](Medium/frequency-of-the-most-frequent-element.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/frequency-of-the-most-frequent-element/" target="_blank">Link</a>
+ | [furthest-building-you-can-reach.py](Medium/furthest-building-you-can-reach.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/furthest-building-you-can-reach/" target="_blank">Link</a>
  | [generate-parentheses.py](Medium/generate-parentheses.py) | O(4^n) | O(n2^n) | <a href="https://leetcode.com/problems/generate-parentheses/" target="_blank">Link</a>
  | [group-anagrams.py](Medium/group-anagrams.py) | O(mnlog m) | O(mn) | <a href="https://leetcode.com/problems/group-anagrams/" target="_blank">Link</a>
  | [house-robber.py](Medium/house-robber.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/house-robber/" target="_blank">Link</a>
@@ -244,4 +245,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Feb 16 10:11:44 UTC 2024.
+Latest push from RunarFosse: Sat Feb 17 08:28:48 UTC 2024.
