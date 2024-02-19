@@ -66,6 +66,7 @@ All problems are tried solving in the most optimal way possible.
  | [plus-one.py](Easy/plus-one.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/plus-one/" target="_blank">Link</a>
  | [power-of-four.py](Easy/power-of-four.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/power-of-four/" target="_blank">Link</a>
  | [power-of-three.py](Easy/power-of-three.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/power-of-three/" target="_blank">Link</a>
+ | [power-of-two.py](Easy/power-of-two.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/power-of-two/" target="_blank">Link</a>
  | [range-addition-ii.py](Easy/range-addition-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/range-addition-ii/" target="_blank">Link</a>
  | [range-sum-of-bst.py](Easy/range-sum-of-bst.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/range-sum-of-bst/" target="_blank">Link</a>
  | [redistribute-characters-to-make-all-strings-equal.py](Easy/redistribute-characters-to-make-all-strings-equal.py) | O(nk) | O(1) | <a href="https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/" target="_blank">Link</a>
@@ -246,4 +247,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Feb 18 17:14:54 UTC 2024.
+Latest push from RunarFosse: Mon Feb 19 14:43:35 UTC 2024.
