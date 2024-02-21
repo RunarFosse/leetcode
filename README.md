@@ -101,6 +101,7 @@ All problems are tried solving in the most optimal way possible.
  | [arithmetic-slices.py](Medium/arithmetic-slices.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/arithmetic-slices/" target="_blank">Link</a>
  | [arithmetic-subarrays.py](Medium/arithmetic-subarrays.py) | O(n*m) | O(n) | <a href="https://leetcode.com/problems/arithmetic-subarrays/" target="_blank">Link</a>
  | [binary-trees-with-factors.py](Medium/binary-trees-with-factors.py) | O(n sqrt(n)) | O(n) | <a href="https://leetcode.com/problems/binary-trees-with-factors/" target="_blank">Link</a>
+ | [bitwise-and-of-numbers-range.py](Medium/bitwise-and-of-numbers-range.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/bitwise-and-of-numbers-range/" target="_blank">Link</a>
  | [build-an-array-with-stack-operations.py](Medium/build-an-array-with-stack-operations.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/build-an-array-with-stack-operations/" target="_blank">Link</a>
  | [bulb-switcher.py](Medium/bulb-switcher.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/bulb-switcher/" target="_blank">Link</a>
  | [container-with-most-water.py](Medium/container-with-most-water.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/container-with-most-water/" target="_blank">Link</a>
@@ -247,4 +248,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Feb 19 14:43:35 UTC 2024.
+Latest push from RunarFosse: Wed Feb 21 10:23:02 UTC 2024.
