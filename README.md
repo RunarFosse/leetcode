@@ -85,6 +85,7 @@ All problems are tried solving in the most optimal way possible.
  | [sort-integers-by-the-number-of-1-bits.py](Easy/sort-integers-by-the-number-of-1-bits.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/" target="_blank">Link</a>
  | [special-positions-in-a-binary-matrix.py](Easy/special-positions-in-a-binary-matrix.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/special-positions-in-a-binary-matrix/" target="_blank">Link</a>
  | [sqrtx.py](Easy/sqrtx.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/sqrtx/" target="_blank">Link</a>
+ | [squares-of-a-sorted-array.py](Easy/squares-of-a-sorted-array.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/squares-of-a-sorted-array/" target="_blank">Link</a>
  | [sum-of-values-at-indices-with-k-set-bits.py](Easy/sum-of-values-at-indices-with-k-set-bits.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/" target="_blank">Link</a>
  | [symmetric-tree.py](Easy/symmetric-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/symmetric-tree/" target="_blank">Link</a>
  | [transpose-matrix.py](Easy/transpose-matrix.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/transpose-matrix/" target="_blank">Link</a>
@@ -258,4 +259,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Mar  1 10:49:39 UTC 2024.
+Latest push from RunarFosse: Sat Mar  2 15:31:10 UTC 2024.
