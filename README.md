@@ -105,6 +105,7 @@ All problems are tried solving in the most optimal way possible.
  | [amount-of-time-for-binary-tree-to-be-infected.py](Medium/amount-of-time-for-binary-tree-to-be-infected.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/" target="_blank">Link</a>
  | [arithmetic-slices.py](Medium/arithmetic-slices.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/arithmetic-slices/" target="_blank">Link</a>
  | [arithmetic-subarrays.py](Medium/arithmetic-subarrays.py) | O(n*m) | O(n) | <a href="https://leetcode.com/problems/arithmetic-subarrays/" target="_blank">Link</a>
+ | [bag-of-tokens.py](Medium/bag-of-tokens.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/bag-of-tokens/" target="_blank">Link</a>
  | [binary-trees-with-factors.py](Medium/binary-trees-with-factors.py) | O(n sqrt(n)) | O(n) | <a href="https://leetcode.com/problems/binary-trees-with-factors/" target="_blank">Link</a>
  | [bitwise-and-of-numbers-range.py](Medium/bitwise-and-of-numbers-range.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/bitwise-and-of-numbers-range/" target="_blank">Link</a>
  | [build-an-array-with-stack-operations.py](Medium/build-an-array-with-stack-operations.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/build-an-array-with-stack-operations/" target="_blank">Link</a>
@@ -259,4 +260,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Mar  2 15:31:10 UTC 2024.
+Latest push from RunarFosse: Mon Mar  4 10:10:51 UTC 2024.
