@@ -246,6 +246,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-number-of-operations-to-make-array-continuous.py](Hard/minimum-number-of-operations-to-make-array-continuous.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/" target="_blank">Link</a>
  | [minimum-one-bit-operations-to-make-integers-zero.py](Hard/minimum-one-bit-operations-to-make-integers-zero.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/" target="_blank">Link</a>
  | [minimum-window-substring.py](Hard/minimum-window-substring.py) | O(m + n) | O(m) | <a href="https://leetcode.com/problems/minimum-window-substring/" target="_blank">Link</a>
+ | [n-queens-ii.py](Hard/n-queens-ii.py) | O(n!) | O(1) | <a href="https://leetcode.com/problems/n-queens-ii/" target="_blank">Link</a>
  | [n-queens.py](Hard/n-queens.py) | O(n!) | O(n^2) | <a href="https://leetcode.com/problems/n-queens/" target="_blank">Link</a>
  | [number-of-flowers-in-full-bloom.py](Hard/number-of-flowers-in-full-bloom.py) | O((n+m)log n) | O(n) | <a href="https://leetcode.com/problems/number-of-flowers-in-full-bloom/" target="_blank">Link</a>
  | [number-of-submatrices-that-sum-to-target.py](Hard/number-of-submatrices-that-sum-to-target.py) | O(m^2n) | O(m) | <a href="https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/" target="_blank">Link</a>
@@ -264,4 +265,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Mar  7 10:57:05 UTC 2024.
+Latest push from RunarFosse: Thu Mar  7 11:02:26 UTC 2024.
