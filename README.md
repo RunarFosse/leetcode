@@ -20,6 +20,7 @@ All problems are tried solving in the most optimal way possible.
  | [check-if-two-string-arrays-are-equivalent.py](Easy/check-if-two-string-arrays-are-equivalent.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/" target="_blank">Link</a>
  | [climbing-stairs.py](Easy/climbing-stairs.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/climbing-stairs/" target="_blank">Link</a>
  | [construct-string-from-binary-tree.py](Easy/construct-string-from-binary-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/construct-string-from-binary-tree/" target="_blank">Link</a>
+ | [count-elements-with-maximum-frequency.py](Easy/count-elements-with-maximum-frequency.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-elements-with-maximum-frequency/" target="_blank">Link</a>
  | [count-of-matches-in-tournament.py](Easy/count-of-matches-in-tournament.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/count-of-matches-in-tournament/" target="_blank">Link</a>
  | [counting-bits.py](Easy/counting-bits.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/counting-bits/" target="_blank">Link</a>
  | [destination-city.py](Easy/destination-city.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/destination-city/" target="_blank">Link</a>
@@ -265,4 +266,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Mar  7 11:02:26 UTC 2024.
+Latest push from RunarFosse: Fri Mar  8 08:38:21 UTC 2024.
