@@ -78,6 +78,7 @@ All problems are tried solving in the most optimal way possible.
  | [remove-duplicates-from-sorted-array.py](Easy/remove-duplicates-from-sorted-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/" target="_blank">Link</a>
  | [remove-duplicates-from-sorted-list.py](Easy/remove-duplicates-from-sorted-list.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list/" target="_blank">Link</a>
  | [remove-element.py](Easy/remove-element.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/remove-element/" target="_blank">Link</a>
+ | [remove-linked-list-elements.py](Easy/remove-linked-list-elements.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/remove-linked-list-elements/" target="_blank">Link</a>
  | [reverse-bits.py](Easy/reverse-bits.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/reverse-bits/" target="_blank">Link</a>
  | [roman-to-integer.py](Easy/roman-to-integer.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/roman-to-integer/" target="_blank">Link</a>
  | [same-tree.py](Easy/same-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/same-tree/" target="_blank">Link</a>
@@ -266,4 +267,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Mar  8 08:38:21 UTC 2024.
+Latest push from RunarFosse: Fri Mar  8 08:50:55 UTC 2024.
