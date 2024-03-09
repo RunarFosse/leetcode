@@ -41,6 +41,7 @@ All problems are tried solving in the most optimal way possible.
  | [happy-number.py](Easy/happy-number.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/happy-number/" target="_blank">Link</a>
  | [image-smoother.py](Easy/image-smoother.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/image-smoother/" target="_blank">Link</a>
  | [invert-binary-tree.py](Easy/invert-binary-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/invert-binary-tree/" target="_blank">Link</a>
+ | [is-subsequence.py](Easy/is-subsequence.py) | O(m+n) | O(1) | <a href="https://leetcode.com/problems/is-subsequence/" target="_blank">Link</a>
  | [isomorphic-strings.py](Easy/isomorphic-strings.py) | O(n) | O(m) | <a href="https://leetcode.com/problems/isomorphic-strings/" target="_blank">Link</a>
  | [largest-3-same-digit-number-in-string.py](Easy/largest-3-same-digit-number-in-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/largest-3-same-digit-number-in-string/" target="_blank">Link</a>
  | [largest-odd-number-in-string.py](Easy/largest-odd-number-in-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/largest-odd-number-in-string/" target="_blank">Link</a>
@@ -270,4 +271,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Mar  9 13:26:44 UTC 2024.
+Latest push from RunarFosse: Sat Mar  9 15:16:00 UTC 2024.
