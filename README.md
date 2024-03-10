@@ -8,6 +8,7 @@ All problems are tried solving in the most optimal way possible.
  | [add-digits.py](Easy/add-digits.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/add-digits/" target="_blank">Link</a>
  | [add-strings.py](Easy/add-strings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/add-strings/" target="_blank">Link</a>
  | [arranging-coins.py](Easy/arranging-coins.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/arranging-coins/" target="_blank">Link</a>
+ | [array-partition.py](Easy/array-partition.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/array-partition/" target="_blank">Link</a>
  | [assign-cookies.py](Easy/assign-cookies.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/assign-cookies/" target="_blank">Link</a>
  | [backspace-string-compare.py](Easy/backspace-string-compare.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/backspace-string-compare/" target="_blank">Link</a>
  | [balanced-binary-tree.py](Easy/balanced-binary-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/balanced-binary-tree/" target="_blank">Link</a>
@@ -272,4 +273,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Mar 10 09:24:28 UTC 2024.
+Latest push from RunarFosse: Sun Mar 10 09:31:46 UTC 2024.
