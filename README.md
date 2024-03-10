@@ -40,6 +40,7 @@ All problems are tried solving in the most optimal way possible.
  | [guess-number-higher-or-lower.py](Easy/guess-number-higher-or-lower.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/guess-number-higher-or-lower/" target="_blank">Link</a>
  | [happy-number.py](Easy/happy-number.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/happy-number/" target="_blank">Link</a>
  | [image-smoother.py](Easy/image-smoother.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/image-smoother/" target="_blank">Link</a>
+ | [intersection-of-two-arrays.py](Easy/intersection-of-two-arrays.py) | O(n+m) | O(n) | <a href="https://leetcode.com/problems/intersection-of-two-arrays/" target="_blank">Link</a>
  | [invert-binary-tree.py](Easy/invert-binary-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/invert-binary-tree/" target="_blank">Link</a>
  | [is-subsequence.py](Easy/is-subsequence.py) | O(m+n) | O(1) | <a href="https://leetcode.com/problems/is-subsequence/" target="_blank">Link</a>
  | [isomorphic-strings.py](Easy/isomorphic-strings.py) | O(n) | O(m) | <a href="https://leetcode.com/problems/isomorphic-strings/" target="_blank">Link</a>
@@ -271,4 +272,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Mar  9 15:16:00 UTC 2024.
+Latest push from RunarFosse: Sun Mar 10 09:24:28 UTC 2024.
