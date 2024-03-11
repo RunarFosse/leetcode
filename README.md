@@ -127,6 +127,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-nodes-equal-to-average-of-subtree.py](Medium/count-nodes-equal-to-average-of-subtree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/" target="_blank">Link</a>
  | [count-number-of-homogenous-substrings.py](Medium/count-number-of-homogenous-substrings.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-number-of-homogenous-substrings/" target="_blank">Link</a>
  | [count-ways-to-build-good-strings.py](Medium/count-ways-to-build-good-strings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-ways-to-build-good-strings/" target="_blank">Link</a>
+ | [custom-sort-string.py](Medium/custom-sort-string.py) | O(m+n) | O(n) | <a href="https://leetcode.com/problems/custom-sort-string/" target="_blank">Link</a>
  | [daily-temperatures.py](Medium/daily-temperatures.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/daily-temperatures/" target="_blank">Link</a>
  | [decode-ways.py](Medium/decode-ways.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/decode-ways/" target="_blank">Link</a>
  | [determine-if-a-cell-is-reachable-at-a-given-time.py](Medium/determine-if-a-cell-is-reachable-at-a-given-time.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/" target="_blank">Link</a>
@@ -273,4 +274,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Mar 10 09:31:46 UTC 2024.
+Latest push from RunarFosse: Mon Mar 11 09:16:23 UTC 2024.
