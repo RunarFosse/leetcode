@@ -70,6 +70,7 @@ All problems are tried solving in the most optimal way possible.
  | [missing-number.py](Easy/missing-number.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/missing-number/" target="_blank">Link</a>
  | [nim-game.py](Easy/nim-game.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/nim-game/" target="_blank">Link</a>
  | [number-of-1-bits.py](Easy/number-of-1-bits.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/number-of-1-bits/" target="_blank">Link</a>
+ | [palindrome-linked-list.py](Easy/palindrome-linked-list.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/palindrome-linked-list/" target="_blank">Link</a>
  | [palindrome-number.py](Easy/palindrome-number.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/palindrome-number/" target="_blank">Link</a>
  | [pascals-triangle-ii.py](Easy/pascals-triangle-ii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/pascals-triangle-ii/" target="_blank">Link</a>
  | [pascals-triangle.py](Easy/pascals-triangle.py) | O(n^2) | O(n^2) | <a href="https://leetcode.com/problems/pascals-triangle/" target="_blank">Link</a>
@@ -284,4 +285,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Mar 21 09:17:52 UTC 2024.
+Latest push from RunarFosse: Fri Mar 22 08:41:13 UTC 2024.
