@@ -151,6 +151,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-peak-element.py](Medium/find-peak-element.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/find-peak-element/" target="_blank">Link</a>
  | [find-players-with-zero-or-one-losses.py](Medium/find-players-with-zero-or-one-losses.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/find-players-with-zero-or-one-losses/" target="_blank">Link</a>
  | [find-polygon-with-the-largest-perimeter.py](Medium/find-polygon-with-the-largest-perimeter.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/" target="_blank">Link</a>
+ | [find-the-duplicate-number.py](Medium/find-the-duplicate-number.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-duplicate-number/" target="_blank">Link</a>
  | [find-the-original-array-of-prefix-xor.py](Medium/find-the-original-array-of-prefix-xor.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-the-original-array-of-prefix-xor/" target="_blank">Link</a>
  | [find-the-winner-of-an-array-game.py](Medium/find-the-winner-of-an-array-game.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-winner-of-an-array-game/" target="_blank">Link</a>
  | [find-unique-binary-string.py](Medium/find-unique-binary-string.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-unique-binary-string/" target="_blank">Link</a>
@@ -286,4 +287,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Mar 23 12:56:01 UTC 2024.
+Latest push from RunarFosse: Sun Mar 24 11:50:17 UTC 2024.
