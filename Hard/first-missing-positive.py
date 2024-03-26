@@ -4,25 +4,20 @@
 
 class Solution:
     def firstMissingPositive(self, nums: List[int]) -> int:
-        # Using modified Cyclic sort
-        i = 0
-        while i < len(nums):
-            j = nums[i]
-            # We only care to swap numbers within the range [1, len(nums)]
-            if j > 0 and j <= len(nums) and j != nums[j-1]:
-                # Swap nums[i] and nums[j]
-                nums[i], nums[j-1] = nums[j-1], nums[i]
-            else:
-                i += 1
+        n = len(nums)
+        
+        # Iterate nums, using values as indices.
+        # We turn any number pointed to into floats.
+        for i in range(n):
+            pointer = int(nums[i]-1)
+            if pointer >= 0 and pointer < n:
+                nums[pointer] = float(nums[pointer])
+        
+        # Then iterate again, finding the first integer
+        for i in range(n):
+            if isinstance(nums[i], int):
+                return i+1
 
-        missing = 1
-        for n in nums:
-            if n == missing:
-                missing += 1
-
-        return missing
-
-
-# The trick with this one is understanding that "O(1) auxiliary space"
-# does not prevent modification of the given array.
-# Therefore we can use a version of Cyclic sort (which is O(n) and in-place!)
+        # If every number is a float, the next missing is
+        # equal to the size of the list (+1 for indexing)
+        return n+1
