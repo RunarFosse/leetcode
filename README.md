@@ -54,6 +54,7 @@ All problems are tried solving in the most optimal way possible.
  | [linked-list-cycle.py](Easy/linked-list-cycle.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/linked-list-cycle/" target="_blank">Link</a>
  | [longest-common-prefix.py](Easy/longest-common-prefix.py) | O(nlog n) | O(m) | <a href="https://leetcode.com/problems/longest-common-prefix/" target="_blank">Link</a>
  | [majority-element.py](Easy/majority-element.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/majority-element/" target="_blank">Link</a>
+ | [make-the-string-great.py](Easy/make-the-string-great.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/make-the-string-great/" target="_blank">Link</a>
  | [maximum-depth-of-binary-tree.py](Easy/maximum-depth-of-binary-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/" target="_blank">Link</a>
  | [maximum-nesting-depth-of-the-parentheses.py](Easy/maximum-nesting-depth-of-the-parentheses.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/" target="_blank">Link</a>
  | [maximum-odd-binary-number.py](Easy/maximum-odd-binary-number.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-odd-binary-number/" target="_blank">Link</a>
@@ -294,4 +295,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Apr  4 10:21:21 UTC 2024.
+Latest push from RunarFosse: Fri Apr  5 09:05:34 UTC 2024.
