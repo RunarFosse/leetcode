@@ -103,6 +103,7 @@ All problems are tried solving in the most optimal way possible.
  | [squares-of-a-sorted-array.py](Easy/squares-of-a-sorted-array.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/squares-of-a-sorted-array/" target="_blank">Link</a>
  | [sum-of-values-at-indices-with-k-set-bits.py](Easy/sum-of-values-at-indices-with-k-set-bits.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/" target="_blank">Link</a>
  | [symmetric-tree.py](Easy/symmetric-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/symmetric-tree/" target="_blank">Link</a>
+ | [time-needed-to-buy-tickets.py](Easy/time-needed-to-buy-tickets.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/time-needed-to-buy-tickets/" target="_blank">Link</a>
  | [transpose-matrix.py](Easy/transpose-matrix.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/transpose-matrix/" target="_blank">Link</a>
  | [two-sum.py](Easy/two-sum.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/two-sum/" target="_blank">Link</a>
  | [unique-number-of-occurrences.py](Easy/unique-number-of-occurrences.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/unique-number-of-occurrences/" target="_blank">Link</a>
@@ -297,4 +298,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Apr  8 09:39:24 UTC 2024.
+Latest push from RunarFosse: Tue Apr  9 09:32:58 UTC 2024.
