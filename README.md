@@ -216,6 +216,7 @@ All problems are tried solving in the most optimal way possible.
  | [rearrange-array-elements-by-sign.py](Medium/rearrange-array-elements-by-sign.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/rearrange-array-elements-by-sign/" target="_blank">Link</a>
  | [reduction-operations-to-make-the-array-elements-equal.py](Medium/reduction-operations-to-make-the-array-elements-equal.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/" target="_blank">Link</a>
  | [remove-duplicates-from-sorted-array-ii.py](Medium/remove-duplicates-from-sorted-array-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/" target="_blank">Link</a>
+ | [remove-k-digits.py](Medium/remove-k-digits.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/remove-k-digits/" target="_blank">Link</a>
  | [remove-nth-node-from-end-of-list.py](Medium/remove-nth-node-from-end-of-list.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/" target="_blank">Link</a>
  | [remove-zero-sum-consecutive-nodes-from-linked-list.py](Medium/remove-zero-sum-consecutive-nodes-from-linked-list.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/" target="_blank">Link</a>
  | [reorder-list.py](Medium/reorder-list.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/reorder-list/" target="_blank">Link</a>
@@ -299,4 +300,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Apr 10 09:11:26 UTC 2024.
+Latest push from RunarFosse: Thu Apr 11 09:40:59 UTC 2024.
