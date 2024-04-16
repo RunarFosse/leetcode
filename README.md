@@ -118,6 +118,7 @@ All problems are tried solving in the most optimal way possible.
  | :------ | :-------------: | :--------------: | :--------------: |
  | [3sum-closest.py](Medium/3sum-closest.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/3sum-closest/" target="_blank">Link</a>
  | [3sum.py](Medium/3sum.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/3sum/" target="_blank">Link</a>
+ | [add-one-row-to-tree.py](Medium/add-one-row-to-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/add-one-row-to-tree/" target="_blank">Link</a>
  | [add-two-numbers.py](Medium/add-two-numbers.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/add-two-numbers/" target="_blank">Link</a>
  | [amount-of-time-for-binary-tree-to-be-infected.py](Medium/amount-of-time-for-binary-tree-to-be-infected.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/" target="_blank">Link</a>
  | [arithmetic-slices.py](Medium/arithmetic-slices.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/arithmetic-slices/" target="_blank">Link</a>
@@ -302,4 +303,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Apr 15 09:40:53 UTC 2024.
+Latest push from RunarFosse: Tue Apr 16 08:52:49 UTC 2024.
