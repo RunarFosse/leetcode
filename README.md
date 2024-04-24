@@ -72,6 +72,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-depth-of-binary-tree.py](Easy/minimum-depth-of-binary-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/" target="_blank">Link</a>
  | [minimum-time-visiting-all-points.py](Easy/minimum-time-visiting-all-points.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-time-visiting-all-points/" target="_blank">Link</a>
  | [missing-number.py](Easy/missing-number.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/missing-number/" target="_blank">Link</a>
+ | [n-th-tribonacci-number.py](Easy/n-th-tribonacci-number.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/n-th-tribonacci-number/" target="_blank">Link</a>
  | [nim-game.py](Easy/nim-game.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/nim-game/" target="_blank">Link</a>
  | [number-of-1-bits.py](Easy/number-of-1-bits.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/number-of-1-bits/" target="_blank">Link</a>
  | [number-of-students-unable-to-eat-lunch.py](Easy/number-of-students-unable-to-eat-lunch.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/" target="_blank">Link</a>
@@ -310,4 +311,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Apr 23 09:44:16 UTC 2024.
+Latest push from RunarFosse: Wed Apr 24 08:48:36 UTC 2024.
