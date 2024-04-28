@@ -278,6 +278,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-all-people-with-secret.py](Hard/find-all-people-with-secret.py) | O(n) | O(m+n) | <a href="https://leetcode.com/problems/find-all-people-with-secret/" target="_blank">Link</a>
  | [find-in-mountain-array.py](Hard/find-in-mountain-array.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/find-in-mountain-array/" target="_blank">Link</a>
  | [first-missing-positive.py](Hard/first-missing-positive.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/first-missing-positive/" target="_blank">Link</a>
+ | [freedom-trail.py](Hard/freedom-trail.py) | O(mnlog(mn)) | O(mn) | <a href="https://leetcode.com/problems/freedom-trail/" target="_blank">Link</a>
  | [frog-jump.py](Hard/frog-jump.py) | O(nk) | O(n) | <a href="https://leetcode.com/problems/frog-jump/" target="_blank">Link</a>
  | [greatest-common-divisor-traversal.py](Hard/greatest-common-divisor-traversal.py) | O(nlog m) | O(n) | <a href="https://leetcode.com/problems/greatest-common-divisor-traversal/" target="_blank">Link</a>
  | [k-inverse-pairs-array.py](Hard/k-inverse-pairs-array.py) | O(nk) | O(k) | <a href="https://leetcode.com/problems/k-inverse-pairs-array/" target="_blank">Link</a>
@@ -312,4 +313,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Apr 25 08:43:23 UTC 2024.
+Latest push from RunarFosse: Sun Apr 28 12:13:20 UTC 2024.
