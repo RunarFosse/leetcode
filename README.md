@@ -95,6 +95,7 @@ All problems are tried solving in the most optimal way possible.
  | [remove-linked-list-elements.py](Easy/remove-linked-list-elements.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/remove-linked-list-elements/" target="_blank">Link</a>
  | [reverse-bits.py](Easy/reverse-bits.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/reverse-bits/" target="_blank">Link</a>
  | [reverse-linked-list.py](Easy/reverse-linked-list.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/reverse-linked-list/" target="_blank">Link</a>
+ | [reverse-prefix-of-word.py](Easy/reverse-prefix-of-word.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/reverse-prefix-of-word/" target="_blank">Link</a>
  | [roman-to-integer.py](Easy/roman-to-integer.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/roman-to-integer/" target="_blank">Link</a>
  | [same-tree.py](Easy/same-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/same-tree/" target="_blank">Link</a>
  | [search-insert-position.py](Easy/search-insert-position.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/search-insert-position/" target="_blank">Link</a>
@@ -315,4 +316,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Apr 29 09:19:11 UTC 2024.
+Latest push from RunarFosse: Wed May  1 08:15:30 UTC 2024.
