@@ -50,6 +50,7 @@ All problems are tried solving in the most optimal way possible.
  | [isomorphic-strings.py](Easy/isomorphic-strings.py) | O(n) | O(m) | <a href="https://leetcode.com/problems/isomorphic-strings/" target="_blank">Link</a>
  | [largest-3-same-digit-number-in-string.py](Easy/largest-3-same-digit-number-in-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/largest-3-same-digit-number-in-string/" target="_blank">Link</a>
  | [largest-odd-number-in-string.py](Easy/largest-odd-number-in-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/largest-odd-number-in-string/" target="_blank">Link</a>
+ | [largest-positive-integer-that-exists-with-its-negative.py](Easy/largest-positive-integer-that-exists-with-its-negative.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/" target="_blank">Link</a>
  | [largest-substring-between-two-equal-characters.py](Easy/largest-substring-between-two-equal-characters.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/largest-substring-between-two-equal-characters/" target="_blank">Link</a>
  | [leaf-similar-trees.py](Easy/leaf-similar-trees.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/leaf-similar-trees/" target="_blank">Link</a>
  | [length-of-last-word.py](Easy/length-of-last-word.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/length-of-last-word/" target="_blank">Link</a>
@@ -317,4 +318,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed May  1 09:46:45 UTC 2024.
+Latest push from RunarFosse: Thu May  2 08:57:17 UTC 2024.
