@@ -132,6 +132,7 @@ All problems are tried solving in the most optimal way possible.
  | [binary-subarrays-with-sum.py](Medium/binary-subarrays-with-sum.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/binary-subarrays-with-sum/" target="_blank">Link</a>
  | [binary-trees-with-factors.py](Medium/binary-trees-with-factors.py) | O(n sqrt(n)) | O(n) | <a href="https://leetcode.com/problems/binary-trees-with-factors/" target="_blank">Link</a>
  | [bitwise-and-of-numbers-range.py](Medium/bitwise-and-of-numbers-range.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/bitwise-and-of-numbers-range/" target="_blank">Link</a>
+ | [boats-to-save-people.py](Medium/boats-to-save-people.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/boats-to-save-people/" target="_blank">Link</a>
  | [build-an-array-with-stack-operations.py](Medium/build-an-array-with-stack-operations.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/build-an-array-with-stack-operations/" target="_blank">Link</a>
  | [bulb-switcher.py](Medium/bulb-switcher.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/bulb-switcher/" target="_blank">Link</a>
  | [cheapest-flights-within-k-stops.py](Medium/cheapest-flights-within-k-stops.py) | O(n) | O(m+n) | <a href="https://leetcode.com/problems/cheapest-flights-within-k-stops/" target="_blank">Link</a>
@@ -321,4 +322,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon May  6 09:39:38 UTC 2024.
+Latest push from RunarFosse: Mon May  6 10:11:33 UTC 2024.
