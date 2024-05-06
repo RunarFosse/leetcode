@@ -148,6 +148,7 @@ All problems are tried solving in the most optimal way possible.
  | [custom-sort-string.py](Medium/custom-sort-string.py) | O(m+n) | O(n) | <a href="https://leetcode.com/problems/custom-sort-string/" target="_blank">Link</a>
  | [daily-temperatures.py](Medium/daily-temperatures.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/daily-temperatures/" target="_blank">Link</a>
  | [decode-ways.py](Medium/decode-ways.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/decode-ways/" target="_blank">Link</a>
+ | [delete-node-in-a-linked-list.py](Medium/delete-node-in-a-linked-list.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/delete-node-in-a-linked-list/" target="_blank">Link</a>
  | [determine-if-a-cell-is-reachable-at-a-given-time.py](Medium/determine-if-a-cell-is-reachable-at-a-given-time.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/" target="_blank">Link</a>
  | [determine-if-two-strings-are-close.py](Medium/determine-if-two-strings-are-close.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/determine-if-two-strings-are-close/" target="_blank">Link</a>
  | [diagonal-traverse-ii.py](Medium/diagonal-traverse-ii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/diagonal-traverse-ii/" target="_blank">Link</a>
@@ -320,4 +321,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon May  6 09:37:26 UTC 2024.
+Latest push from RunarFosse: Mon May  6 09:39:38 UTC 2024.
