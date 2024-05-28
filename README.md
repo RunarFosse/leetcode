@@ -179,6 +179,7 @@ All problems are tried solving in the most optimal way possible.
  | [frequency-of-the-most-frequent-element.py](Medium/frequency-of-the-most-frequent-element.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/frequency-of-the-most-frequent-element/" target="_blank">Link</a>
  | [furthest-building-you-can-reach.py](Medium/furthest-building-you-can-reach.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/furthest-building-you-can-reach/" target="_blank">Link</a>
  | [generate-parentheses.py](Medium/generate-parentheses.py) | O(4^n) | O(n2^n) | <a href="https://leetcode.com/problems/generate-parentheses/" target="_blank">Link</a>
+ | [get-equal-substrings-within-budget.py](Medium/get-equal-substrings-within-budget.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/get-equal-substrings-within-budget/" target="_blank">Link</a>
  | [group-anagrams.py](Medium/group-anagrams.py) | O(mnlog m) | O(mn) | <a href="https://leetcode.com/problems/group-anagrams/" target="_blank">Link</a>
  | [house-robber.py](Medium/house-robber.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/house-robber/" target="_blank">Link</a>
  | [insert-interval.py](Medium/insert-interval.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/insert-interval/" target="_blank">Link</a>
@@ -327,4 +328,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon May 27 21:01:26 UTC 2024.
+Latest push from RunarFosse: Tue May 28 08:38:43 UTC 2024.
