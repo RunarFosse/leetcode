@@ -99,6 +99,7 @@ All problems are tried solving in the most optimal way possible.
  | [reverse-bits.py](Easy/reverse-bits.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/reverse-bits/" target="_blank">Link</a>
  | [reverse-linked-list.py](Easy/reverse-linked-list.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/reverse-linked-list/" target="_blank">Link</a>
  | [reverse-prefix-of-word.py](Easy/reverse-prefix-of-word.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/reverse-prefix-of-word/" target="_blank">Link</a>
+ | [reverse-string.py](Easy/reverse-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/reverse-string/" target="_blank">Link</a>
  | [roman-to-integer.py](Easy/roman-to-integer.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/roman-to-integer/" target="_blank">Link</a>
  | [same-tree.py](Easy/same-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/same-tree/" target="_blank">Link</a>
  | [score-of-a-string.py](Easy/score-of-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/score-of-a-string/" target="_blank">Link</a>
@@ -330,4 +331,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Jun  1 09:04:06 UTC 2024.
+Latest push from RunarFosse: Sun Jun  2 10:21:42 UTC 2024.
