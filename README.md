@@ -318,6 +318,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximal-rectangle.py](Hard/maximal-rectangle.py) | O(mn) | O(n) | <a href="https://leetcode.com/problems/maximal-rectangle/" target="_blank">Link</a>
  | [maximum-profit-in-job-scheduling.py](Hard/maximum-profit-in-job-scheduling.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximum-profit-in-job-scheduling/" target="_blank">Link</a>
  | [maximum-score-of-a-good-subarray.py](Hard/maximum-score-of-a-good-subarray.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-score-of-a-good-subarray/" target="_blank">Link</a>
+ | [maximum-score-words-formed-by-letters.py](Hard/maximum-score-words-formed-by-letters.py) | O(m2^n) | O(n) | <a href="https://leetcode.com/problems/maximum-score-words-formed-by-letters/" target="_blank">Link</a>
  | [meeting-rooms-iii.py](Hard/meeting-rooms-iii.py) | O(mlog(mn)) | O(m + n) | <a href="https://leetcode.com/problems/meeting-rooms-iii/" target="_blank">Link</a>
  | [merge-k-sorted-lists.py](Hard/merge-k-sorted-lists.py) | O(nlog m) | O(n) | <a href="https://leetcode.com/problems/merge-k-sorted-lists/" target="_blank">Link</a>
  | [minimum-difficulty-of-a-job-schedule.py](Hard/minimum-difficulty-of-a-job-schedule.py) | O(nd) | O(nd) | <a href="https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/" target="_blank">Link</a>
@@ -347,4 +348,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Jun  9 10:32:22 UTC 2024.
+Latest push from RunarFosse: Sun Jun  9 11:47:46 UTC 2024.
