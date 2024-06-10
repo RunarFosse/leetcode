@@ -116,6 +116,7 @@ All problems are tried solving in the most optimal way possible.
  | [sqrtx.py](Easy/sqrtx.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/sqrtx/" target="_blank">Link</a>
  | [squares-of-a-sorted-array.py](Easy/squares-of-a-sorted-array.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/squares-of-a-sorted-array/" target="_blank">Link</a>
  | [student-attendance-record-i.py](Easy/student-attendance-record-i.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/student-attendance-record-i/" target="_blank">Link</a>
+ | [sum-of-all-subset-xor-totals.py](Easy/sum-of-all-subset-xor-totals.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/sum-of-all-subset-xor-totals/" target="_blank">Link</a>
  | [sum-of-left-leaves.py](Easy/sum-of-left-leaves.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/sum-of-left-leaves/" target="_blank">Link</a>
  | [sum-of-values-at-indices-with-k-set-bits.py](Easy/sum-of-values-at-indices-with-k-set-bits.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/" target="_blank">Link</a>
  | [symmetric-tree.py](Easy/symmetric-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/symmetric-tree/" target="_blank">Link</a>
@@ -350,4 +351,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Jun 10 11:28:03 UTC 2024.
+Latest push from RunarFosse: Mon Jun 10 11:57:38 UTC 2024.
