@@ -285,6 +285,7 @@ All problems are tried solving in the most optimal way possible.
  | [sum-root-to-leaf-numbers.py](Medium/sum-root-to-leaf-numbers.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/sum-root-to-leaf-numbers/" target="_blank">Link</a>
  | [swap-nodes-in-pairs.py](Medium/swap-nodes-in-pairs.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/swap-nodes-in-pairs/" target="_blank">Link</a>
  | [task-scheduler.py](Medium/task-scheduler.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/task-scheduler/" target="_blank">Link</a>
+ | [the-number-of-beautiful-subsets.py](Medium/the-number-of-beautiful-subsets.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/the-number-of-beautiful-subsets/" target="_blank">Link</a>
  | [triangle.py](Medium/triangle.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/triangle/" target="_blank">Link</a>
  | [unique-length-3-palindromic-subsequences.py](Medium/unique-length-3-palindromic-subsequences.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/unique-length-3-palindromic-subsequences/" target="_blank">Link</a>
  | [unique-paths-ii.py](Medium/unique-paths-ii.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/unique-paths-ii/" target="_blank">Link</a>
@@ -349,4 +350,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Jun 10 10:01:12 UTC 2024.
+Latest push from RunarFosse: Mon Jun 10 11:28:03 UTC 2024.
