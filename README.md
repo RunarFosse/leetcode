@@ -96,6 +96,7 @@ All problems are tried solving in the most optimal way possible.
  | [range-sum-of-bst.py](Easy/range-sum-of-bst.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/range-sum-of-bst/" target="_blank">Link</a>
  | [redistribute-characters-to-make-all-strings-equal.py](Easy/redistribute-characters-to-make-all-strings-equal.py) | O(nk) | O(1) | <a href="https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/" target="_blank">Link</a>
  | [relative-ranks.py](Easy/relative-ranks.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/relative-ranks/" target="_blank">Link</a>
+ | [relative-sort-array.py](Easy/relative-sort-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/relative-sort-array/" target="_blank">Link</a>
  | [remove-duplicates-from-sorted-array.py](Easy/remove-duplicates-from-sorted-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/" target="_blank">Link</a>
  | [remove-duplicates-from-sorted-list.py](Easy/remove-duplicates-from-sorted-list.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list/" target="_blank">Link</a>
  | [remove-element.py](Easy/remove-element.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/remove-element/" target="_blank">Link</a>
@@ -352,4 +353,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Jun 10 12:27:09 UTC 2024.
+Latest push from RunarFosse: Tue Jun 11 09:43:10 UTC 2024.
