@@ -279,6 +279,7 @@ All problems are tried solving in the most optimal way possible.
  | [sort-characters-by-frequency.py](Medium/sort-characters-by-frequency.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/sort-characters-by-frequency/" target="_blank">Link</a>
  | [sort-colors.py](Medium/sort-colors.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/sort-colors/" target="_blank">Link</a>
  | [sort-vowels-in-a-string.py](Medium/sort-vowels-in-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/sort-vowels-in-a-string/" target="_blank">Link</a>
+ | [string-compression.py](Medium/string-compression.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/string-compression/" target="_blank">Link</a>
  | [string-to-integer-atoi.py](Medium/string-to-integer-atoi.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/string-to-integer-atoi/" target="_blank">Link</a>
  | [subarray-product-less-than-k.py](Medium/subarray-product-less-than-k.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/subarray-product-less-than-k/" target="_blank">Link</a>
  | [subarray-sum-equals-k.py](Medium/subarray-sum-equals-k.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/subarray-sum-equals-k/" target="_blank">Link</a>
@@ -357,4 +358,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Jun 13 11:25:21 UTC 2024.
+Latest push from RunarFosse: Thu Jun 13 17:12:06 UTC 2024.
