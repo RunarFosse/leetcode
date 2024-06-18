@@ -240,6 +240,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-path-sum.py](Medium/minimum-path-sum.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-path-sum/" target="_blank">Link</a>
  | [minimum-remove-to-make-valid-parentheses.py](Medium/minimum-remove-to-make-valid-parentheses.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/" target="_blank">Link</a>
  | [minimum-time-to-make-rope-colorful.py](Medium/minimum-time-to-make-rope-colorful.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-time-to-make-rope-colorful/" target="_blank">Link</a>
+ | [most-profit-assigning-work.py](Medium/most-profit-assigning-work.py) | O(mlog m + nlog n) | O(m+n) | <a href="https://leetcode.com/problems/most-profit-assigning-work/" target="_blank">Link</a>
  | [number-of-dice-rolls-with-target-sum.py](Medium/number-of-dice-rolls-with-target-sum.py) | O(mnk) | O(mn) | <a href="https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/" target="_blank">Link</a>
  | [number-of-islands.py](Medium/number-of-islands.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/number-of-islands/" target="_blank">Link</a>
  | [number-of-laser-beams-in-a-bank.py](Medium/number-of-laser-beams-in-a-bank.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/number-of-laser-beams-in-a-bank/" target="_blank">Link</a>
@@ -362,4 +363,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Jun 17 11:50:14 UTC 2024.
+Latest push from RunarFosse: Tue Jun 18 10:15:01 UTC 2024.
