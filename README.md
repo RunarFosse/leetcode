@@ -196,6 +196,7 @@ All problems are tried solving in the most optimal way possible.
  | [generate-parentheses.py](Medium/generate-parentheses.py) | O(4^n) | O(n2^n) | <a href="https://leetcode.com/problems/generate-parentheses/" target="_blank">Link</a>
  | [get-equal-substrings-within-budget.py](Medium/get-equal-substrings-within-budget.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/get-equal-substrings-within-budget/" target="_blank">Link</a>
  | [group-anagrams.py](Medium/group-anagrams.py) | O(mnlog m) | O(mn) | <a href="https://leetcode.com/problems/group-anagrams/" target="_blank">Link</a>
+ | [grumpy-bookstore-owner.py](Medium/grumpy-bookstore-owner.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/grumpy-bookstore-owner/" target="_blank">Link</a>
  | [hand-of-straights.py](Medium/hand-of-straights.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/hand-of-straights/" target="_blank">Link</a>
  | [house-robber.py](Medium/house-robber.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/house-robber/" target="_blank">Link</a>
  | [insert-interval.py](Medium/insert-interval.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/insert-interval/" target="_blank">Link</a>
@@ -365,4 +366,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Jun 20 10:03:10 UTC 2024.
+Latest push from RunarFosse: Fri Jun 21 09:22:53 UTC 2024.
