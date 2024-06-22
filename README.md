@@ -159,6 +159,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-nice-pairs-in-an-array.py](Medium/count-nice-pairs-in-an-array.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-nice-pairs-in-an-array/" target="_blank">Link</a>
  | [count-nodes-equal-to-average-of-subtree.py](Medium/count-nodes-equal-to-average-of-subtree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/" target="_blank">Link</a>
  | [count-number-of-homogenous-substrings.py](Medium/count-number-of-homogenous-substrings.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-number-of-homogenous-substrings/" target="_blank">Link</a>
+ | [count-number-of-nice-subarrays.py](Medium/count-number-of-nice-subarrays.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-number-of-nice-subarrays/" target="_blank">Link</a>
  | [count-subarrays-where-max-element-appears-at-least-k-times.py](Medium/count-subarrays-where-max-element-appears-at-least-k-times.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/" target="_blank">Link</a>
  | [count-triplets-that-can-form-two-arrays-of-equal-xor.py](Medium/count-triplets-that-can-form-two-arrays-of-equal-xor.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/" target="_blank">Link</a>
  | [count-ways-to-build-good-strings.py](Medium/count-ways-to-build-good-strings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-ways-to-build-good-strings/" target="_blank">Link</a>
@@ -366,4 +367,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Jun 21 09:22:53 UTC 2024.
+Latest push from RunarFosse: Sat Jun 22 17:16:36 UTC 2024.
