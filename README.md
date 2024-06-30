@@ -362,6 +362,7 @@ All problems are tried solving in the most optimal way possible.
  | [patching-array.py](Hard/patching-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/patching-array/" target="_blank">Link</a>
  | [perfect-rectangle.py](Hard/perfect-rectangle.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/perfect-rectangle/" target="_blank">Link</a>
  | [poor-pigs.py](Hard/poor-pigs.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/poor-pigs/" target="_blank">Link</a>
+ | [remove-max-number-of-edges-to-keep-graph-fully-traversable.py](Hard/remove-max-number-of-edges-to-keep-graph-fully-traversable.py) | O(mlog m) | O(n+m) | <a href="https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/" target="_blank">Link</a>
  | [russian-doll-envelopes.py](Hard/russian-doll-envelopes.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/russian-doll-envelopes/" target="_blank">Link</a>
  | [sliding-window-maximum.py](Hard/sliding-window-maximum.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/sliding-window-maximum/" target="_blank">Link</a>
  | [string-compression-ii.py](Hard/string-compression-ii.py) | O(n^2*k) | O(m*n) | <a href="https://leetcode.com/problems/string-compression-ii/" target="_blank">Link</a>
@@ -375,4 +376,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Jun 29 18:56:35 UTC 2024.
+Latest push from RunarFosse: Sun Jun 30 10:24:59 UTC 2024.
