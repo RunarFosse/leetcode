@@ -167,6 +167,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-subarrays-where-max-element-appears-at-least-k-times.py](Medium/count-subarrays-where-max-element-appears-at-least-k-times.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/" target="_blank">Link</a>
  | [count-triplets-that-can-form-two-arrays-of-equal-xor.py](Medium/count-triplets-that-can-form-two-arrays-of-equal-xor.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/" target="_blank">Link</a>
  | [count-ways-to-build-good-strings.py](Medium/count-ways-to-build-good-strings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-ways-to-build-good-strings/" target="_blank">Link</a>
+ | [course-schedule.py](Medium/course-schedule.py) | O(n+m) | O(n+m) | <a href="https://leetcode.com/problems/course-schedule/" target="_blank">Link</a>
  | [custom-sort-string.py](Medium/custom-sort-string.py) | O(m+n) | O(n) | <a href="https://leetcode.com/problems/custom-sort-string/" target="_blank">Link</a>
  | [daily-temperatures.py](Medium/daily-temperatures.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/daily-temperatures/" target="_blank">Link</a>
  | [decode-ways.py](Medium/decode-ways.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/decode-ways/" target="_blank">Link</a>
@@ -376,4 +377,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Jun 30 10:24:59 UTC 2024.
+Latest push from RunarFosse: Sun Jun 30 10:54:14 UTC 2024.
