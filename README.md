@@ -21,6 +21,7 @@ All problems are tried solving in the most optimal way possible.
  | [check-if-two-string-arrays-are-equivalent.py](Easy/check-if-two-string-arrays-are-equivalent.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/" target="_blank">Link</a>
  | [climbing-stairs.py](Easy/climbing-stairs.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/climbing-stairs/" target="_blank">Link</a>
  | [construct-string-from-binary-tree.py](Easy/construct-string-from-binary-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/construct-string-from-binary-tree/" target="_blank">Link</a>
+ | [convert-sorted-array-to-binary-search-tree.py](Easy/convert-sorted-array-to-binary-search-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/" target="_blank">Link</a>
  | [count-elements-with-maximum-frequency.py](Easy/count-elements-with-maximum-frequency.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-elements-with-maximum-frequency/" target="_blank">Link</a>
  | [count-of-matches-in-tournament.py](Easy/count-of-matches-in-tournament.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/count-of-matches-in-tournament/" target="_blank">Link</a>
  | [counting-bits.py](Easy/counting-bits.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/counting-bits/" target="_blank">Link</a>
@@ -378,4 +379,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Jul  1 16:03:53 UTC 2024.
+Latest push from RunarFosse: Mon Jul  1 20:21:57 UTC 2024.
