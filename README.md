@@ -90,6 +90,7 @@ All problems are tried solving in the most optimal way possible.
  | [palindrome-number.py](Easy/palindrome-number.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/palindrome-number/" target="_blank">Link</a>
  | [pascals-triangle-ii.py](Easy/pascals-triangle-ii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/pascals-triangle-ii/" target="_blank">Link</a>
  | [pascals-triangle.py](Easy/pascals-triangle.py) | O(n^2) | O(n^2) | <a href="https://leetcode.com/problems/pascals-triangle/" target="_blank">Link</a>
+ | [pass-the-pillow.py](Easy/pass-the-pillow.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/pass-the-pillow/" target="_blank">Link</a>
  | [path-crossing.py](Easy/path-crossing.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/path-crossing/" target="_blank">Link</a>
  | [path-sum.py](Easy/path-sum.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/path-sum/" target="_blank">Link</a>
  | [plus-one.py](Easy/plus-one.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/plus-one/" target="_blank">Link</a>
@@ -382,4 +383,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Jul  5 20:00:55 UTC 2024.
+Latest push from RunarFosse: Sat Jul  6 09:15:03 UTC 2024.
