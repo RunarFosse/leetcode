@@ -201,6 +201,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-the-minimum-and-maximum-number-of-nodes-between-critical-points.py](Medium/find-the-minimum-and-maximum-number-of-nodes-between-critical-points.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/" target="_blank">Link</a>
  | [find-the-original-array-of-prefix-xor.py](Medium/find-the-original-array-of-prefix-xor.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-the-original-array-of-prefix-xor/" target="_blank">Link</a>
  | [find-the-winner-of-an-array-game.py](Medium/find-the-winner-of-an-array-game.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-winner-of-an-array-game/" target="_blank">Link</a>
+ | [find-the-winner-of-the-circular-game.py](Medium/find-the-winner-of-the-circular-game.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-winner-of-the-circular-game/" target="_blank">Link</a>
  | [find-unique-binary-string.py](Medium/find-unique-binary-string.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-unique-binary-string/" target="_blank">Link</a>
  | [frequency-of-the-most-frequent-element.py](Medium/frequency-of-the-most-frequent-element.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/frequency-of-the-most-frequent-element/" target="_blank">Link</a>
  | [furthest-building-you-can-reach.py](Medium/furthest-building-you-can-reach.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/furthest-building-you-can-reach/" target="_blank">Link</a>
@@ -383,4 +384,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Jul  6 09:15:03 UTC 2024.
+Latest push from RunarFosse: Mon Jul  8 15:28:20 UTC 2024.
