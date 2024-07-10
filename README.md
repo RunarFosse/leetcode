@@ -25,6 +25,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-elements-with-maximum-frequency.py](Easy/count-elements-with-maximum-frequency.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-elements-with-maximum-frequency/" target="_blank">Link</a>
  | [count-of-matches-in-tournament.py](Easy/count-of-matches-in-tournament.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/count-of-matches-in-tournament/" target="_blank">Link</a>
  | [counting-bits.py](Easy/counting-bits.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/counting-bits/" target="_blank">Link</a>
+ | [crawler-log-folder.py](Easy/crawler-log-folder.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/crawler-log-folder/" target="_blank">Link</a>
  | [destination-city.py](Easy/destination-city.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/destination-city/" target="_blank">Link</a>
  | [determine-if-string-halves-are-alike.py](Easy/determine-if-string-halves-are-alike.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/determine-if-string-halves-are-alike/" target="_blank">Link</a>
  | [diameter-of-binary-tree.py](Easy/diameter-of-binary-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/diameter-of-binary-tree/" target="_blank">Link</a>
@@ -385,4 +386,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Jul  9 15:20:45 UTC 2024.
+Latest push from RunarFosse: Wed Jul 10 14:50:30 UTC 2024.
