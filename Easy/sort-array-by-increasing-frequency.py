@@ -4,9 +4,8 @@
 
 class Solution:
     def frequencySort(self, nums: List[int]) -> List[int]:
-        frequencies = defaultdict(int)
-
         # Count frequency of each number
+        frequencies = defaultdict(int)
         for num in nums:
             frequencies[num] += 1
 
