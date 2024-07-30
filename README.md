@@ -253,6 +253,7 @@ All problems are tried solving in the most optimal way possible.
  | [merge-in-between-linked-lists.py](Medium/merge-in-between-linked-lists.py) | O(m+n) | O(1) | <a href="https://leetcode.com/problems/merge-in-between-linked-lists/" target="_blank">Link</a>
  | [minimize-maximum-pair-sum-in-array.py](Medium/minimize-maximum-pair-sum-in-array.py) | O(nlog n) | O(log n) | <a href="https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/" target="_blank">Link</a>
  | [minimum-amount-of-time-to-collect-garbage.py](Medium/minimum-amount-of-time-to-collect-garbage.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/" target="_blank">Link</a>
+ | [minimum-deletions-to-make-string-balanced.py](Medium/minimum-deletions-to-make-string-balanced.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/" target="_blank">Link</a>
  | [minimum-difference-between-largest-and-smallest-value-in-three-moves.py](Medium/minimum-difference-between-largest-and-smallest-value-in-three-moves.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/" target="_blank">Link</a>
  | [minimum-falling-path-sum.py](Medium/minimum-falling-path-sum.py) | O(n^2) | O(1) | <a href="https://leetcode.com/problems/minimum-falling-path-sum/" target="_blank">Link</a>
  | [minimum-height-trees.py](Medium/minimum-height-trees.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/minimum-height-trees/" target="_blank">Link</a>
@@ -395,4 +396,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Jul 29 16:51:21 UTC 2024.
+Latest push from RunarFosse: Tue Jul 30 16:21:46 UTC 2024.
