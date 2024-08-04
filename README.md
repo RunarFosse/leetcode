@@ -288,6 +288,7 @@ All problems are tried solving in the most optimal way possible.
  | [powx-n.py](Medium/powx-n.py) | O(log n) | O(log n) | <a href="https://leetcode.com/problems/powx-n/" target="_blank">Link</a>
  | [product-of-array-except-self.py](Medium/product-of-array-except-self.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/product-of-array-except-self/" target="_blank">Link</a>
  | [pseudo-palindromic-paths-in-a-binary-tree.py](Medium/pseudo-palindromic-paths-in-a-binary-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/" target="_blank">Link</a>
+ | [range-sum-of-sorted-subarray-sums.py](Medium/range-sum-of-sorted-subarray-sums.py) | O(n^2log n) | O(n) | <a href="https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/" target="_blank">Link</a>
  | [rearrange-array-elements-by-sign.py](Medium/rearrange-array-elements-by-sign.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/rearrange-array-elements-by-sign/" target="_blank">Link</a>
  | [reduction-operations-to-make-the-array-elements-equal.py](Medium/reduction-operations-to-make-the-array-elements-equal.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/" target="_blank">Link</a>
  | [remove-duplicates-from-sorted-array-ii.py](Medium/remove-duplicates-from-sorted-array-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/" target="_blank">Link</a>
@@ -398,4 +399,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Aug  3 09:44:59 UTC 2024.
+Latest push from RunarFosse: Sun Aug  4 18:01:47 UTC 2024.
