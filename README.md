@@ -198,6 +198,7 @@ All problems are tried solving in the most optimal way possible.
  | [eliminate-maximum-number-of-monsters.py](Medium/eliminate-maximum-number-of-monsters.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/eliminate-maximum-number-of-monsters/" target="_blank">Link</a>
  | [evaluate-reverse-polish-notation.py](Medium/evaluate-reverse-polish-notation.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/evaluate-reverse-polish-notation/" target="_blank">Link</a>
  | [even-odd-tree.py](Medium/even-odd-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/even-odd-tree/" target="_blank">Link</a>
+ | [filling-bookcase-shelves.py](Medium/filling-bookcase-shelves.py) | O(nk) | O(n) | <a href="https://leetcode.com/problems/filling-bookcase-shelves/" target="_blank">Link</a>
  | [find-all-duplicates-in-an-array.py](Medium/find-all-duplicates-in-an-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-all-duplicates-in-an-array/" target="_blank">Link</a>
  | [find-all-groups-of-farmland.py](Medium/find-all-groups-of-farmland.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/find-all-groups-of-farmland/" target="_blank">Link</a>
  | [find-bottom-left-tree-value.py](Medium/find-bottom-left-tree-value.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-bottom-left-tree-value/" target="_blank">Link</a>
@@ -401,4 +402,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Aug  5 10:05:58 UTC 2024.
+Latest push from RunarFosse: Mon Aug  5 10:55:20 UTC 2024.
