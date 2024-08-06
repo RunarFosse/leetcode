@@ -267,6 +267,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-number-of-days-to-make-m-bouquets.py](Medium/minimum-number-of-days-to-make-m-bouquets.py) | O(nlog a) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/" target="_blank">Link</a>
  | [minimum-number-of-operations-to-make-array-empty.py](Medium/minimum-number-of-operations-to-make-array-empty.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/" target="_blank">Link</a>
  | [minimum-number-of-operations-to-make-array-xor-equal-to-k.py](Medium/minimum-number-of-operations-to-make-array-xor-equal-to-k.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/" target="_blank">Link</a>
+ | [minimum-number-of-pushes-to-type-word-ii.py](Medium/minimum-number-of-pushes-to-type-word-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/" target="_blank">Link</a>
  | [minimum-number-of-steps-to-make-two-strings-anagram.py](Medium/minimum-number-of-steps-to-make-two-strings-anagram.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/" target="_blank">Link</a>
  | [minimum-operations-to-make-binary-array-elements-equal-to-one-i.py](Medium/minimum-operations-to-make-binary-array-elements-equal-to-one-i.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/" target="_blank">Link</a>
  | [minimum-path-sum.py](Medium/minimum-path-sum.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-path-sum/" target="_blank">Link</a>
@@ -402,4 +403,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Aug  5 10:55:20 UTC 2024.
+Latest push from RunarFosse: Tue Aug  6 09:59:29 UTC 2024.
