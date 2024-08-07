@@ -363,6 +363,7 @@ All problems are tried solving in the most optimal way possible.
  | [freedom-trail.py](Hard/freedom-trail.py) | O(mnlog(mn)) | O(mn) | <a href="https://leetcode.com/problems/freedom-trail/" target="_blank">Link</a>
  | [frog-jump.py](Hard/frog-jump.py) | O(nk) | O(n) | <a href="https://leetcode.com/problems/frog-jump/" target="_blank">Link</a>
  | [greatest-common-divisor-traversal.py](Hard/greatest-common-divisor-traversal.py) | O(nlog m) | O(n) | <a href="https://leetcode.com/problems/greatest-common-divisor-traversal/" target="_blank">Link</a>
+ | [integer-to-english-words.py](Hard/integer-to-english-words.py) | O(log n) | O(log n) | <a href="https://leetcode.com/problems/integer-to-english-words/" target="_blank">Link</a>
  | [ipo.py](Hard/ipo.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/ipo/" target="_blank">Link</a>
  | [k-inverse-pairs-array.py](Hard/k-inverse-pairs-array.py) | O(nk) | O(k) | <a href="https://leetcode.com/problems/k-inverse-pairs-array/" target="_blank">Link</a>
  | [largest-rectangle-in-histogram.py](Hard/largest-rectangle-in-histogram.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/largest-rectangle-in-histogram/" target="_blank">Link</a>
@@ -405,4 +406,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Aug  6 11:49:26 UTC 2024.
+Latest push from RunarFosse: Wed Aug  7 10:02:29 UTC 2024.
