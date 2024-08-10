@@ -298,6 +298,7 @@ All problems are tried solving in the most optimal way possible.
  | [range-sum-of-sorted-subarray-sums.py](Medium/range-sum-of-sorted-subarray-sums.py) | O(n^2log n) | O(n) | <a href="https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/" target="_blank">Link</a>
  | [rearrange-array-elements-by-sign.py](Medium/rearrange-array-elements-by-sign.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/rearrange-array-elements-by-sign/" target="_blank">Link</a>
  | [reduction-operations-to-make-the-array-elements-equal.py](Medium/reduction-operations-to-make-the-array-elements-equal.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/" target="_blank">Link</a>
+ | [regions-cut-by-slashes.py](Medium/regions-cut-by-slashes.py) | O(n^2) | O(n^2) | <a href="https://leetcode.com/problems/regions-cut-by-slashes/" target="_blank">Link</a>
  | [remove-duplicates-from-sorted-array-ii.py](Medium/remove-duplicates-from-sorted-array-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/" target="_blank">Link</a>
  | [remove-k-digits.py](Medium/remove-k-digits.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/remove-k-digits/" target="_blank">Link</a>
  | [remove-nodes-from-linked-list.py](Medium/remove-nodes-from-linked-list.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/remove-nodes-from-linked-list/" target="_blank">Link</a>
@@ -409,4 +410,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Aug  9 11:04:51 UTC 2024.
+Latest push from RunarFosse: Sat Aug 10 11:19:34 UTC 2024.
