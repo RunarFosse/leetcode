@@ -187,6 +187,7 @@ All problems are tried solving in the most optimal way possible.
  | [decode-ways.py](Medium/decode-ways.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/decode-ways/" target="_blank">Link</a>
  | [delete-leaves-with-a-given-value.py](Medium/delete-leaves-with-a-given-value.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/delete-leaves-with-a-given-value/" target="_blank">Link</a>
  | [delete-node-in-a-linked-list.py](Medium/delete-node-in-a-linked-list.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/delete-node-in-a-linked-list/" target="_blank">Link</a>
+ | [delete-nodes-and-return-forest.py](Medium/delete-nodes-and-return-forest.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/delete-nodes-and-return-forest/" target="_blank">Link</a>
  | [determine-if-a-cell-is-reachable-at-a-given-time.py](Medium/determine-if-a-cell-is-reachable-at-a-given-time.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/" target="_blank">Link</a>
  | [determine-if-two-strings-are-close.py](Medium/determine-if-two-strings-are-close.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/determine-if-two-strings-are-close/" target="_blank">Link</a>
  | [diagonal-traverse-ii.py](Medium/diagonal-traverse-ii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/diagonal-traverse-ii/" target="_blank">Link</a>
@@ -412,4 +413,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Aug 14 11:45:07 UTC 2024.
+Latest push from RunarFosse: Wed Aug 14 19:35:27 UTC 2024.
