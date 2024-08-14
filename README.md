@@ -363,6 +363,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-vowels-permutation.py](Hard/count-vowels-permutation.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-vowels-permutation/" target="_blank">Link</a>
  | [find-all-people-with-secret.py](Hard/find-all-people-with-secret.py) | O(n) | O(m+n) | <a href="https://leetcode.com/problems/find-all-people-with-secret/" target="_blank">Link</a>
  | [find-in-mountain-array.py](Hard/find-in-mountain-array.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/find-in-mountain-array/" target="_blank">Link</a>
+ | [find-k-th-smallest-pair-distance.py](Hard/find-k-th-smallest-pair-distance.py) | O(nlog n + nlog m) | O(n) | <a href="https://leetcode.com/problems/find-k-th-smallest-pair-distance/" target="_blank">Link</a>
  | [find-the-maximum-sum-of-node-values.py](Hard/find-the-maximum-sum-of-node-values.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-maximum-sum-of-node-values/" target="_blank">Link</a>
  | [first-missing-positive.py](Hard/first-missing-positive.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/first-missing-positive/" target="_blank">Link</a>
  | [freedom-trail.py](Hard/freedom-trail.py) | O(mnlog(mn)) | O(mn) | <a href="https://leetcode.com/problems/freedom-trail/" target="_blank">Link</a>
@@ -411,4 +412,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Aug 13 11:02:17 UTC 2024.
+Latest push from RunarFosse: Wed Aug 14 11:45:07 UTC 2024.
