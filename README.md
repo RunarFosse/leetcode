@@ -66,6 +66,7 @@ All problems are tried solving in the most optimal way possible.
  | [linked-list-cycle.py](Easy/linked-list-cycle.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/linked-list-cycle/" target="_blank">Link</a>
  | [longest-common-prefix.py](Easy/longest-common-prefix.py) | O(nlog n) | O(m) | <a href="https://leetcode.com/problems/longest-common-prefix/" target="_blank">Link</a>
  | [longest-palindrome.py](Easy/longest-palindrome.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/longest-palindrome/" target="_blank">Link</a>
+ | [lucky-numbers-in-a-matrix.py](Easy/lucky-numbers-in-a-matrix.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/lucky-numbers-in-a-matrix/" target="_blank">Link</a>
  | [majority-element.py](Easy/majority-element.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/majority-element/" target="_blank">Link</a>
  | [make-the-string-great.py](Easy/make-the-string-great.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/make-the-string-great/" target="_blank">Link</a>
  | [make-two-arrays-equal-by-reversing-subarrays.py](Easy/make-two-arrays-equal-by-reversing-subarrays.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/" target="_blank">Link</a>
@@ -413,4 +414,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Aug 14 19:35:27 UTC 2024.
+Latest push from RunarFosse: Wed Aug 14 19:54:13 UTC 2024.
