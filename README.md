@@ -256,6 +256,7 @@ All problems are tried solving in the most optimal way possible.
  | [majority-element-ii.py](Medium/majority-element-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/majority-element-ii/" target="_blank">Link</a>
  | [maximize-happiness-of-selected-children.py](Medium/maximize-happiness-of-selected-children.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximize-happiness-of-selected-children/" target="_blank">Link</a>
  | [maximum-difference-between-node-and-ancestor.py](Medium/maximum-difference-between-node-and-ancestor.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/" target="_blank">Link</a>
+ | [maximum-distance-in-arrays.py](Medium/maximum-distance-in-arrays.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-distance-in-arrays/" target="_blank">Link</a>
  | [maximum-element-after-decreasing-and-rearranging.py](Medium/maximum-element-after-decreasing-and-rearranging.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/" target="_blank">Link</a>
  | [maximum-length-of-a-concatenated-string-with-unique-characters.py](Medium/maximum-length-of-a-concatenated-string-with-unique-characters.py) | O(2^n) | O(n) | <a href="https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/" target="_blank">Link</a>
  | [maximum-number-of-coins-you-can-get.py](Medium/maximum-number-of-coins-you-can-get.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximum-number-of-coins-you-can-get/" target="_blank">Link</a>
@@ -418,4 +419,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Aug 15 21:07:20 UTC 2024.
+Latest push from RunarFosse: Fri Aug 16 08:59:31 UTC 2024.
