@@ -388,6 +388,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-score-words-formed-by-letters.py](Hard/maximum-score-words-formed-by-letters.py) | O(m2^n) | O(n) | <a href="https://leetcode.com/problems/maximum-score-words-formed-by-letters/" target="_blank">Link</a>
  | [meeting-rooms-iii.py](Hard/meeting-rooms-iii.py) | O(mlog(mn)) | O(m + n) | <a href="https://leetcode.com/problems/meeting-rooms-iii/" target="_blank">Link</a>
  | [merge-k-sorted-lists.py](Hard/merge-k-sorted-lists.py) | O(nlog m) | O(n) | <a href="https://leetcode.com/problems/merge-k-sorted-lists/" target="_blank">Link</a>
+ | [minimum-cost-to-hire-k-workers.py](Hard/minimum-cost-to-hire-k-workers.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-cost-to-hire-k-workers/" target="_blank">Link</a>
  | [minimum-difficulty-of-a-job-schedule.py](Hard/minimum-difficulty-of-a-job-schedule.py) | O(nd) | O(nd) | <a href="https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/" target="_blank">Link</a>
  | [minimum-number-of-k-consecutive-bit-flips.py](Hard/minimum-number-of-k-consecutive-bit-flips.py) | O(n) | O(k) | <a href="https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/" target="_blank">Link</a>
  | [minimum-number-of-operations-to-make-array-continuous.py](Hard/minimum-number-of-operations-to-make-array-continuous.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/" target="_blank">Link</a>
@@ -420,4 +421,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Aug 16 11:02:50 UTC 2024.
+Latest push from RunarFosse: Fri Aug 16 11:48:04 UTC 2024.
