@@ -348,6 +348,7 @@ All problems are tried solving in the most optimal way possible.
  | [task-scheduler.py](Medium/task-scheduler.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/task-scheduler/" target="_blank">Link</a>
  | [the-number-of-beautiful-subsets.py](Medium/the-number-of-beautiful-subsets.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/the-number-of-beautiful-subsets/" target="_blank">Link</a>
  | [triangle.py](Medium/triangle.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/triangle/" target="_blank">Link</a>
+ | [ugly-number-ii.py](Medium/ugly-number-ii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/ugly-number-ii/" target="_blank">Link</a>
  | [unique-length-3-palindromic-subsequences.py](Medium/unique-length-3-palindromic-subsequences.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/unique-length-3-palindromic-subsequences/" target="_blank">Link</a>
  | [unique-paths-ii.py](Medium/unique-paths-ii.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/unique-paths-ii/" target="_blank">Link</a>
  | [unique-paths.py](Medium/unique-paths.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/unique-paths/" target="_blank">Link</a>
@@ -422,4 +423,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Aug 17 10:54:41 UTC 2024.
+Latest push from RunarFosse: Sun Aug 18 16:20:53 UTC 2024.
