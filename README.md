@@ -148,6 +148,7 @@ All problems are tried solving in the most optimal way possible.
 ## Medium
  | Problem | Time complexity | Space complexity | Leetcode |
  | :------ | :-------------: | :--------------: | :--------------: |
+ | [2-keys-keyboard.py](Medium/2-keys-keyboard.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/2-keys-keyboard/" target="_blank">Link</a>
  | [3sum-closest.py](Medium/3sum-closest.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/3sum-closest/" target="_blank">Link</a>
  | [3sum.py](Medium/3sum.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/3sum/" target="_blank">Link</a>
  | [add-one-row-to-tree.py](Medium/add-one-row-to-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/add-one-row-to-tree/" target="_blank">Link</a>
@@ -423,4 +424,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Aug 18 16:20:53 UTC 2024.
+Latest push from RunarFosse: Mon Aug 19 10:24:45 UTC 2024.
