@@ -89,6 +89,7 @@ All problems are tried solving in the most optimal way possible.
  | [missing-number.py](Easy/missing-number.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/missing-number/" target="_blank">Link</a>
  | [n-th-tribonacci-number.py](Easy/n-th-tribonacci-number.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/n-th-tribonacci-number/" target="_blank">Link</a>
  | [nim-game.py](Easy/nim-game.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/nim-game/" target="_blank">Link</a>
+ | [number-complement.py](Easy/number-complement.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/number-complement/" target="_blank">Link</a>
  | [number-of-1-bits.py](Easy/number-of-1-bits.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/number-of-1-bits/" target="_blank">Link</a>
  | [number-of-senior-citizens.py](Easy/number-of-senior-citizens.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/number-of-senior-citizens/" target="_blank">Link</a>
  | [number-of-students-unable-to-eat-lunch.py](Easy/number-of-students-unable-to-eat-lunch.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/" target="_blank">Link</a>
@@ -424,4 +425,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Aug 19 10:24:45 UTC 2024.
+Latest push from RunarFosse: Thu Aug 22 14:14:55 UTC 2024.
