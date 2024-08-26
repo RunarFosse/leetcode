@@ -419,6 +419,7 @@ All problems are tried solving in the most optimal way possible.
  | [robot-collisions.py](Hard/robot-collisions.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/robot-collisions/" target="_blank">Link</a>
  | [russian-doll-envelopes.py](Hard/russian-doll-envelopes.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/russian-doll-envelopes/" target="_blank">Link</a>
  | [sliding-window-maximum.py](Hard/sliding-window-maximum.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/sliding-window-maximum/" target="_blank">Link</a>
+ | [strange-printer.py](Hard/strange-printer.py) | O(n^3) | O(n^2) | <a href="https://leetcode.com/problems/strange-printer/" target="_blank">Link</a>
  | [string-compression-ii.py](Hard/string-compression-ii.py) | O(n^2*k) | O(m*n) | <a href="https://leetcode.com/problems/string-compression-ii/" target="_blank">Link</a>
  | [student-attendance-record-ii.py](Hard/student-attendance-record-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/student-attendance-record-ii/" target="_blank">Link</a>
  | [subarrays-with-k-different-integers.py](Hard/subarrays-with-k-different-integers.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/subarrays-with-k-different-integers/" target="_blank">Link</a>
@@ -430,4 +431,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Aug 26 09:00:46 UTC 2024.
+Latest push from RunarFosse: Mon Aug 26 09:45:40 UTC 2024.
