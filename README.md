@@ -293,6 +293,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-time-to-make-rope-colorful.py](Medium/minimum-time-to-make-rope-colorful.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-time-to-make-rope-colorful/" target="_blank">Link</a>
  | [most-profit-assigning-work.py](Medium/most-profit-assigning-work.py) | O(mlog m + nlog n) | O(m+n) | <a href="https://leetcode.com/problems/most-profit-assigning-work/" target="_blank">Link</a>
  | [number-of-dice-rolls-with-target-sum.py](Medium/number-of-dice-rolls-with-target-sum.py) | O(mnk) | O(mn) | <a href="https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/" target="_blank">Link</a>
+ | [number-of-good-leaf-nodes-pairs.py](Medium/number-of-good-leaf-nodes-pairs.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/" target="_blank">Link</a>
  | [number-of-islands.py](Medium/number-of-islands.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/number-of-islands/" target="_blank">Link</a>
  | [number-of-laser-beams-in-a-bank.py](Medium/number-of-laser-beams-in-a-bank.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/number-of-laser-beams-in-a-bank/" target="_blank">Link</a>
  | [number-of-steps-to-reduce-a-number-in-binary-representation-to-one.py](Medium/number-of-steps-to-reduce-a-number-in-binary-representation-to-one.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/" target="_blank">Link</a>
@@ -434,4 +435,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Aug 28 12:55:12 UTC 2024.
+Latest push from RunarFosse: Wed Aug 28 17:16:15 UTC 2024.
