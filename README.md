@@ -222,6 +222,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-the-duplicate-number.py](Medium/find-the-duplicate-number.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-duplicate-number/" target="_blank">Link</a>
  | [find-the-minimum-and-maximum-number-of-nodes-between-critical-points.py](Medium/find-the-minimum-and-maximum-number-of-nodes-between-critical-points.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/" target="_blank">Link</a>
  | [find-the-original-array-of-prefix-xor.py](Medium/find-the-original-array-of-prefix-xor.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-the-original-array-of-prefix-xor/" target="_blank">Link</a>
+ | [find-the-student-that-will-replace-the-chalk.py](Medium/find-the-student-that-will-replace-the-chalk.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/" target="_blank">Link</a>
  | [find-the-winner-of-an-array-game.py](Medium/find-the-winner-of-an-array-game.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-winner-of-an-array-game/" target="_blank">Link</a>
  | [find-the-winner-of-the-circular-game.py](Medium/find-the-winner-of-the-circular-game.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-winner-of-the-circular-game/" target="_blank">Link</a>
  | [find-unique-binary-string.py](Medium/find-unique-binary-string.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-unique-binary-string/" target="_blank">Link</a>
@@ -437,4 +438,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Sep  1 08:56:29 UTC 2024.
+Latest push from RunarFosse: Mon Sep  2 09:03:41 UTC 2024.
