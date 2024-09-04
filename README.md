@@ -368,6 +368,7 @@ All problems are tried solving in the most optimal way possible.
  | [valid-parenthesis-string.py](Medium/valid-parenthesis-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/valid-parenthesis-string/" target="_blank">Link</a>
  | [valid-sudoku.py](Medium/valid-sudoku.py) | O(n^2) | O(n^2) | <a href="https://leetcode.com/problems/valid-sudoku/" target="_blank">Link</a>
  | [validate-binary-tree-nodes.py](Medium/validate-binary-tree-nodes.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/validate-binary-tree-nodes/" target="_blank">Link</a>
+ | [walking-robot-simulation.py](Medium/walking-robot-simulation.py) | O(n + m) | O(n) | <a href="https://leetcode.com/problems/walking-robot-simulation/" target="_blank">Link</a>
  | [widest-vertical-area-between-two-points-containing-no-points.py](Medium/widest-vertical-area-between-two-points-containing-no-points.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/" target="_blank">Link</a>
  | [wiggle-subsequence.py](Medium/wiggle-subsequence.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/wiggle-subsequence/" target="_blank">Link</a>
  | [word-search.py](Medium/word-search.py) | O(mn2^k) | O(k) | <a href="https://leetcode.com/problems/word-search/" target="_blank">Link</a>
@@ -439,4 +440,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Sep  3 08:27:44 UTC 2024.
+Latest push from RunarFosse: Wed Sep  4 14:49:44 UTC 2024.
