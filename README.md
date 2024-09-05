@@ -216,6 +216,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-bottom-left-tree-value.py](Medium/find-bottom-left-tree-value.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-bottom-left-tree-value/" target="_blank">Link</a>
  | [find-first-and-last-position-of-element-in-sorted-array.py](Medium/find-first-and-last-position-of-element-in-sorted-array.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/" target="_blank">Link</a>
  | [find-largest-value-in-each-tree-row.py](Medium/find-largest-value-in-each-tree-row.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/find-largest-value-in-each-tree-row/" target="_blank">Link</a>
+ | [find-missing-observations.py](Medium/find-missing-observations.py) | O(m + n) | O(n) | <a href="https://leetcode.com/problems/find-missing-observations/" target="_blank">Link</a>
  | [find-peak-element.py](Medium/find-peak-element.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/find-peak-element/" target="_blank">Link</a>
  | [find-players-with-zero-or-one-losses.py](Medium/find-players-with-zero-or-one-losses.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/find-players-with-zero-or-one-losses/" target="_blank">Link</a>
  | [find-polygon-with-the-largest-perimeter.py](Medium/find-polygon-with-the-largest-perimeter.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/" target="_blank">Link</a>
@@ -440,4 +441,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Sep  4 14:49:44 UTC 2024.
+Latest push from RunarFosse: Thu Sep  5 08:09:40 UTC 2024.
