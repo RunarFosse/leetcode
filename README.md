@@ -346,6 +346,7 @@ All problems are tried solving in the most optimal way possible.
  | [sort-the-jumbled-numbers.py](Medium/sort-the-jumbled-numbers.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/sort-the-jumbled-numbers/" target="_blank">Link</a>
  | [sort-vowels-in-a-string.py](Medium/sort-vowels-in-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/sort-vowels-in-a-string/" target="_blank">Link</a>
  | [spiral-matrix-iii.py](Medium/spiral-matrix-iii.py) | O(m^2 + n^2) | O(mn) | <a href="https://leetcode.com/problems/spiral-matrix-iii/" target="_blank">Link</a>
+ | [split-linked-list-in-parts.py](Medium/split-linked-list-in-parts.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/split-linked-list-in-parts/" target="_blank">Link</a>
  | [stone-game-ii.py](Medium/stone-game-ii.py) | O(n^3) | O(n) | <a href="https://leetcode.com/problems/stone-game-ii/" target="_blank">Link</a>
  | [string-compression.py](Medium/string-compression.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/string-compression/" target="_blank">Link</a>
  | [string-to-integer-atoi.py](Medium/string-to-integer-atoi.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/string-to-integer-atoi/" target="_blank">Link</a>
@@ -441,4 +442,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Sep  5 08:09:40 UTC 2024.
+Latest push from RunarFosse: Sun Sep  8 09:19:30 UTC 2024.
