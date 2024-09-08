@@ -255,6 +255,7 @@ All problems are tried solving in the most optimal way possible.
  | [least-number-of-unique-integers-after-k-removals.py](Medium/least-number-of-unique-integers-after-k-removals.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/" target="_blank">Link</a>
  | [length-of-longest-subarray-with-at-most-k-frequency.py](Medium/length-of-longest-subarray-with-at-most-k-frequency.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/" target="_blank">Link</a>
  | [letter-combinations-of-a-phone-number.py](Medium/letter-combinations-of-a-phone-number.py) | O(nm) | O(m) | <a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/" target="_blank">Link</a>
+ | [linked-list-in-binary-tree.py](Medium/linked-list-in-binary-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/linked-list-in-binary-tree/" target="_blank">Link</a>
  | [longest-common-subsequence.py](Medium/longest-common-subsequence.py) | O(mn) | O(min(m,n)) | <a href="https://leetcode.com/problems/longest-common-subsequence/" target="_blank">Link</a>
  | [longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py](Medium/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/" target="_blank">Link</a>
  | [longest-ideal-subsequence.py](Medium/longest-ideal-subsequence.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/longest-ideal-subsequence/" target="_blank">Link</a>
@@ -442,4 +443,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Sep  8 09:19:30 UTC 2024.
+Latest push from RunarFosse: Sun Sep  8 10:25:27 UTC 2024.
