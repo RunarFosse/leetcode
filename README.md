@@ -238,6 +238,7 @@ All problems are tried solving in the most optimal way possible.
  | [grumpy-bookstore-owner.py](Medium/grumpy-bookstore-owner.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/grumpy-bookstore-owner/" target="_blank">Link</a>
  | [hand-of-straights.py](Medium/hand-of-straights.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/hand-of-straights/" target="_blank">Link</a>
  | [house-robber.py](Medium/house-robber.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/house-robber/" target="_blank">Link</a>
+ | [insert-greatest-common-divisors-in-linked-list.py](Medium/insert-greatest-common-divisors-in-linked-list.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/" target="_blank">Link</a>
  | [insert-interval.py](Medium/insert-interval.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/insert-interval/" target="_blank">Link</a>
  | [integer-break.py](Medium/integer-break.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/integer-break/" target="_blank">Link</a>
  | [integer-replacement.py](Medium/integer-replacement.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/integer-replacement/" target="_blank">Link</a>
@@ -444,4 +445,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Sep  9 08:52:13 UTC 2024.
+Latest push from RunarFosse: Tue Sep 10 08:28:05 UTC 2024.
