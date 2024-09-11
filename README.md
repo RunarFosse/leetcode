@@ -83,6 +83,7 @@ All problems are tried solving in the most optimal way possible.
  | [merge-two-sorted-lists.py](Easy/merge-two-sorted-lists.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/merge-two-sorted-lists/" target="_blank">Link</a>
  | [middle-of-the-linked-list.py](Easy/middle-of-the-linked-list.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/middle-of-the-linked-list/" target="_blank">Link</a>
  | [min-cost-climbing-stairs.py](Easy/min-cost-climbing-stairs.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/min-cost-climbing-stairs/" target="_blank">Link</a>
+ | [minimum-bit-flips-to-convert-number.py](Easy/minimum-bit-flips-to-convert-number.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/minimum-bit-flips-to-convert-number/" target="_blank">Link</a>
  | [minimum-changes-to-make-alternating-binary-string.py](Easy/minimum-changes-to-make-alternating-binary-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/" target="_blank">Link</a>
  | [minimum-common-value.py](Easy/minimum-common-value.py) | O(m+n) | O(1) | <a href="https://leetcode.com/problems/minimum-common-value/" target="_blank">Link</a>
  | [minimum-depth-of-binary-tree.py](Easy/minimum-depth-of-binary-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/" target="_blank">Link</a>
@@ -445,4 +446,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Sep 10 08:28:05 UTC 2024.
+Latest push from RunarFosse: Wed Sep 11 10:28:04 UTC 2024.
