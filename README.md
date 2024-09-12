@@ -26,6 +26,7 @@ All problems are tried solving in the most optimal way possible.
  | [convert-sorted-array-to-binary-search-tree.py](Easy/convert-sorted-array-to-binary-search-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/" target="_blank">Link</a>
  | [count-elements-with-maximum-frequency.py](Easy/count-elements-with-maximum-frequency.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-elements-with-maximum-frequency/" target="_blank">Link</a>
  | [count-of-matches-in-tournament.py](Easy/count-of-matches-in-tournament.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/count-of-matches-in-tournament/" target="_blank">Link</a>
+ | [count-the-number-of-consistent-strings.py](Easy/count-the-number-of-consistent-strings.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-the-number-of-consistent-strings/" target="_blank">Link</a>
  | [counting-bits.py](Easy/counting-bits.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/counting-bits/" target="_blank">Link</a>
  | [crawler-log-folder.py](Easy/crawler-log-folder.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/crawler-log-folder/" target="_blank">Link</a>
  | [destination-city.py](Easy/destination-city.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/destination-city/" target="_blank">Link</a>
@@ -446,4 +447,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Sep 11 10:28:04 UTC 2024.
+Latest push from RunarFosse: Thu Sep 12 07:41:01 UTC 2024.
