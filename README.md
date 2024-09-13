@@ -379,6 +379,7 @@ All problems are tried solving in the most optimal way possible.
  | [widest-vertical-area-between-two-points-containing-no-points.py](Medium/widest-vertical-area-between-two-points-containing-no-points.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/" target="_blank">Link</a>
  | [wiggle-subsequence.py](Medium/wiggle-subsequence.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/wiggle-subsequence/" target="_blank">Link</a>
  | [word-search.py](Medium/word-search.py) | O(mn2^k) | O(k) | <a href="https://leetcode.com/problems/word-search/" target="_blank">Link</a>
+ | [xor-queries-of-a-subarray.py](Medium/xor-queries-of-a-subarray.py) | O(m + n) | O(m + n) | <a href="https://leetcode.com/problems/xor-queries-of-a-subarray/" target="_blank">Link</a>
  | [zigzag-conversion.py](Medium/zigzag-conversion.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/zigzag-conversion/" target="_blank">Link</a>
 
 
@@ -447,4 +448,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Sep 12 07:41:01 UTC 2024.
+Latest push from RunarFosse: Fri Sep 13 11:23:31 UTC 2024.
