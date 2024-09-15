@@ -225,6 +225,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-polygon-with-the-largest-perimeter.py](Medium/find-polygon-with-the-largest-perimeter.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/" target="_blank">Link</a>
  | [find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.py](Medium/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.py) | | O(n^2) | <a href="https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/" target="_blank">Link</a>
  | [find-the-duplicate-number.py](Medium/find-the-duplicate-number.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-duplicate-number/" target="_blank">Link</a>
+ | [find-the-longest-substring-containing-vowels-in-even-counts.py](Medium/find-the-longest-substring-containing-vowels-in-even-counts.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/" target="_blank">Link</a>
  | [find-the-minimum-and-maximum-number-of-nodes-between-critical-points.py](Medium/find-the-minimum-and-maximum-number-of-nodes-between-critical-points.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/" target="_blank">Link</a>
  | [find-the-original-array-of-prefix-xor.py](Medium/find-the-original-array-of-prefix-xor.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-the-original-array-of-prefix-xor/" target="_blank">Link</a>
  | [find-the-student-that-will-replace-the-chalk.py](Medium/find-the-student-that-will-replace-the-chalk.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/" target="_blank">Link</a>
@@ -450,4 +451,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Sep 14 08:30:28 UTC 2024.
+Latest push from RunarFosse: Sun Sep 15 10:51:02 UTC 2024.
