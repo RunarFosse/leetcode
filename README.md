@@ -301,6 +301,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-path-sum.py](Medium/minimum-path-sum.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-path-sum/" target="_blank">Link</a>
  | [minimum-remove-to-make-valid-parentheses.py](Medium/minimum-remove-to-make-valid-parentheses.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/" target="_blank">Link</a>
  | [minimum-swaps-to-group-all-1s-together-ii.py](Medium/minimum-swaps-to-group-all-1s-together-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/" target="_blank">Link</a>
+ | [minimum-time-difference.py](Medium/minimum-time-difference.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-time-difference/" target="_blank">Link</a>
  | [minimum-time-to-make-rope-colorful.py](Medium/minimum-time-to-make-rope-colorful.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-time-to-make-rope-colorful/" target="_blank">Link</a>
  | [most-profit-assigning-work.py](Medium/most-profit-assigning-work.py) | O(mlog m + nlog n) | O(m+n) | <a href="https://leetcode.com/problems/most-profit-assigning-work/" target="_blank">Link</a>
  | [most-stones-removed-with-same-row-or-column.py](Medium/most-stones-removed-with-same-row-or-column.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/" target="_blank">Link</a>
@@ -451,4 +452,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Sep 15 10:51:02 UTC 2024.
+Latest push from RunarFosse: Mon Sep 16 09:33:52 UTC 2024.
