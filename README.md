@@ -412,6 +412,7 @@ All problems are tried solving in the most optimal way possible.
  | [integer-to-english-words.py](Hard/integer-to-english-words.py) | O(log n) | O(log n) | <a href="https://leetcode.com/problems/integer-to-english-words/" target="_blank">Link</a>
  | [ipo.py](Hard/ipo.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/ipo/" target="_blank">Link</a>
  | [k-inverse-pairs-array.py](Hard/k-inverse-pairs-array.py) | O(nk) | O(k) | <a href="https://leetcode.com/problems/k-inverse-pairs-array/" target="_blank">Link</a>
+ | [k-th-smallest-in-lexicographical-order.py](Hard/k-th-smallest-in-lexicographical-order.py) | O((log n)^2) | O(log n) | <a href="https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/" target="_blank">Link</a>
  | [largest-rectangle-in-histogram.py](Hard/largest-rectangle-in-histogram.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/largest-rectangle-in-histogram/" target="_blank">Link</a>
  | [max-dot-product-of-two-subsequences.py](Hard/max-dot-product-of-two-subsequences.py) | O(nm) | O(nm) | <a href="https://leetcode.com/problems/max-dot-product-of-two-subsequences/" target="_blank">Link</a>
  | [maximal-rectangle.py](Hard/maximal-rectangle.py) | O(mn) | O(n) | <a href="https://leetcode.com/problems/maximal-rectangle/" target="_blank">Link</a>
@@ -455,4 +456,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Sep 21 09:51:23 UTC 2024.
+Latest push from RunarFosse: Sun Sep 22 09:35:40 UTC 2024.
