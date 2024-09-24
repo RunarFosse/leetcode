@@ -228,6 +228,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-polygon-with-the-largest-perimeter.py](Medium/find-polygon-with-the-largest-perimeter.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/" target="_blank">Link</a>
  | [find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.py](Medium/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.py) | O(n^3) | O(n^2) | <a href="https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/" target="_blank">Link</a>
  | [find-the-duplicate-number.py](Medium/find-the-duplicate-number.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-duplicate-number/" target="_blank">Link</a>
+ | [find-the-length-of-the-longest-common-prefix.py](Medium/find-the-length-of-the-longest-common-prefix.py) | O(m + n) | O(m) | <a href="https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/" target="_blank">Link</a>
  | [find-the-longest-substring-containing-vowels-in-even-counts.py](Medium/find-the-longest-substring-containing-vowels-in-even-counts.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/" target="_blank">Link</a>
  | [find-the-minimum-and-maximum-number-of-nodes-between-critical-points.py](Medium/find-the-minimum-and-maximum-number-of-nodes-between-critical-points.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/" target="_blank">Link</a>
  | [find-the-original-array-of-prefix-xor.py](Medium/find-the-original-array-of-prefix-xor.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-the-original-array-of-prefix-xor/" target="_blank">Link</a>
@@ -457,4 +458,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Sep 23 08:45:19 UTC 2024.
+Latest push from RunarFosse: Tue Sep 24 08:36:56 UTC 2024.
