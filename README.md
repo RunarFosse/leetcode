@@ -451,6 +451,7 @@ All problems are tried solving in the most optimal way possible.
  | [student-attendance-record-ii.py](Hard/student-attendance-record-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/student-attendance-record-ii/" target="_blank">Link</a>
  | [subarrays-with-k-different-integers.py](Hard/subarrays-with-k-different-integers.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/subarrays-with-k-different-integers/" target="_blank">Link</a>
  | [sum-of-distances-in-tree.py](Hard/sum-of-distances-in-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/sum-of-distances-in-tree/" target="_blank">Link</a>
+ | [sum-of-prefix-scores-of-strings.py](Hard/sum-of-prefix-scores-of-strings.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/sum-of-prefix-scores-of-strings/" target="_blank">Link</a>
  | [text-justification.py](Hard/text-justification.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/text-justification/" target="_blank">Link</a>
  | [trapping-rain-water.py](Hard/trapping-rain-water.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/trapping-rain-water/" target="_blank">Link</a>
  | [valid-number.py](Hard/valid-number.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/valid-number/" target="_blank">Link</a>
@@ -458,4 +459,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Sep 24 08:36:56 UTC 2024.
+Latest push from RunarFosse: Wed Sep 25 10:19:19 UTC 2024.
