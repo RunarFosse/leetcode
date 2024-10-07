@@ -89,6 +89,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-common-value.py](Easy/minimum-common-value.py) | O(m+n) | O(1) | <a href="https://leetcode.com/problems/minimum-common-value/" target="_blank">Link</a>
  | [minimum-depth-of-binary-tree.py](Easy/minimum-depth-of-binary-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/" target="_blank">Link</a>
  | [minimum-number-of-moves-to-seat-everyone.py](Easy/minimum-number-of-moves-to-seat-everyone.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/" target="_blank">Link</a>
+ | [minimum-string-length-after-removing-substrings.py](Easy/minimum-string-length-after-removing-substrings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/minimum-string-length-after-removing-substrings/" target="_blank">Link</a>
  | [minimum-time-visiting-all-points.py](Easy/minimum-time-visiting-all-points.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-time-visiting-all-points/" target="_blank">Link</a>
  | [missing-number.py](Easy/missing-number.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/missing-number/" target="_blank">Link</a>
  | [n-ary-tree-postorder-traversal.py](Easy/n-ary-tree-postorder-traversal.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/n-ary-tree-postorder-traversal/" target="_blank">Link</a>
@@ -463,4 +464,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Oct  6 08:44:14 UTC 2024.
+Latest push from RunarFosse: Mon Oct  7 06:46:26 UTC 2024.
