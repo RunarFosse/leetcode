@@ -280,6 +280,7 @@ All problems are tried solving in the most optimal way possible.
  | [magic-squares-in-grid.py](Medium/magic-squares-in-grid.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/magic-squares-in-grid/" target="_blank">Link</a>
  | [magnetic-force-between-two-balls.py](Medium/magnetic-force-between-two-balls.py) | O(n(log n + log a)) | O(n) | <a href="https://leetcode.com/problems/magnetic-force-between-two-balls/" target="_blank">Link</a>
  | [majority-element-ii.py](Medium/majority-element-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/majority-element-ii/" target="_blank">Link</a>
+ | [maximal-score-after-applying-k-operations.py](Medium/maximal-score-after-applying-k-operations.py) | O(n + klog n) | O(1) | <a href="https://leetcode.com/problems/maximal-score-after-applying-k-operations/" target="_blank">Link</a>
  | [maximize-happiness-of-selected-children.py](Medium/maximize-happiness-of-selected-children.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximize-happiness-of-selected-children/" target="_blank">Link</a>
  | [maximum-difference-between-node-and-ancestor.py](Medium/maximum-difference-between-node-and-ancestor.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/" target="_blank">Link</a>
  | [maximum-distance-in-arrays.py](Medium/maximum-distance-in-arrays.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-distance-in-arrays/" target="_blank">Link</a>
@@ -464,4 +465,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Oct  7 06:46:26 UTC 2024.
+Latest push from RunarFosse: Mon Oct 14 11:10:31 UTC 2024.
