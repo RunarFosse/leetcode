@@ -242,6 +242,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-the-winner-of-the-circular-game.py](Medium/find-the-winner-of-the-circular-game.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-winner-of-the-circular-game/" target="_blank">Link</a>
  | [find-unique-binary-string.py](Medium/find-unique-binary-string.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-unique-binary-string/" target="_blank">Link</a>
  | [find-valid-matrix-given-row-and-column-sums.py](Medium/find-valid-matrix-given-row-and-column-sums.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/" target="_blank">Link</a>
+ | [flip-equivalent-binary-trees.py](Medium/flip-equivalent-binary-trees.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/flip-equivalent-binary-trees/" target="_blank">Link</a>
  | [fraction-addition-and-subtraction.py](Medium/fraction-addition-and-subtraction.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/fraction-addition-and-subtraction/" target="_blank">Link</a>
  | [frequency-of-the-most-frequent-element.py](Medium/frequency-of-the-most-frequent-element.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/frequency-of-the-most-frequent-element/" target="_blank">Link</a>
  | [furthest-building-you-can-reach.py](Medium/furthest-building-you-can-reach.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/furthest-building-you-can-reach/" target="_blank">Link</a>
@@ -468,4 +469,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Oct 20 09:27:11 UTC 2024.
+Latest push from RunarFosse: Thu Oct 24 19:55:53 UTC 2024.
