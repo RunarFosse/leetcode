@@ -192,6 +192,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-number-of-homogenous-substrings.py](Medium/count-number-of-homogenous-substrings.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-number-of-homogenous-substrings/" target="_blank">Link</a>
  | [count-number-of-nice-subarrays.py](Medium/count-number-of-nice-subarrays.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-number-of-nice-subarrays/" target="_blank">Link</a>
  | [count-number-of-teams.py](Medium/count-number-of-teams.py) | O(n^2) | O(1) | <a href="https://leetcode.com/problems/count-number-of-teams/" target="_blank">Link</a>
+ | [count-square-submatrices-with-all-ones.py](Medium/count-square-submatrices-with-all-ones.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/count-square-submatrices-with-all-ones/" target="_blank">Link</a>
  | [count-sub-islands.py](Medium/count-sub-islands.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/count-sub-islands/" target="_blank">Link</a>
  | [count-subarrays-where-max-element-appears-at-least-k-times.py](Medium/count-subarrays-where-max-element-appears-at-least-k-times.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/" target="_blank">Link</a>
  | [count-triplets-that-can-form-two-arrays-of-equal-xor.py](Medium/count-triplets-that-can-form-two-arrays-of-equal-xor.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/" target="_blank">Link</a>
@@ -470,4 +471,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Oct 26 09:21:03 UTC 2024.
+Latest push from RunarFosse: Sun Oct 27 10:06:13 UTC 2024.
