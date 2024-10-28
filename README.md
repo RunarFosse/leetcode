@@ -278,6 +278,7 @@ All problems are tried solving in the most optimal way possible.
  | [longest-ideal-subsequence.py](Medium/longest-ideal-subsequence.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/longest-ideal-subsequence/" target="_blank">Link</a>
  | [longest-increasing-subsequence.py](Medium/longest-increasing-subsequence.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/longest-increasing-subsequence/" target="_blank">Link</a>
  | [longest-palindromic-substring.py](Medium/longest-palindromic-substring.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/longest-palindromic-substring/" target="_blank">Link</a>
+ | [longest-square-streak-in-an-array.py](Medium/longest-square-streak-in-an-array.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/longest-square-streak-in-an-array/" target="_blank">Link</a>
  | [longest-subarray-with-maximum-bitwise-and.py](Medium/longest-subarray-with-maximum-bitwise-and.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/" target="_blank">Link</a>
  | [longest-substring-without-repeating-characters.py](Medium/longest-substring-without-repeating-characters.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/" target="_blank">Link</a>
  | [magic-squares-in-grid.py](Medium/magic-squares-in-grid.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/magic-squares-in-grid/" target="_blank">Link</a>
@@ -471,4 +472,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Oct 27 10:06:13 UTC 2024.
+Latest push from RunarFosse: Mon Oct 28 07:50:02 UTC 2024.
