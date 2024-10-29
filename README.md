@@ -291,6 +291,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-element-after-decreasing-and-rearranging.py](Medium/maximum-element-after-decreasing-and-rearranging.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/" target="_blank">Link</a>
  | [maximum-length-of-a-concatenated-string-with-unique-characters.py](Medium/maximum-length-of-a-concatenated-string-with-unique-characters.py) | O(2^n) | O(n) | <a href="https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/" target="_blank">Link</a>
  | [maximum-number-of-coins-you-can-get.py](Medium/maximum-number-of-coins-you-can-get.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximum-number-of-coins-you-can-get/" target="_blank">Link</a>
+ | [maximum-number-of-moves-in-a-grid.py](Medium/maximum-number-of-moves-in-a-grid.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/" target="_blank">Link</a>
  | [maximum-number-of-points-with-cost.py](Medium/maximum-number-of-points-with-cost.py) | O(mn) | O(n) | <a href="https://leetcode.com/problems/maximum-number-of-points-with-cost/" target="_blank">Link</a>
  | [maximum-score-from-removing-substrings.py](Medium/maximum-score-from-removing-substrings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-score-from-removing-substrings/" target="_blank">Link</a>
  | [maximum-swap.py](Medium/maximum-swap.py) | O(log n) | O(log n) | <a href="https://leetcode.com/problems/maximum-swap/" target="_blank">Link</a>
@@ -472,4 +473,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Oct 28 07:50:02 UTC 2024.
+Latest push from RunarFosse: Tue Oct 29 08:40:38 UTC 2024.
