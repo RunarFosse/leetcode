@@ -229,6 +229,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-all-groups-of-farmland.py](Medium/find-all-groups-of-farmland.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/find-all-groups-of-farmland/" target="_blank">Link</a>
  | [find-bottom-left-tree-value.py](Medium/find-bottom-left-tree-value.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-bottom-left-tree-value/" target="_blank">Link</a>
  | [find-first-and-last-position-of-element-in-sorted-array.py](Medium/find-first-and-last-position-of-element-in-sorted-array.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/" target="_blank">Link</a>
+ | [find-if-array-can-be-sorted.py](Medium/find-if-array-can-be-sorted.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-if-array-can-be-sorted/" target="_blank">Link</a>
  | [find-kth-bit-in-nth-binary-string.py](Medium/find-kth-bit-in-nth-binary-string.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/" target="_blank">Link</a>
  | [find-largest-value-in-each-tree-row.py](Medium/find-largest-value-in-each-tree-row.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/find-largest-value-in-each-tree-row/" target="_blank">Link</a>
  | [find-missing-observations.py](Medium/find-missing-observations.py) | O(m + n) | O(n) | <a href="https://leetcode.com/problems/find-missing-observations/" target="_blank">Link</a>
@@ -478,4 +479,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Nov  5 08:28:32 UTC 2024.
+Latest push from RunarFosse: Wed Nov  6 08:50:50 UTC 2024.
