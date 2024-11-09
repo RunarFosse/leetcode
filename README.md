@@ -306,6 +306,7 @@ All problems are tried solving in the most optimal way possible.
  | [merge-nodes-in-between-zeros.py](Medium/merge-nodes-in-between-zeros.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/merge-nodes-in-between-zeros/" target="_blank">Link</a>
  | [minimize-maximum-pair-sum-in-array.py](Medium/minimize-maximum-pair-sum-in-array.py) | O(nlog n) | O(log n) | <a href="https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/" target="_blank">Link</a>
  | [minimum-amount-of-time-to-collect-garbage.py](Medium/minimum-amount-of-time-to-collect-garbage.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/" target="_blank">Link</a>
+ | [minimum-array-end.py](Medium/minimum-array-end.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/minimum-array-end/" target="_blank">Link</a>
  | [minimum-cost-to-convert-string-i.py](Medium/minimum-cost-to-convert-string-i.py) | O(n+m) | O(1) | <a href="https://leetcode.com/problems/minimum-cost-to-convert-string-i/" target="_blank">Link</a>
  | [minimum-deletions-to-make-string-balanced.py](Medium/minimum-deletions-to-make-string-balanced.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/" target="_blank">Link</a>
  | [minimum-difference-between-largest-and-smallest-value-in-three-moves.py](Medium/minimum-difference-between-largest-and-smallest-value-in-three-moves.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/" target="_blank">Link</a>
@@ -481,4 +482,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Nov  8 07:29:26 UTC 2024.
+Latest push from RunarFosse: Sat Nov  9 09:51:10 UTC 2024.
