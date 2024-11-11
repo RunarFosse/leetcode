@@ -346,6 +346,7 @@ All problems are tried solving in the most optimal way possible.
  | [permutations-ii.py](Medium/permutations-ii.py) | O(n!) | O(n!) | <a href="https://leetcode.com/problems/permutations-ii/" target="_blank">Link</a>
  | [permutations.py](Medium/permutations.py) | O(n!) | O(n!) | <a href="https://leetcode.com/problems/permutations/" target="_blank">Link</a>
  | [powx-n.py](Medium/powx-n.py) | O(log n) | O(log n) | <a href="https://leetcode.com/problems/powx-n/" target="_blank">Link</a>
+ | [prime-subtraction-operation.py](Medium/prime-subtraction-operation.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/prime-subtraction-operation/" target="_blank">Link</a>
  | [product-of-array-except-self.py](Medium/product-of-array-except-self.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/product-of-array-except-self/" target="_blank">Link</a>
  | [pseudo-palindromic-paths-in-a-binary-tree.py](Medium/pseudo-palindromic-paths-in-a-binary-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/" target="_blank">Link</a>
  | [range-sum-of-sorted-subarray-sums.py](Medium/range-sum-of-sorted-subarray-sums.py) | O(n^2log n) | O(n) | <a href="https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/" target="_blank">Link</a>
@@ -482,4 +483,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Nov  9 09:51:10 UTC 2024.
+Latest push from RunarFosse: Mon Nov 11 10:03:07 UTC 2024.
