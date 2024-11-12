@@ -327,6 +327,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-swaps-to-group-all-1s-together-ii.py](Medium/minimum-swaps-to-group-all-1s-together-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/" target="_blank">Link</a>
  | [minimum-time-difference.py](Medium/minimum-time-difference.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-time-difference/" target="_blank">Link</a>
  | [minimum-time-to-make-rope-colorful.py](Medium/minimum-time-to-make-rope-colorful.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-time-to-make-rope-colorful/" target="_blank">Link</a>
+ | [most-beautiful-item-for-each-query.py](Medium/most-beautiful-item-for-each-query.py) | O((n + m)log n) | O(n + m) | <a href="https://leetcode.com/problems/most-beautiful-item-for-each-query/" target="_blank">Link</a>
  | [most-profit-assigning-work.py](Medium/most-profit-assigning-work.py) | O(mlog m + nlog n) | O(m+n) | <a href="https://leetcode.com/problems/most-profit-assigning-work/" target="_blank">Link</a>
  | [most-stones-removed-with-same-row-or-column.py](Medium/most-stones-removed-with-same-row-or-column.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/" target="_blank">Link</a>
  | [number-of-dice-rolls-with-target-sum.py](Medium/number-of-dice-rolls-with-target-sum.py) | O(mnk) | O(mn) | <a href="https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/" target="_blank">Link</a>
@@ -484,4 +485,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Nov 11 10:46:35 UTC 2024.
+Latest push from RunarFosse: Tue Nov 12 09:17:16 UTC 2024.
