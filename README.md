@@ -198,6 +198,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-square-submatrices-with-all-ones.py](Medium/count-square-submatrices-with-all-ones.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/count-square-submatrices-with-all-ones/" target="_blank">Link</a>
  | [count-sub-islands.py](Medium/count-sub-islands.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/count-sub-islands/" target="_blank">Link</a>
  | [count-subarrays-where-max-element-appears-at-least-k-times.py](Medium/count-subarrays-where-max-element-appears-at-least-k-times.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/" target="_blank">Link</a>
+ | [count-the-number-of-fair-pairs.py](Medium/count-the-number-of-fair-pairs.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/count-the-number-of-fair-pairs/" target="_blank">Link</a>
  | [count-triplets-that-can-form-two-arrays-of-equal-xor.py](Medium/count-triplets-that-can-form-two-arrays-of-equal-xor.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/" target="_blank">Link</a>
  | [count-ways-to-build-good-strings.py](Medium/count-ways-to-build-good-strings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-ways-to-build-good-strings/" target="_blank">Link</a>
  | [course-schedule.py](Medium/course-schedule.py) | O(n+m) | O(n+m) | <a href="https://leetcode.com/problems/course-schedule/" target="_blank">Link</a>
@@ -485,4 +486,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Nov 12 09:17:16 UTC 2024.
+Latest push from RunarFosse: Wed Nov 13 10:29:56 UTC 2024.
