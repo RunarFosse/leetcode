@@ -306,6 +306,7 @@ All problems are tried solving in the most optimal way possible.
  | [merge-in-between-linked-lists.py](Medium/merge-in-between-linked-lists.py) | O(m+n) | O(1) | <a href="https://leetcode.com/problems/merge-in-between-linked-lists/" target="_blank">Link</a>
  | [merge-nodes-in-between-zeros.py](Medium/merge-nodes-in-between-zeros.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/merge-nodes-in-between-zeros/" target="_blank">Link</a>
  | [minimize-maximum-pair-sum-in-array.py](Medium/minimize-maximum-pair-sum-in-array.py) | O(nlog n) | O(log n) | <a href="https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/" target="_blank">Link</a>
+ | [minimized-maximum-of-products-distributed-to-any-store.py](Medium/minimized-maximum-of-products-distributed-to-any-store.py) | O(mlog k) | O(1) | <a href="https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/" target="_blank">Link</a>
  | [minimum-amount-of-time-to-collect-garbage.py](Medium/minimum-amount-of-time-to-collect-garbage.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/" target="_blank">Link</a>
  | [minimum-array-end.py](Medium/minimum-array-end.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/minimum-array-end/" target="_blank">Link</a>
  | [minimum-cost-to-convert-string-i.py](Medium/minimum-cost-to-convert-string-i.py) | O(n+m) | O(1) | <a href="https://leetcode.com/problems/minimum-cost-to-convert-string-i/" target="_blank">Link</a>
@@ -486,4 +487,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Nov 13 10:29:56 UTC 2024.
+Latest push from RunarFosse: Thu Nov 14 09:24:18 UTC 2024.
