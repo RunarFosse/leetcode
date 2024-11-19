@@ -301,6 +301,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-number-of-moves-in-a-grid.py](Medium/maximum-number-of-moves-in-a-grid.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/" target="_blank">Link</a>
  | [maximum-number-of-points-with-cost.py](Medium/maximum-number-of-points-with-cost.py) | O(mn) | O(n) | <a href="https://leetcode.com/problems/maximum-number-of-points-with-cost/" target="_blank">Link</a>
  | [maximum-score-from-removing-substrings.py](Medium/maximum-score-from-removing-substrings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-score-from-removing-substrings/" target="_blank">Link</a>
+ | [maximum-sum-of-distinct-subarrays-with-length-k.py](Medium/maximum-sum-of-distinct-subarrays-with-length-k.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/" target="_blank">Link</a>
  | [maximum-swap.py](Medium/maximum-swap.py) | O(log n) | O(log n) | <a href="https://leetcode.com/problems/maximum-swap/" target="_blank">Link</a>
  | [maximum-total-importance-of-roads.py](Medium/maximum-total-importance-of-roads.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximum-total-importance-of-roads/" target="_blank">Link</a>
  | [maximum-xor-for-each-query.py](Medium/maximum-xor-for-each-query.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-xor-for-each-query/" target="_blank">Link</a>
@@ -488,4 +489,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Nov 18 09:13:23 UTC 2024.
+Latest push from RunarFosse: Tue Nov 19 09:28:45 UTC 2024.
