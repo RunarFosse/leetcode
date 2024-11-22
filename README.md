@@ -201,6 +201,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-subarrays-where-max-element-appears-at-least-k-times.py](Medium/count-subarrays-where-max-element-appears-at-least-k-times.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/" target="_blank">Link</a>
  | [count-the-number-of-fair-pairs.py](Medium/count-the-number-of-fair-pairs.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/count-the-number-of-fair-pairs/" target="_blank">Link</a>
  | [count-triplets-that-can-form-two-arrays-of-equal-xor.py](Medium/count-triplets-that-can-form-two-arrays-of-equal-xor.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/" target="_blank">Link</a>
+ | [count-unguarded-cells-in-the-grid.py](Medium/count-unguarded-cells-in-the-grid.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/count-unguarded-cells-in-the-grid/" target="_blank">Link</a>
  | [count-ways-to-build-good-strings.py](Medium/count-ways-to-build-good-strings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-ways-to-build-good-strings/" target="_blank">Link</a>
  | [course-schedule.py](Medium/course-schedule.py) | O(n+m) | O(n+m) | <a href="https://leetcode.com/problems/course-schedule/" target="_blank">Link</a>
  | [create-binary-tree-from-descriptions.py](Medium/create-binary-tree-from-descriptions.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/create-binary-tree-from-descriptions/" target="_blank">Link</a>
@@ -490,4 +491,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Nov 22 10:37:57 UTC 2024.
+Latest push from RunarFosse: Fri Nov 22 10:55:03 UTC 2024.
