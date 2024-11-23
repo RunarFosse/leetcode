@@ -372,6 +372,7 @@ All problems are tried solving in the most optimal way possible.
  | [reverse-integer.py](Medium/reverse-integer.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/reverse-integer/" target="_blank">Link</a>
  | [reverse-substrings-between-each-pair-of-parentheses.py](Medium/reverse-substrings-between-each-pair-of-parentheses.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/" target="_blank">Link</a>
  | [rotate-image.py](Medium/rotate-image.py) | O(n^2) | O(1) | <a href="https://leetcode.com/problems/rotate-image/" target="_blank">Link</a>
+ | [rotating-the-box.py](Medium/rotating-the-box.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/rotating-the-box/" target="_blank">Link</a>
  | [score-after-flipping-matrix.py](Medium/score-after-flipping-matrix.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/score-after-flipping-matrix/" target="_blank">Link</a>
  | [search-a-2d-matrix.py](Medium/search-a-2d-matrix.py) | O(log(n*m)) | O(1) | <a href="https://leetcode.com/problems/search-a-2d-matrix/" target="_blank">Link</a>
  | [search-in-rotated-sorted-array.py](Medium/search-in-rotated-sorted-array.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/search-in-rotated-sorted-array/" target="_blank">Link</a>
@@ -491,4 +492,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Nov 22 10:55:03 UTC 2024.
+Latest push from RunarFosse: Sat Nov 23 10:51:24 UTC 2024.
