@@ -299,6 +299,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-distance-in-arrays.py](Medium/maximum-distance-in-arrays.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-distance-in-arrays/" target="_blank">Link</a>
  | [maximum-element-after-decreasing-and-rearranging.py](Medium/maximum-element-after-decreasing-and-rearranging.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/" target="_blank">Link</a>
  | [maximum-length-of-a-concatenated-string-with-unique-characters.py](Medium/maximum-length-of-a-concatenated-string-with-unique-characters.py) | O(2^n) | O(n) | <a href="https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/" target="_blank">Link</a>
+ | [maximum-matrix-sum.py](Medium/maximum-matrix-sum.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/maximum-matrix-sum/" target="_blank">Link</a>
  | [maximum-number-of-coins-you-can-get.py](Medium/maximum-number-of-coins-you-can-get.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximum-number-of-coins-you-can-get/" target="_blank">Link</a>
  | [maximum-number-of-moves-in-a-grid.py](Medium/maximum-number-of-moves-in-a-grid.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/" target="_blank">Link</a>
  | [maximum-number-of-points-with-cost.py](Medium/maximum-number-of-points-with-cost.py) | O(mn) | O(n) | <a href="https://leetcode.com/problems/maximum-number-of-points-with-cost/" target="_blank">Link</a>
@@ -492,4 +493,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Nov 23 10:51:24 UTC 2024.
+Latest push from RunarFosse: Sun Nov 24 09:31:52 UTC 2024.
