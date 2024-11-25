@@ -479,6 +479,7 @@ All problems are tried solving in the most optimal way possible.
  | [robot-collisions.py](Hard/robot-collisions.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/robot-collisions/" target="_blank">Link</a>
  | [russian-doll-envelopes.py](Hard/russian-doll-envelopes.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/russian-doll-envelopes/" target="_blank">Link</a>
  | [second-minimum-time-to-reach-destination.py](Hard/second-minimum-time-to-reach-destination.py) | O(m + n) | O(m + n) | <a href="https://leetcode.com/problems/second-minimum-time-to-reach-destination/" target="_blank">Link</a>
+ | [sliding-puzzle.py](Hard/sliding-puzzle.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/sliding-puzzle/" target="_blank">Link</a>
  | [sliding-window-maximum.py](Hard/sliding-window-maximum.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/sliding-window-maximum/" target="_blank">Link</a>
  | [strange-printer.py](Hard/strange-printer.py) | O(n^3) | O(n^2) | <a href="https://leetcode.com/problems/strange-printer/" target="_blank">Link</a>
  | [string-compression-ii.py](Hard/string-compression-ii.py) | O(n^2*k) | O(m*n) | <a href="https://leetcode.com/problems/string-compression-ii/" target="_blank">Link</a>
@@ -493,4 +494,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Nov 24 09:31:52 UTC 2024.
+Latest push from RunarFosse: Mon Nov 25 10:04:34 UTC 2024.
