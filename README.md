@@ -285,6 +285,7 @@ All problems are tried solving in the most optimal way possible.
  | [linked-list-in-binary-tree.py](Medium/linked-list-in-binary-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/linked-list-in-binary-tree/" target="_blank">Link</a>
  | [longest-common-subsequence.py](Medium/longest-common-subsequence.py) | O(mn) | O(min(m,n)) | <a href="https://leetcode.com/problems/longest-common-subsequence/" target="_blank">Link</a>
  | [longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py](Medium/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/" target="_blank">Link</a>
+ | [longest-happy-string.py](Medium/longest-happy-string.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/longest-happy-string/" target="_blank">Link</a>
  | [longest-ideal-subsequence.py](Medium/longest-ideal-subsequence.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/longest-ideal-subsequence/" target="_blank">Link</a>
  | [longest-increasing-subsequence.py](Medium/longest-increasing-subsequence.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/longest-increasing-subsequence/" target="_blank">Link</a>
  | [longest-palindromic-substring.py](Medium/longest-palindromic-substring.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/longest-palindromic-substring/" target="_blank">Link</a>
@@ -495,4 +496,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Nov 26 09:41:33 UTC 2024.
+Latest push from RunarFosse: Tue Nov 26 10:00:07 UTC 2024.
