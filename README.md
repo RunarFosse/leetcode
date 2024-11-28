@@ -463,6 +463,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-difficulty-of-a-job-schedule.py](Hard/minimum-difficulty-of-a-job-schedule.py) | O(nd) | O(nd) | <a href="https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/" target="_blank">Link</a>
  | [minimum-number-of-k-consecutive-bit-flips.py](Hard/minimum-number-of-k-consecutive-bit-flips.py) | O(n) | O(k) | <a href="https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/" target="_blank">Link</a>
  | [minimum-number-of-operations-to-make-array-continuous.py](Hard/minimum-number-of-operations-to-make-array-continuous.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/" target="_blank">Link</a>
+ | [minimum-obstacle-removal-to-reach-corner.py](Hard/minimum-obstacle-removal-to-reach-corner.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/" target="_blank">Link</a>
  | [minimum-one-bit-operations-to-make-integers-zero.py](Hard/minimum-one-bit-operations-to-make-integers-zero.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/" target="_blank">Link</a>
  | [minimum-window-substring.py](Hard/minimum-window-substring.py) | O(m + n) | O(m) | <a href="https://leetcode.com/problems/minimum-window-substring/" target="_blank">Link</a>
  | [n-queens-ii.py](Hard/n-queens-ii.py) | O(n!) | O(1) | <a href="https://leetcode.com/problems/n-queens-ii/" target="_blank">Link</a>
@@ -497,4 +498,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Nov 27 09:31:27 UTC 2024.
+Latest push from RunarFosse: Thu Nov 28 10:27:10 UTC 2024.
