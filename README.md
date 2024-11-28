@@ -394,6 +394,7 @@ All problems are tried solving in the most optimal way possible.
  | [sort-vowels-in-a-string.py](Medium/sort-vowels-in-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/sort-vowels-in-a-string/" target="_blank">Link</a>
  | [spiral-matrix-iii.py](Medium/spiral-matrix-iii.py) | O(m^2 + n^2) | O(mn) | <a href="https://leetcode.com/problems/spiral-matrix-iii/" target="_blank">Link</a>
  | [spiral-matrix-iv.py](Medium/spiral-matrix-iv.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/spiral-matrix-iv/" target="_blank">Link</a>
+ | [split-a-string-into-the-max-number-of-unique-substrings.py](Medium/split-a-string-into-the-max-number-of-unique-substrings.py) | O(n^22^n) | O(n) | <a href="https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/" target="_blank">Link</a>
  | [split-linked-list-in-parts.py](Medium/split-linked-list-in-parts.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/split-linked-list-in-parts/" target="_blank">Link</a>
  | [stone-game-ii.py](Medium/stone-game-ii.py) | O(n^3) | O(n) | <a href="https://leetcode.com/problems/stone-game-ii/" target="_blank">Link</a>
  | [string-compression-iii.py](Medium/string-compression-iii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/string-compression-iii/" target="_blank">Link</a>
@@ -498,4 +499,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Nov 28 10:27:10 UTC 2024.
+Latest push from RunarFosse: Thu Nov 28 10:45:58 UTC 2024.
