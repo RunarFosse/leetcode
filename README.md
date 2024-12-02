@@ -19,6 +19,7 @@ All problems are tried solving in the most optimal way possible.
  | [binary-tree-preorder-traversal.py](Easy/binary-tree-preorder-traversal.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/binary-tree-preorder-traversal/" target="_blank">Link</a>
  | [buy-two-chocolates.py](Easy/buy-two-chocolates.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/buy-two-chocolates/" target="_blank">Link</a>
  | [calculate-money-in-leetcode-bank.py](Easy/calculate-money-in-leetcode-bank.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/calculate-money-in-leetcode-bank/" target="_blank">Link</a>
+ | [check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py](Easy/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/" target="_blank">Link</a>
  | [check-if-n-and-its-double-exist.py](Easy/check-if-n-and-its-double-exist.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/check-if-n-and-its-double-exist/" target="_blank">Link</a>
  | [check-if-two-string-arrays-are-equivalent.py](Easy/check-if-two-string-arrays-are-equivalent.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/" target="_blank">Link</a>
  | [circular-sentence.py](Easy/circular-sentence.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/circular-sentence/" target="_blank">Link</a>
@@ -502,4 +503,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Dec  1 10:50:59 UTC 2024.
+Latest push from RunarFosse: Mon Dec  2 08:57:20 UTC 2024.
