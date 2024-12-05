@@ -343,6 +343,7 @@ All problems are tried solving in the most optimal way possible.
  | [most-beautiful-item-for-each-query.py](Medium/most-beautiful-item-for-each-query.py) | O((n + m)log n) | O(n + m) | <a href="https://leetcode.com/problems/most-beautiful-item-for-each-query/" target="_blank">Link</a>
  | [most-profit-assigning-work.py](Medium/most-profit-assigning-work.py) | O(mlog m + nlog n) | O(m+n) | <a href="https://leetcode.com/problems/most-profit-assigning-work/" target="_blank">Link</a>
  | [most-stones-removed-with-same-row-or-column.py](Medium/most-stones-removed-with-same-row-or-column.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/" target="_blank">Link</a>
+ | [move-pieces-to-obtain-a-string.py](Medium/move-pieces-to-obtain-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/move-pieces-to-obtain-a-string/" target="_blank">Link</a>
  | [number-of-dice-rolls-with-target-sum.py](Medium/number-of-dice-rolls-with-target-sum.py) | O(mnk) | O(mn) | <a href="https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/" target="_blank">Link</a>
  | [number-of-good-leaf-nodes-pairs.py](Medium/number-of-good-leaf-nodes-pairs.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/" target="_blank">Link</a>
  | [number-of-islands.py](Medium/number-of-islands.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/number-of-islands/" target="_blank">Link</a>
@@ -505,4 +506,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Dec  4 09:27:02 UTC 2024.
+Latest push from RunarFosse: Thu Dec  5 12:17:21 UTC 2024.
