@@ -307,6 +307,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-length-of-a-concatenated-string-with-unique-characters.py](Medium/maximum-length-of-a-concatenated-string-with-unique-characters.py) | O(2^n) | O(n) | <a href="https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/" target="_blank">Link</a>
  | [maximum-matrix-sum.py](Medium/maximum-matrix-sum.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/maximum-matrix-sum/" target="_blank">Link</a>
  | [maximum-number-of-coins-you-can-get.py](Medium/maximum-number-of-coins-you-can-get.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximum-number-of-coins-you-can-get/" target="_blank">Link</a>
+ | [maximum-number-of-integers-to-choose-from-a-range-i.py](Medium/maximum-number-of-integers-to-choose-from-a-range-i.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/" target="_blank">Link</a>
  | [maximum-number-of-moves-in-a-grid.py](Medium/maximum-number-of-moves-in-a-grid.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/" target="_blank">Link</a>
  | [maximum-number-of-points-with-cost.py](Medium/maximum-number-of-points-with-cost.py) | O(mn) | O(n) | <a href="https://leetcode.com/problems/maximum-number-of-points-with-cost/" target="_blank">Link</a>
  | [maximum-score-from-removing-substrings.py](Medium/maximum-score-from-removing-substrings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-score-from-removing-substrings/" target="_blank">Link</a>
@@ -506,4 +507,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Dec  5 12:17:21 UTC 2024.
+Latest push from RunarFosse: Fri Dec  6 20:07:55 UTC 2024.
