@@ -328,6 +328,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-height-trees.py](Medium/minimum-height-trees.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/minimum-height-trees/" target="_blank">Link</a>
  | [minimum-increment-to-make-array-unique.py](Medium/minimum-increment-to-make-array-unique.py) | O(m) | O(m) | <a href="https://leetcode.com/problems/minimum-increment-to-make-array-unique/" target="_blank">Link</a>
  | [minimum-length-of-string-after-deleting-similar-ends.py](Medium/minimum-length-of-string-after-deleting-similar-ends.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/" target="_blank">Link</a>
+ | [minimum-limit-of-balls-in-a-bag.py](Medium/minimum-limit-of-balls-in-a-bag.py) | O(nlog m) | O(1) | <a href="https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/" target="_blank">Link</a>
  | [minimum-number-of-arrows-to-burst-balloons.py](Medium/minimum-number-of-arrows-to-burst-balloons.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/" target="_blank">Link</a>
  | [minimum-number-of-changes-to-make-binary-string-beautiful.py](Medium/minimum-number-of-changes-to-make-binary-string-beautiful.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/" target="_blank">Link</a>
  | [minimum-number-of-days-to-make-m-bouquets.py](Medium/minimum-number-of-days-to-make-m-bouquets.py) | O(nlog a) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/" target="_blank">Link</a>
@@ -507,4 +508,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Dec  6 20:07:55 UTC 2024.
+Latest push from RunarFosse: Sat Dec  7 09:01:24 UTC 2024.
