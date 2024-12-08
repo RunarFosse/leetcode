@@ -471,6 +471,7 @@ All problems are tried solving in the most optimal way possible.
  | [merge-k-sorted-lists.py](Hard/merge-k-sorted-lists.py) | O(nlog m) | O(n) | <a href="https://leetcode.com/problems/merge-k-sorted-lists/" target="_blank">Link</a>
  | [minimum-cost-to-hire-k-workers.py](Hard/minimum-cost-to-hire-k-workers.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-cost-to-hire-k-workers/" target="_blank">Link</a>
  | [minimum-difficulty-of-a-job-schedule.py](Hard/minimum-difficulty-of-a-job-schedule.py) | O(nd) | O(nd) | <a href="https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/" target="_blank">Link</a>
+ | [minimum-falling-path-sum-ii.py](Hard/minimum-falling-path-sum-ii.py) | O(n^2) | O(1) | <a href="https://leetcode.com/problems/minimum-falling-path-sum-ii/" target="_blank">Link</a>
  | [minimum-number-of-k-consecutive-bit-flips.py](Hard/minimum-number-of-k-consecutive-bit-flips.py) | O(n) | O(k) | <a href="https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/" target="_blank">Link</a>
  | [minimum-number-of-operations-to-make-array-continuous.py](Hard/minimum-number-of-operations-to-make-array-continuous.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/" target="_blank">Link</a>
  | [minimum-obstacle-removal-to-reach-corner.py](Hard/minimum-obstacle-removal-to-reach-corner.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/" target="_blank">Link</a>
@@ -510,4 +511,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Dec  8 09:33:26 UTC 2024.
+Latest push from RunarFosse: Sun Dec  8 10:00:46 UTC 2024.
