@@ -239,6 +239,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-if-array-can-be-sorted.py](Medium/find-if-array-can-be-sorted.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-if-array-can-be-sorted/" target="_blank">Link</a>
  | [find-kth-bit-in-nth-binary-string.py](Medium/find-kth-bit-in-nth-binary-string.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/" target="_blank">Link</a>
  | [find-largest-value-in-each-tree-row.py](Medium/find-largest-value-in-each-tree-row.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/find-largest-value-in-each-tree-row/" target="_blank">Link</a>
+ | [find-longest-special-substring-that-occurs-thrice-i.py](Medium/find-longest-special-substring-that-occurs-thrice-i.py) | O(n) | O(n^2) | <a href="https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/" target="_blank">Link</a>
  | [find-missing-observations.py](Medium/find-missing-observations.py) | O(m + n) | O(n) | <a href="https://leetcode.com/problems/find-missing-observations/" target="_blank">Link</a>
  | [find-peak-element.py](Medium/find-peak-element.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/find-peak-element/" target="_blank">Link</a>
  | [find-players-with-zero-or-one-losses.py](Medium/find-players-with-zero-or-one-losses.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/find-players-with-zero-or-one-losses/" target="_blank">Link</a>
@@ -512,4 +513,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Dec  9 10:35:19 UTC 2024.
+Latest push from RunarFosse: Tue Dec 10 08:16:17 UTC 2024.
