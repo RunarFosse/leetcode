@@ -302,6 +302,7 @@ All problems are tried solving in the most optimal way possible.
  | [make-string-a-subsequence-using-cyclic-increments.py](Medium/make-string-a-subsequence-using-cyclic-increments.py) | O(n + m) | O(1) | <a href="https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/" target="_blank">Link</a>
  | [maximal-score-after-applying-k-operations.py](Medium/maximal-score-after-applying-k-operations.py) | O(n + klog n) | O(1) | <a href="https://leetcode.com/problems/maximal-score-after-applying-k-operations/" target="_blank">Link</a>
  | [maximize-happiness-of-selected-children.py](Medium/maximize-happiness-of-selected-children.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximize-happiness-of-selected-children/" target="_blank">Link</a>
+ | [maximum-beauty-of-an-array-after-applying-operation.py](Medium/maximum-beauty-of-an-array-after-applying-operation.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/" target="_blank">Link</a>
  | [maximum-difference-between-node-and-ancestor.py](Medium/maximum-difference-between-node-and-ancestor.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/" target="_blank">Link</a>
  | [maximum-distance-in-arrays.py](Medium/maximum-distance-in-arrays.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-distance-in-arrays/" target="_blank">Link</a>
  | [maximum-element-after-decreasing-and-rearranging.py](Medium/maximum-element-after-decreasing-and-rearranging.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/" target="_blank">Link</a>
@@ -513,4 +514,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Dec 10 08:16:17 UTC 2024.
+Latest push from RunarFosse: Wed Dec 11 08:26:23 UTC 2024.
