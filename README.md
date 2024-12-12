@@ -149,6 +149,7 @@ All problems are tried solving in the most optimal way possible.
  | [sum-of-left-leaves.py](Easy/sum-of-left-leaves.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/sum-of-left-leaves/" target="_blank">Link</a>
  | [sum-of-values-at-indices-with-k-set-bits.py](Easy/sum-of-values-at-indices-with-k-set-bits.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/" target="_blank">Link</a>
  | [symmetric-tree.py](Easy/symmetric-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/symmetric-tree/" target="_blank">Link</a>
+ | [take-gifts-from-the-richest-pile.py](Easy/take-gifts-from-the-richest-pile.py) | | | <a href="https://leetcode.com/problems/take-gifts-from-the-richest-pile/" target="_blank">Link</a>
  | [three-consecutive-odds.py](Easy/three-consecutive-odds.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/three-consecutive-odds/" target="_blank">Link</a>
  | [time-needed-to-buy-tickets.py](Easy/time-needed-to-buy-tickets.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/time-needed-to-buy-tickets/" target="_blank">Link</a>
  | [transpose-matrix.py](Easy/transpose-matrix.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/transpose-matrix/" target="_blank">Link</a>
@@ -514,4 +515,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Dec 11 08:26:23 UTC 2024.
+Latest push from RunarFosse: Thu Dec 12 08:18:50 UTC 2024.
