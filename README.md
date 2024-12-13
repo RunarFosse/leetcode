@@ -245,6 +245,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-peak-element.py](Medium/find-peak-element.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/find-peak-element/" target="_blank">Link</a>
  | [find-players-with-zero-or-one-losses.py](Medium/find-players-with-zero-or-one-losses.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/find-players-with-zero-or-one-losses/" target="_blank">Link</a>
  | [find-polygon-with-the-largest-perimeter.py](Medium/find-polygon-with-the-largest-perimeter.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/" target="_blank">Link</a>
+ | [find-score-of-an-array-after-marking-all-elements.py](Medium/find-score-of-an-array-after-marking-all-elements.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/" target="_blank">Link</a>
  | [find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.py](Medium/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.py) | O(n^3) | O(n^2) | <a href="https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/" target="_blank">Link</a>
  | [find-the-duplicate-number.py](Medium/find-the-duplicate-number.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-duplicate-number/" target="_blank">Link</a>
  | [find-the-length-of-the-longest-common-prefix.py](Medium/find-the-length-of-the-longest-common-prefix.py) | O(m + n) | O(m) | <a href="https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/" target="_blank">Link</a>
@@ -515,4 +516,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Dec 12 08:19:15 UTC 2024.
+Latest push from RunarFosse: Fri Dec 13 08:53:24 UTC 2024.
