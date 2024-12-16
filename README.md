@@ -42,6 +42,7 @@ All problems are tried solving in the most optimal way possible.
  | [divisible-and-non-divisible-sums-difference.py](Easy/divisible-and-non-divisible-sums-difference.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/" target="_blank">Link</a>
  | [element-appearing-more-than-25-in-sorted-array.py](Easy/element-appearing-more-than-25-in-sorted-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/" target="_blank">Link</a>
  | [evaluate-boolean-binary-tree.py](Easy/evaluate-boolean-binary-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/evaluate-boolean-binary-tree/" target="_blank">Link</a>
+ | [final-array-state-after-k-multiplication-operations-i.py](Easy/final-array-state-after-k-multiplication-operations-i.py) | O(n + klog n) | O(n) | <a href="https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/" target="_blank">Link</a>
  | [find-center-of-star-graph.py](Easy/find-center-of-star-graph.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/find-center-of-star-graph/" target="_blank">Link</a>
  | [find-common-characters.py](Easy/find-common-characters.py) | O(nm) | O(1) | <a href="https://leetcode.com/problems/find-common-characters/" target="_blank">Link</a>
  | [find-first-palindromic-string-in-the-array.py](Easy/find-first-palindromic-string-in-the-array.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/find-first-palindromic-string-in-the-array/" target="_blank">Link</a>
@@ -518,4 +519,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Dec 15 11:17:20 UTC 2024.
+Latest push from RunarFosse: Mon Dec 16 09:36:27 UTC 2024.
