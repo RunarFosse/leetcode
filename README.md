@@ -306,6 +306,7 @@ All problems are tried solving in the most optimal way possible.
  | [magnetic-force-between-two-balls.py](Medium/magnetic-force-between-two-balls.py) | O(n(log n + log a)) | O(n) | <a href="https://leetcode.com/problems/magnetic-force-between-two-balls/" target="_blank">Link</a>
  | [majority-element-ii.py](Medium/majority-element-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/majority-element-ii/" target="_blank">Link</a>
  | [make-string-a-subsequence-using-cyclic-increments.py](Medium/make-string-a-subsequence-using-cyclic-increments.py) | O(n + m) | O(1) | <a href="https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/" target="_blank">Link</a>
+ | [max-chunks-to-make-sorted.py](Medium/max-chunks-to-make-sorted.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/max-chunks-to-make-sorted/" target="_blank">Link</a>
  | [maximal-score-after-applying-k-operations.py](Medium/maximal-score-after-applying-k-operations.py) | O(n + klog n) | O(1) | <a href="https://leetcode.com/problems/maximal-score-after-applying-k-operations/" target="_blank">Link</a>
  | [maximize-happiness-of-selected-children.py](Medium/maximize-happiness-of-selected-children.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximize-happiness-of-selected-children/" target="_blank">Link</a>
  | [maximum-average-pass-ratio.py](Medium/maximum-average-pass-ratio.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximum-average-pass-ratio/" target="_blank">Link</a>
@@ -521,4 +522,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Dec 18 08:18:15 UTC 2024.
+Latest push from RunarFosse: Thu Dec 19 08:38:13 UTC 2024.
