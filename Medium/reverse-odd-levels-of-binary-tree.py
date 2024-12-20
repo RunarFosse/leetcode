@@ -19,11 +19,11 @@ class Solution:
         if not (left or right):
             return
         
-        # If we are at a odd level, reverse levels
+        # If we are at an odd level, reverse
         if odd:
             left.val, right.val = right.val, left.val
         
-        # And continue recursing
+        # Recurse
         self.dfs(left.left, right.right, not odd)
         self.dfs(left.right, right.left, not odd)
         
