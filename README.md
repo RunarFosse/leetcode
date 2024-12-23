@@ -345,6 +345,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-number-of-days-to-make-m-bouquets.py](Medium/minimum-number-of-days-to-make-m-bouquets.py) | O(nlog a) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/" target="_blank">Link</a>
  | [minimum-number-of-operations-to-make-array-empty.py](Medium/minimum-number-of-operations-to-make-array-empty.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/" target="_blank">Link</a>
  | [minimum-number-of-operations-to-make-array-xor-equal-to-k.py](Medium/minimum-number-of-operations-to-make-array-xor-equal-to-k.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/" target="_blank">Link</a>
+ | [minimum-number-of-operations-to-sort-a-binary-tree-by-level.py](Medium/minimum-number-of-operations-to-sort-a-binary-tree-by-level.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/" target="_blank">Link</a>
  | [minimum-number-of-pushes-to-type-word-ii.py](Medium/minimum-number-of-pushes-to-type-word-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/" target="_blank">Link</a>
  | [minimum-number-of-steps-to-make-two-strings-anagram.py](Medium/minimum-number-of-steps-to-make-two-strings-anagram.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/" target="_blank">Link</a>
  | [minimum-operations-to-make-binary-array-elements-equal-to-one-i.py](Medium/minimum-operations-to-make-binary-array-elements-equal-to-one-i.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/" target="_blank">Link</a>
@@ -523,4 +524,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Dec 20 11:51:23 UTC 2024.
+Latest push from RunarFosse: Mon Dec 23 09:59:09 UTC 2024.
