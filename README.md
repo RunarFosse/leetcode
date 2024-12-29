@@ -228,6 +228,7 @@ All problems are tried solving in the most optimal way possible.
  | [different-ways-to-add-parentheses.py](Medium/different-ways-to-add-parentheses.py) | O(n2^n) | O(n^22^n) | <a href="https://leetcode.com/problems/different-ways-to-add-parentheses/" target="_blank">Link</a>
  | [distribute-coins-in-binary-tree.py](Medium/distribute-coins-in-binary-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/distribute-coins-in-binary-tree/" target="_blank">Link</a>
  | [divide-array-into-arrays-with-max-difference.py](Medium/divide-array-into-arrays-with-max-difference.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/" target="_blank">Link</a>
+ | [divide-intervals-into-minimum-number-of-groups.py](Medium/divide-intervals-into-minimum-number-of-groups.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/" target="_blank">Link</a>
  | [divide-players-into-teams-of-equal-skill.py](Medium/divide-players-into-teams-of-equal-skill.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/" target="_blank">Link</a>
  | [divide-two-integers.py](Medium/divide-two-integers.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/divide-two-integers/" target="_blank">Link</a>
  | [double-a-number-represented-as-a-linked-list.py](Medium/double-a-number-represented-as-a-linked-list.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/" target="_blank">Link</a>
@@ -530,4 +531,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Dec 29 12:30:32 UTC 2024.
+Latest push from RunarFosse: Sun Dec 29 12:45:53 UTC 2024.
