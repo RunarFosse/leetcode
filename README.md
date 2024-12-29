@@ -436,6 +436,7 @@ All problems are tried solving in the most optimal way possible.
  | [target-sum.py](Medium/target-sum.py) | O(2^n) | O(2^n) | <a href="https://leetcode.com/problems/target-sum/" target="_blank">Link</a>
  | [task-scheduler.py](Medium/task-scheduler.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/task-scheduler/" target="_blank">Link</a>
  | [the-number-of-beautiful-subsets.py](Medium/the-number-of-beautiful-subsets.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/the-number-of-beautiful-subsets/" target="_blank">Link</a>
+ | [the-number-of-the-smallest-unoccupied-chair.py](Medium/the-number-of-the-smallest-unoccupied-chair.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/" target="_blank">Link</a>
  | [triangle.py](Medium/triangle.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/triangle/" target="_blank">Link</a>
  | [two-best-non-overlapping-events.py](Medium/two-best-non-overlapping-events.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/two-best-non-overlapping-events/" target="_blank">Link</a>
  | [ugly-number-ii.py](Medium/ugly-number-ii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/ugly-number-ii/" target="_blank">Link</a>
@@ -529,4 +530,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Dec 29 12:16:39 UTC 2024.
+Latest push from RunarFosse: Sun Dec 29 12:30:32 UTC 2024.
