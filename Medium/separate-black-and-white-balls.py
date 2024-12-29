@@ -1,3 +1,7 @@
+# Author: Runar Fosse
+# Time complexity: O(n)
+# Space complexity: O(1)
+
 class Solution:
     def minimumSteps(self, s: str) -> int:
         # Store current number of steps, and how many black balls we've seen
@@ -16,5 +20,4 @@ class Solution:
         
         # Finally, return the number of steps to group blacks to the right
         return steps
-    
     
