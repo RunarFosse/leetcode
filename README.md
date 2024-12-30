@@ -378,6 +378,7 @@ All problems are tried solving in the most optimal way possible.
  | [path-with-maximum-gold.py](Medium/path-with-maximum-gold.py) | O((nm)^2) | O(nm) | <a href="https://leetcode.com/problems/path-with-maximum-gold/" target="_blank">Link</a>
  | [path-with-maximum-probability.py](Medium/path-with-maximum-probability.py) | O((m + n)log n) | O(m + n) | <a href="https://leetcode.com/problems/path-with-maximum-probability/" target="_blank">Link</a>
  | [perfect-squares.py](Medium/perfect-squares.py) | O(sqrt(n)) | O(1) | <a href="https://leetcode.com/problems/perfect-squares/" target="_blank">Link</a>
+ | [permutation-in-string.py](Medium/permutation-in-string.py) | O(m + n) | O(1) | <a href="https://leetcode.com/problems/permutation-in-string/" target="_blank">Link</a>
  | [permutations-ii.py](Medium/permutations-ii.py) | O(n!) | O(n!) | <a href="https://leetcode.com/problems/permutations-ii/" target="_blank">Link</a>
  | [permutations.py](Medium/permutations.py) | O(n!) | O(n!) | <a href="https://leetcode.com/problems/permutations/" target="_blank">Link</a>
  | [powx-n.py](Medium/powx-n.py) | O(log n) | O(log n) | <a href="https://leetcode.com/problems/powx-n/" target="_blank">Link</a>
@@ -535,4 +536,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Dec 30 15:51:31 UTC 2024.
+Latest push from RunarFosse: Mon Dec 30 15:58:27 UTC 2024.
