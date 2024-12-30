@@ -352,6 +352,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-number-of-operations-to-sort-a-binary-tree-by-level.py](Medium/minimum-number-of-operations-to-sort-a-binary-tree-by-level.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/" target="_blank">Link</a>
  | [minimum-number-of-pushes-to-type-word-ii.py](Medium/minimum-number-of-pushes-to-type-word-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/" target="_blank">Link</a>
  | [minimum-number-of-steps-to-make-two-strings-anagram.py](Medium/minimum-number-of-steps-to-make-two-strings-anagram.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/" target="_blank">Link</a>
+ | [minimum-number-of-swaps-to-make-the-string-balanced.py](Medium/minimum-number-of-swaps-to-make-the-string-balanced.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/" target="_blank">Link</a>
  | [minimum-operations-to-make-binary-array-elements-equal-to-one-i.py](Medium/minimum-operations-to-make-binary-array-elements-equal-to-one-i.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/" target="_blank">Link</a>
  | [minimum-path-sum.py](Medium/minimum-path-sum.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-path-sum/" target="_blank">Link</a>
  | [minimum-remove-to-make-valid-parentheses.py](Medium/minimum-remove-to-make-valid-parentheses.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/" target="_blank">Link</a>
@@ -533,4 +534,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Dec 29 12:58:28 UTC 2024.
+Latest push from RunarFosse: Mon Dec 30 15:44:33 UTC 2024.
