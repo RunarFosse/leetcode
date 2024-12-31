@@ -337,6 +337,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-add-to-make-parentheses-valid.py](Medium/minimum-add-to-make-parentheses-valid.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/" target="_blank">Link</a>
  | [minimum-amount-of-time-to-collect-garbage.py](Medium/minimum-amount-of-time-to-collect-garbage.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/" target="_blank">Link</a>
  | [minimum-array-end.py](Medium/minimum-array-end.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/minimum-array-end/" target="_blank">Link</a>
+ | [minimum-cost-for-tickets.py](Medium/minimum-cost-for-tickets.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/minimum-cost-for-tickets/" target="_blank">Link</a>
  | [minimum-cost-to-convert-string-i.py](Medium/minimum-cost-to-convert-string-i.py) | O(n+m) | O(1) | <a href="https://leetcode.com/problems/minimum-cost-to-convert-string-i/" target="_blank">Link</a>
  | [minimum-deletions-to-make-string-balanced.py](Medium/minimum-deletions-to-make-string-balanced.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/" target="_blank">Link</a>
  | [minimum-difference-between-largest-and-smallest-value-in-three-moves.py](Medium/minimum-difference-between-largest-and-smallest-value-in-three-moves.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/" target="_blank">Link</a>
@@ -536,4 +537,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Dec 30 15:58:27 UTC 2024.
+Latest push from RunarFosse: Tue Dec 31 10:46:41 UTC 2024.
