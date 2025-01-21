@@ -277,6 +277,7 @@ All problems are tried solving in the most optimal way possible.
  | [furthest-building-you-can-reach.py](Medium/furthest-building-you-can-reach.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/furthest-building-you-can-reach/" target="_blank">Link</a>
  | [generate-parentheses.py](Medium/generate-parentheses.py) | O(4^n) | O(n2^n) | <a href="https://leetcode.com/problems/generate-parentheses/" target="_blank">Link</a>
  | [get-equal-substrings-within-budget.py](Medium/get-equal-substrings-within-budget.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/get-equal-substrings-within-budget/" target="_blank">Link</a>
+ | [grid-game.py](Medium/grid-game.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/grid-game/" target="_blank">Link</a>
  | [group-anagrams.py](Medium/group-anagrams.py) | O(mnlog m) | O(mn) | <a href="https://leetcode.com/problems/group-anagrams/" target="_blank">Link</a>
  | [grumpy-bookstore-owner.py](Medium/grumpy-bookstore-owner.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/grumpy-bookstore-owner/" target="_blank">Link</a>
  | [hand-of-straights.py](Medium/hand-of-straights.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/hand-of-straights/" target="_blank">Link</a>
@@ -552,4 +553,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Jan 20 11:30:23 UTC 2025.
+Latest push from RunarFosse: Tue Jan 21 10:59:58 UTC 2025.
