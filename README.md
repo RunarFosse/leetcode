@@ -318,6 +318,7 @@ All problems are tried solving in the most optimal way possible.
  | [majority-element-ii.py](Medium/majority-element-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/majority-element-ii/" target="_blank">Link</a>
  | [make-string-a-subsequence-using-cyclic-increments.py](Medium/make-string-a-subsequence-using-cyclic-increments.py) | O(n + m) | O(1) | <a href="https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/" target="_blank">Link</a>
  | [make-sum-divisible-by-p.py](Medium/make-sum-divisible-by-p.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/make-sum-divisible-by-p/" target="_blank">Link</a>
+ | [map-of-highest-peak.py](Medium/map-of-highest-peak.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/map-of-highest-peak/" target="_blank">Link</a>
  | [max-chunks-to-make-sorted.py](Medium/max-chunks-to-make-sorted.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/max-chunks-to-make-sorted/" target="_blank">Link</a>
  | [maximal-score-after-applying-k-operations.py](Medium/maximal-score-after-applying-k-operations.py) | O(n + klog n) | O(1) | <a href="https://leetcode.com/problems/maximal-score-after-applying-k-operations/" target="_blank">Link</a>
  | [maximize-happiness-of-selected-children.py](Medium/maximize-happiness-of-selected-children.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximize-happiness-of-selected-children/" target="_blank">Link</a>
@@ -553,4 +554,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Jan 21 10:59:58 UTC 2025.
+Latest push from RunarFosse: Thu Jan 23 08:39:28 UTC 2025.
