@@ -247,6 +247,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-all-groups-of-farmland.py](Medium/find-all-groups-of-farmland.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/find-all-groups-of-farmland/" target="_blank">Link</a>
  | [find-bottom-left-tree-value.py](Medium/find-bottom-left-tree-value.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-bottom-left-tree-value/" target="_blank">Link</a>
  | [find-champion-ii.py](Medium/find-champion-ii.py) | O(m + n) | O(n) | <a href="https://leetcode.com/problems/find-champion-ii/" target="_blank">Link</a>
+ | [find-eventual-safe-states.py](Medium/find-eventual-safe-states.py) | O(m + n) | O(m + n) | <a href="https://leetcode.com/problems/find-eventual-safe-states/" target="_blank">Link</a>
  | [find-first-and-last-position-of-element-in-sorted-array.py](Medium/find-first-and-last-position-of-element-in-sorted-array.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/" target="_blank">Link</a>
  | [find-if-array-can-be-sorted.py](Medium/find-if-array-can-be-sorted.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-if-array-can-be-sorted/" target="_blank">Link</a>
  | [find-kth-bit-in-nth-binary-string.py](Medium/find-kth-bit-in-nth-binary-string.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/" target="_blank">Link</a>
@@ -555,4 +556,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Jan 23 17:57:11 UTC 2025.
+Latest push from RunarFosse: Fri Jan 24 11:07:25 UTC 2025.
