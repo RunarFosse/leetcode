@@ -318,6 +318,7 @@ All problems are tried solving in the most optimal way possible.
  | [magic-squares-in-grid.py](Medium/magic-squares-in-grid.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/magic-squares-in-grid/" target="_blank">Link</a>
  | [magnetic-force-between-two-balls.py](Medium/magnetic-force-between-two-balls.py) | O(n(log n + log a)) | O(n) | <a href="https://leetcode.com/problems/magnetic-force-between-two-balls/" target="_blank">Link</a>
  | [majority-element-ii.py](Medium/majority-element-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/majority-element-ii/" target="_blank">Link</a>
+ | [make-lexicographically-smallest-array-by-swapping-elements.py](Medium/make-lexicographically-smallest-array-by-swapping-elements.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/" target="_blank">Link</a>
  | [make-string-a-subsequence-using-cyclic-increments.py](Medium/make-string-a-subsequence-using-cyclic-increments.py) | O(n + m) | O(1) | <a href="https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/" target="_blank">Link</a>
  | [make-sum-divisible-by-p.py](Medium/make-sum-divisible-by-p.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/make-sum-divisible-by-p/" target="_blank">Link</a>
  | [map-of-highest-peak.py](Medium/map-of-highest-peak.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/map-of-highest-peak/" target="_blank">Link</a>
@@ -556,4 +557,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Jan 24 11:07:25 UTC 2025.
+Latest push from RunarFosse: Sat Jan 25 17:23:11 UTC 2025.
