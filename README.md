@@ -217,6 +217,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-unguarded-cells-in-the-grid.py](Medium/count-unguarded-cells-in-the-grid.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/count-unguarded-cells-in-the-grid/" target="_blank">Link</a>
  | [count-vowel-strings-in-ranges.py](Medium/count-vowel-strings-in-ranges.py) | O(m + n) | O(m + n) | <a href="https://leetcode.com/problems/count-vowel-strings-in-ranges/" target="_blank">Link</a>
  | [count-ways-to-build-good-strings.py](Medium/count-ways-to-build-good-strings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-ways-to-build-good-strings/" target="_blank">Link</a>
+ | [course-schedule-iv.py](Medium/course-schedule-iv.py) | O(mnk) | O(n^2) | <a href="https://leetcode.com/problems/course-schedule-iv/" target="_blank">Link</a>
  | [course-schedule.py](Medium/course-schedule.py) | O(n+m) | O(n+m) | <a href="https://leetcode.com/problems/course-schedule/" target="_blank">Link</a>
  | [create-binary-tree-from-descriptions.py](Medium/create-binary-tree-from-descriptions.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/create-binary-tree-from-descriptions/" target="_blank">Link</a>
  | [custom-sort-string.py](Medium/custom-sort-string.py) | O(m+n) | O(n) | <a href="https://leetcode.com/problems/custom-sort-string/" target="_blank">Link</a>
@@ -557,4 +558,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Jan 25 17:23:11 UTC 2025.
+Latest push from RunarFosse: Mon Jan 27 10:22:15 UTC 2025.
