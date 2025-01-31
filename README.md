@@ -506,6 +506,7 @@ All problems are tried solving in the most optimal way possible.
  | [k-inverse-pairs-array.py](Hard/k-inverse-pairs-array.py) | O(nk) | O(k) | <a href="https://leetcode.com/problems/k-inverse-pairs-array/" target="_blank">Link</a>
  | [k-th-smallest-in-lexicographical-order.py](Hard/k-th-smallest-in-lexicographical-order.py) | O((log n)^2) | O(log n) | <a href="https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/" target="_blank">Link</a>
  | [largest-rectangle-in-histogram.py](Hard/largest-rectangle-in-histogram.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/largest-rectangle-in-histogram/" target="_blank">Link</a>
+ | [making-a-large-island.py](Hard/making-a-large-island.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/making-a-large-island/" target="_blank">Link</a>
  | [max-dot-product-of-two-subsequences.py](Hard/max-dot-product-of-two-subsequences.py) | O(nm) | O(nm) | <a href="https://leetcode.com/problems/max-dot-product-of-two-subsequences/" target="_blank">Link</a>
  | [maximal-rectangle.py](Hard/maximal-rectangle.py) | O(mn) | O(n) | <a href="https://leetcode.com/problems/maximal-rectangle/" target="_blank">Link</a>
  | [maximum-number-of-k-divisible-components.py](Hard/maximum-number-of-k-divisible-components.py) | O(m + n) | O(m + n) | <a href="https://leetcode.com/problems/maximum-number-of-k-divisible-components/" target="_blank">Link</a>
@@ -559,4 +560,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Jan 28 11:55:48 UTC 2025.
+Latest push from RunarFosse: Fri Jan 31 10:47:52 UTC 2025.
