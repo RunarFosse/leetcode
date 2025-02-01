@@ -141,6 +141,7 @@ All problems are tried solving in the most optimal way possible.
  | [sort-array-by-increasing-frequency.py](Easy/sort-array-by-increasing-frequency.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/sort-array-by-increasing-frequency/" target="_blank">Link</a>
  | [sort-integers-by-the-number-of-1-bits.py](Easy/sort-integers-by-the-number-of-1-bits.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/" target="_blank">Link</a>
  | [sort-the-people.py](Easy/sort-the-people.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/sort-the-people/" target="_blank">Link</a>
+ | [special-array-i.py](Easy/special-array-i.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/special-array-i/" target="_blank">Link</a>
  | [special-array-with-x-elements-greater-than-or-equal-x.py](Easy/special-array-with-x-elements-greater-than-or-equal-x.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/" target="_blank">Link</a>
  | [special-positions-in-a-binary-matrix.py](Easy/special-positions-in-a-binary-matrix.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/special-positions-in-a-binary-matrix/" target="_blank">Link</a>
  | [sqrtx.py](Easy/sqrtx.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/sqrtx/" target="_blank">Link</a>
@@ -562,4 +563,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Jan 31 14:46:26 UTC 2025.
+Latest push from RunarFosse: Sat Feb  1 12:03:36 UTC 2025.
