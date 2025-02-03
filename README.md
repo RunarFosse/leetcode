@@ -150,6 +150,7 @@ All problems are tried solving in the most optimal way possible.
  | [special-positions-in-a-binary-matrix.py](Easy/special-positions-in-a-binary-matrix.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/special-positions-in-a-binary-matrix/" target="_blank">Link</a>
  | [sqrtx.py](Easy/sqrtx.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/sqrtx/" target="_blank">Link</a>
  | [squares-of-a-sorted-array.py](Easy/squares-of-a-sorted-array.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/squares-of-a-sorted-array/" target="_blank">Link</a>
+ | [string-matching-in-an-array.py](Easy/string-matching-in-an-array.py) | O(m^2n) | O(m^2n) | <a href="https://leetcode.com/problems/string-matching-in-an-array/" target="_blank">Link</a>
  | [student-attendance-record-i.py](Easy/student-attendance-record-i.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/student-attendance-record-i/" target="_blank">Link</a>
  | [sum-of-all-subset-xor-totals.py](Easy/sum-of-all-subset-xor-totals.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/sum-of-all-subset-xor-totals/" target="_blank">Link</a>
  | [sum-of-digits-of-string-after-convert.py](Easy/sum-of-digits-of-string-after-convert.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/sum-of-digits-of-string-after-convert/" target="_blank">Link</a>
@@ -568,4 +569,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Feb  3 10:17:35 UTC 2025.
+Latest push from RunarFosse: Mon Feb  3 10:58:47 UTC 2025.
