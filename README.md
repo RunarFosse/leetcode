@@ -32,6 +32,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-of-matches-in-tournament.py](Easy/count-of-matches-in-tournament.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/count-of-matches-in-tournament/" target="_blank">Link</a>
  | [count-the-number-of-consistent-strings.py](Easy/count-the-number-of-consistent-strings.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-the-number-of-consistent-strings/" target="_blank">Link</a>
  | [counting-bits.py](Easy/counting-bits.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/counting-bits/" target="_blank">Link</a>
+ | [counting-words-with-a-given-prefix.py](Easy/counting-words-with-a-given-prefix.py) | O(nm) | O(1) | <a href="https://leetcode.com/problems/counting-words-with-a-given-prefix/" target="_blank">Link</a>
  | [crawler-log-folder.py](Easy/crawler-log-folder.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/crawler-log-folder/" target="_blank">Link</a>
  | [defuse-the-bomb.py](Easy/defuse-the-bomb.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/defuse-the-bomb/" target="_blank">Link</a>
  | [delete-characters-to-make-fancy-string.py](Easy/delete-characters-to-make-fancy-string.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/delete-characters-to-make-fancy-string/" target="_blank">Link</a>
@@ -566,4 +567,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Feb  3 09:28:18 UTC 2025.
+Latest push from RunarFosse: Mon Feb  3 09:43:48 UTC 2025.
