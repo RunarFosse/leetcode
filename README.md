@@ -85,6 +85,7 @@ All problems are tried solving in the most optimal way possible.
  | [majority-element.py](Easy/majority-element.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/majority-element/" target="_blank">Link</a>
  | [make-the-string-great.py](Easy/make-the-string-great.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/make-the-string-great/" target="_blank">Link</a>
  | [make-two-arrays-equal-by-reversing-subarrays.py](Easy/make-two-arrays-equal-by-reversing-subarrays.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/" target="_blank">Link</a>
+ | [maximum-ascending-subarray-sum.py](Easy/maximum-ascending-subarray-sum.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-ascending-subarray-sum/" target="_blank">Link</a>
  | [maximum-depth-of-binary-tree.py](Easy/maximum-depth-of-binary-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/" target="_blank">Link</a>
  | [maximum-nesting-depth-of-the-parentheses.py](Easy/maximum-nesting-depth-of-the-parentheses.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/" target="_blank">Link</a>
  | [maximum-odd-binary-number.py](Easy/maximum-odd-binary-number.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-odd-binary-number/" target="_blank">Link</a>
@@ -569,4 +570,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Feb  3 10:58:47 UTC 2025.
+Latest push from RunarFosse: Tue Feb  4 08:43:36 UTC 2025.
