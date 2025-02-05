@@ -22,6 +22,7 @@ All problems are tried solving in the most optimal way possible.
  | [check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py](Easy/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/" target="_blank">Link</a>
  | [check-if-array-is-sorted-and-rotated.py](Easy/check-if-array-is-sorted-and-rotated.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/" target="_blank">Link</a>
  | [check-if-n-and-its-double-exist.py](Easy/check-if-n-and-its-double-exist.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/check-if-n-and-its-double-exist/" target="_blank">Link</a>
+ | [check-if-one-string-swap-can-make-strings-equal.py](Easy/check-if-one-string-swap-can-make-strings-equal.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/" target="_blank">Link</a>
  | [check-if-two-string-arrays-are-equivalent.py](Easy/check-if-two-string-arrays-are-equivalent.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/" target="_blank">Link</a>
  | [circular-sentence.py](Easy/circular-sentence.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/circular-sentence/" target="_blank">Link</a>
  | [climbing-stairs.py](Easy/climbing-stairs.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/climbing-stairs/" target="_blank">Link</a>
@@ -570,4 +571,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Feb  4 08:43:36 UTC 2025.
+Latest push from RunarFosse: Wed Feb  5 09:24:46 UTC 2025.
