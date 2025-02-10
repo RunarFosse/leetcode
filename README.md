@@ -25,6 +25,7 @@ All problems are tried solving in the most optimal way possible.
  | [check-if-one-string-swap-can-make-strings-equal.py](Easy/check-if-one-string-swap-can-make-strings-equal.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/" target="_blank">Link</a>
  | [check-if-two-string-arrays-are-equivalent.py](Easy/check-if-two-string-arrays-are-equivalent.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/" target="_blank">Link</a>
  | [circular-sentence.py](Easy/circular-sentence.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/circular-sentence/" target="_blank">Link</a>
+ | [clear-digits.py](Easy/clear-digits.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/clear-digits/" target="_blank">Link</a>
  | [climbing-stairs.py](Easy/climbing-stairs.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/climbing-stairs/" target="_blank">Link</a>
  | [construct-string-from-binary-tree.py](Easy/construct-string-from-binary-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/construct-string-from-binary-tree/" target="_blank">Link</a>
  | [convert-1d-array-into-2d-array.py](Easy/convert-1d-array-into-2d-array.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/convert-1d-array-into-2d-array/" target="_blank">Link</a>
@@ -573,4 +574,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Feb  8 09:31:12 UTC 2025.
+Latest push from RunarFosse: Mon Feb 10 10:13:01 UTC 2025.
