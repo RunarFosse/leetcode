@@ -214,6 +214,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-and-say.py](Medium/count-and-say.py) | O(nm) | O(nm) | <a href="https://leetcode.com/problems/count-and-say/" target="_blank">Link</a>
  | [count-nice-pairs-in-an-array.py](Medium/count-nice-pairs-in-an-array.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-nice-pairs-in-an-array/" target="_blank">Link</a>
  | [count-nodes-equal-to-average-of-subtree.py](Medium/count-nodes-equal-to-average-of-subtree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/" target="_blank">Link</a>
+ | [count-number-of-bad-pairs.py](Medium/count-number-of-bad-pairs.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-number-of-bad-pairs/" target="_blank">Link</a>
  | [count-number-of-homogenous-substrings.py](Medium/count-number-of-homogenous-substrings.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-number-of-homogenous-substrings/" target="_blank">Link</a>
  | [count-number-of-nice-subarrays.py](Medium/count-number-of-nice-subarrays.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-number-of-nice-subarrays/" target="_blank">Link</a>
  | [count-number-of-teams.py](Medium/count-number-of-teams.py) | O(n^2) | O(1) | <a href="https://leetcode.com/problems/count-number-of-teams/" target="_blank">Link</a>
@@ -574,4 +575,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Feb 10 10:13:01 UTC 2025.
+Latest push from RunarFosse: Mon Feb 10 10:23:28 UTC 2025.
