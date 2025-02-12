@@ -335,6 +335,7 @@ All problems are tried solving in the most optimal way possible.
  | [make-sum-divisible-by-p.py](Medium/make-sum-divisible-by-p.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/make-sum-divisible-by-p/" target="_blank">Link</a>
  | [map-of-highest-peak.py](Medium/map-of-highest-peak.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/map-of-highest-peak/" target="_blank">Link</a>
  | [max-chunks-to-make-sorted.py](Medium/max-chunks-to-make-sorted.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/max-chunks-to-make-sorted/" target="_blank">Link</a>
+ | [max-sum-of-a-pair-with-equal-sum-of-digits.py](Medium/max-sum-of-a-pair-with-equal-sum-of-digits.py) | O(nlog m) | O(n) | <a href="https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/" target="_blank">Link</a>
  | [maximal-score-after-applying-k-operations.py](Medium/maximal-score-after-applying-k-operations.py) | O(n + klog n) | O(1) | <a href="https://leetcode.com/problems/maximal-score-after-applying-k-operations/" target="_blank">Link</a>
  | [maximize-happiness-of-selected-children.py](Medium/maximize-happiness-of-selected-children.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximize-happiness-of-selected-children/" target="_blank">Link</a>
  | [maximum-average-pass-ratio.py](Medium/maximum-average-pass-ratio.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximum-average-pass-ratio/" target="_blank">Link</a>
@@ -576,4 +577,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Feb 11 07:39:26 UTC 2025.
+Latest push from RunarFosse: Wed Feb 12 09:36:08 UTC 2025.
