@@ -416,6 +416,7 @@ All problems are tried solving in the most optimal way possible.
  | [powx-n.py](Medium/powx-n.py) | O(log n) | O(log n) | <a href="https://leetcode.com/problems/powx-n/" target="_blank">Link</a>
  | [prime-subtraction-operation.py](Medium/prime-subtraction-operation.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/prime-subtraction-operation/" target="_blank">Link</a>
  | [product-of-array-except-self.py](Medium/product-of-array-except-self.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/product-of-array-except-self/" target="_blank">Link</a>
+ | [product-of-the-last-k-numbers.py](Medium/product-of-the-last-k-numbers.py) | | | <a href="https://leetcode.com/problems/product-of-the-last-k-numbers/" target="_blank">Link</a>
  | [pseudo-palindromic-paths-in-a-binary-tree.py](Medium/pseudo-palindromic-paths-in-a-binary-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/" target="_blank">Link</a>
  | [range-sum-of-sorted-subarray-sums.py](Medium/range-sum-of-sorted-subarray-sums.py) | O(n^2log n) | O(n) | <a href="https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/" target="_blank">Link</a>
  | [rearrange-array-elements-by-sign.py](Medium/rearrange-array-elements-by-sign.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/rearrange-array-elements-by-sign/" target="_blank">Link</a>
@@ -578,4 +579,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Feb 13 15:24:37 UTC 2025.
+Latest push from RunarFosse: Fri Feb 14 08:45:09 UTC 2025.
