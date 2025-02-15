@@ -278,6 +278,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-the-original-array-of-prefix-xor.py](Medium/find-the-original-array-of-prefix-xor.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-the-original-array-of-prefix-xor/" target="_blank">Link</a>
  | [find-the-power-of-k-size-subarrays-i.py](Medium/find-the-power-of-k-size-subarrays-i.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/" target="_blank">Link</a>
  | [find-the-prefix-common-array-of-two-arrays.py](Medium/find-the-prefix-common-array-of-two-arrays.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/" target="_blank">Link</a>
+ | [find-the-punishment-number-of-an-integer.py](Medium/find-the-punishment-number-of-an-integer.py) | O(nm) | O(log m) | <a href="https://leetcode.com/problems/find-the-punishment-number-of-an-integer/" target="_blank">Link</a>
  | [find-the-student-that-will-replace-the-chalk.py](Medium/find-the-student-that-will-replace-the-chalk.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/" target="_blank">Link</a>
  | [find-the-winner-of-an-array-game.py](Medium/find-the-winner-of-an-array-game.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-winner-of-an-array-game/" target="_blank">Link</a>
  | [find-the-winner-of-the-circular-game.py](Medium/find-the-winner-of-the-circular-game.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-winner-of-the-circular-game/" target="_blank">Link</a>
@@ -579,4 +580,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Feb 14 08:45:09 UTC 2025.
+Latest push from RunarFosse: Sat Feb 15 09:47:45 UTC 2025.
