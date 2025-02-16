@@ -206,6 +206,7 @@ All problems are tried solving in the most optimal way possible.
  | [compare-version-numbers.py](Medium/compare-version-numbers.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/compare-version-numbers/" target="_blank">Link</a>
  | [construct-k-palindrome-strings.py](Medium/construct-k-palindrome-strings.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/construct-k-palindrome-strings/" target="_blank">Link</a>
  | [construct-string-with-repeat-limit.py](Medium/construct-string-with-repeat-limit.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/construct-string-with-repeat-limit/" target="_blank">Link</a>
+ | [construct-the-lexicographically-largest-valid-sequence.py](Medium/construct-the-lexicographically-largest-valid-sequence.py) | O(2^n) | O(n) | <a href="https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/" target="_blank">Link</a>
  | [container-with-most-water.py](Medium/container-with-most-water.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/container-with-most-water/" target="_blank">Link</a>
  | [contiguous-array.py](Medium/contiguous-array.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/contiguous-array/" target="_blank">Link</a>
  | [continuous-subarray-sum.py](Medium/continuous-subarray-sum.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/continuous-subarray-sum/" target="_blank">Link</a>
@@ -580,4 +581,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Feb 15 09:47:45 UTC 2025.
+Latest push from RunarFosse: Sun Feb 16 10:59:34 UTC 2025.
