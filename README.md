@@ -205,6 +205,7 @@ All problems are tried solving in the most optimal way possible.
  | [combination-sum-ii.py](Medium/combination-sum-ii.py) | O(2^n) | O(2^n) | <a href="https://leetcode.com/problems/combination-sum-ii/" target="_blank">Link</a>
  | [compare-version-numbers.py](Medium/compare-version-numbers.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/compare-version-numbers/" target="_blank">Link</a>
  | [construct-k-palindrome-strings.py](Medium/construct-k-palindrome-strings.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/construct-k-palindrome-strings/" target="_blank">Link</a>
+ | [construct-smallest-number-from-di-string.py](Medium/construct-smallest-number-from-di-string.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/construct-smallest-number-from-di-string/" target="_blank">Link</a>
  | [construct-string-with-repeat-limit.py](Medium/construct-string-with-repeat-limit.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/construct-string-with-repeat-limit/" target="_blank">Link</a>
  | [construct-the-lexicographically-largest-valid-sequence.py](Medium/construct-the-lexicographically-largest-valid-sequence.py) | O(2^n) | O(n) | <a href="https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/" target="_blank">Link</a>
  | [container-with-most-water.py](Medium/container-with-most-water.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/container-with-most-water/" target="_blank">Link</a>
@@ -582,4 +583,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Feb 17 09:19:48 UTC 2025.
+Latest push from RunarFosse: Tue Feb 18 11:46:30 UTC 2025.
