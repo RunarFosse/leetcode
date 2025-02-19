@@ -480,6 +480,7 @@ All problems are tried solving in the most optimal way possible.
  | [swap-nodes-in-pairs.py](Medium/swap-nodes-in-pairs.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/swap-nodes-in-pairs/" target="_blank">Link</a>
  | [target-sum.py](Medium/target-sum.py) | O(2^n) | O(2^n) | <a href="https://leetcode.com/problems/target-sum/" target="_blank">Link</a>
  | [task-scheduler.py](Medium/task-scheduler.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/task-scheduler/" target="_blank">Link</a>
+ | [the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py](Medium/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py) | O(2^n) | O(n) | <a href="https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/" target="_blank">Link</a>
  | [the-number-of-beautiful-subsets.py](Medium/the-number-of-beautiful-subsets.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/the-number-of-beautiful-subsets/" target="_blank">Link</a>
  | [the-number-of-the-smallest-unoccupied-chair.py](Medium/the-number-of-the-smallest-unoccupied-chair.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/" target="_blank">Link</a>
  | [triangle.py](Medium/triangle.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/triangle/" target="_blank">Link</a>
@@ -583,4 +584,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Feb 18 11:46:30 UTC 2025.
+Latest push from RunarFosse: Wed Feb 19 09:14:15 UTC 2025.
