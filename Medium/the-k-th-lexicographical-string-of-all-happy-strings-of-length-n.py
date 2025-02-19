@@ -1,33 +1,31 @@
 # Author: Runar Fosse
-# Time complexity: O(2^n)
-# Space complexity: O(n)
+# Time complexity: O(n)
+# Space complexity: O(1)
 
 class Solution:
     def getHappyString(self, n: int, k: int) -> str:
-        # Using backtracking
-        string, self.k = [""], k
-        self.backtrack(n, string)
-        return "".join(string)
+        # Using combinatorics
 
-    def backtrack(self, i: int, previous: List[str]) -> None:
-        # If we are at the end, decrement k and return
-        if not i:
-            self.k -= 1
-            return 
+        # There are 3 * 2^(n - 1) valid happy strings
+        if k > 3 << (n - 1):
+            # If k is larger, return empty string
+            return ""
         
-        # If not, iterate characters
-        for c in "abc":
-            # Skip if equal to previous
-            if c == previous[-1]:
-                continue
-            
-            # If not, add and continue
-            previous.append(c)
-            self.backtrack(i - 1, previous)
+        # Otherwise, construct the string
+        string = [""]
+        for i in range(n):
+            for c in "abc":
+                if c == string[-1]:
+                    continue
 
-            # If k is 0, we have our string
-            if not self.k:
-                return
-            
-            # Otherwise, remove character and continue
-            previous.pop()
+                # Check which character k corresponds to, and add that
+                if k <= 1 << (n - 1 - i):
+                    string.append(c)
+                    break
+                
+                # If not, decrement k accordingly
+                k -= 1 << (n - 1 - i)
+        
+        # Finally, return the string
+        return "".join(string)
+        
