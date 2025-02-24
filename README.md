@@ -396,6 +396,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-time-to-make-rope-colorful.py](Medium/minimum-time-to-make-rope-colorful.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-time-to-make-rope-colorful/" target="_blank">Link</a>
  | [most-beautiful-item-for-each-query.py](Medium/most-beautiful-item-for-each-query.py) | O((n + m)log n) | O(n + m) | <a href="https://leetcode.com/problems/most-beautiful-item-for-each-query/" target="_blank">Link</a>
  | [most-profit-assigning-work.py](Medium/most-profit-assigning-work.py) | O(mlog m + nlog n) | O(m+n) | <a href="https://leetcode.com/problems/most-profit-assigning-work/" target="_blank">Link</a>
+ | [most-profitable-path-in-a-tree.py](Medium/most-profitable-path-in-a-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/most-profitable-path-in-a-tree/" target="_blank">Link</a>
  | [most-stones-removed-with-same-row-or-column.py](Medium/most-stones-removed-with-same-row-or-column.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/" target="_blank">Link</a>
  | [move-pieces-to-obtain-a-string.py](Medium/move-pieces-to-obtain-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/move-pieces-to-obtain-a-string/" target="_blank">Link</a>
  | [neighboring-bitwise-xor.py](Medium/neighboring-bitwise-xor.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/neighboring-bitwise-xor/" target="_blank">Link</a>
@@ -584,4 +585,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Feb 21 08:46:13 UTC 2025.
+Latest push from RunarFosse: Mon Feb 24 11:30:56 UTC 2025.
