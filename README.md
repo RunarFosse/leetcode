@@ -96,6 +96,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-product-of-two-elements-in-an-array.py](Easy/maximum-product-of-two-elements-in-an-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/" target="_blank">Link</a>
  | [maximum-score-after-splitting-a-string.py](Easy/maximum-score-after-splitting-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-score-after-splitting-a-string/" target="_blank">Link</a>
  | [merge-sorted-array.py](Easy/merge-sorted-array.py) | O(n+m) | O(1) | <a href="https://leetcode.com/problems/merge-sorted-array/" target="_blank">Link</a>
+ | [merge-two-2d-arrays-by-summing-values.py](Easy/merge-two-2d-arrays-by-summing-values.py) | O(m + n) | O(m + n) | <a href="https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/" target="_blank">Link</a>
  | [merge-two-sorted-lists.py](Easy/merge-two-sorted-lists.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/merge-two-sorted-lists/" target="_blank">Link</a>
  | [middle-of-the-linked-list.py](Easy/middle-of-the-linked-list.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/middle-of-the-linked-list/" target="_blank">Link</a>
  | [min-cost-climbing-stairs.py](Easy/min-cost-climbing-stairs.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/min-cost-climbing-stairs/" target="_blank">Link</a>
@@ -588,4 +589,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Mar  1 09:53:24 UTC 2025.
+Latest push from RunarFosse: Sun Mar  2 11:44:54 UTC 2025.
