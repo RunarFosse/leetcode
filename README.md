@@ -415,6 +415,7 @@ All problems are tried solving in the most optimal way possible.
  | [out-of-boundary-paths.py](Medium/out-of-boundary-paths.py) | O(mnN) | O(mnN) | <a href="https://leetcode.com/problems/out-of-boundary-paths/" target="_blank">Link</a>
  | [palindrome-partitioning.py](Medium/palindrome-partitioning.py) | O(n^32^n) | O(2^n) | <a href="https://leetcode.com/problems/palindrome-partitioning/" target="_blank">Link</a>
  | [palindromic-substrings.py](Medium/palindromic-substrings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/palindromic-substrings/" target="_blank">Link</a>
+ | [partition-array-according-to-given-pivot.py](Medium/partition-array-according-to-given-pivot.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/partition-array-according-to-given-pivot/" target="_blank">Link</a>
  | [partition-array-for-maximum-sum.py](Medium/partition-array-for-maximum-sum.py) | O(nk) | O(n) | <a href="https://leetcode.com/problems/partition-array-for-maximum-sum/" target="_blank">Link</a>
  | [path-with-maximum-gold.py](Medium/path-with-maximum-gold.py) | O((nm)^2) | O(nm) | <a href="https://leetcode.com/problems/path-with-maximum-gold/" target="_blank">Link</a>
  | [path-with-maximum-probability.py](Medium/path-with-maximum-probability.py) | O((m + n)log n) | O(m + n) | <a href="https://leetcode.com/problems/path-with-maximum-probability/" target="_blank">Link</a>
@@ -589,4 +590,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Mar  2 11:44:54 UTC 2025.
+Latest push from RunarFosse: Mon Mar  3 20:26:45 UTC 2025.
