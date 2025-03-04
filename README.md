@@ -204,6 +204,7 @@ All problems are tried solving in the most optimal way possible.
  | [cheapest-flights-within-k-stops.py](Medium/cheapest-flights-within-k-stops.py) | O(n) | O(m+n) | <a href="https://leetcode.com/problems/cheapest-flights-within-k-stops/" target="_blank">Link</a>
  | [check-if-a-parentheses-string-can-be-valid.py](Medium/check-if-a-parentheses-string-can-be-valid.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/" target="_blank">Link</a>
  | [check-if-array-pairs-are-divisible-by-k.py](Medium/check-if-array-pairs-are-divisible-by-k.py) | O(n) | O(k) | <a href="https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/" target="_blank">Link</a>
+ | [check-if-number-is-a-sum-of-powers-of-three.py](Medium/check-if-number-is-a-sum-of-powers-of-three.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/" target="_blank">Link</a>
  | [combination-sum-ii.py](Medium/combination-sum-ii.py) | O(2^n) | O(2^n) | <a href="https://leetcode.com/problems/combination-sum-ii/" target="_blank">Link</a>
  | [compare-version-numbers.py](Medium/compare-version-numbers.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/compare-version-numbers/" target="_blank">Link</a>
  | [construct-k-palindrome-strings.py](Medium/construct-k-palindrome-strings.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/construct-k-palindrome-strings/" target="_blank">Link</a>
@@ -590,4 +591,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Mar  3 20:26:45 UTC 2025.
+Latest push from RunarFosse: Tue Mar  4 15:05:14 UTC 2025.
