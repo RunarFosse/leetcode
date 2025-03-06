@@ -55,6 +55,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-first-palindromic-string-in-the-array.py](Easy/find-first-palindromic-string-in-the-array.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/find-first-palindromic-string-in-the-array/" target="_blank">Link</a>
  | [find-if-path-exists-in-graph.py](Easy/find-if-path-exists-in-graph.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-if-path-exists-in-graph/" target="_blank">Link</a>
  | [find-indices-with-index-and-value-difference-i.py](Easy/find-indices-with-index-and-value-difference-i.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/" target="_blank">Link</a>
+ | [find-missing-and-repeated-values.py](Easy/find-missing-and-repeated-values.py) | O(n^2) | O(1) | <a href="https://leetcode.com/problems/find-missing-and-repeated-values/" target="_blank">Link</a>
  | [find-mode-in-binary-search-tree.py](Easy/find-mode-in-binary-search-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-mode-in-binary-search-tree/" target="_blank">Link</a>
  | [find-the-index-of-the-first-occurrence-in-a-string.py](Easy/find-the-index-of-the-first-occurrence-in-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/" target="_blank">Link</a>
  | [find-the-pivot-integer.py](Easy/find-the-pivot-integer.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/find-the-pivot-integer/" target="_blank">Link</a>
@@ -592,4 +593,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Mar  5 10:39:32 UTC 2025.
+Latest push from RunarFosse: Thu Mar  6 09:33:42 UTC 2025.
