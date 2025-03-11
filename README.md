@@ -415,6 +415,7 @@ All problems are tried solving in the most optimal way possible.
  | [number-of-laser-beams-in-a-bank.py](Medium/number-of-laser-beams-in-a-bank.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/number-of-laser-beams-in-a-bank/" target="_blank">Link</a>
  | [number-of-steps-to-reduce-a-number-in-binary-representation-to-one.py](Medium/number-of-steps-to-reduce-a-number-in-binary-representation-to-one.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/" target="_blank">Link</a>
  | [number-of-sub-arrays-with-odd-sum.py](Medium/number-of-sub-arrays-with-odd-sum.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/" target="_blank">Link</a>
+ | [number-of-substrings-containing-all-three-characters.py](Medium/number-of-substrings-containing-all-three-characters.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/" target="_blank">Link</a>
  | [number-of-ways-to-split-array.py](Medium/number-of-ways-to-split-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/number-of-ways-to-split-array/" target="_blank">Link</a>
  | [number-of-wonderful-substrings.py](Medium/number-of-wonderful-substrings.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/number-of-wonderful-substrings/" target="_blank">Link</a>
  | [open-the-lock.py](Medium/open-the-lock.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/open-the-lock/" target="_blank">Link</a>
@@ -596,4 +597,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Mar  9 09:30:54 UTC 2025.
+Latest push from RunarFosse: Tue Mar 11 08:36:45 UTC 2025.
