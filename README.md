@@ -268,6 +268,7 @@ All problems are tried solving in the most optimal way possible.
  | [filling-bookcase-shelves.py](Medium/filling-bookcase-shelves.py) | O(nk) | O(n) | <a href="https://leetcode.com/problems/filling-bookcase-shelves/" target="_blank">Link</a>
  | [find-all-duplicates-in-an-array.py](Medium/find-all-duplicates-in-an-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-all-duplicates-in-an-array/" target="_blank">Link</a>
  | [find-all-groups-of-farmland.py](Medium/find-all-groups-of-farmland.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/find-all-groups-of-farmland/" target="_blank">Link</a>
+ | [find-all-possible-recipes-from-given-supplies.py](Medium/find-all-possible-recipes-from-given-supplies.py) | O(n + m + k) | O(n + m + k) | <a href="https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/" target="_blank">Link</a>
  | [find-bottom-left-tree-value.py](Medium/find-bottom-left-tree-value.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-bottom-left-tree-value/" target="_blank">Link</a>
  | [find-champion-ii.py](Medium/find-champion-ii.py) | O(m + n) | O(n) | <a href="https://leetcode.com/problems/find-champion-ii/" target="_blank">Link</a>
  | [find-eventual-safe-states.py](Medium/find-eventual-safe-states.py) | O(m + n) | O(m + n) | <a href="https://leetcode.com/problems/find-eventual-safe-states/" target="_blank">Link</a>
@@ -600,4 +601,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Mar 18 21:28:40 UTC 2025.
+Latest push from RunarFosse: Fri Mar 21 18:55:37 UTC 2025.
