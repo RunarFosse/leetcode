@@ -209,6 +209,7 @@ All problems are tried solving in the most optimal way possible.
  | [cheapest-flights-within-k-stops.py](Medium/cheapest-flights-within-k-stops.py) | O(n) | O(m+n) | <a href="https://leetcode.com/problems/cheapest-flights-within-k-stops/" target="_blank">Link</a>
  | [check-if-a-parentheses-string-can-be-valid.py](Medium/check-if-a-parentheses-string-can-be-valid.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/" target="_blank">Link</a>
  | [check-if-array-pairs-are-divisible-by-k.py](Medium/check-if-array-pairs-are-divisible-by-k.py) | O(n) | O(k) | <a href="https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/" target="_blank">Link</a>
+ | [check-if-grid-can-be-cut-into-sections.py](Medium/check-if-grid-can-be-cut-into-sections.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/" target="_blank">Link</a>
  | [check-if-number-is-a-sum-of-powers-of-three.py](Medium/check-if-number-is-a-sum-of-powers-of-three.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/" target="_blank">Link</a>
  | [closest-prime-numbers-in-range.py](Medium/closest-prime-numbers-in-range.py) | O(nlog(log(n))) | O(n) | <a href="https://leetcode.com/problems/closest-prime-numbers-in-range/" target="_blank">Link</a>
  | [combination-sum-ii.py](Medium/combination-sum-ii.py) | O(2^n) | O(2^n) | <a href="https://leetcode.com/problems/combination-sum-ii/" target="_blank">Link</a>
@@ -602,4 +603,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Mar 24 09:47:54 UTC 2025.
+Latest push from RunarFosse: Tue Mar 25 10:39:34 UTC 2025.
