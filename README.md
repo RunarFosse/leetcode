@@ -390,6 +390,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-falling-path-sum.py](Medium/minimum-falling-path-sum.py) | O(n^2) | O(1) | <a href="https://leetcode.com/problems/minimum-falling-path-sum/" target="_blank">Link</a>
  | [minimum-height-trees.py](Medium/minimum-height-trees.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/minimum-height-trees/" target="_blank">Link</a>
  | [minimum-increment-to-make-array-unique.py](Medium/minimum-increment-to-make-array-unique.py) | O(m) | O(m) | <a href="https://leetcode.com/problems/minimum-increment-to-make-array-unique/" target="_blank">Link</a>
+ | [minimum-index-of-a-valid-split.py](Medium/minimum-index-of-a-valid-split.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-index-of-a-valid-split/" target="_blank">Link</a>
  | [minimum-length-of-string-after-deleting-similar-ends.py](Medium/minimum-length-of-string-after-deleting-similar-ends.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/" target="_blank">Link</a>
  | [minimum-length-of-string-after-operations.py](Medium/minimum-length-of-string-after-operations.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-length-of-string-after-operations/" target="_blank">Link</a>
  | [minimum-limit-of-balls-in-a-bag.py](Medium/minimum-limit-of-balls-in-a-bag.py) | O(nlog m) | O(1) | <a href="https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/" target="_blank">Link</a>
@@ -604,4 +605,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Mar 26 12:13:44 UTC 2025.
+Latest push from RunarFosse: Thu Mar 27 10:51:26 UTC 2025.
