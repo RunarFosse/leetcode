@@ -587,6 +587,7 @@ All problems are tried solving in the most optimal way possible.
  | [patching-array.py](Hard/patching-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/patching-array/" target="_blank">Link</a>
  | [perfect-rectangle.py](Hard/perfect-rectangle.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/perfect-rectangle/" target="_blank">Link</a>
  | [poor-pigs.py](Hard/poor-pigs.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/poor-pigs/" target="_blank">Link</a>
+ | [put-marbles-in-bags.py](Hard/put-marbles-in-bags.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/put-marbles-in-bags/" target="_blank">Link</a>
  | [remove-max-number-of-edges-to-keep-graph-fully-traversable.py](Hard/remove-max-number-of-edges-to-keep-graph-fully-traversable.py) | O(mlog m) | O(n+m) | <a href="https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/" target="_blank">Link</a>
  | [robot-collisions.py](Hard/robot-collisions.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/robot-collisions/" target="_blank">Link</a>
  | [russian-doll-envelopes.py](Hard/russian-doll-envelopes.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/russian-doll-envelopes/" target="_blank">Link</a>
@@ -607,4 +608,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Mar 30 10:19:37 UTC 2025.
+Latest push from RunarFosse: Mon Mar 31 10:58:56 UTC 2025.
