@@ -98,6 +98,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-product-difference-between-two-pairs.py](Easy/maximum-product-difference-between-two-pairs.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-product-difference-between-two-pairs/" target="_blank">Link</a>
  | [maximum-product-of-two-elements-in-an-array.py](Easy/maximum-product-of-two-elements-in-an-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/" target="_blank">Link</a>
  | [maximum-score-after-splitting-a-string.py](Easy/maximum-score-after-splitting-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-score-after-splitting-a-string/" target="_blank">Link</a>
+ | [maximum-value-of-an-ordered-triplet-i.py](Easy/maximum-value-of-an-ordered-triplet-i.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/" target="_blank">Link</a>
  | [merge-sorted-array.py](Easy/merge-sorted-array.py) | O(n+m) | O(1) | <a href="https://leetcode.com/problems/merge-sorted-array/" target="_blank">Link</a>
  | [merge-two-2d-arrays-by-summing-values.py](Easy/merge-two-2d-arrays-by-summing-values.py) | O(m + n) | O(m + n) | <a href="https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/" target="_blank">Link</a>
  | [merge-two-sorted-lists.py](Easy/merge-two-sorted-lists.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/merge-two-sorted-lists/" target="_blank">Link</a>
@@ -609,4 +610,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Apr  1 16:28:09 UTC 2025.
+Latest push from RunarFosse: Wed Apr  2 09:55:35 UTC 2025.
