@@ -374,6 +374,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-sum-of-distinct-subarrays-with-length-k.py](Medium/maximum-sum-of-distinct-subarrays-with-length-k.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/" target="_blank">Link</a>
  | [maximum-swap.py](Medium/maximum-swap.py) | O(log n) | O(log n) | <a href="https://leetcode.com/problems/maximum-swap/" target="_blank">Link</a>
  | [maximum-total-importance-of-roads.py](Medium/maximum-total-importance-of-roads.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximum-total-importance-of-roads/" target="_blank">Link</a>
+ | [maximum-value-of-an-ordered-triplet-ii.py](Medium/maximum-value-of-an-ordered-triplet-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/" target="_blank">Link</a>
  | [maximum-width-ramp.py](Medium/maximum-width-ramp.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-width-ramp/" target="_blank">Link</a>
  | [maximum-xor-for-each-query.py](Medium/maximum-xor-for-each-query.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-xor-for-each-query/" target="_blank">Link</a>
  | [merge-in-between-linked-lists.py](Medium/merge-in-between-linked-lists.py) | O(m+n) | O(1) | <a href="https://leetcode.com/problems/merge-in-between-linked-lists/" target="_blank">Link</a>
@@ -610,4 +611,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Apr  2 09:55:35 UTC 2025.
+Latest push from RunarFosse: Thu Apr  3 10:55:42 UTC 2025.
