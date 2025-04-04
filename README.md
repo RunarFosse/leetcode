@@ -346,6 +346,7 @@ All problems are tried solving in the most optimal way possible.
  | [longest-square-streak-in-an-array.py](Medium/longest-square-streak-in-an-array.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/longest-square-streak-in-an-array/" target="_blank">Link</a>
  | [longest-subarray-with-maximum-bitwise-and.py](Medium/longest-subarray-with-maximum-bitwise-and.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/" target="_blank">Link</a>
  | [longest-substring-without-repeating-characters.py](Medium/longest-substring-without-repeating-characters.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/" target="_blank">Link</a>
+ | [lowest-common-ancestor-of-deepest-leaves.py](Medium/lowest-common-ancestor-of-deepest-leaves.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/" target="_blank">Link</a>
  | [magic-squares-in-grid.py](Medium/magic-squares-in-grid.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/magic-squares-in-grid/" target="_blank">Link</a>
  | [magnetic-force-between-two-balls.py](Medium/magnetic-force-between-two-balls.py) | O(n(log n + log a)) | O(n) | <a href="https://leetcode.com/problems/magnetic-force-between-two-balls/" target="_blank">Link</a>
  | [majority-element-ii.py](Medium/majority-element-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/majority-element-ii/" target="_blank">Link</a>
@@ -611,4 +612,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Apr  3 10:55:42 UTC 2025.
+Latest push from RunarFosse: Fri Apr  4 07:39:05 UTC 2025.
