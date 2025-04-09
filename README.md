@@ -110,6 +110,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-depth-of-binary-tree.py](Easy/minimum-depth-of-binary-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/" target="_blank">Link</a>
  | [minimum-number-of-moves-to-seat-everyone.py](Easy/minimum-number-of-moves-to-seat-everyone.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/" target="_blank">Link</a>
  | [minimum-number-of-operations-to-make-elements-in-array-distinct.py](Easy/minimum-number-of-operations-to-make-elements-in-array-distinct.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/" target="_blank">Link</a>
+ | [minimum-operations-to-make-array-values-equal-to-k.py](Easy/minimum-operations-to-make-array-values-equal-to-k.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/" target="_blank">Link</a>
  | [minimum-recolors-to-get-k-consecutive-black-blocks.py](Easy/minimum-recolors-to-get-k-consecutive-black-blocks.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/" target="_blank">Link</a>
  | [minimum-string-length-after-removing-substrings.py](Easy/minimum-string-length-after-removing-substrings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/minimum-string-length-after-removing-substrings/" target="_blank">Link</a>
  | [minimum-time-visiting-all-points.py](Easy/minimum-time-visiting-all-points.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-time-visiting-all-points/" target="_blank">Link</a>
@@ -614,4 +615,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Apr  8 09:59:40 UTC 2025.
+Latest push from RunarFosse: Wed Apr  9 07:55:58 UTC 2025.
