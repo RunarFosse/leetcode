@@ -540,6 +540,7 @@ All problems are tried solving in the most optimal way possible.
  | [cherry-pickup-ii.py](Hard/cherry-pickup-ii.py) | O(mn^2) | O(mn^2) | <a href="https://leetcode.com/problems/cherry-pickup-ii/" target="_blank">Link</a>
  | [constrained-subsequence-sum.py](Hard/constrained-subsequence-sum.py) | O(n) | O(k) | <a href="https://leetcode.com/problems/constrained-subsequence-sum/" target="_blank">Link</a>
  | [count-subarrays-with-fixed-bounds.py](Hard/count-subarrays-with-fixed-bounds.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-subarrays-with-fixed-bounds/" target="_blank">Link</a>
+ | [count-the-number-of-powerful-integers.py](Hard/count-the-number-of-powerful-integers.py) | O(log n) | O(log n) | <a href="https://leetcode.com/problems/count-the-number-of-powerful-integers/" target="_blank">Link</a>
  | [count-vowels-permutation.py](Hard/count-vowels-permutation.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-vowels-permutation/" target="_blank">Link</a>
  | [divide-nodes-into-the-maximum-number-of-groups.py](Hard/divide-nodes-into-the-maximum-number-of-groups.py) | O(n(m + n)) | O(n) | <a href="https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/" target="_blank">Link</a>
  | [find-all-people-with-secret.py](Hard/find-all-people-with-secret.py) | O(n) | O(m+n) | <a href="https://leetcode.com/problems/find-all-people-with-secret/" target="_blank">Link</a>
@@ -615,4 +616,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Apr  9 07:55:58 UTC 2025.
+Latest push from RunarFosse: Thu Apr 10 09:24:36 UTC 2025.
