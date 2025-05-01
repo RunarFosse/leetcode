@@ -575,6 +575,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-employees-to-be-invited-to-a-meeting.py](Hard/maximum-employees-to-be-invited-to-a-meeting.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/" target="_blank">Link</a>
  | [maximum-number-of-k-divisible-components.py](Hard/maximum-number-of-k-divisible-components.py) | O(m + n) | O(m + n) | <a href="https://leetcode.com/problems/maximum-number-of-k-divisible-components/" target="_blank">Link</a>
  | [maximum-number-of-points-from-grid-queries.py](Hard/maximum-number-of-points-from-grid-queries.py) | O(klog k + mnlog(mn)) | O(k + mn) | <a href="https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/" target="_blank">Link</a>
+ | [maximum-number-of-tasks-you-can-assign.py](Hard/maximum-number-of-tasks-you-can-assign.py) | O((m + n)^2log(m + n)) | O(m + n) | <a href="https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/" target="_blank">Link</a>
  | [maximum-profit-in-job-scheduling.py](Hard/maximum-profit-in-job-scheduling.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximum-profit-in-job-scheduling/" target="_blank">Link</a>
  | [maximum-score-of-a-good-subarray.py](Hard/maximum-score-of-a-good-subarray.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-score-of-a-good-subarray/" target="_blank">Link</a>
  | [maximum-score-words-formed-by-letters.py](Hard/maximum-score-words-formed-by-letters.py) | O(m2^n) | O(n) | <a href="https://leetcode.com/problems/maximum-score-words-formed-by-letters/" target="_blank">Link</a>
@@ -626,4 +627,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Apr 30 11:18:11 UTC 2025.
+Latest push from RunarFosse: Thu May  1 12:07:04 UTC 2025.
