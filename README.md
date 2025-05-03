@@ -401,6 +401,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-cost-to-convert-string-i.py](Medium/minimum-cost-to-convert-string-i.py) | O(n+m) | O(1) | <a href="https://leetcode.com/problems/minimum-cost-to-convert-string-i/" target="_blank">Link</a>
  | [minimum-deletions-to-make-string-balanced.py](Medium/minimum-deletions-to-make-string-balanced.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/" target="_blank">Link</a>
  | [minimum-difference-between-largest-and-smallest-value-in-three-moves.py](Medium/minimum-difference-between-largest-and-smallest-value-in-three-moves.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/" target="_blank">Link</a>
+ | [minimum-domino-rotations-for-equal-row.py](Medium/minimum-domino-rotations-for-equal-row.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/" target="_blank">Link</a>
  | [minimum-falling-path-sum.py](Medium/minimum-falling-path-sum.py) | O(n^2) | O(1) | <a href="https://leetcode.com/problems/minimum-falling-path-sum/" target="_blank">Link</a>
  | [minimum-height-trees.py](Medium/minimum-height-trees.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/minimum-height-trees/" target="_blank">Link</a>
  | [minimum-increment-to-make-array-unique.py](Medium/minimum-increment-to-make-array-unique.py) | O(m) | O(m) | <a href="https://leetcode.com/problems/minimum-increment-to-make-array-unique/" target="_blank">Link</a>
@@ -628,4 +629,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu May  1 18:39:52 UTC 2025.
+Latest push from RunarFosse: Sat May  3 11:13:17 UTC 2025.
