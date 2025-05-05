@@ -274,6 +274,7 @@ All problems are tried solving in the most optimal way possible.
  | [divide-intervals-into-minimum-number-of-groups.py](Medium/divide-intervals-into-minimum-number-of-groups.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/" target="_blank">Link</a>
  | [divide-players-into-teams-of-equal-skill.py](Medium/divide-players-into-teams-of-equal-skill.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/" target="_blank">Link</a>
  | [divide-two-integers.py](Medium/divide-two-integers.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/divide-two-integers/" target="_blank">Link</a>
+ | [domino-and-tromino-tiling.py](Medium/domino-and-tromino-tiling.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/domino-and-tromino-tiling/" target="_blank">Link</a>
  | [double-a-number-represented-as-a-linked-list.py](Medium/double-a-number-represented-as-a-linked-list.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/" target="_blank">Link</a>
  | [edit-distance.py](Medium/edit-distance.py) | O(m*n) | O(n) | <a href="https://leetcode.com/problems/edit-distance/" target="_blank">Link</a>
  | [eliminate-maximum-number-of-monsters.py](Medium/eliminate-maximum-number-of-monsters.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/eliminate-maximum-number-of-monsters/" target="_blank">Link</a>
@@ -630,4 +631,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun May  4 11:25:32 UTC 2025.
+Latest push from RunarFosse: Mon May  5 10:36:23 UTC 2025.
