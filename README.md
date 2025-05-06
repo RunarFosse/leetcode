@@ -18,6 +18,7 @@ All problems are tried solving in the most optimal way possible.
  | [binary-tree-paths.py](Easy/binary-tree-paths.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/binary-tree-paths/" target="_blank">Link</a>
  | [binary-tree-postorder-traversal.py](Easy/binary-tree-postorder-traversal.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/binary-tree-postorder-traversal/" target="_blank">Link</a>
  | [binary-tree-preorder-traversal.py](Easy/binary-tree-preorder-traversal.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/binary-tree-preorder-traversal/" target="_blank">Link</a>
+ | [build-array-from-permutation.py](Easy/build-array-from-permutation.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/build-array-from-permutation/" target="_blank">Link</a>
  | [buy-two-chocolates.py](Easy/buy-two-chocolates.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/buy-two-chocolates/" target="_blank">Link</a>
  | [calculate-money-in-leetcode-bank.py](Easy/calculate-money-in-leetcode-bank.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/calculate-money-in-leetcode-bank/" target="_blank">Link</a>
  | [check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py](Easy/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/" target="_blank">Link</a>
@@ -631,4 +632,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon May  5 10:36:23 UTC 2025.
+Latest push from RunarFosse: Tue May  6 11:17:03 UTC 2025.
