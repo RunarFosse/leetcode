@@ -530,6 +530,7 @@ All problems are tried solving in the most optimal way possible.
  | [the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py](Medium/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/" target="_blank">Link</a>
  | [the-number-of-beautiful-subsets.py](Medium/the-number-of-beautiful-subsets.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/the-number-of-beautiful-subsets/" target="_blank">Link</a>
  | [the-number-of-the-smallest-unoccupied-chair.py](Medium/the-number-of-the-smallest-unoccupied-chair.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/" target="_blank">Link</a>
+ | [total-characters-in-string-after-transformations-i.py](Medium/total-characters-in-string-after-transformations-i.py) | O(n + t) | O(1) | <a href="https://leetcode.com/problems/total-characters-in-string-after-transformations-i/" target="_blank">Link</a>
  | [triangle.py](Medium/triangle.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/triangle/" target="_blank">Link</a>
  | [tuple-with-same-product.py](Medium/tuple-with-same-product.py) | O(n^2) | O(n^2) | <a href="https://leetcode.com/problems/tuple-with-same-product/" target="_blank">Link</a>
  | [two-best-non-overlapping-events.py](Medium/two-best-non-overlapping-events.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/two-best-non-overlapping-events/" target="_blank">Link</a>
@@ -636,4 +637,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon May 12 10:31:12 UTC 2025.
+Latest push from RunarFosse: Tue May 13 10:52:59 UTC 2025.
