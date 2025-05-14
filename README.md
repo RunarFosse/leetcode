@@ -630,6 +630,7 @@ All problems are tried solving in the most optimal way possible.
  | [sum-of-distances-in-tree.py](Hard/sum-of-distances-in-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/sum-of-distances-in-tree/" target="_blank">Link</a>
  | [sum-of-prefix-scores-of-strings.py](Hard/sum-of-prefix-scores-of-strings.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/sum-of-prefix-scores-of-strings/" target="_blank">Link</a>
  | [text-justification.py](Hard/text-justification.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/text-justification/" target="_blank">Link</a>
+ | [total-characters-in-string-after-transformations-ii.py](Hard/total-characters-in-string-after-transformations-ii.py) | O(n + log t) | O(1) | <a href="https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/" target="_blank">Link</a>
  | [trapping-rain-water.py](Hard/trapping-rain-water.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/trapping-rain-water/" target="_blank">Link</a>
  | [valid-arrangement-of-pairs.py](Hard/valid-arrangement-of-pairs.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/valid-arrangement-of-pairs/" target="_blank">Link</a>
  | [valid-number.py](Hard/valid-number.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/valid-number/" target="_blank">Link</a>
@@ -637,4 +638,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue May 13 10:52:59 UTC 2025.
+Latest push from RunarFosse: Wed May 14 11:49:09 UTC 2025.
