@@ -94,6 +94,7 @@ All problems are tried solving in the most optimal way possible.
  | [longest-common-prefix.py](Easy/longest-common-prefix.py) | O(nlog n) | O(m) | <a href="https://leetcode.com/problems/longest-common-prefix/" target="_blank">Link</a>
  | [longest-palindrome.py](Easy/longest-palindrome.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/longest-palindrome/" target="_blank">Link</a>
  | [longest-strictly-increasing-or-strictly-decreasing-subarray.py](Easy/longest-strictly-increasing-or-strictly-decreasing-subarray.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/" target="_blank">Link</a>
+ | [longest-unequal-adjacent-groups-subsequence-i.py](Easy/longest-unequal-adjacent-groups-subsequence-i.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/" target="_blank">Link</a>
  | [lucky-numbers-in-a-matrix.py](Easy/lucky-numbers-in-a-matrix.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/lucky-numbers-in-a-matrix/" target="_blank">Link</a>
  | [majority-element.py](Easy/majority-element.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/majority-element/" target="_blank">Link</a>
  | [make-the-string-great.py](Easy/make-the-string-great.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/make-the-string-great/" target="_blank">Link</a>
@@ -638,4 +639,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed May 14 11:49:09 UTC 2025.
+Latest push from RunarFosse: Thu May 15 11:03:03 UTC 2025.
