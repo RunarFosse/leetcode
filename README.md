@@ -184,6 +184,7 @@ All problems are tried solving in the most optimal way possible.
  | [time-needed-to-buy-tickets.py](Easy/time-needed-to-buy-tickets.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/time-needed-to-buy-tickets/" target="_blank">Link</a>
  | [transpose-matrix.py](Easy/transpose-matrix.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/transpose-matrix/" target="_blank">Link</a>
  | [two-sum.py](Easy/two-sum.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/two-sum/" target="_blank">Link</a>
+ | [type-of-triangle.py](Easy/type-of-triangle.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/type-of-triangle/" target="_blank">Link</a>
  | [uncommon-words-from-two-sentences.py](Easy/uncommon-words-from-two-sentences.py) | O(m+n) | O(m+n) | <a href="https://leetcode.com/problems/uncommon-words-from-two-sentences/" target="_blank">Link</a>
  | [unique-number-of-occurrences.py](Easy/unique-number-of-occurrences.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/unique-number-of-occurrences/" target="_blank">Link</a>
  | [valid-anagram.py](Easy/valid-anagram.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/valid-anagram/" target="_blank">Link</a>
@@ -639,4 +640,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu May 15 11:03:03 UTC 2025.
+Latest push from RunarFosse: Mon May 19 20:43:49 UTC 2025.
