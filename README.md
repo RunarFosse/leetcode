@@ -549,6 +549,7 @@ All problems are tried solving in the most optimal way possible.
  | [word-search.py](Medium/word-search.py) | O(mn2^k) | O(k) | <a href="https://leetcode.com/problems/word-search/" target="_blank">Link</a>
  | [word-subsets.py](Medium/word-subsets.py) | O(m + n) | O(n) | <a href="https://leetcode.com/problems/word-subsets/" target="_blank">Link</a>
  | [xor-queries-of-a-subarray.py](Medium/xor-queries-of-a-subarray.py) | O(m + n) | O(m + n) | <a href="https://leetcode.com/problems/xor-queries-of-a-subarray/" target="_blank">Link</a>
+ | [zero-array-transformation-i.py](Medium/zero-array-transformation-i.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/zero-array-transformation-i/" target="_blank">Link</a>
  | [zigzag-conversion.py](Medium/zigzag-conversion.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/zigzag-conversion/" target="_blank">Link</a>
 
 
@@ -640,4 +641,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon May 19 20:43:49 UTC 2025.
+Latest push from RunarFosse: Tue May 20 12:39:24 UTC 2025.
