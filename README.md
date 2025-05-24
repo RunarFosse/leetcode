@@ -68,6 +68,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-the-index-of-the-first-occurrence-in-a-string.py](Easy/find-the-index-of-the-first-occurrence-in-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/" target="_blank">Link</a>
  | [find-the-pivot-integer.py](Easy/find-the-pivot-integer.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/find-the-pivot-integer/" target="_blank">Link</a>
  | [find-the-town-judge.py](Easy/find-the-town-judge.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-the-town-judge/" target="_blank">Link</a>
+ | [find-words-containing-character.py](Easy/find-words-containing-character.py) | O(mn) | O(n) | <a href="https://leetcode.com/problems/find-words-containing-character/" target="_blank">Link</a>
  | [find-words-that-can-be-formed-by-characters.py](Easy/find-words-that-can-be-formed-by-characters.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/" target="_blank">Link</a>
  | [finding-3-digit-even-numbers.py](Easy/finding-3-digit-even-numbers.py) | O(n) | O(n!) | <a href="https://leetcode.com/problems/finding-3-digit-even-numbers/" target="_blank">Link</a>
  | [first-unique-character-in-a-string.py](Easy/first-unique-character-in-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/first-unique-character-in-a-string/" target="_blank">Link</a>
@@ -643,4 +644,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed May 21 16:15:12 UTC 2025.
+Latest push from RunarFosse: Sat May 24 12:30:35 UTC 2025.
