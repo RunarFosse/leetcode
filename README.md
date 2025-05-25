@@ -363,6 +363,7 @@ All problems are tried solving in the most optimal way possible.
  | [longest-ideal-subsequence.py](Medium/longest-ideal-subsequence.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/longest-ideal-subsequence/" target="_blank">Link</a>
  | [longest-increasing-subsequence.py](Medium/longest-increasing-subsequence.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/longest-increasing-subsequence/" target="_blank">Link</a>
  | [longest-nice-subarray.py](Medium/longest-nice-subarray.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/longest-nice-subarray/" target="_blank">Link</a>
+ | [longest-palindrome-by-concatenating-two-letter-words.py](Medium/longest-palindrome-by-concatenating-two-letter-words.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/" target="_blank">Link</a>
  | [longest-palindromic-substring.py](Medium/longest-palindromic-substring.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/longest-palindromic-substring/" target="_blank">Link</a>
  | [longest-square-streak-in-an-array.py](Medium/longest-square-streak-in-an-array.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/longest-square-streak-in-an-array/" target="_blank">Link</a>
  | [longest-subarray-with-maximum-bitwise-and.py](Medium/longest-subarray-with-maximum-bitwise-and.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/" target="_blank">Link</a>
@@ -644,4 +645,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat May 24 12:30:35 UTC 2025.
+Latest push from RunarFosse: Sun May 25 19:43:44 UTC 2025.
