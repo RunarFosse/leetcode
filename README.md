@@ -380,6 +380,7 @@ All problems are tried solving in the most optimal way possible.
  | [max-sum-of-a-pair-with-equal-sum-of-digits.py](Medium/max-sum-of-a-pair-with-equal-sum-of-digits.py) | O(nlog m) | O(n) | <a href="https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/" target="_blank">Link</a>
  | [maximal-score-after-applying-k-operations.py](Medium/maximal-score-after-applying-k-operations.py) | O(n + klog n) | O(1) | <a href="https://leetcode.com/problems/maximal-score-after-applying-k-operations/" target="_blank">Link</a>
  | [maximize-happiness-of-selected-children.py](Medium/maximize-happiness-of-selected-children.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximize-happiness-of-selected-children/" target="_blank">Link</a>
+ | [maximize-the-number-of-target-nodes-after-connecting-trees-i.py](Medium/maximize-the-number-of-target-nodes-after-connecting-trees-i.py) | O(m^2 + n^2) | O(m + n) | <a href="https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/" target="_blank">Link</a>
  | [maximum-absolute-sum-of-any-subarray.py](Medium/maximum-absolute-sum-of-any-subarray.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/" target="_blank">Link</a>
  | [maximum-average-pass-ratio.py](Medium/maximum-average-pass-ratio.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximum-average-pass-ratio/" target="_blank">Link</a>
  | [maximum-beauty-of-an-array-after-applying-operation.py](Medium/maximum-beauty-of-an-array-after-applying-operation.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/" target="_blank">Link</a>
@@ -645,4 +646,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun May 25 19:43:44 UTC 2025.
+Latest push from RunarFosse: Wed May 28 10:41:47 UTC 2025.
