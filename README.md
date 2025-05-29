@@ -590,6 +590,7 @@ All problems are tried solving in the most optimal way possible.
  | [making-a-large-island.py](Hard/making-a-large-island.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/making-a-large-island/" target="_blank">Link</a>
  | [max-dot-product-of-two-subsequences.py](Hard/max-dot-product-of-two-subsequences.py) | O(nm) | O(nm) | <a href="https://leetcode.com/problems/max-dot-product-of-two-subsequences/" target="_blank">Link</a>
  | [maximal-rectangle.py](Hard/maximal-rectangle.py) | O(mn) | O(n) | <a href="https://leetcode.com/problems/maximal-rectangle/" target="_blank">Link</a>
+ | [maximize-the-number-of-target-nodes-after-connecting-trees-ii.py](Hard/maximize-the-number-of-target-nodes-after-connecting-trees-ii.py) | O(m + n) | O(m + n) | <a href="https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/" target="_blank">Link</a>
  | [maximum-employees-to-be-invited-to-a-meeting.py](Hard/maximum-employees-to-be-invited-to-a-meeting.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/" target="_blank">Link</a>
  | [maximum-number-of-k-divisible-components.py](Hard/maximum-number-of-k-divisible-components.py) | O(m + n) | O(m + n) | <a href="https://leetcode.com/problems/maximum-number-of-k-divisible-components/" target="_blank">Link</a>
  | [maximum-number-of-points-from-grid-queries.py](Hard/maximum-number-of-points-from-grid-queries.py) | O(klog k + mnlog(mn)) | O(k + mn) | <a href="https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/" target="_blank">Link</a>
@@ -646,4 +647,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed May 28 10:41:47 UTC 2025.
+Latest push from RunarFosse: Thu May 29 09:58:04 UTC 2025.
