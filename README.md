@@ -292,6 +292,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-all-possible-recipes-from-given-supplies.py](Medium/find-all-possible-recipes-from-given-supplies.py) | O(n + m + k) | O(n + m + k) | <a href="https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/" target="_blank">Link</a>
  | [find-bottom-left-tree-value.py](Medium/find-bottom-left-tree-value.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-bottom-left-tree-value/" target="_blank">Link</a>
  | [find-champion-ii.py](Medium/find-champion-ii.py) | O(m + n) | O(n) | <a href="https://leetcode.com/problems/find-champion-ii/" target="_blank">Link</a>
+ | [find-closest-node-to-given-two-nodes.py](Medium/find-closest-node-to-given-two-nodes.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-closest-node-to-given-two-nodes/" target="_blank">Link</a>
  | [find-eventual-safe-states.py](Medium/find-eventual-safe-states.py) | O(m + n) | O(m + n) | <a href="https://leetcode.com/problems/find-eventual-safe-states/" target="_blank">Link</a>
  | [find-first-and-last-position-of-element-in-sorted-array.py](Medium/find-first-and-last-position-of-element-in-sorted-array.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/" target="_blank">Link</a>
  | [find-if-array-can-be-sorted.py](Medium/find-if-array-can-be-sorted.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-if-array-can-be-sorted/" target="_blank">Link</a>
@@ -647,4 +648,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu May 29 09:58:04 UTC 2025.
+Latest push from RunarFosse: Fri May 30 18:43:18 UTC 2025.
