@@ -274,6 +274,7 @@ All problems are tried solving in the most optimal way possible.
  | [diagonal-traverse-ii.py](Medium/diagonal-traverse-ii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/diagonal-traverse-ii/" target="_blank">Link</a>
  | [difference-between-ones-and-zeros-in-row-and-column.py](Medium/difference-between-ones-and-zeros-in-row-and-column.py) | O(mn) | O(m+n) | <a href="https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/" target="_blank">Link</a>
  | [different-ways-to-add-parentheses.py](Medium/different-ways-to-add-parentheses.py) | O(n2^n) | O(n^22^n) | <a href="https://leetcode.com/problems/different-ways-to-add-parentheses/" target="_blank">Link</a>
+ | [distribute-candies-among-children-ii.py](Medium/distribute-candies-among-children-ii.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/distribute-candies-among-children-ii/" target="_blank">Link</a>
  | [distribute-coins-in-binary-tree.py](Medium/distribute-coins-in-binary-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/distribute-coins-in-binary-tree/" target="_blank">Link</a>
  | [divide-array-into-arrays-with-max-difference.py](Medium/divide-array-into-arrays-with-max-difference.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/" target="_blank">Link</a>
  | [divide-intervals-into-minimum-number-of-groups.py](Medium/divide-intervals-into-minimum-number-of-groups.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/" target="_blank">Link</a>
@@ -648,4 +649,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri May 30 18:43:18 UTC 2025.
+Latest push from RunarFosse: Sun Jun  1 11:10:13 UTC 2025.
