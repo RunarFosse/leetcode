@@ -550,6 +550,7 @@ All problems are tried solving in the most optimal way possible.
  | [unique-length-3-palindromic-subsequences.py](Medium/unique-length-3-palindromic-subsequences.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/unique-length-3-palindromic-subsequences/" target="_blank">Link</a>
  | [unique-paths-ii.py](Medium/unique-paths-ii.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/unique-paths-ii/" target="_blank">Link</a>
  | [unique-paths.py](Medium/unique-paths.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/unique-paths/" target="_blank">Link</a>
+ | [using-a-robot-to-print-the-lexicographically-smallest-string.py](Medium/using-a-robot-to-print-the-lexicographically-smallest-string.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/" target="_blank">Link</a>
  | [valid-parenthesis-string.py](Medium/valid-parenthesis-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/valid-parenthesis-string/" target="_blank">Link</a>
  | [valid-sudoku.py](Medium/valid-sudoku.py) | O(n^2) | O(n^2) | <a href="https://leetcode.com/problems/valid-sudoku/" target="_blank">Link</a>
  | [validate-binary-tree-nodes.py](Medium/validate-binary-tree-nodes.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/validate-binary-tree-nodes/" target="_blank">Link</a>
@@ -654,4 +655,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Jun  5 09:42:03 UTC 2025.
+Latest push from RunarFosse: Fri Jun  6 09:31:50 UTC 2025.
