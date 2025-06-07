@@ -359,6 +359,7 @@ All problems are tried solving in the most optimal way possible.
  | [letter-combinations-of-a-phone-number.py](Medium/letter-combinations-of-a-phone-number.py) | O(nm) | O(m) | <a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/" target="_blank">Link</a>
  | [letter-tile-possibilities.py](Medium/letter-tile-possibilities.py) | O(2^n) | O(n) | <a href="https://leetcode.com/problems/letter-tile-possibilities/" target="_blank">Link</a>
  | [lexicographical-numbers.py](Medium/lexicographical-numbers.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/lexicographical-numbers/" target="_blank">Link</a>
+ | [lexicographically-minimum-string-after-removing-stars.py](Medium/lexicographically-minimum-string-after-removing-stars.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/" target="_blank">Link</a>
  | [lexicographically-smallest-equivalent-string.py](Medium/lexicographically-smallest-equivalent-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/lexicographically-smallest-equivalent-string/" target="_blank">Link</a>
  | [linked-list-in-binary-tree.py](Medium/linked-list-in-binary-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/linked-list-in-binary-tree/" target="_blank">Link</a>
  | [longest-common-subsequence.py](Medium/longest-common-subsequence.py) | O(mn) | O(min(m,n)) | <a href="https://leetcode.com/problems/longest-common-subsequence/" target="_blank">Link</a>
@@ -655,4 +656,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Jun  6 09:31:50 UTC 2025.
+Latest push from RunarFosse: Sat Jun  7 10:09:57 UTC 2025.
