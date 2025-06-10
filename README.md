@@ -103,6 +103,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-ascending-subarray-sum.py](Easy/maximum-ascending-subarray-sum.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-ascending-subarray-sum/" target="_blank">Link</a>
  | [maximum-count-of-positive-integer-and-negative-integer.py](Easy/maximum-count-of-positive-integer-and-negative-integer.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/" target="_blank">Link</a>
  | [maximum-depth-of-binary-tree.py](Easy/maximum-depth-of-binary-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/" target="_blank">Link</a>
+ | [maximum-difference-between-even-and-odd-frequency-i.py](Easy/maximum-difference-between-even-and-odd-frequency-i.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/" target="_blank">Link</a>
  | [maximum-nesting-depth-of-the-parentheses.py](Easy/maximum-nesting-depth-of-the-parentheses.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/" target="_blank">Link</a>
  | [maximum-odd-binary-number.py](Easy/maximum-odd-binary-number.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-odd-binary-number/" target="_blank">Link</a>
  | [maximum-product-difference-between-two-pairs.py](Easy/maximum-product-difference-between-two-pairs.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-product-difference-between-two-pairs/" target="_blank">Link</a>
@@ -656,4 +657,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Jun  7 10:09:57 UTC 2025.
+Latest push from RunarFosse: Tue Jun 10 09:11:19 UTC 2025.
