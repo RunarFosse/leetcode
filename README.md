@@ -471,6 +471,7 @@ All problems are tried solving in the most optimal way possible.
  | [palindromic-substrings.py](Medium/palindromic-substrings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/palindromic-substrings/" target="_blank">Link</a>
  | [partition-array-according-to-given-pivot.py](Medium/partition-array-according-to-given-pivot.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/partition-array-according-to-given-pivot/" target="_blank">Link</a>
  | [partition-array-for-maximum-sum.py](Medium/partition-array-for-maximum-sum.py) | O(nk) | O(n) | <a href="https://leetcode.com/problems/partition-array-for-maximum-sum/" target="_blank">Link</a>
+ | [partition-array-such-that-maximum-difference-is-k.py](Medium/partition-array-such-that-maximum-difference-is-k.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/" target="_blank">Link</a>
  | [partition-equal-subset-sum.py](Medium/partition-equal-subset-sum.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/partition-equal-subset-sum/" target="_blank">Link</a>
  | [partition-labels.py](Medium/partition-labels.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/partition-labels/" target="_blank">Link</a>
  | [path-with-maximum-gold.py](Medium/path-with-maximum-gold.py) | O((nm)^2) | O(nm) | <a href="https://leetcode.com/problems/path-with-maximum-gold/" target="_blank">Link</a>
@@ -663,4 +664,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Jun 17 10:30:12 UTC 2025.
+Latest push from RunarFosse: Thu Jun 19 08:50:32 UTC 2025.
