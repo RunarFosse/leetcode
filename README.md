@@ -424,6 +424,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-cost-for-tickets.py](Medium/minimum-cost-for-tickets.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/minimum-cost-for-tickets/" target="_blank">Link</a>
  | [minimum-cost-to-convert-string-i.py](Medium/minimum-cost-to-convert-string-i.py) | O(n+m) | O(1) | <a href="https://leetcode.com/problems/minimum-cost-to-convert-string-i/" target="_blank">Link</a>
  | [minimum-deletions-to-make-string-balanced.py](Medium/minimum-deletions-to-make-string-balanced.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/" target="_blank">Link</a>
+ | [minimum-deletions-to-make-string-k-special.py](Medium/minimum-deletions-to-make-string-k-special.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/" target="_blank">Link</a>
  | [minimum-difference-between-largest-and-smallest-value-in-three-moves.py](Medium/minimum-difference-between-largest-and-smallest-value-in-three-moves.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/" target="_blank">Link</a>
  | [minimum-domino-rotations-for-equal-row.py](Medium/minimum-domino-rotations-for-equal-row.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/" target="_blank">Link</a>
  | [minimum-equal-sum-of-two-arrays-after-replacing-zeros.py](Medium/minimum-equal-sum-of-two-arrays-after-replacing-zeros.py) | O(m + n) | O(1) | <a href="https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/" target="_blank">Link</a>
@@ -665,4 +666,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Jun 20 08:42:07 UTC 2025.
+Latest push from RunarFosse: Sat Jun 21 08:45:53 UTC 2025.
