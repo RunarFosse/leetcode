@@ -58,6 +58,7 @@ All problems are tried solving in the most optimal way possible.
  | [evaluate-boolean-binary-tree.py](Easy/evaluate-boolean-binary-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/evaluate-boolean-binary-tree/" target="_blank">Link</a>
  | [final-array-state-after-k-multiplication-operations-i.py](Easy/final-array-state-after-k-multiplication-operations-i.py) | O(n + klog n) | O(n) | <a href="https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/" target="_blank">Link</a>
  | [final-prices-with-a-special-discount-in-a-shop.py](Easy/final-prices-with-a-special-discount-in-a-shop.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/" target="_blank">Link</a>
+ | [find-all-k-distant-indices-in-an-array.py](Easy/find-all-k-distant-indices-in-an-array.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/" target="_blank">Link</a>
  | [find-center-of-star-graph.py](Easy/find-center-of-star-graph.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/find-center-of-star-graph/" target="_blank">Link</a>
  | [find-common-characters.py](Easy/find-common-characters.py) | O(nm) | O(1) | <a href="https://leetcode.com/problems/find-common-characters/" target="_blank">Link</a>
  | [find-first-palindromic-string-in-the-array.py](Easy/find-first-palindromic-string-in-the-array.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/find-first-palindromic-string-in-the-array/" target="_blank">Link</a>
@@ -668,4 +669,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Jun 23 11:35:25 UTC 2025.
+Latest push from RunarFosse: Tue Jun 24 09:30:18 UTC 2025.
