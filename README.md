@@ -606,6 +606,7 @@ All problems are tried solving in the most optimal way possible.
  | [ipo.py](Hard/ipo.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/ipo/" target="_blank">Link</a>
  | [k-inverse-pairs-array.py](Hard/k-inverse-pairs-array.py) | O(nk) | O(k) | <a href="https://leetcode.com/problems/k-inverse-pairs-array/" target="_blank">Link</a>
  | [k-th-smallest-in-lexicographical-order.py](Hard/k-th-smallest-in-lexicographical-order.py) | O((log n)^2) | O(log n) | <a href="https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/" target="_blank">Link</a>
+ | [kth-smallest-product-of-two-sorted-arrays.py](Hard/kth-smallest-product-of-two-sorted-arrays.py) | O(nlog mlog k) | O(1) | <a href="https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/" target="_blank">Link</a>
  | [largest-rectangle-in-histogram.py](Hard/largest-rectangle-in-histogram.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/largest-rectangle-in-histogram/" target="_blank">Link</a>
  | [making-a-large-island.py](Hard/making-a-large-island.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/making-a-large-island/" target="_blank">Link</a>
  | [max-dot-product-of-two-subsequences.py](Hard/max-dot-product-of-two-subsequences.py) | O(nm) | O(nm) | <a href="https://leetcode.com/problems/max-dot-product-of-two-subsequences/" target="_blank">Link</a>
@@ -669,4 +670,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Jun 24 09:30:18 UTC 2025.
+Latest push from RunarFosse: Wed Jun 25 12:45:19 UTC 2025.
