@@ -368,6 +368,7 @@ All problems are tried solving in the most optimal way possible.
  | [lexicographically-minimum-string-after-removing-stars.py](Medium/lexicographically-minimum-string-after-removing-stars.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/" target="_blank">Link</a>
  | [lexicographically-smallest-equivalent-string.py](Medium/lexicographically-smallest-equivalent-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/lexicographically-smallest-equivalent-string/" target="_blank">Link</a>
  | [linked-list-in-binary-tree.py](Medium/linked-list-in-binary-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/linked-list-in-binary-tree/" target="_blank">Link</a>
+ | [longest-binary-subsequence-less-than-or-equal-to-k.py](Medium/longest-binary-subsequence-less-than-or-equal-to-k.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/" target="_blank">Link</a>
  | [longest-common-subsequence.py](Medium/longest-common-subsequence.py) | O(mn) | O(min(m,n)) | <a href="https://leetcode.com/problems/longest-common-subsequence/" target="_blank">Link</a>
  | [longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py](Medium/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/" target="_blank">Link</a>
  | [longest-happy-string.py](Medium/longest-happy-string.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/longest-happy-string/" target="_blank">Link</a>
@@ -670,4 +671,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Jun 25 12:45:19 UTC 2025.
+Latest push from RunarFosse: Thu Jun 26 09:58:28 UTC 2025.
