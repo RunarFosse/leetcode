@@ -67,6 +67,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-missing-and-repeated-values.py](Easy/find-missing-and-repeated-values.py) | O(n^2) | O(1) | <a href="https://leetcode.com/problems/find-missing-and-repeated-values/" target="_blank">Link</a>
  | [find-mode-in-binary-search-tree.py](Easy/find-mode-in-binary-search-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-mode-in-binary-search-tree/" target="_blank">Link</a>
  | [find-numbers-with-even-number-of-digits.py](Easy/find-numbers-with-even-number-of-digits.py) | O(nlog m) | O(1) | <a href="https://leetcode.com/problems/find-numbers-with-even-number-of-digits/" target="_blank">Link</a>
+ | [find-subsequence-of-length-k-with-the-largest-sum.py](Easy/find-subsequence-of-length-k-with-the-largest-sum.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/" target="_blank">Link</a>
  | [find-the-index-of-the-first-occurrence-in-a-string.py](Easy/find-the-index-of-the-first-occurrence-in-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/" target="_blank">Link</a>
  | [find-the-pivot-integer.py](Easy/find-the-pivot-integer.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/find-the-pivot-integer/" target="_blank">Link</a>
  | [find-the-town-judge.py](Easy/find-the-town-judge.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-the-town-judge/" target="_blank">Link</a>
@@ -672,4 +673,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Jun 27 14:00:25 UTC 2025.
+Latest push from RunarFosse: Sat Jun 28 11:01:00 UTC 2025.
