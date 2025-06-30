@@ -96,6 +96,7 @@ All problems are tried solving in the most optimal way possible.
  | [length-of-last-word.py](Easy/length-of-last-word.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/length-of-last-word/" target="_blank">Link</a>
  | [linked-list-cycle.py](Easy/linked-list-cycle.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/linked-list-cycle/" target="_blank">Link</a>
  | [longest-common-prefix.py](Easy/longest-common-prefix.py) | O(nlog n) | O(m) | <a href="https://leetcode.com/problems/longest-common-prefix/" target="_blank">Link</a>
+ | [longest-harmonious-subsequence.py](Easy/longest-harmonious-subsequence.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/longest-harmonious-subsequence/" target="_blank">Link</a>
  | [longest-palindrome.py](Easy/longest-palindrome.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/longest-palindrome/" target="_blank">Link</a>
  | [longest-strictly-increasing-or-strictly-decreasing-subarray.py](Easy/longest-strictly-increasing-or-strictly-decreasing-subarray.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/" target="_blank">Link</a>
  | [longest-unequal-adjacent-groups-subsequence-i.py](Easy/longest-unequal-adjacent-groups-subsequence-i.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/" target="_blank">Link</a>
@@ -674,4 +675,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Jun 29 14:20:11 UTC 2025.
+Latest push from RunarFosse: Mon Jun 30 10:37:45 UTC 2025.
