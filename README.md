@@ -69,6 +69,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-numbers-with-even-number-of-digits.py](Easy/find-numbers-with-even-number-of-digits.py) | O(nlog m) | O(1) | <a href="https://leetcode.com/problems/find-numbers-with-even-number-of-digits/" target="_blank">Link</a>
  | [find-subsequence-of-length-k-with-the-largest-sum.py](Easy/find-subsequence-of-length-k-with-the-largest-sum.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/" target="_blank">Link</a>
  | [find-the-index-of-the-first-occurrence-in-a-string.py](Easy/find-the-index-of-the-first-occurrence-in-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/" target="_blank">Link</a>
+ | [find-the-original-typed-string-i.py](Easy/find-the-original-typed-string-i.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-original-typed-string-i/" target="_blank">Link</a>
  | [find-the-pivot-integer.py](Easy/find-the-pivot-integer.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/find-the-pivot-integer/" target="_blank">Link</a>
  | [find-the-town-judge.py](Easy/find-the-town-judge.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-the-town-judge/" target="_blank">Link</a>
  | [find-words-containing-character.py](Easy/find-words-containing-character.py) | O(mn) | O(n) | <a href="https://leetcode.com/problems/find-words-containing-character/" target="_blank">Link</a>
@@ -675,4 +676,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Jun 30 10:37:45 UTC 2025.
+Latest push from RunarFosse: Tue Jul  1 11:20:11 UTC 2025.
