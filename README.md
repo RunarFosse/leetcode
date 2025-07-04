@@ -602,6 +602,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-k-th-smallest-pair-distance.py](Hard/find-k-th-smallest-pair-distance.py) | O(nlog n + nlog m) | O(n) | <a href="https://leetcode.com/problems/find-k-th-smallest-pair-distance/" target="_blank">Link</a>
  | [find-minimum-diameter-after-merging-two-trees.py](Hard/find-minimum-diameter-after-merging-two-trees.py) | O(m + n) | O(m + n) | <a href="https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/" target="_blank">Link</a>
  | [find-the-closest-palindrome.py](Hard/find-the-closest-palindrome.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-the-closest-palindrome/" target="_blank">Link</a>
+ | [find-the-k-th-character-in-string-game-ii.py](Hard/find-the-k-th-character-in-string-game-ii.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/" target="_blank">Link</a>
  | [find-the-maximum-sum-of-node-values.py](Hard/find-the-maximum-sum-of-node-values.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-maximum-sum-of-node-values/" target="_blank">Link</a>
  | [find-the-original-typed-string-ii.py](Hard/find-the-original-typed-string-ii.py) | O(n + k^2) | O(n + k) | <a href="https://leetcode.com/problems/find-the-original-typed-string-ii/" target="_blank">Link</a>
  | [first-missing-positive.py](Hard/first-missing-positive.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/first-missing-positive/" target="_blank">Link</a>
@@ -678,4 +679,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Jul  3 10:34:56 UTC 2025.
+Latest push from RunarFosse: Fri Jul  4 11:29:59 UTC 2025.
