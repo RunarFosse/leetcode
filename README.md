@@ -64,6 +64,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-first-palindromic-string-in-the-array.py](Easy/find-first-palindromic-string-in-the-array.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/find-first-palindromic-string-in-the-array/" target="_blank">Link</a>
  | [find-if-path-exists-in-graph.py](Easy/find-if-path-exists-in-graph.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-if-path-exists-in-graph/" target="_blank">Link</a>
  | [find-indices-with-index-and-value-difference-i.py](Easy/find-indices-with-index-and-value-difference-i.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/" target="_blank">Link</a>
+ | [find-lucky-integer-in-an-array.py](Easy/find-lucky-integer-in-an-array.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-lucky-integer-in-an-array/" target="_blank">Link</a>
  | [find-missing-and-repeated-values.py](Easy/find-missing-and-repeated-values.py) | O(n^2) | O(1) | <a href="https://leetcode.com/problems/find-missing-and-repeated-values/" target="_blank">Link</a>
  | [find-mode-in-binary-search-tree.py](Easy/find-mode-in-binary-search-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-mode-in-binary-search-tree/" target="_blank">Link</a>
  | [find-numbers-with-even-number-of-digits.py](Easy/find-numbers-with-even-number-of-digits.py) | O(nlog m) | O(1) | <a href="https://leetcode.com/problems/find-numbers-with-even-number-of-digits/" target="_blank">Link</a>
@@ -679,4 +680,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Jul  4 11:29:59 UTC 2025.
+Latest push from RunarFosse: Sat Jul  5 09:42:44 UTC 2025.
