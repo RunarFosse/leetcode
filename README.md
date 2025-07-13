@@ -407,6 +407,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-element-after-decreasing-and-rearranging.py](Medium/maximum-element-after-decreasing-and-rearranging.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/" target="_blank">Link</a>
  | [maximum-length-of-a-concatenated-string-with-unique-characters.py](Medium/maximum-length-of-a-concatenated-string-with-unique-characters.py) | O(2^n) | O(n) | <a href="https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/" target="_blank">Link</a>
  | [maximum-manhattan-distance-after-k-changes.py](Medium/maximum-manhattan-distance-after-k-changes.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/" target="_blank">Link</a>
+ | [maximum-matching-of-players-with-trainers.py](Medium/maximum-matching-of-players-with-trainers.py) | O(mlog m + nlog n) | O(m + n) | <a href="https://leetcode.com/problems/maximum-matching-of-players-with-trainers/" target="_blank">Link</a>
  | [maximum-matrix-sum.py](Medium/maximum-matrix-sum.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/maximum-matrix-sum/" target="_blank">Link</a>
  | [maximum-number-of-coins-you-can-get.py](Medium/maximum-number-of-coins-you-can-get.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximum-number-of-coins-you-can-get/" target="_blank">Link</a>
  | [maximum-number-of-fish-in-a-grid.py](Medium/maximum-number-of-fish-in-a-grid.py) | O(mn) | O(m + n) | <a href="https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/" target="_blank">Link</a>
@@ -680,4 +681,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Jul  6 10:17:31 UTC 2025.
+Latest push from RunarFosse: Sun Jul 13 09:23:38 UTC 2025.
