@@ -31,6 +31,7 @@ All problems are tried solving in the most optimal way possible.
  | [climbing-stairs.py](Easy/climbing-stairs.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/climbing-stairs/" target="_blank">Link</a>
  | [construct-string-from-binary-tree.py](Easy/construct-string-from-binary-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/construct-string-from-binary-tree/" target="_blank">Link</a>
  | [convert-1d-array-into-2d-array.py](Easy/convert-1d-array-into-2d-array.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/convert-1d-array-into-2d-array/" target="_blank">Link</a>
+ | [convert-binary-number-in-a-linked-list-to-integer.py](Easy/convert-binary-number-in-a-linked-list-to-integer.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/" target="_blank">Link</a>
  | [convert-sorted-array-to-binary-search-tree.py](Easy/convert-sorted-array-to-binary-search-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/" target="_blank">Link</a>
  | [count-elements-with-maximum-frequency.py](Easy/count-elements-with-maximum-frequency.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-elements-with-maximum-frequency/" target="_blank">Link</a>
  | [count-equal-and-divisible-pairs-in-an-array.py](Easy/count-equal-and-divisible-pairs-in-an-array.py) | O(nk) | O(n) | <a href="https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/" target="_blank">Link</a>
@@ -681,4 +682,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Jul 13 09:23:38 UTC 2025.
+Latest push from RunarFosse: Mon Jul 14 10:04:49 UTC 2025.
