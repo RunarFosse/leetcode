@@ -203,6 +203,7 @@ All problems are tried solving in the most optimal way possible.
  | [valid-anagram.py](Easy/valid-anagram.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/valid-anagram/" target="_blank">Link</a>
  | [valid-palindrome.py](Easy/valid-palindrome.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/valid-palindrome/" target="_blank">Link</a>
  | [valid-parentheses.py](Easy/valid-parentheses.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/valid-parentheses/" target="_blank">Link</a>
+ | [valid-word.py](Easy/valid-word.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/valid-word/" target="_blank">Link</a>
  | [water-bottles.py](Easy/water-bottles.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/water-bottles/" target="_blank">Link</a>
 
 
@@ -682,4 +683,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Jul 14 10:04:49 UTC 2025.
+Latest push from RunarFosse: Tue Jul 15 09:03:38 UTC 2025.
