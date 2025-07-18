@@ -640,6 +640,7 @@ All problems are tried solving in the most optimal way possible.
  | [merge-k-sorted-lists.py](Hard/merge-k-sorted-lists.py) | O(nlog m) | O(n) | <a href="https://leetcode.com/problems/merge-k-sorted-lists/" target="_blank">Link</a>
  | [minimum-cost-to-hire-k-workers.py](Hard/minimum-cost-to-hire-k-workers.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-cost-to-hire-k-workers/" target="_blank">Link</a>
  | [minimum-cost-to-make-at-least-one-valid-path-in-a-grid.py](Hard/minimum-cost-to-make-at-least-one-valid-path-in-a-grid.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/" target="_blank">Link</a>
+ | [minimum-difference-in-sums-after-removal-of-elements.py](Hard/minimum-difference-in-sums-after-removal-of-elements.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/" target="_blank">Link</a>
  | [minimum-difficulty-of-a-job-schedule.py](Hard/minimum-difficulty-of-a-job-schedule.py) | O(nd) | O(nd) | <a href="https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/" target="_blank">Link</a>
  | [minimum-falling-path-sum-ii.py](Hard/minimum-falling-path-sum-ii.py) | O(n^2) | O(1) | <a href="https://leetcode.com/problems/minimum-falling-path-sum-ii/" target="_blank">Link</a>
  | [minimum-number-of-k-consecutive-bit-flips.py](Hard/minimum-number-of-k-consecutive-bit-flips.py) | O(n) | O(k) | <a href="https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/" target="_blank">Link</a>
@@ -685,4 +686,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Jul 17 10:07:09 UTC 2025.
+Latest push from RunarFosse: Fri Jul 18 09:51:06 UTC 2025.
