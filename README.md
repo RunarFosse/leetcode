@@ -409,6 +409,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-difference-between-node-and-ancestor.py](Medium/maximum-difference-between-node-and-ancestor.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/" target="_blank">Link</a>
  | [maximum-distance-in-arrays.py](Medium/maximum-distance-in-arrays.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-distance-in-arrays/" target="_blank">Link</a>
  | [maximum-element-after-decreasing-and-rearranging.py](Medium/maximum-element-after-decreasing-and-rearranging.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/" target="_blank">Link</a>
+ | [maximum-erasure-value.py](Medium/maximum-erasure-value.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-erasure-value/" target="_blank">Link</a>
  | [maximum-length-of-a-concatenated-string-with-unique-characters.py](Medium/maximum-length-of-a-concatenated-string-with-unique-characters.py) | O(2^n) | O(n) | <a href="https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/" target="_blank">Link</a>
  | [maximum-manhattan-distance-after-k-changes.py](Medium/maximum-manhattan-distance-after-k-changes.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/" target="_blank">Link</a>
  | [maximum-matching-of-players-with-trainers.py](Medium/maximum-matching-of-players-with-trainers.py) | O(mlog m + nlog n) | O(m + n) | <a href="https://leetcode.com/problems/maximum-matching-of-players-with-trainers/" target="_blank">Link</a>
@@ -687,4 +688,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Jul 19 09:57:34 UTC 2025.
+Latest push from RunarFosse: Tue Jul 22 10:05:20 UTC 2025.
