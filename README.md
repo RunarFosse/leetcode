@@ -36,6 +36,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-elements-with-maximum-frequency.py](Easy/count-elements-with-maximum-frequency.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-elements-with-maximum-frequency/" target="_blank">Link</a>
  | [count-equal-and-divisible-pairs-in-an-array.py](Easy/count-equal-and-divisible-pairs-in-an-array.py) | O(nk) | O(n) | <a href="https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/" target="_blank">Link</a>
  | [count-good-triplets.py](Easy/count-good-triplets.py) | O(n^3) | O(1) | <a href="https://leetcode.com/problems/count-good-triplets/" target="_blank">Link</a>
+ | [count-hills-and-valleys-in-an-array.py](Easy/count-hills-and-valleys-in-an-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-hills-and-valleys-in-an-array/" target="_blank">Link</a>
  | [count-largest-group.py](Easy/count-largest-group.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/count-largest-group/" target="_blank">Link</a>
  | [count-of-matches-in-tournament.py](Easy/count-of-matches-in-tournament.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/count-of-matches-in-tournament/" target="_blank">Link</a>
  | [count-prefix-and-suffix-pairs-i.py](Easy/count-prefix-and-suffix-pairs-i.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/" target="_blank">Link</a>
@@ -690,4 +691,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Jul 25 11:57:34 UTC 2025.
+Latest push from RunarFosse: Sun Jul 27 09:30:08 UTC 2025.
