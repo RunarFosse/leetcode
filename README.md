@@ -540,6 +540,7 @@ All problems are tried solving in the most optimal way possible.
  | [simplify-path.py](Medium/simplify-path.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/simplify-path/" target="_blank">Link</a>
  | [single-number-iii.py](Medium/single-number-iii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/single-number-iii/" target="_blank">Link</a>
  | [smallest-string-starting-from-leaf.py](Medium/smallest-string-starting-from-leaf.py) | O(nlog n) | O(nlog n) | <a href="https://leetcode.com/problems/smallest-string-starting-from-leaf/" target="_blank">Link</a>
+ | [smallest-subarrays-with-maximum-bitwise-or.py](Medium/smallest-subarrays-with-maximum-bitwise-or.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/" target="_blank">Link</a>
  | [snakes-and-ladders.py](Medium/snakes-and-ladders.py) | O(n^2) | O(n^2) | <a href="https://leetcode.com/problems/snakes-and-ladders/" target="_blank">Link</a>
  | [solving-questions-with-brainpower.py](Medium/solving-questions-with-brainpower.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/solving-questions-with-brainpower/" target="_blank">Link</a>
  | [sort-an-array.py](Medium/sort-an-array.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/sort-an-array/" target="_blank">Link</a>
@@ -692,4 +693,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Jul 28 10:39:23 UTC 2025.
+Latest push from RunarFosse: Tue Jul 29 10:18:02 UTC 2025.
