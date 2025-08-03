@@ -636,6 +636,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximize-the-number-of-target-nodes-after-connecting-trees-ii.py](Hard/maximize-the-number-of-target-nodes-after-connecting-trees-ii.py) | O(m + n) | O(m + n) | <a href="https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/" target="_blank">Link</a>
  | [maximum-candies-you-can-get-from-boxes.py](Hard/maximum-candies-you-can-get-from-boxes.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/" target="_blank">Link</a>
  | [maximum-employees-to-be-invited-to-a-meeting.py](Hard/maximum-employees-to-be-invited-to-a-meeting.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/" target="_blank">Link</a>
+ | [maximum-fruits-harvested-after-at-most-k-steps.py](Hard/maximum-fruits-harvested-after-at-most-k-steps.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/" target="_blank">Link</a>
  | [maximum-number-of-k-divisible-components.py](Hard/maximum-number-of-k-divisible-components.py) | O(m + n) | O(m + n) | <a href="https://leetcode.com/problems/maximum-number-of-k-divisible-components/" target="_blank">Link</a>
  | [maximum-number-of-points-from-grid-queries.py](Hard/maximum-number-of-points-from-grid-queries.py) | O(klog k + mnlog(mn)) | O(k + mn) | <a href="https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/" target="_blank">Link</a>
  | [maximum-number-of-tasks-you-can-assign.py](Hard/maximum-number-of-tasks-you-can-assign.py) | O((m + n)^2log(m + n)) | O(m + n) | <a href="https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/" target="_blank">Link</a>
@@ -694,4 +695,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Aug  2 21:57:40 UTC 2025.
+Latest push from RunarFosse: Sun Aug  3 12:01:04 UTC 2025.
