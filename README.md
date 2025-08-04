@@ -347,6 +347,7 @@ All problems are tried solving in the most optimal way possible.
  | [flip-equivalent-binary-trees.py](Medium/flip-equivalent-binary-trees.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/flip-equivalent-binary-trees/" target="_blank">Link</a>
  | [fraction-addition-and-subtraction.py](Medium/fraction-addition-and-subtraction.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/fraction-addition-and-subtraction/" target="_blank">Link</a>
  | [frequency-of-the-most-frequent-element.py](Medium/frequency-of-the-most-frequent-element.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/frequency-of-the-most-frequent-element/" target="_blank">Link</a>
+ | [fruit-into-baskets.py](Medium/fruit-into-baskets.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/fruit-into-baskets/" target="_blank">Link</a>
  | [furthest-building-you-can-reach.py](Medium/furthest-building-you-can-reach.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/furthest-building-you-can-reach/" target="_blank">Link</a>
  | [generate-parentheses.py](Medium/generate-parentheses.py) | O(4^n) | O(n2^n) | <a href="https://leetcode.com/problems/generate-parentheses/" target="_blank">Link</a>
  | [get-equal-substrings-within-budget.py](Medium/get-equal-substrings-within-budget.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/get-equal-substrings-within-budget/" target="_blank">Link</a>
@@ -695,4 +696,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Aug  3 12:01:04 UTC 2025.
+Latest push from RunarFosse: Mon Aug  4 10:12:31 UTC 2025.
