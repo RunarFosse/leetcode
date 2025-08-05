@@ -80,6 +80,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-words-that-can-be-formed-by-characters.py](Easy/find-words-that-can-be-formed-by-characters.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/" target="_blank">Link</a>
  | [finding-3-digit-even-numbers.py](Easy/finding-3-digit-even-numbers.py) | O(n) | O(n!) | <a href="https://leetcode.com/problems/finding-3-digit-even-numbers/" target="_blank">Link</a>
  | [first-unique-character-in-a-string.py](Easy/first-unique-character-in-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/first-unique-character-in-a-string/" target="_blank">Link</a>
+ | [fruits-into-baskets-ii.py](Easy/fruits-into-baskets-ii.py) | O(n^2) | O(1) | <a href="https://leetcode.com/problems/fruits-into-baskets-ii/" target="_blank">Link</a>
  | [guess-number-higher-or-lower.py](Easy/guess-number-higher-or-lower.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/guess-number-higher-or-lower/" target="_blank">Link</a>
  | [happy-number.py](Easy/happy-number.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/happy-number/" target="_blank">Link</a>
  | [height-checker.py](Easy/height-checker.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/height-checker/" target="_blank">Link</a>
@@ -696,4 +697,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Aug  4 10:12:31 UTC 2025.
+Latest push from RunarFosse: Tue Aug  5 15:33:42 UTC 2025.
