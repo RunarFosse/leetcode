@@ -551,6 +551,7 @@ All problems are tried solving in the most optimal way possible.
  | [sort-colors.py](Medium/sort-colors.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/sort-colors/" target="_blank">Link</a>
  | [sort-the-jumbled-numbers.py](Medium/sort-the-jumbled-numbers.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/sort-the-jumbled-numbers/" target="_blank">Link</a>
  | [sort-vowels-in-a-string.py](Medium/sort-vowels-in-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/sort-vowels-in-a-string/" target="_blank">Link</a>
+ | [soup-servings.py](Medium/soup-servings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/soup-servings/" target="_blank">Link</a>
  | [special-array-ii.py](Medium/special-array-ii.py) | O(m + n) | O(m + n) | <a href="https://leetcode.com/problems/special-array-ii/" target="_blank">Link</a>
  | [spiral-matrix-iii.py](Medium/spiral-matrix-iii.py) | O(m^2 + n^2) | O(mn) | <a href="https://leetcode.com/problems/spiral-matrix-iii/" target="_blank">Link</a>
  | [spiral-matrix-iv.py](Medium/spiral-matrix-iv.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/spiral-matrix-iv/" target="_blank">Link</a>
@@ -697,4 +698,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Aug  5 15:33:42 UTC 2025.
+Latest push from RunarFosse: Fri Aug  8 09:17:10 UTC 2025.
