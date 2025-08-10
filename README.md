@@ -523,6 +523,7 @@ All problems are tried solving in the most optimal way possible.
  | [remove-sub-folders-from-the-filesystem.py](Medium/remove-sub-folders-from-the-filesystem.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/" target="_blank">Link</a>
  | [remove-zero-sum-consecutive-nodes-from-linked-list.py](Medium/remove-zero-sum-consecutive-nodes-from-linked-list.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/" target="_blank">Link</a>
  | [reorder-list.py](Medium/reorder-list.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/reorder-list/" target="_blank">Link</a>
+ | [reordered-power-of-2.py](Medium/reordered-power-of-2.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/reordered-power-of-2/" target="_blank">Link</a>
  | [replace-words.py](Medium/replace-words.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/replace-words/" target="_blank">Link</a>
  | [restore-the-array-from-adjacent-pairs.py](Medium/restore-the-array-from-adjacent-pairs.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/" target="_blank">Link</a>
  | [reveal-cards-in-increasing-order.py](Medium/reveal-cards-in-increasing-order.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/reveal-cards-in-increasing-order/" target="_blank">Link</a>
@@ -698,4 +699,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Aug  8 09:17:10 UTC 2025.
+Latest push from RunarFosse: Sun Aug 10 20:39:19 UTC 2025.
