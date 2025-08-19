@@ -490,6 +490,7 @@ All problems are tried solving in the most optimal way possible.
  | [number-of-substrings-containing-all-three-characters.py](Medium/number-of-substrings-containing-all-three-characters.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/" target="_blank">Link</a>
  | [number-of-ways-to-split-array.py](Medium/number-of-ways-to-split-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/number-of-ways-to-split-array/" target="_blank">Link</a>
  | [number-of-wonderful-substrings.py](Medium/number-of-wonderful-substrings.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/number-of-wonderful-substrings/" target="_blank">Link</a>
+ | [number-of-zero-filled-subarrays.py](Medium/number-of-zero-filled-subarrays.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/number-of-zero-filled-subarrays/" target="_blank">Link</a>
  | [open-the-lock.py](Medium/open-the-lock.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/open-the-lock/" target="_blank">Link</a>
  | [out-of-boundary-paths.py](Medium/out-of-boundary-paths.py) | O(mnN) | O(mnN) | <a href="https://leetcode.com/problems/out-of-boundary-paths/" target="_blank">Link</a>
  | [palindrome-partitioning.py](Medium/palindrome-partitioning.py) | O(n^32^n) | O(2^n) | <a href="https://leetcode.com/problems/palindrome-partitioning/" target="_blank">Link</a>
@@ -702,4 +703,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Aug 17 16:50:09 UTC 2025.
+Latest push from RunarFosse: Tue Aug 19 16:53:24 UTC 2025.
