@@ -334,6 +334,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-the-maximum-length-of-valid-subsequence-i.py](Medium/find-the-maximum-length-of-valid-subsequence-i.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/" target="_blank">Link</a>
  | [find-the-maximum-length-of-valid-subsequence-ii.py](Medium/find-the-maximum-length-of-valid-subsequence-ii.py) | O(nk + k^2) | O(k^2) | <a href="https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/" target="_blank">Link</a>
  | [find-the-minimum-and-maximum-number-of-nodes-between-critical-points.py](Medium/find-the-minimum-and-maximum-number-of-nodes-between-critical-points.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/" target="_blank">Link</a>
+ | [find-the-minimum-area-to-cover-all-ones-i.py](Medium/find-the-minimum-area-to-cover-all-ones-i.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/" target="_blank">Link</a>
  | [find-the-number-of-distinct-colors-among-the-balls.py](Medium/find-the-number-of-distinct-colors-among-the-balls.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/" target="_blank">Link</a>
  | [find-the-original-array-of-prefix-xor.py](Medium/find-the-original-array-of-prefix-xor.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-the-original-array-of-prefix-xor/" target="_blank">Link</a>
  | [find-the-power-of-k-size-subarrays-i.py](Medium/find-the-power-of-k-size-subarrays-i.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/" target="_blank">Link</a>
@@ -703,4 +704,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Aug 19 16:53:24 UTC 2025.
+Latest push from RunarFosse: Fri Aug 22 18:06:08 UTC 2025.
