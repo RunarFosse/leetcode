@@ -291,6 +291,7 @@ All problems are tried solving in the most optimal way possible.
  | [determine-if-a-cell-is-reachable-at-a-given-time.py](Medium/determine-if-a-cell-is-reachable-at-a-given-time.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/" target="_blank">Link</a>
  | [determine-if-two-strings-are-close.py](Medium/determine-if-two-strings-are-close.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/determine-if-two-strings-are-close/" target="_blank">Link</a>
  | [diagonal-traverse-ii.py](Medium/diagonal-traverse-ii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/diagonal-traverse-ii/" target="_blank">Link</a>
+ | [diagonal-traverse.py](Medium/diagonal-traverse.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/diagonal-traverse/" target="_blank">Link</a>
  | [difference-between-ones-and-zeros-in-row-and-column.py](Medium/difference-between-ones-and-zeros-in-row-and-column.py) | O(mn) | O(m+n) | <a href="https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/" target="_blank">Link</a>
  | [different-ways-to-add-parentheses.py](Medium/different-ways-to-add-parentheses.py) | O(n2^n) | O(n^22^n) | <a href="https://leetcode.com/problems/different-ways-to-add-parentheses/" target="_blank">Link</a>
  | [distribute-candies-among-children-ii.py](Medium/distribute-candies-among-children-ii.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/distribute-candies-among-children-ii/" target="_blank">Link</a>
@@ -704,4 +705,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Aug 22 18:06:08 UTC 2025.
+Latest push from RunarFosse: Mon Aug 25 07:46:10 UTC 2025.
