@@ -396,6 +396,7 @@ All problems are tried solving in the most optimal way possible.
  | [longest-palindrome-by-concatenating-two-letter-words.py](Medium/longest-palindrome-by-concatenating-two-letter-words.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/" target="_blank">Link</a>
  | [longest-palindromic-substring.py](Medium/longest-palindromic-substring.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/longest-palindromic-substring/" target="_blank">Link</a>
  | [longest-square-streak-in-an-array.py](Medium/longest-square-streak-in-an-array.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/longest-square-streak-in-an-array/" target="_blank">Link</a>
+ | [longest-subarray-of-1s-after-deleting-one-element.py](Medium/longest-subarray-of-1s-after-deleting-one-element.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/" target="_blank">Link</a>
  | [longest-subarray-with-maximum-bitwise-and.py](Medium/longest-subarray-with-maximum-bitwise-and.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/" target="_blank">Link</a>
  | [longest-substring-without-repeating-characters.py](Medium/longest-substring-without-repeating-characters.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/" target="_blank">Link</a>
  | [lowest-common-ancestor-of-deepest-leaves.py](Medium/lowest-common-ancestor-of-deepest-leaves.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/" target="_blank">Link</a>
@@ -705,4 +706,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Aug 25 07:46:10 UTC 2025.
+Latest push from RunarFosse: Mon Aug 25 16:32:11 UTC 2025.
