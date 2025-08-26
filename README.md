@@ -111,6 +111,7 @@ All problems are tried solving in the most optimal way possible.
  | [make-the-string-great.py](Easy/make-the-string-great.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/make-the-string-great/" target="_blank">Link</a>
  | [make-two-arrays-equal-by-reversing-subarrays.py](Easy/make-two-arrays-equal-by-reversing-subarrays.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/" target="_blank">Link</a>
  | [maximum-69-number.py](Easy/maximum-69-number.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-69-number/" target="_blank">Link</a>
+ | [maximum-area-of-longest-diagonal-rectangle.py](Easy/maximum-area-of-longest-diagonal-rectangle.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/" target="_blank">Link</a>
  | [maximum-ascending-subarray-sum.py](Easy/maximum-ascending-subarray-sum.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-ascending-subarray-sum/" target="_blank">Link</a>
  | [maximum-count-of-positive-integer-and-negative-integer.py](Easy/maximum-count-of-positive-integer-and-negative-integer.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/" target="_blank">Link</a>
  | [maximum-depth-of-binary-tree.py](Easy/maximum-depth-of-binary-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/" target="_blank">Link</a>
@@ -706,4 +707,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Aug 25 16:32:11 UTC 2025.
+Latest push from RunarFosse: Tue Aug 26 07:32:20 UTC 2025.
