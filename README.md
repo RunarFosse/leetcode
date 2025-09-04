@@ -62,6 +62,7 @@ All problems are tried solving in the most optimal way possible.
  | [final-prices-with-a-special-discount-in-a-shop.py](Easy/final-prices-with-a-special-discount-in-a-shop.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/" target="_blank">Link</a>
  | [find-all-k-distant-indices-in-an-array.py](Easy/find-all-k-distant-indices-in-an-array.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/" target="_blank">Link</a>
  | [find-center-of-star-graph.py](Easy/find-center-of-star-graph.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/find-center-of-star-graph/" target="_blank">Link</a>
+ | [find-closest-person.py](Easy/find-closest-person.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/find-closest-person/" target="_blank">Link</a>
  | [find-common-characters.py](Easy/find-common-characters.py) | O(nm) | O(1) | <a href="https://leetcode.com/problems/find-common-characters/" target="_blank">Link</a>
  | [find-first-palindromic-string-in-the-array.py](Easy/find-first-palindromic-string-in-the-array.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/find-first-palindromic-string-in-the-array/" target="_blank">Link</a>
  | [find-if-path-exists-in-graph.py](Easy/find-if-path-exists-in-graph.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-if-path-exists-in-graph/" target="_blank">Link</a>
@@ -708,4 +709,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Aug 29 18:08:29 UTC 2025.
+Latest push from RunarFosse: Thu Sep  4 20:03:56 UTC 2025.
