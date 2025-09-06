@@ -669,6 +669,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-number-of-operations-to-make-array-continuous.py](Hard/minimum-number-of-operations-to-make-array-continuous.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/" target="_blank">Link</a>
  | [minimum-obstacle-removal-to-reach-corner.py](Hard/minimum-obstacle-removal-to-reach-corner.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/" target="_blank">Link</a>
  | [minimum-one-bit-operations-to-make-integers-zero.py](Hard/minimum-one-bit-operations-to-make-integers-zero.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/" target="_blank">Link</a>
+ | [minimum-operations-to-make-array-elements-zero.py](Hard/minimum-operations-to-make-array-elements-zero.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/" target="_blank">Link</a>
  | [minimum-score-after-removals-on-a-tree.py](Hard/minimum-score-after-removals-on-a-tree.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/" target="_blank">Link</a>
  | [minimum-time-to-visit-a-cell-in-a-grid.py](Hard/minimum-time-to-visit-a-cell-in-a-grid.py) | O(mnlog(mn)) | O(mn) | <a href="https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/" target="_blank">Link</a>
  | [minimum-window-substring.py](Hard/minimum-window-substring.py) | O(m + n) | O(m) | <a href="https://leetcode.com/problems/minimum-window-substring/" target="_blank">Link</a>
@@ -709,4 +710,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Sep  4 20:03:56 UTC 2025.
+Latest push from RunarFosse: Sat Sep  6 17:04:47 UTC 2025.
