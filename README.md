@@ -601,6 +601,7 @@ All problems are tried solving in the most optimal way possible.
  | [valid-parenthesis-string.py](Medium/valid-parenthesis-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/valid-parenthesis-string/" target="_blank">Link</a>
  | [valid-sudoku.py](Medium/valid-sudoku.py) | O(n^2) | O(n^2) | <a href="https://leetcode.com/problems/valid-sudoku/" target="_blank">Link</a>
  | [validate-binary-tree-nodes.py](Medium/validate-binary-tree-nodes.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/validate-binary-tree-nodes/" target="_blank">Link</a>
+ | [vowel-spellchecker.py](Medium/vowel-spellchecker.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/vowel-spellchecker/" target="_blank">Link</a>
  | [walking-robot-simulation.py](Medium/walking-robot-simulation.py) | O(n + m) | O(n) | <a href="https://leetcode.com/problems/walking-robot-simulation/" target="_blank">Link</a>
  | [ways-to-express-an-integer-as-sum-of-powers.py](Medium/ways-to-express-an-integer-as-sum-of-powers.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/" target="_blank">Link</a>
  | [widest-vertical-area-between-two-points-containing-no-points.py](Medium/widest-vertical-area-between-two-points-containing-no-points.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/" target="_blank">Link</a>
@@ -713,4 +714,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Sep 13 10:23:53 UTC 2025.
+Latest push from RunarFosse: Sun Sep 14 15:21:37 UTC 2025.
