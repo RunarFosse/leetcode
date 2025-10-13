@@ -74,6 +74,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-most-frequent-vowel-and-consonant.py](Easy/find-most-frequent-vowel-and-consonant.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/" target="_blank">Link</a>
  | [find-n-unique-integers-sum-up-to-zero.py](Easy/find-n-unique-integers-sum-up-to-zero.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/" target="_blank">Link</a>
  | [find-numbers-with-even-number-of-digits.py](Easy/find-numbers-with-even-number-of-digits.py) | O(nlog m) | O(1) | <a href="https://leetcode.com/problems/find-numbers-with-even-number-of-digits/" target="_blank">Link</a>
+ | [find-resultant-array-after-removing-anagrams.py](Easy/find-resultant-array-after-removing-anagrams.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/" target="_blank">Link</a>
  | [find-subsequence-of-length-k-with-the-largest-sum.py](Easy/find-subsequence-of-length-k-with-the-largest-sum.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/" target="_blank">Link</a>
  | [find-the-index-of-the-first-occurrence-in-a-string.py](Easy/find-the-index-of-the-first-occurrence-in-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/" target="_blank">Link</a>
  | [find-the-k-th-character-in-string-game-i.py](Easy/find-the-k-th-character-in-string-game-i.py) | O(log k) | O(1) | <a href="https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/" target="_blank">Link</a>
@@ -715,4 +716,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Oct  7 06:21:26 UTC 2025.
+Latest push from RunarFosse: Mon Oct 13 18:38:37 UTC 2025.
