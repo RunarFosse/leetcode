@@ -228,6 +228,7 @@ All problems are tried solving in the most optimal way possible.
  | [add-one-row-to-tree.py](Medium/add-one-row-to-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/add-one-row-to-tree/" target="_blank">Link</a>
  | [add-two-numbers.py](Medium/add-two-numbers.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/add-two-numbers/" target="_blank">Link</a>
  | [adding-spaces-to-a-string.py](Medium/adding-spaces-to-a-string.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/adding-spaces-to-a-string/" target="_blank">Link</a>
+ | [adjacent-increasing-subarrays-detection-ii.py](Medium/adjacent-increasing-subarrays-detection-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/" target="_blank">Link</a>
  | [alice-and-bob-playing-flower-game.py](Medium/alice-and-bob-playing-flower-game.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/alice-and-bob-playing-flower-game/" target="_blank">Link</a>
  | [all-ancestors-of-a-node-in-a-directed-acyclic-graph.py](Medium/all-ancestors-of-a-node-in-a-directed-acyclic-graph.py) | O(n) | O(n+m) | <a href="https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/" target="_blank">Link</a>
  | [alternating-groups-ii.py](Medium/alternating-groups-ii.py) | O(n + k) | O(1) | <a href="https://leetcode.com/problems/alternating-groups-ii/" target="_blank">Link</a>
@@ -717,4 +718,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Oct 14 17:06:20 UTC 2025.
+Latest push from RunarFosse: Wed Oct 15 20:42:54 UTC 2025.
