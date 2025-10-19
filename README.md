@@ -395,6 +395,7 @@ All problems are tried solving in the most optimal way possible.
  | [lexicographical-numbers.py](Medium/lexicographical-numbers.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/lexicographical-numbers/" target="_blank">Link</a>
  | [lexicographically-minimum-string-after-removing-stars.py](Medium/lexicographically-minimum-string-after-removing-stars.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/" target="_blank">Link</a>
  | [lexicographically-smallest-equivalent-string.py](Medium/lexicographically-smallest-equivalent-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/lexicographically-smallest-equivalent-string/" target="_blank">Link</a>
+ | [lexicographically-smallest-string-after-applying-operations.py](Medium/lexicographically-smallest-string-after-applying-operations.py) | O(n^3) | O(n^2) | <a href="https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/" target="_blank">Link</a>
  | [linked-list-in-binary-tree.py](Medium/linked-list-in-binary-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/linked-list-in-binary-tree/" target="_blank">Link</a>
  | [longest-binary-subsequence-less-than-or-equal-to-k.py](Medium/longest-binary-subsequence-less-than-or-equal-to-k.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/" target="_blank">Link</a>
  | [longest-common-subsequence.py](Medium/longest-common-subsequence.py) | O(mn) | O(min(m,n)) | <a href="https://leetcode.com/problems/longest-common-subsequence/" target="_blank">Link</a>
@@ -720,4 +721,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Oct 19 09:52:44 UTC 2025.
+Latest push from RunarFosse: Sun Oct 19 16:41:01 UTC 2025.
