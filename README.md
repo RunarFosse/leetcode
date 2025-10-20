@@ -62,6 +62,7 @@ All problems are tried solving in the most optimal way possible.
  | [evaluate-boolean-binary-tree.py](Easy/evaluate-boolean-binary-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/evaluate-boolean-binary-tree/" target="_blank">Link</a>
  | [final-array-state-after-k-multiplication-operations-i.py](Easy/final-array-state-after-k-multiplication-operations-i.py) | O(n + klog n) | O(n) | <a href="https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/" target="_blank">Link</a>
  | [final-prices-with-a-special-discount-in-a-shop.py](Easy/final-prices-with-a-special-discount-in-a-shop.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/" target="_blank">Link</a>
+ | [final-value-of-variable-after-performing-operations.py](Easy/final-value-of-variable-after-performing-operations.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/final-value-of-variable-after-performing-operations/" target="_blank">Link</a>
  | [find-all-k-distant-indices-in-an-array.py](Easy/find-all-k-distant-indices-in-an-array.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/" target="_blank">Link</a>
  | [find-center-of-star-graph.py](Easy/find-center-of-star-graph.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/find-center-of-star-graph/" target="_blank">Link</a>
  | [find-closest-person.py](Easy/find-closest-person.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/find-closest-person/" target="_blank">Link</a>
@@ -721,4 +722,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Oct 19 16:41:01 UTC 2025.
+Latest push from RunarFosse: Mon Oct 20 15:12:38 UTC 2025.
