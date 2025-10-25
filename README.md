@@ -498,6 +498,7 @@ All problems are tried solving in the most optimal way possible.
  | [move-pieces-to-obtain-a-string.py](Medium/move-pieces-to-obtain-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/move-pieces-to-obtain-a-string/" target="_blank">Link</a>
  | [neighboring-bitwise-xor.py](Medium/neighboring-bitwise-xor.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/neighboring-bitwise-xor/" target="_blank">Link</a>
  | [new-21-game.py](Medium/new-21-game.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/new-21-game/" target="_blank">Link</a>
+ | [next-greater-numerically-balanced-number.py](Medium/next-greater-numerically-balanced-number.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/next-greater-numerically-balanced-number/" target="_blank">Link</a>
  | [number-of-dice-rolls-with-target-sum.py](Medium/number-of-dice-rolls-with-target-sum.py) | O(mnk) | O(mn) | <a href="https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/" target="_blank">Link</a>
  | [number-of-good-leaf-nodes-pairs.py](Medium/number-of-good-leaf-nodes-pairs.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/" target="_blank">Link</a>
  | [number-of-islands.py](Medium/number-of-islands.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/number-of-islands/" target="_blank">Link</a>
@@ -724,4 +725,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Oct 23 09:03:16 UTC 2025.
+Latest push from RunarFosse: Sat Oct 25 15:17:13 UTC 2025.
