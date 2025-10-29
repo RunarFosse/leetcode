@@ -192,6 +192,7 @@ All problems are tried solving in the most optimal way possible.
  | [search-insert-position.py](Easy/search-insert-position.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/search-insert-position/" target="_blank">Link</a>
  | [set-mismatch.py](Easy/set-mismatch.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/set-mismatch/" target="_blank">Link</a>
  | [single-number.py](Easy/single-number.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/single-number/" target="_blank">Link</a>
+ | [smallest-number-with-all-set-bits.py](Easy/smallest-number-with-all-set-bits.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/smallest-number-with-all-set-bits/" target="_blank">Link</a>
  | [sort-array-by-increasing-frequency.py](Easy/sort-array-by-increasing-frequency.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/sort-array-by-increasing-frequency/" target="_blank">Link</a>
  | [sort-integers-by-the-number-of-1-bits.py](Easy/sort-integers-by-the-number-of-1-bits.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/" target="_blank">Link</a>
  | [sort-the-people.py](Easy/sort-the-people.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/sort-the-people/" target="_blank">Link</a>
@@ -726,4 +727,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Oct 28 15:40:27 UTC 2025.
+Latest push from RunarFosse: Wed Oct 29 08:52:56 UTC 2025.
