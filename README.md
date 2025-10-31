@@ -209,6 +209,7 @@ All problems are tried solving in the most optimal way possible.
  | [sum-of-values-at-indices-with-k-set-bits.py](Easy/sum-of-values-at-indices-with-k-set-bits.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/" target="_blank">Link</a>
  | [symmetric-tree.py](Easy/symmetric-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/symmetric-tree/" target="_blank">Link</a>
  | [take-gifts-from-the-richest-pile.py](Easy/take-gifts-from-the-richest-pile.py) | O(n + klog n) | O(1) | <a href="https://leetcode.com/problems/take-gifts-from-the-richest-pile/" target="_blank">Link</a>
+ | [the-two-sneaky-numbers-of-digitville.py](Easy/the-two-sneaky-numbers-of-digitville.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/" target="_blank">Link</a>
  | [three-consecutive-odds.py](Easy/three-consecutive-odds.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/three-consecutive-odds/" target="_blank">Link</a>
  | [time-needed-to-buy-tickets.py](Easy/time-needed-to-buy-tickets.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/time-needed-to-buy-tickets/" target="_blank">Link</a>
  | [transpose-matrix.py](Easy/transpose-matrix.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/transpose-matrix/" target="_blank">Link</a>
@@ -727,4 +728,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Oct 29 08:52:56 UTC 2025.
+Latest push from RunarFosse: Fri Oct 31 08:36:46 UTC 2025.
