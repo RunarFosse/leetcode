@@ -614,6 +614,7 @@ All problems are tried solving in the most optimal way possible.
  | [using-a-robot-to-print-the-lexicographically-smallest-string.py](Medium/using-a-robot-to-print-the-lexicographically-smallest-string.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/" target="_blank">Link</a>
  | [valid-parenthesis-string.py](Medium/valid-parenthesis-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/valid-parenthesis-string/" target="_blank">Link</a>
  | [valid-sudoku.py](Medium/valid-sudoku.py) | O(n^2) | O(n^2) | <a href="https://leetcode.com/problems/valid-sudoku/" target="_blank">Link</a>
+ | [valid-triangle-number.py](Medium/valid-triangle-number.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/valid-triangle-number/" target="_blank">Link</a>
  | [validate-binary-tree-nodes.py](Medium/validate-binary-tree-nodes.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/validate-binary-tree-nodes/" target="_blank">Link</a>
  | [vowel-spellchecker.py](Medium/vowel-spellchecker.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/vowel-spellchecker/" target="_blank">Link</a>
  | [walking-robot-simulation.py](Medium/walking-robot-simulation.py) | O(n + m) | O(n) | <a href="https://leetcode.com/problems/walking-robot-simulation/" target="_blank">Link</a>
@@ -728,4 +729,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Oct 31 08:36:46 UTC 2025.
+Latest push from RunarFosse: Sat Nov  1 10:57:22 UTC 2025.
