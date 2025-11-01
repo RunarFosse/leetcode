@@ -105,6 +105,7 @@ All problems are tried solving in the most optimal way possible.
  | [largest-odd-number-in-string.py](Easy/largest-odd-number-in-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/largest-odd-number-in-string/" target="_blank">Link</a>
  | [largest-positive-integer-that-exists-with-its-negative.py](Easy/largest-positive-integer-that-exists-with-its-negative.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/" target="_blank">Link</a>
  | [largest-substring-between-two-equal-characters.py](Easy/largest-substring-between-two-equal-characters.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/largest-substring-between-two-equal-characters/" target="_blank">Link</a>
+ | [largest-triangle-area.py](Easy/largest-triangle-area.py) | O(n^3) | O(1) | <a href="https://leetcode.com/problems/largest-triangle-area/" target="_blank">Link</a>
  | [leaf-similar-trees.py](Easy/leaf-similar-trees.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/leaf-similar-trees/" target="_blank">Link</a>
  | [lemonade-change.py](Easy/lemonade-change.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/lemonade-change/" target="_blank">Link</a>
  | [length-of-last-word.py](Easy/length-of-last-word.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/length-of-last-word/" target="_blank">Link</a>
@@ -729,4 +730,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Nov  1 10:57:22 UTC 2025.
+Latest push from RunarFosse: Sat Nov  1 11:20:12 UTC 2025.
