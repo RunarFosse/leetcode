@@ -42,6 +42,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-hills-and-valleys-in-an-array.py](Easy/count-hills-and-valleys-in-an-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-hills-and-valleys-in-an-array/" target="_blank">Link</a>
  | [count-largest-group.py](Easy/count-largest-group.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/count-largest-group/" target="_blank">Link</a>
  | [count-of-matches-in-tournament.py](Easy/count-of-matches-in-tournament.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/count-of-matches-in-tournament/" target="_blank">Link</a>
+ | [count-operations-to-obtain-zero.py](Easy/count-operations-to-obtain-zero.py) | O(log min(n, m)) | O(1) | <a href="https://leetcode.com/problems/count-operations-to-obtain-zero/" target="_blank">Link</a>
  | [count-prefix-and-suffix-pairs-i.py](Easy/count-prefix-and-suffix-pairs-i.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/" target="_blank">Link</a>
  | [count-subarrays-of-length-three-with-a-condition.py](Easy/count-subarrays-of-length-three-with-a-condition.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/" target="_blank">Link</a>
  | [count-symmetric-integers.py](Easy/count-symmetric-integers.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/count-symmetric-integers/" target="_blank">Link</a>
@@ -733,4 +734,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Nov  8 16:13:44 UTC 2025.
+Latest push from RunarFosse: Sun Nov  9 10:24:31 UTC 2025.
