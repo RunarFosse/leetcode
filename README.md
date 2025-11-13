@@ -450,6 +450,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-number-of-fish-in-a-grid.py](Medium/maximum-number-of-fish-in-a-grid.py) | O(mn) | O(m + n) | <a href="https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/" target="_blank">Link</a>
  | [maximum-number-of-integers-to-choose-from-a-range-i.py](Medium/maximum-number-of-integers-to-choose-from-a-range-i.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/" target="_blank">Link</a>
  | [maximum-number-of-moves-in-a-grid.py](Medium/maximum-number-of-moves-in-a-grid.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/" target="_blank">Link</a>
+ | [maximum-number-of-operations-to-move-ones-to-the-end.py](Medium/maximum-number-of-operations-to-move-ones-to-the-end.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/" target="_blank">Link</a>
  | [maximum-number-of-points-with-cost.py](Medium/maximum-number-of-points-with-cost.py) | O(mn) | O(n) | <a href="https://leetcode.com/problems/maximum-number-of-points-with-cost/" target="_blank">Link</a>
  | [maximum-score-from-removing-substrings.py](Medium/maximum-score-from-removing-substrings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-score-from-removing-substrings/" target="_blank">Link</a>
  | [maximum-sum-of-distinct-subarrays-with-length-k.py](Medium/maximum-sum-of-distinct-subarrays-with-length-k.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/" target="_blank">Link</a>
@@ -737,4 +738,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Nov 12 10:07:17 UTC 2025.
+Latest push from RunarFosse: Thu Nov 13 20:35:55 UTC 2025.
