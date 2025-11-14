@@ -380,6 +380,7 @@ All problems are tried solving in the most optimal way possible.
  | [hand-of-straights.py](Medium/hand-of-straights.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/hand-of-straights/" target="_blank">Link</a>
  | [house-robber-iv.py](Medium/house-robber-iv.py) | O(nlog m) | O(1) | <a href="https://leetcode.com/problems/house-robber-iv/" target="_blank">Link</a>
  | [house-robber.py](Medium/house-robber.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/house-robber/" target="_blank">Link</a>
+ | [increment-submatrices-by-one.py](Medium/increment-submatrices-by-one.py) | O(m + n^2) | O(n^2) | <a href="https://leetcode.com/problems/increment-submatrices-by-one/" target="_blank">Link</a>
  | [insert-greatest-common-divisors-in-linked-list.py](Medium/insert-greatest-common-divisors-in-linked-list.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/" target="_blank">Link</a>
  | [insert-interval.py](Medium/insert-interval.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/insert-interval/" target="_blank">Link</a>
  | [integer-break.py](Medium/integer-break.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/integer-break/" target="_blank">Link</a>
@@ -738,4 +739,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Nov 13 20:35:55 UTC 2025.
+Latest push from RunarFosse: Fri Nov 14 19:03:54 UTC 2025.
