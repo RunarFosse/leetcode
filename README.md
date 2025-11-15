@@ -292,6 +292,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-the-hidden-sequences.py](Medium/count-the-hidden-sequences.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-the-hidden-sequences/" target="_blank">Link</a>
  | [count-the-number-of-fair-pairs.py](Medium/count-the-number-of-fair-pairs.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/count-the-number-of-fair-pairs/" target="_blank">Link</a>
  | [count-the-number-of-good-subarrays.py](Medium/count-the-number-of-good-subarrays.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-the-number-of-good-subarrays/" target="_blank">Link</a>
+ | [count-the-number-of-substrings-with-dominant-ones.py](Medium/count-the-number-of-substrings-with-dominant-ones.py) | O(n sqrt(n)) | O(n) | <a href="https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/" target="_blank">Link</a>
  | [count-total-number-of-colored-cells.py](Medium/count-total-number-of-colored-cells.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/count-total-number-of-colored-cells/" target="_blank">Link</a>
  | [count-triplets-that-can-form-two-arrays-of-equal-xor.py](Medium/count-triplets-that-can-form-two-arrays-of-equal-xor.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/" target="_blank">Link</a>
  | [count-unguarded-cells-in-the-grid.py](Medium/count-unguarded-cells-in-the-grid.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/count-unguarded-cells-in-the-grid/" target="_blank">Link</a>
@@ -739,4 +740,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Nov 14 19:03:54 UTC 2025.
+Latest push from RunarFosse: Sat Nov 15 11:17:02 UTC 2025.
