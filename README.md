@@ -519,6 +519,7 @@ All problems are tried solving in the most optimal way possible.
  | [number-of-sub-arrays-with-odd-sum.py](Medium/number-of-sub-arrays-with-odd-sum.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/" target="_blank">Link</a>
  | [number-of-subsequences-that-satisfy-the-given-sum-condition.py](Medium/number-of-subsequences-that-satisfy-the-given-sum-condition.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/" target="_blank">Link</a>
  | [number-of-substrings-containing-all-three-characters.py](Medium/number-of-substrings-containing-all-three-characters.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/" target="_blank">Link</a>
+ | [number-of-substrings-with-only-1s.py](Medium/number-of-substrings-with-only-1s.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/number-of-substrings-with-only-1s/" target="_blank">Link</a>
  | [number-of-ways-to-split-array.py](Medium/number-of-ways-to-split-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/number-of-ways-to-split-array/" target="_blank">Link</a>
  | [number-of-wonderful-substrings.py](Medium/number-of-wonderful-substrings.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/number-of-wonderful-substrings/" target="_blank">Link</a>
  | [number-of-zero-filled-subarrays.py](Medium/number-of-zero-filled-subarrays.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/number-of-zero-filled-subarrays/" target="_blank">Link</a>
@@ -740,4 +741,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Nov 15 11:17:02 UTC 2025.
+Latest push from RunarFosse: Sun Nov 16 22:27:32 UTC 2025.
