@@ -23,6 +23,7 @@ All problems are tried solving in the most optimal way possible.
  | [buy-two-chocolates.py](Easy/buy-two-chocolates.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/buy-two-chocolates/" target="_blank">Link</a>
  | [calculate-money-in-leetcode-bank.py](Easy/calculate-money-in-leetcode-bank.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/calculate-money-in-leetcode-bank/" target="_blank">Link</a>
  | [check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py](Easy/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/" target="_blank">Link</a>
+ | [check-if-all-1s-are-at-least-length-k-places-away.py](Easy/check-if-all-1s-are-at-least-length-k-places-away.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/" target="_blank">Link</a>
  | [check-if-array-is-sorted-and-rotated.py](Easy/check-if-array-is-sorted-and-rotated.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/" target="_blank">Link</a>
  | [check-if-digits-are-equal-in-string-after-operations-i.py](Easy/check-if-digits-are-equal-in-string-after-operations-i.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/" target="_blank">Link</a>
  | [check-if-n-and-its-double-exist.py](Easy/check-if-n-and-its-double-exist.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/check-if-n-and-its-double-exist/" target="_blank">Link</a>
@@ -741,4 +742,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Nov 16 22:27:32 UTC 2025.
+Latest push from RunarFosse: Mon Nov 17 09:29:14 UTC 2025.
