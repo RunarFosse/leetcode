@@ -4,6 +4,7 @@ All problems are tried solving in the most optimal way possible.
 ## Easy
  | Problem | Time complexity | Space complexity | Leetcode |
  | :------ | :-------------: | :--------------: | :--------------: |
+ | [1-bit-and-2-bit-characters.py](Easy/1-bit-and-2-bit-characters.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/1-bit-and-2-bit-characters/" target="_blank">Link</a>
  | [add-binary.py](Easy/add-binary.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/add-binary/" target="_blank">Link</a>
  | [add-digits.py](Easy/add-digits.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/add-digits/" target="_blank">Link</a>
  | [add-strings.py](Easy/add-strings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/add-strings/" target="_blank">Link</a>
@@ -742,4 +743,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Nov 17 09:29:14 UTC 2025.
+Latest push from RunarFosse: Tue Nov 18 17:25:50 UTC 2025.
