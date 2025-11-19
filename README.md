@@ -103,6 +103,7 @@ All problems are tried solving in the most optimal way possible.
  | [is-subsequence.py](Easy/is-subsequence.py) | O(m+n) | O(1) | <a href="https://leetcode.com/problems/is-subsequence/" target="_blank">Link</a>
  | [island-perimeter.py](Easy/island-perimeter.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/island-perimeter/" target="_blank">Link</a>
  | [isomorphic-strings.py](Easy/isomorphic-strings.py) | O(n) | O(m) | <a href="https://leetcode.com/problems/isomorphic-strings/" target="_blank">Link</a>
+ | [keep-multiplying-found-values-by-two.py](Easy/keep-multiplying-found-values-by-two.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/keep-multiplying-found-values-by-two/" target="_blank">Link</a>
  | [kth-distinct-string-in-an-array.py](Easy/kth-distinct-string-in-an-array.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/kth-distinct-string-in-an-array/" target="_blank">Link</a>
  | [largest-3-same-digit-number-in-string.py](Easy/largest-3-same-digit-number-in-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/largest-3-same-digit-number-in-string/" target="_blank">Link</a>
  | [largest-local-values-in-a-matrix.py](Easy/largest-local-values-in-a-matrix.py) | O(n^2) | O(1) | <a href="https://leetcode.com/problems/largest-local-values-in-a-matrix/" target="_blank">Link</a>
@@ -743,4 +744,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Nov 18 17:25:50 UTC 2025.
+Latest push from RunarFosse: Wed Nov 19 21:31:55 UTC 2025.
