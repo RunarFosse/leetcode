@@ -379,6 +379,7 @@ All problems are tried solving in the most optimal way possible.
  | [furthest-building-you-can-reach.py](Medium/furthest-building-you-can-reach.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/furthest-building-you-can-reach/" target="_blank">Link</a>
  | [generate-parentheses.py](Medium/generate-parentheses.py) | O(4^n) | O(n2^n) | <a href="https://leetcode.com/problems/generate-parentheses/" target="_blank">Link</a>
  | [get-equal-substrings-within-budget.py](Medium/get-equal-substrings-within-budget.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/get-equal-substrings-within-budget/" target="_blank">Link</a>
+ | [greatest-sum-divisible-by-three.py](Medium/greatest-sum-divisible-by-three.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/greatest-sum-divisible-by-three/" target="_blank">Link</a>
  | [grid-game.py](Medium/grid-game.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/grid-game/" target="_blank">Link</a>
  | [group-anagrams.py](Medium/group-anagrams.py) | O(mnlog m) | O(mn) | <a href="https://leetcode.com/problems/group-anagrams/" target="_blank">Link</a>
  | [grumpy-bookstore-owner.py](Medium/grumpy-bookstore-owner.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/grumpy-bookstore-owner/" target="_blank">Link</a>
@@ -745,4 +746,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Nov 22 10:29:29 UTC 2025.
+Latest push from RunarFosse: Sun Nov 23 09:57:21 UTC 2025.
