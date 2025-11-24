@@ -729,6 +729,7 @@ All problems are tried solving in the most optimal way possible.
  | [robot-collisions.py](Hard/robot-collisions.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/robot-collisions/" target="_blank">Link</a>
  | [russian-doll-envelopes.py](Hard/russian-doll-envelopes.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/russian-doll-envelopes/" target="_blank">Link</a>
  | [second-minimum-time-to-reach-destination.py](Hard/second-minimum-time-to-reach-destination.py) | O(m + n) | O(m + n) | <a href="https://leetcode.com/problems/second-minimum-time-to-reach-destination/" target="_blank">Link</a>
+ | [set-intersection-size-at-least-two.py](Hard/set-intersection-size-at-least-two.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/set-intersection-size-at-least-two/" target="_blank">Link</a>
  | [sliding-puzzle.py](Hard/sliding-puzzle.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/sliding-puzzle/" target="_blank">Link</a>
  | [sliding-window-maximum.py](Hard/sliding-window-maximum.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/sliding-window-maximum/" target="_blank">Link</a>
  | [strange-printer.py](Hard/strange-printer.py) | O(n^3) | O(n^2) | <a href="https://leetcode.com/problems/strange-printer/" target="_blank">Link</a>
@@ -747,4 +748,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Nov 24 09:28:59 UTC 2025.
+Latest push from RunarFosse: Mon Nov 24 10:12:06 UTC 2025.
