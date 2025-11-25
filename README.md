@@ -585,6 +585,7 @@ All problems are tried solving in the most optimal way possible.
  | [shortest-subarray-with-or-at-least-k-ii.py](Medium/shortest-subarray-with-or-at-least-k-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/" target="_blank">Link</a>
  | [simplify-path.py](Medium/simplify-path.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/simplify-path/" target="_blank">Link</a>
  | [single-number-iii.py](Medium/single-number-iii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/single-number-iii/" target="_blank">Link</a>
+ | [smallest-integer-divisible-by-k.py](Medium/smallest-integer-divisible-by-k.py) | O(k) | O(1) | <a href="https://leetcode.com/problems/smallest-integer-divisible-by-k/" target="_blank">Link</a>
  | [smallest-missing-non-negative-integer-after-operations.py](Medium/smallest-missing-non-negative-integer-after-operations.py) | O(n) | O(m) | <a href="https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/" target="_blank">Link</a>
  | [smallest-string-starting-from-leaf.py](Medium/smallest-string-starting-from-leaf.py) | O(nlog n) | O(nlog n) | <a href="https://leetcode.com/problems/smallest-string-starting-from-leaf/" target="_blank">Link</a>
  | [smallest-subarrays-with-maximum-bitwise-or.py](Medium/smallest-subarrays-with-maximum-bitwise-or.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/" target="_blank">Link</a>
@@ -748,4 +749,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Nov 24 10:12:06 UTC 2025.
+Latest push from RunarFosse: Tue Nov 25 09:45:43 UTC 2025.
