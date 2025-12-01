@@ -695,6 +695,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-number-of-points-from-grid-queries.py](Hard/maximum-number-of-points-from-grid-queries.py) | O(klog k + mnlog(mn)) | O(k + mn) | <a href="https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/" target="_blank">Link</a>
  | [maximum-number-of-tasks-you-can-assign.py](Hard/maximum-number-of-tasks-you-can-assign.py) | O((m + n)^2log(m + n)) | O(m + n) | <a href="https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/" target="_blank">Link</a>
  | [maximum-profit-in-job-scheduling.py](Hard/maximum-profit-in-job-scheduling.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximum-profit-in-job-scheduling/" target="_blank">Link</a>
+ | [maximum-running-time-of-n-computers.py](Hard/maximum-running-time-of-n-computers.py) | O(mlog k) | O(1) | <a href="https://leetcode.com/problems/maximum-running-time-of-n-computers/" target="_blank">Link</a>
  | [maximum-score-of-a-good-subarray.py](Hard/maximum-score-of-a-good-subarray.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-score-of-a-good-subarray/" target="_blank">Link</a>
  | [maximum-score-words-formed-by-letters.py](Hard/maximum-score-words-formed-by-letters.py) | O(m2^n) | O(n) | <a href="https://leetcode.com/problems/maximum-score-words-formed-by-letters/" target="_blank">Link</a>
  | [maximum-sum-of-3-non-overlapping-subarrays.py](Hard/maximum-sum-of-3-non-overlapping-subarrays.py) | O(nk) | O(nk) | <a href="https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/" target="_blank">Link</a>
@@ -752,4 +753,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Nov 29 12:30:37 UTC 2025.
+Latest push from RunarFosse: Mon Dec  1 10:57:38 UTC 2025.
