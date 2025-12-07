@@ -44,6 +44,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-good-triplets.py](Easy/count-good-triplets.py) | O(n^3) | O(1) | <a href="https://leetcode.com/problems/count-good-triplets/" target="_blank">Link</a>
  | [count-hills-and-valleys-in-an-array.py](Easy/count-hills-and-valleys-in-an-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-hills-and-valleys-in-an-array/" target="_blank">Link</a>
  | [count-largest-group.py](Easy/count-largest-group.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/count-largest-group/" target="_blank">Link</a>
+ | [count-odd-numbers-in-an-interval-range.py](Easy/count-odd-numbers-in-an-interval-range.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/" target="_blank">Link</a>
  | [count-of-matches-in-tournament.py](Easy/count-of-matches-in-tournament.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/count-of-matches-in-tournament/" target="_blank">Link</a>
  | [count-operations-to-obtain-zero.py](Easy/count-operations-to-obtain-zero.py) | O(log min(n, m)) | O(1) | <a href="https://leetcode.com/problems/count-operations-to-obtain-zero/" target="_blank">Link</a>
  | [count-partitions-with-even-sum-difference.py](Easy/count-partitions-with-even-sum-difference.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-partitions-with-even-sum-difference/" target="_blank">Link</a>
@@ -755,4 +756,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Dec  5 08:38:08 UTC 2025.
+Latest push from RunarFosse: Sun Dec  7 07:55:09 UTC 2025.
