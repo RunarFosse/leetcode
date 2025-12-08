@@ -49,6 +49,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-operations-to-obtain-zero.py](Easy/count-operations-to-obtain-zero.py) | O(log min(n, m)) | O(1) | <a href="https://leetcode.com/problems/count-operations-to-obtain-zero/" target="_blank">Link</a>
  | [count-partitions-with-even-sum-difference.py](Easy/count-partitions-with-even-sum-difference.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-partitions-with-even-sum-difference/" target="_blank">Link</a>
  | [count-prefix-and-suffix-pairs-i.py](Easy/count-prefix-and-suffix-pairs-i.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/" target="_blank">Link</a>
+ | [count-square-sum-triples.py](Easy/count-square-sum-triples.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/count-square-sum-triples/" target="_blank">Link</a>
  | [count-subarrays-of-length-three-with-a-condition.py](Easy/count-subarrays-of-length-three-with-a-condition.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/" target="_blank">Link</a>
  | [count-symmetric-integers.py](Easy/count-symmetric-integers.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/count-symmetric-integers/" target="_blank">Link</a>
  | [count-the-number-of-consistent-strings.py](Easy/count-the-number-of-consistent-strings.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-the-number-of-consistent-strings/" target="_blank">Link</a>
@@ -756,4 +757,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Dec  7 07:55:09 UTC 2025.
+Latest push from RunarFosse: Mon Dec  8 22:31:14 UTC 2025.
