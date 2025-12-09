@@ -296,6 +296,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-number-of-nice-subarrays.py](Medium/count-number-of-nice-subarrays.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-number-of-nice-subarrays/" target="_blank">Link</a>
  | [count-number-of-teams.py](Medium/count-number-of-teams.py) | O(n^2) | O(1) | <a href="https://leetcode.com/problems/count-number-of-teams/" target="_blank">Link</a>
  | [count-servers-that-communicate.py](Medium/count-servers-that-communicate.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/count-servers-that-communicate/" target="_blank">Link</a>
+ | [count-special-triplets.py](Medium/count-special-triplets.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-special-triplets/" target="_blank">Link</a>
  | [count-square-submatrices-with-all-ones.py](Medium/count-square-submatrices-with-all-ones.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/count-square-submatrices-with-all-ones/" target="_blank">Link</a>
  | [count-sub-islands.py](Medium/count-sub-islands.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/count-sub-islands/" target="_blank">Link</a>
  | [count-subarrays-where-max-element-appears-at-least-k-times.py](Medium/count-subarrays-where-max-element-appears-at-least-k-times.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/" target="_blank">Link</a>
@@ -757,4 +758,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Dec  8 22:31:14 UTC 2025.
+Latest push from RunarFosse: Tue Dec  9 17:41:27 UTC 2025.
