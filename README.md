@@ -301,6 +301,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-sub-islands.py](Medium/count-sub-islands.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/count-sub-islands/" target="_blank">Link</a>
  | [count-subarrays-where-max-element-appears-at-least-k-times.py](Medium/count-subarrays-where-max-element-appears-at-least-k-times.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/" target="_blank">Link</a>
  | [count-the-hidden-sequences.py](Medium/count-the-hidden-sequences.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-the-hidden-sequences/" target="_blank">Link</a>
+ | [count-the-number-of-computer-unlocking-permutations.py](Medium/count-the-number-of-computer-unlocking-permutations.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/" target="_blank">Link</a>
  | [count-the-number-of-fair-pairs.py](Medium/count-the-number-of-fair-pairs.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/count-the-number-of-fair-pairs/" target="_blank">Link</a>
  | [count-the-number-of-good-subarrays.py](Medium/count-the-number-of-good-subarrays.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-the-number-of-good-subarrays/" target="_blank">Link</a>
  | [count-the-number-of-substrings-with-dominant-ones.py](Medium/count-the-number-of-substrings-with-dominant-ones.py) | O(n sqrt(n)) | O(n) | <a href="https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/" target="_blank">Link</a>
@@ -759,4 +760,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Dec  9 19:41:59 UTC 2025.
+Latest push from RunarFosse: Wed Dec 10 19:51:23 UTC 2025.
