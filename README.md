@@ -521,6 +521,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-swaps-to-group-all-1s-together-ii.py](Medium/minimum-swaps-to-group-all-1s-together-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/" target="_blank">Link</a>
  | [minimum-time-difference.py](Medium/minimum-time-difference.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-time-difference/" target="_blank">Link</a>
  | [minimum-time-to-make-rope-colorful.py](Medium/minimum-time-to-make-rope-colorful.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-time-to-make-rope-colorful/" target="_blank">Link</a>
+ | [minimum-time-to-repair-cars.py](Medium/minimum-time-to-repair-cars.py) | O(nlog m) | O(n) | <a href="https://leetcode.com/problems/minimum-time-to-repair-cars/" target="_blank">Link</a>
  | [most-beautiful-item-for-each-query.py](Medium/most-beautiful-item-for-each-query.py) | O((n + m)log n) | O(n + m) | <a href="https://leetcode.com/problems/most-beautiful-item-for-each-query/" target="_blank">Link</a>
  | [most-profit-assigning-work.py](Medium/most-profit-assigning-work.py) | O(mlog m + nlog n) | O(m+n) | <a href="https://leetcode.com/problems/most-profit-assigning-work/" target="_blank">Link</a>
  | [most-profitable-path-in-a-tree.py](Medium/most-profitable-path-in-a-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/most-profitable-path-in-a-tree/" target="_blank">Link</a>
@@ -764,4 +765,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Dec 14 21:15:09 UTC 2025.
+Latest push from RunarFosse: Sun Dec 14 22:06:55 UTC 2025.
