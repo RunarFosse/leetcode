@@ -290,6 +290,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-covered-buildings.py](Medium/count-covered-buildings.py) | O(m) | O(m) | <a href="https://leetcode.com/problems/count-covered-buildings/" target="_blank">Link</a>
  | [count-days-without-meetings.py](Medium/count-days-without-meetings.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/count-days-without-meetings/" target="_blank">Link</a>
  | [count-good-numbers.py](Medium/count-good-numbers.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/count-good-numbers/" target="_blank">Link</a>
+ | [count-mentions-per-user.py](Medium/count-mentions-per-user.py) | O(n(log n + m)) | O(m) | <a href="https://leetcode.com/problems/count-mentions-per-user/" target="_blank">Link</a>
  | [count-nice-pairs-in-an-array.py](Medium/count-nice-pairs-in-an-array.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-nice-pairs-in-an-array/" target="_blank">Link</a>
  | [count-nodes-equal-to-average-of-subtree.py](Medium/count-nodes-equal-to-average-of-subtree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/" target="_blank">Link</a>
  | [count-number-of-bad-pairs.py](Medium/count-number-of-bad-pairs.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-number-of-bad-pairs/" target="_blank">Link</a>
@@ -762,4 +763,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Dec 14 12:37:32 UTC 2025.
+Latest push from RunarFosse: Sun Dec 14 14:05:47 UTC 2025.
