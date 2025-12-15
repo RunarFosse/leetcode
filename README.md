@@ -535,6 +535,7 @@ All problems are tried solving in the most optimal way possible.
  | [number-of-good-leaf-nodes-pairs.py](Medium/number-of-good-leaf-nodes-pairs.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/" target="_blank">Link</a>
  | [number-of-islands.py](Medium/number-of-islands.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/number-of-islands/" target="_blank">Link</a>
  | [number-of-laser-beams-in-a-bank.py](Medium/number-of-laser-beams-in-a-bank.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/number-of-laser-beams-in-a-bank/" target="_blank">Link</a>
+ | [number-of-smooth-descent-periods-of-a-stock.py](Medium/number-of-smooth-descent-periods-of-a-stock.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/" target="_blank">Link</a>
  | [number-of-steps-to-reduce-a-number-in-binary-representation-to-one.py](Medium/number-of-steps-to-reduce-a-number-in-binary-representation-to-one.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/" target="_blank">Link</a>
  | [number-of-sub-arrays-with-odd-sum.py](Medium/number-of-sub-arrays-with-odd-sum.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/" target="_blank">Link</a>
  | [number-of-subsequences-that-satisfy-the-given-sum-condition.py](Medium/number-of-subsequences-that-satisfy-the-given-sum-condition.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/" target="_blank">Link</a>
@@ -766,4 +767,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Dec 14 22:22:09 UTC 2025.
+Latest push from RunarFosse: Mon Dec 15 17:04:09 UTC 2025.
