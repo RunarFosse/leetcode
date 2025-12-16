@@ -708,6 +708,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-number-of-k-divisible-components.py](Hard/maximum-number-of-k-divisible-components.py) | O(m + n) | O(m + n) | <a href="https://leetcode.com/problems/maximum-number-of-k-divisible-components/" target="_blank">Link</a>
  | [maximum-number-of-points-from-grid-queries.py](Hard/maximum-number-of-points-from-grid-queries.py) | O(klog k + mnlog(mn)) | O(k + mn) | <a href="https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/" target="_blank">Link</a>
  | [maximum-number-of-tasks-you-can-assign.py](Hard/maximum-number-of-tasks-you-can-assign.py) | O((m + n)^2log(m + n)) | O(m + n) | <a href="https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/" target="_blank">Link</a>
+ | [maximum-profit-from-trading-stocks-with-discounts.py](Hard/maximum-profit-from-trading-stocks-with-discounts.py) | O(nk^2) | O(nk) | <a href="https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/" target="_blank">Link</a>
  | [maximum-profit-in-job-scheduling.py](Hard/maximum-profit-in-job-scheduling.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximum-profit-in-job-scheduling/" target="_blank">Link</a>
  | [maximum-running-time-of-n-computers.py](Hard/maximum-running-time-of-n-computers.py) | O(mlog k) | O(1) | <a href="https://leetcode.com/problems/maximum-running-time-of-n-computers/" target="_blank">Link</a>
  | [maximum-score-of-a-good-subarray.py](Hard/maximum-score-of-a-good-subarray.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-score-of-a-good-subarray/" target="_blank">Link</a>
@@ -767,4 +768,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Dec 15 17:04:09 UTC 2025.
+Latest push from RunarFosse: Tue Dec 16 12:26:55 UTC 2025.
