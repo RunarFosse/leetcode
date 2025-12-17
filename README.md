@@ -259,6 +259,7 @@ All problems are tried solving in the most optimal way possible.
  | [bag-of-tokens.py](Medium/bag-of-tokens.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/bag-of-tokens/" target="_blank">Link</a>
  | [balance-a-binary-search-tree.py](Medium/balance-a-binary-search-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/balance-a-binary-search-tree/" target="_blank">Link</a>
  | [best-sightseeing-pair.py](Medium/best-sightseeing-pair.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/best-sightseeing-pair/" target="_blank">Link</a>
+ | [best-time-to-buy-and-sell-stock-v.py](Medium/best-time-to-buy-and-sell-stock-v.py) | O(nk) | O(k) | <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/" target="_blank">Link</a>
  | [binary-search-tree-to-greater-sum-tree.py](Medium/binary-search-tree-to-greater-sum-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/" target="_blank">Link</a>
  | [binary-subarrays-with-sum.py](Medium/binary-subarrays-with-sum.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/binary-subarrays-with-sum/" target="_blank">Link</a>
  | [binary-trees-with-factors.py](Medium/binary-trees-with-factors.py) | O(n sqrt(n)) | O(n) | <a href="https://leetcode.com/problems/binary-trees-with-factors/" target="_blank">Link</a>
@@ -768,4 +769,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Dec 16 12:26:55 UTC 2025.
+Latest push from RunarFosse: Wed Dec 17 10:50:51 UTC 2025.
