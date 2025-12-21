@@ -323,6 +323,7 @@ All problems are tried solving in the most optimal way possible.
  | [custom-sort-string.py](Medium/custom-sort-string.py) | O(m+n) | O(n) | <a href="https://leetcode.com/problems/custom-sort-string/" target="_blank">Link</a>
  | [daily-temperatures.py](Medium/daily-temperatures.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/daily-temperatures/" target="_blank">Link</a>
  | [decode-ways.py](Medium/decode-ways.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/decode-ways/" target="_blank">Link</a>
+ | [delete-columns-to-make-sorted-ii.py](Medium/delete-columns-to-make-sorted-ii.py) | O(mn) | O(m) | <a href="https://leetcode.com/problems/delete-columns-to-make-sorted-ii/" target="_blank">Link</a>
  | [delete-leaves-with-a-given-value.py](Medium/delete-leaves-with-a-given-value.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/delete-leaves-with-a-given-value/" target="_blank">Link</a>
  | [delete-node-in-a-linked-list.py](Medium/delete-node-in-a-linked-list.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/delete-node-in-a-linked-list/" target="_blank">Link</a>
  | [delete-nodes-and-return-forest.py](Medium/delete-nodes-and-return-forest.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/delete-nodes-and-return-forest/" target="_blank">Link</a>
@@ -771,4 +772,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Dec 20 10:14:47 UTC 2025.
+Latest push from RunarFosse: Sun Dec 21 12:34:36 UTC 2025.
