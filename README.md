@@ -9,6 +9,7 @@ All problems are tried solving in the most optimal way possible.
  | [add-digits.py](Easy/add-digits.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/add-digits/" target="_blank">Link</a>
  | [add-strings.py](Easy/add-strings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/add-strings/" target="_blank">Link</a>
  | [adjacent-increasing-subarrays-detection-i.py](Easy/adjacent-increasing-subarrays-detection-i.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/" target="_blank">Link</a>
+ | [apple-redistribution-into-boxes.py](Easy/apple-redistribution-into-boxes.py) | O(mlog m + n) | O(m) | <a href="https://leetcode.com/problems/apple-redistribution-into-boxes/" target="_blank">Link</a>
  | [apply-operations-to-an-array.py](Easy/apply-operations-to-an-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/apply-operations-to-an-array/" target="_blank">Link</a>
  | [arranging-coins.py](Easy/arranging-coins.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/arranging-coins/" target="_blank">Link</a>
  | [array-partition.py](Easy/array-partition.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/array-partition/" target="_blank">Link</a>
@@ -773,4 +774,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Dec 23 15:24:08 UTC 2025.
+Latest push from RunarFosse: Wed Dec 24 09:17:02 UTC 2025.
