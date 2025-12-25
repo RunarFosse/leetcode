@@ -603,6 +603,7 @@ All problems are tried solving in the most optimal way possible.
  | [sequential-digits.py](Medium/sequential-digits.py) | O(log(m/n)*log(m)) | O(log(m/n)) | <a href="https://leetcode.com/problems/sequential-digits/" target="_blank">Link</a>
  | [set-matrix-zeroes.py](Medium/set-matrix-zeroes.py) | O(mn(m+n)) | O(1) | <a href="https://leetcode.com/problems/set-matrix-zeroes/" target="_blank">Link</a>
  | [shortest-distance-after-road-addition-queries-i.py](Medium/shortest-distance-after-road-addition-queries-i.py) | O(m(n + m)) | O(n + m) | <a href="https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/" target="_blank">Link</a>
+ | [shortest-subarray-to-be-removed-to-make-array-sorted.py](Medium/shortest-subarray-to-be-removed-to-make-array-sorted.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/" target="_blank">Link</a>
  | [shortest-subarray-with-or-at-least-k-ii.py](Medium/shortest-subarray-with-or-at-least-k-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/" target="_blank">Link</a>
  | [simplify-path.py](Medium/simplify-path.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/simplify-path/" target="_blank">Link</a>
  | [single-number-iii.py](Medium/single-number-iii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/single-number-iii/" target="_blank">Link</a>
@@ -776,4 +777,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Dec 25 13:09:13 UTC 2025.
+Latest push from RunarFosse: Thu Dec 25 13:55:43 UTC 2025.
