@@ -684,6 +684,7 @@ All problems are tried solving in the most optimal way possible.
  | [constrained-subsequence-sum.py](Hard/constrained-subsequence-sum.py) | O(n) | O(k) | <a href="https://leetcode.com/problems/constrained-subsequence-sum/" target="_blank">Link</a>
  | [count-good-triplets-in-an-array.py](Hard/count-good-triplets-in-an-array.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/count-good-triplets-in-an-array/" target="_blank">Link</a>
  | [count-subarrays-with-fixed-bounds.py](Hard/count-subarrays-with-fixed-bounds.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-subarrays-with-fixed-bounds/" target="_blank">Link</a>
+ | [count-subarrays-with-score-less-than-k.py](Hard/count-subarrays-with-score-less-than-k.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-subarrays-with-score-less-than-k/" target="_blank">Link</a>
  | [count-the-number-of-arrays-with-k-matching-adjacent-elements.py](Hard/count-the-number-of-arrays-with-k-matching-adjacent-elements.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/" target="_blank">Link</a>
  | [count-the-number-of-powerful-integers.py](Hard/count-the-number-of-powerful-integers.py) | O(log n) | O(log n) | <a href="https://leetcode.com/problems/count-the-number-of-powerful-integers/" target="_blank">Link</a>
  | [count-vowels-permutation.py](Hard/count-vowels-permutation.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-vowels-permutation/" target="_blank">Link</a>
@@ -782,4 +783,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Dec 27 11:50:19 UTC 2025.
+Latest push from RunarFosse: Sat Dec 27 11:56:11 UTC 2025.
