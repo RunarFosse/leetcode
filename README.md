@@ -303,6 +303,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-number-of-maximum-bitwise-or-subsets.py](Medium/count-number-of-maximum-bitwise-or-subsets.py) | O(2^n) | O(n) | <a href="https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/" target="_blank">Link</a>
  | [count-number-of-nice-subarrays.py](Medium/count-number-of-nice-subarrays.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-number-of-nice-subarrays/" target="_blank">Link</a>
  | [count-number-of-teams.py](Medium/count-number-of-teams.py) | O(n^2) | O(1) | <a href="https://leetcode.com/problems/count-number-of-teams/" target="_blank">Link</a>
+ | [count-of-interesting-subarrays.py](Medium/count-of-interesting-subarrays.py) | O(n) | O(min(n, modulo)) | <a href="https://leetcode.com/problems/count-of-interesting-subarrays/" target="_blank">Link</a>
  | [count-servers-that-communicate.py](Medium/count-servers-that-communicate.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/count-servers-that-communicate/" target="_blank">Link</a>
  | [count-special-triplets.py](Medium/count-special-triplets.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-special-triplets/" target="_blank">Link</a>
  | [count-square-submatrices-with-all-ones.py](Medium/count-square-submatrices-with-all-ones.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/count-square-submatrices-with-all-ones/" target="_blank">Link</a>
@@ -781,4 +782,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Dec 27 11:27:16 UTC 2025.
+Latest push from RunarFosse: Sat Dec 27 11:50:19 UTC 2025.
