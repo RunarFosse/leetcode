@@ -291,6 +291,7 @@ All problems are tried solving in the most optimal way possible.
  | [convert-an-array-into-a-2d-array-with-conditions.py](Medium/convert-an-array-into-a-2d-array-with-conditions.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/" target="_blank">Link</a>
  | [count-and-say.py](Medium/count-and-say.py) | O(nm) | O(nm) | <a href="https://leetcode.com/problems/count-and-say/" target="_blank">Link</a>
  | [count-collisions-on-a-road.py](Medium/count-collisions-on-a-road.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-collisions-on-a-road/" target="_blank">Link</a>
+ | [count-complete-subarrays-in-an-array.py](Medium/count-complete-subarrays-in-an-array.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-complete-subarrays-in-an-array/" target="_blank">Link</a>
  | [count-covered-buildings.py](Medium/count-covered-buildings.py) | O(m) | O(m) | <a href="https://leetcode.com/problems/count-covered-buildings/" target="_blank">Link</a>
  | [count-days-without-meetings.py](Medium/count-days-without-meetings.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/count-days-without-meetings/" target="_blank">Link</a>
  | [count-good-numbers.py](Medium/count-good-numbers.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/count-good-numbers/" target="_blank">Link</a>
@@ -780,4 +781,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Dec 26 10:52:41 UTC 2025.
+Latest push from RunarFosse: Sat Dec 27 11:27:16 UTC 2025.
