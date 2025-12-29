@@ -388,6 +388,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-the-student-that-will-replace-the-chalk.py](Medium/find-the-student-that-will-replace-the-chalk.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/" target="_blank">Link</a>
  | [find-the-winner-of-an-array-game.py](Medium/find-the-winner-of-an-array-game.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-winner-of-an-array-game/" target="_blank">Link</a>
  | [find-the-winner-of-the-circular-game.py](Medium/find-the-winner-of-the-circular-game.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-winner-of-the-circular-game/" target="_blank">Link</a>
+ | [find-triangular-sum-of-an-array.py](Medium/find-triangular-sum-of-an-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-triangular-sum-of-an-array/" target="_blank">Link</a>
  | [find-unique-binary-string.py](Medium/find-unique-binary-string.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-unique-binary-string/" target="_blank">Link</a>
  | [find-valid-matrix-given-row-and-column-sums.py](Medium/find-valid-matrix-given-row-and-column-sums.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/" target="_blank">Link</a>
  | [first-completely-painted-row-or-column.py](Medium/first-completely-painted-row-or-column.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/first-completely-painted-row-or-column/" target="_blank">Link</a>
@@ -785,4 +786,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Dec 29 13:11:34 UTC 2025.
+Latest push from RunarFosse: Mon Dec 29 21:13:14 UTC 2025.
