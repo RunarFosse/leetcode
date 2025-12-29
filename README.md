@@ -575,6 +575,7 @@ All problems are tried solving in the most optimal way possible.
  | [product-of-the-last-k-numbers.py](Medium/product-of-the-last-k-numbers.py) | | | <a href="https://leetcode.com/problems/product-of-the-last-k-numbers/" target="_blank">Link</a>
  | [pseudo-palindromic-paths-in-a-binary-tree.py](Medium/pseudo-palindromic-paths-in-a-binary-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/" target="_blank">Link</a>
  | [push-dominoes.py](Medium/push-dominoes.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/push-dominoes/" target="_blank">Link</a>
+ | [pyramid-transition-matrix.py](Medium/pyramid-transition-matrix.py) | O(n6^n) | O(n^2) | <a href="https://leetcode.com/problems/pyramid-transition-matrix/" target="_blank">Link</a>
  | [rabbits-in-forest.py](Medium/rabbits-in-forest.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/rabbits-in-forest/" target="_blank">Link</a>
  | [range-sum-of-sorted-subarray-sums.py](Medium/range-sum-of-sorted-subarray-sums.py) | O(n^2log n) | O(n) | <a href="https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/" target="_blank">Link</a>
  | [rearrange-array-elements-by-sign.py](Medium/rearrange-array-elements-by-sign.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/rearrange-array-elements-by-sign/" target="_blank">Link</a>
@@ -783,4 +784,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Dec 27 11:56:11 UTC 2025.
+Latest push from RunarFosse: Mon Dec 29 12:47:45 UTC 2025.
