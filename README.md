@@ -170,6 +170,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-time-visiting-all-points.py](Easy/minimum-time-visiting-all-points.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-time-visiting-all-points/" target="_blank">Link</a>
  | [missing-number.py](Easy/missing-number.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/missing-number/" target="_blank">Link</a>
  | [n-ary-tree-postorder-traversal.py](Easy/n-ary-tree-postorder-traversal.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/n-ary-tree-postorder-traversal/" target="_blank">Link</a>
+ | [n-repeated-element-in-size-2n-array.py](Easy/n-repeated-element-in-size-2n-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/n-repeated-element-in-size-2n-array/" target="_blank">Link</a>
  | [n-th-tribonacci-number.py](Easy/n-th-tribonacci-number.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/n-th-tribonacci-number/" target="_blank">Link</a>
  | [nim-game.py](Easy/nim-game.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/nim-game/" target="_blank">Link</a>
  | [number-complement.py](Easy/number-complement.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/number-complement/" target="_blank">Link</a>
@@ -788,4 +789,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Dec 31 12:32:49 UTC 2025.
+Latest push from RunarFosse: Fri Jan  2 11:42:43 UTC 2026.
