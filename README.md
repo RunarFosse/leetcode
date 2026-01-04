@@ -395,6 +395,7 @@ All problems are tried solving in the most optimal way possible.
  | [first-completely-painted-row-or-column.py](Medium/first-completely-painted-row-or-column.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/first-completely-painted-row-or-column/" target="_blank">Link</a>
  | [flip-columns-for-maximum-number-of-equal-rows.py](Medium/flip-columns-for-maximum-number-of-equal-rows.py) | O(mn) | O(m) | <a href="https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/" target="_blank">Link</a>
  | [flip-equivalent-binary-trees.py](Medium/flip-equivalent-binary-trees.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/flip-equivalent-binary-trees/" target="_blank">Link</a>
+ | [four-divisors.py](Medium/four-divisors.py) | O(nsqrt(m)) | O(1) | <a href="https://leetcode.com/problems/four-divisors/" target="_blank">Link</a>
  | [fraction-addition-and-subtraction.py](Medium/fraction-addition-and-subtraction.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/fraction-addition-and-subtraction/" target="_blank">Link</a>
  | [frequency-of-the-most-frequent-element.py](Medium/frequency-of-the-most-frequent-element.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/frequency-of-the-most-frequent-element/" target="_blank">Link</a>
  | [fruit-into-baskets.py](Medium/fruit-into-baskets.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/fruit-into-baskets/" target="_blank">Link</a>
@@ -790,4 +791,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Jan  3 12:11:10 UTC 2026.
+Latest push from RunarFosse: Sun Jan  4 11:16:56 UTC 2026.
