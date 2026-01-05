@@ -610,6 +610,7 @@ All problems are tried solving in the most optimal way possible.
  | [separate-black-and-white-balls.py](Medium/separate-black-and-white-balls.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/separate-black-and-white-balls/" target="_blank">Link</a>
  | [sequential-digits.py](Medium/sequential-digits.py) | O(log(m/n)*log(m)) | O(log(m/n)) | <a href="https://leetcode.com/problems/sequential-digits/" target="_blank">Link</a>
  | [set-matrix-zeroes.py](Medium/set-matrix-zeroes.py) | O(mn(m+n)) | O(1) | <a href="https://leetcode.com/problems/set-matrix-zeroes/" target="_blank">Link</a>
+ | [shifting-letters-ii.py](Medium/shifting-letters-ii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/shifting-letters-ii/" target="_blank">Link</a>
  | [shortest-distance-after-road-addition-queries-i.py](Medium/shortest-distance-after-road-addition-queries-i.py) | O(m(n + m)) | O(n + m) | <a href="https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/" target="_blank">Link</a>
  | [shortest-subarray-to-be-removed-to-make-array-sorted.py](Medium/shortest-subarray-to-be-removed-to-make-array-sorted.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/" target="_blank">Link</a>
  | [shortest-subarray-with-or-at-least-k-ii.py](Medium/shortest-subarray-with-or-at-least-k-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/" target="_blank">Link</a>
@@ -791,4 +792,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Jan  4 11:16:56 UTC 2026.
+Latest push from RunarFosse: Mon Jan  5 11:01:50 UTC 2026.
