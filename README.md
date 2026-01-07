@@ -484,6 +484,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-number-of-moves-in-a-grid.py](Medium/maximum-number-of-moves-in-a-grid.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/" target="_blank">Link</a>
  | [maximum-number-of-operations-to-move-ones-to-the-end.py](Medium/maximum-number-of-operations-to-move-ones-to-the-end.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/" target="_blank">Link</a>
  | [maximum-number-of-points-with-cost.py](Medium/maximum-number-of-points-with-cost.py) | O(mn) | O(n) | <a href="https://leetcode.com/problems/maximum-number-of-points-with-cost/" target="_blank">Link</a>
+ | [maximum-product-of-splitted-binary-tree.py](Medium/maximum-product-of-splitted-binary-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/" target="_blank">Link</a>
  | [maximum-score-from-removing-substrings.py](Medium/maximum-score-from-removing-substrings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-score-from-removing-substrings/" target="_blank">Link</a>
  | [maximum-subarray-sum-with-length-divisible-by-k.py](Medium/maximum-subarray-sum-with-length-divisible-by-k.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/" target="_blank">Link</a>
  | [maximum-sum-of-distinct-subarrays-with-length-k.py](Medium/maximum-sum-of-distinct-subarrays-with-length-k.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/" target="_blank">Link</a>
@@ -794,4 +795,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Jan  6 09:35:06 UTC 2026.
+Latest push from RunarFosse: Wed Jan  7 09:25:35 UTC 2026.
