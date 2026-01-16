@@ -487,6 +487,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-number-of-points-with-cost.py](Medium/maximum-number-of-points-with-cost.py) | O(mn) | O(n) | <a href="https://leetcode.com/problems/maximum-number-of-points-with-cost/" target="_blank">Link</a>
  | [maximum-product-of-splitted-binary-tree.py](Medium/maximum-product-of-splitted-binary-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/" target="_blank">Link</a>
  | [maximum-score-from-removing-substrings.py](Medium/maximum-score-from-removing-substrings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-score-from-removing-substrings/" target="_blank">Link</a>
+ | [maximum-square-area-by-removing-fences-from-a-field.py](Medium/maximum-square-area-by-removing-fences-from-a-field.py) | O(h^2 + v^2) | O(h^2) | <a href="https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/" target="_blank">Link</a>
  | [maximum-subarray-sum-with-length-divisible-by-k.py](Medium/maximum-subarray-sum-with-length-divisible-by-k.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/" target="_blank">Link</a>
  | [maximum-sum-of-distinct-subarrays-with-length-k.py](Medium/maximum-sum-of-distinct-subarrays-with-length-k.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/" target="_blank">Link</a>
  | [maximum-swap.py](Medium/maximum-swap.py) | O(log n) | O(log n) | <a href="https://leetcode.com/problems/maximum-swap/" target="_blank">Link</a>
@@ -798,4 +799,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Jan 15 09:24:05 UTC 2026.
+Latest push from RunarFosse: Fri Jan 16 17:59:51 UTC 2026.
