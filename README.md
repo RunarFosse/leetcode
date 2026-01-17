@@ -374,6 +374,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-score-of-an-array-after-marking-all-elements.py](Medium/find-score-of-an-array-after-marking-all-elements.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/" target="_blank">Link</a>
  | [find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.py](Medium/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.py) | O(n^3) | O(n^2) | <a href="https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/" target="_blank">Link</a>
  | [find-the-duplicate-number.py](Medium/find-the-duplicate-number.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-duplicate-number/" target="_blank">Link</a>
+ | [find-the-largest-area-of-square-inside-two-rectangles.py](Medium/find-the-largest-area-of-square-inside-two-rectangles.py) | O(n^2) | O(1) | <a href="https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/" target="_blank">Link</a>
  | [find-the-length-of-the-longest-common-prefix.py](Medium/find-the-length-of-the-longest-common-prefix.py) | O(m + n) | O(m) | <a href="https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/" target="_blank">Link</a>
  | [find-the-lexicographically-largest-string-from-the-box-i.py](Medium/find-the-lexicographically-largest-string-from-the-box-i.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/" target="_blank">Link</a>
  | [find-the-longest-substring-containing-vowels-in-even-counts.py](Medium/find-the-longest-substring-containing-vowels-in-even-counts.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/" target="_blank">Link</a>
@@ -799,4 +800,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Jan 16 17:59:51 UTC 2026.
+Latest push from RunarFosse: Sat Jan 17 12:04:07 UTC 2026.
