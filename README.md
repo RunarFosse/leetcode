@@ -425,6 +425,7 @@ All problems are tried solving in the most optimal way possible.
  | [kth-largest-sum-in-a-binary-tree.py](Medium/kth-largest-sum-in-a-binary-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/" target="_blank">Link</a>
  | [largest-combination-with-bitwise-and-greater-than-zero.py](Medium/largest-combination-with-bitwise-and-greater-than-zero.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/" target="_blank">Link</a>
  | [largest-divisible-subset.py](Medium/largest-divisible-subset.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/largest-divisible-subset/" target="_blank">Link</a>
+ | [largest-magic-square.py](Medium/largest-magic-square.py) | O(mn Easy Hard Implementations Medium README.md update-readme.sh min(m, n)^2) | O(mn) | <a href="https://leetcode.com/problems/largest-magic-square/" target="_blank">Link</a>
  | [largest-number.py](Medium/largest-number.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/largest-number/" target="_blank">Link</a>
  | [largest-submatrix-with-rearrangements.py](Medium/largest-submatrix-with-rearrangements.py) | O(mnlog n) | O(n) | <a href="https://leetcode.com/problems/largest-submatrix-with-rearrangements/" target="_blank">Link</a>
  | [last-moment-before-all-ants-fall-out-of-a-plank.py](Medium/last-moment-before-all-ants-fall-out-of-a-plank.py) | O(n+m) | O(1) | <a href="https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/" target="_blank">Link</a>
@@ -800,4 +801,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Jan 17 12:04:07 UTC 2026.
+Latest push from RunarFosse: Sun Jan 18 13:34:20 UTC 2026.
