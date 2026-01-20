@@ -36,6 +36,7 @@ All problems are tried solving in the most optimal way possible.
  | [clear-digits.py](Easy/clear-digits.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/clear-digits/" target="_blank">Link</a>
  | [climbing-stairs.py](Easy/climbing-stairs.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/climbing-stairs/" target="_blank">Link</a>
  | [construct-string-from-binary-tree.py](Easy/construct-string-from-binary-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/construct-string-from-binary-tree/" target="_blank">Link</a>
+ | [construct-the-minimum-bitwise-array-i.py](Easy/construct-the-minimum-bitwise-array-i.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/" target="_blank">Link</a>
  | [convert-1d-array-into-2d-array.py](Easy/convert-1d-array-into-2d-array.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/convert-1d-array-into-2d-array/" target="_blank">Link</a>
  | [convert-binary-number-in-a-linked-list-to-integer.py](Easy/convert-binary-number-in-a-linked-list-to-integer.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/" target="_blank">Link</a>
  | [convert-integer-to-the-sum-of-two-no-zero-integers.py](Easy/convert-integer-to-the-sum-of-two-no-zero-integers.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/" target="_blank">Link</a>
@@ -802,4 +803,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Jan 19 19:07:44 UTC 2026.
+Latest push from RunarFosse: Tue Jan 20 07:53:49 UTC 2026.
