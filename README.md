@@ -287,6 +287,7 @@ All problems are tried solving in the most optimal way possible.
  | [construct-smallest-number-from-di-string.py](Medium/construct-smallest-number-from-di-string.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/construct-smallest-number-from-di-string/" target="_blank">Link</a>
  | [construct-string-with-repeat-limit.py](Medium/construct-string-with-repeat-limit.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/construct-string-with-repeat-limit/" target="_blank">Link</a>
  | [construct-the-lexicographically-largest-valid-sequence.py](Medium/construct-the-lexicographically-largest-valid-sequence.py) | O(2^n) | O(n) | <a href="https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/" target="_blank">Link</a>
+ | [construct-the-minimum-bitwise-array-ii.py](Medium/construct-the-minimum-bitwise-array-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/" target="_blank">Link</a>
  | [container-with-most-water.py](Medium/container-with-most-water.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/container-with-most-water/" target="_blank">Link</a>
  | [contiguous-array.py](Medium/contiguous-array.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/contiguous-array/" target="_blank">Link</a>
  | [continuous-subarray-sum.py](Medium/continuous-subarray-sum.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/continuous-subarray-sum/" target="_blank">Link</a>
@@ -803,4 +804,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Jan 20 07:53:49 UTC 2026.
+Latest push from RunarFosse: Wed Jan 21 08:20:33 UTC 2026.
