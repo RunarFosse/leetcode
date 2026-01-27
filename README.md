@@ -513,6 +513,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-array-end.py](Medium/minimum-array-end.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/minimum-array-end/" target="_blank">Link</a>
  | [minimum-ascii-delete-sum-for-two-strings.py](Medium/minimum-ascii-delete-sum-for-two-strings.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/" target="_blank">Link</a>
  | [minimum-cost-for-tickets.py](Medium/minimum-cost-for-tickets.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/minimum-cost-for-tickets/" target="_blank">Link</a>
+ | [minimum-cost-path-with-edge-reversals.py](Medium/minimum-cost-path-with-edge-reversals.py) | O((m + n)log n) | O(m + n) | <a href="https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/" target="_blank">Link</a>
  | [minimum-cost-to-convert-string-i.py](Medium/minimum-cost-to-convert-string-i.py) | O(n+m) | O(1) | <a href="https://leetcode.com/problems/minimum-cost-to-convert-string-i/" target="_blank">Link</a>
  | [minimum-deletions-to-make-string-balanced.py](Medium/minimum-deletions-to-make-string-balanced.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/" target="_blank">Link</a>
  | [minimum-deletions-to-make-string-k-special.py](Medium/minimum-deletions-to-make-string-k-special.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/" target="_blank">Link</a>
@@ -806,4 +807,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Jan 26 08:58:38 UTC 2026.
+Latest push from RunarFosse: Tue Jan 27 20:01:49 UTC 2026.
