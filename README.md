@@ -69,6 +69,7 @@ All problems are tried solving in the most optimal way possible.
  | [distribute-elements-into-two-arrays-i.py](Easy/distribute-elements-into-two-arrays-i.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/distribute-elements-into-two-arrays-i/" target="_blank">Link</a>
  | [distribute-money-to-maximum-children.py](Easy/distribute-money-to-maximum-children.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/distribute-money-to-maximum-children/" target="_blank">Link</a>
  | [divide-a-string-into-groups-of-size-k.py](Easy/divide-a-string-into-groups-of-size-k.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/" target="_blank">Link</a>
+ | [divide-an-array-into-subarrays-with-minimum-cost-i.py](Easy/divide-an-array-into-subarrays-with-minimum-cost-i.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/" target="_blank">Link</a>
  | [divide-array-into-equal-pairs.py](Easy/divide-array-into-equal-pairs.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/divide-array-into-equal-pairs/" target="_blank">Link</a>
  | [divisible-and-non-divisible-sums-difference.py](Easy/divisible-and-non-divisible-sums-difference.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/" target="_blank">Link</a>
  | [element-appearing-more-than-25-in-sorted-array.py](Easy/element-appearing-more-than-25-in-sorted-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/" target="_blank">Link</a>
@@ -808,4 +809,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Jan 31 11:33:25 UTC 2026.
+Latest push from RunarFosse: Sun Feb  1 12:30:00 UTC 2026.
