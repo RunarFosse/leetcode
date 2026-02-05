@@ -235,6 +235,7 @@ All problems are tried solving in the most optimal way possible.
  | [the-two-sneaky-numbers-of-digitville.py](Easy/the-two-sneaky-numbers-of-digitville.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/" target="_blank">Link</a>
  | [three-consecutive-odds.py](Easy/three-consecutive-odds.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/three-consecutive-odds/" target="_blank">Link</a>
  | [time-needed-to-buy-tickets.py](Easy/time-needed-to-buy-tickets.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/time-needed-to-buy-tickets/" target="_blank">Link</a>
+ | [transformed-array.py](Easy/transformed-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/transformed-array/" target="_blank">Link</a>
  | [transpose-matrix.py](Easy/transpose-matrix.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/transpose-matrix/" target="_blank">Link</a>
  | [trionic-array-i.py](Easy/trionic-array-i.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/trionic-array-i/" target="_blank">Link</a>
  | [two-sum.py](Easy/two-sum.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/two-sum/" target="_blank">Link</a>
@@ -810,4 +811,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Feb  3 16:57:07 UTC 2026.
+Latest push from RunarFosse: Thu Feb  5 15:29:18 UTC 2026.
