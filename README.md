@@ -548,6 +548,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-operations-to-make-binary-array-elements-equal-to-one-i.py](Medium/minimum-operations-to-make-binary-array-elements-equal-to-one-i.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/" target="_blank">Link</a>
  | [minimum-path-sum.py](Medium/minimum-path-sum.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-path-sum/" target="_blank">Link</a>
  | [minimum-penalty-for-a-shop.py](Medium/minimum-penalty-for-a-shop.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-penalty-for-a-shop/" target="_blank">Link</a>
+ | [minimum-removals-to-balance-array.py](Medium/minimum-removals-to-balance-array.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-removals-to-balance-array/" target="_blank">Link</a>
  | [minimum-remove-to-make-valid-parentheses.py](Medium/minimum-remove-to-make-valid-parentheses.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/" target="_blank">Link</a>
  | [minimum-swaps-to-group-all-1s-together-ii.py](Medium/minimum-swaps-to-group-all-1s-together-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/" target="_blank">Link</a>
  | [minimum-time-difference.py](Medium/minimum-time-difference.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-time-difference/" target="_blank">Link</a>
@@ -811,4 +812,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Feb  5 15:29:18 UTC 2026.
+Latest push from RunarFosse: Fri Feb  6 15:50:25 UTC 2026.
