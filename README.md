@@ -447,6 +447,7 @@ All problems are tried solving in the most optimal way possible.
  | [lexicographically-smallest-string-after-applying-operations.py](Medium/lexicographically-smallest-string-after-applying-operations.py) | O(n^3) | O(n^2) | <a href="https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/" target="_blank">Link</a>
  | [linked-list-in-binary-tree.py](Medium/linked-list-in-binary-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/linked-list-in-binary-tree/" target="_blank">Link</a>
  | [longest-balanced-subarray-i.py](Medium/longest-balanced-subarray-i.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/longest-balanced-subarray-i/" target="_blank">Link</a>
+ | [longest-balanced-substring-i.py](Medium/longest-balanced-substring-i.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/longest-balanced-substring-i/" target="_blank">Link</a>
  | [longest-binary-subsequence-less-than-or-equal-to-k.py](Medium/longest-binary-subsequence-less-than-or-equal-to-k.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/" target="_blank">Link</a>
  | [longest-common-subsequence.py](Medium/longest-common-subsequence.py) | O(mn) | O(min(m,n)) | <a href="https://leetcode.com/problems/longest-common-subsequence/" target="_blank">Link</a>
  | [longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py](Medium/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/" target="_blank">Link</a>
@@ -813,4 +814,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Feb 10 20:02:41 UTC 2026.
+Latest push from RunarFosse: Thu Feb 12 08:54:06 UTC 2026.
