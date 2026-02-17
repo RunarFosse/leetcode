@@ -22,6 +22,7 @@ All problems are tried solving in the most optimal way possible.
  | [binary-tree-paths.py](Easy/binary-tree-paths.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/binary-tree-paths/" target="_blank">Link</a>
  | [binary-tree-postorder-traversal.py](Easy/binary-tree-postorder-traversal.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/binary-tree-postorder-traversal/" target="_blank">Link</a>
  | [binary-tree-preorder-traversal.py](Easy/binary-tree-preorder-traversal.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/binary-tree-preorder-traversal/" target="_blank">Link</a>
+ | [binary-watch.py](Easy/binary-watch.py) | O(10 choose n) | O(1) | <a href="https://leetcode.com/problems/binary-watch/" target="_blank">Link</a>
  | [build-array-from-permutation.py](Easy/build-array-from-permutation.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/build-array-from-permutation/" target="_blank">Link</a>
  | [buy-two-chocolates.py](Easy/buy-two-chocolates.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/buy-two-chocolates/" target="_blank">Link</a>
  | [calculate-money-in-leetcode-bank.py](Easy/calculate-money-in-leetcode-bank.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/calculate-money-in-leetcode-bank/" target="_blank">Link</a>
@@ -817,4 +818,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Feb 14 10:47:25 UTC 2026.
+Latest push from RunarFosse: Tue Feb 17 20:57:08 UTC 2026.
