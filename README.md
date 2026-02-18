@@ -17,6 +17,7 @@ All problems are tried solving in the most optimal way possible.
  | [backspace-string-compare.py](Easy/backspace-string-compare.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/backspace-string-compare/" target="_blank">Link</a>
  | [balanced-binary-tree.py](Easy/balanced-binary-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/balanced-binary-tree/" target="_blank">Link</a>
  | [best-time-to-buy-and-sell-stock.py](Easy/best-time-to-buy-and-sell-stock.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/" target="_blank">Link</a>
+ | [binary-number-with-alternating-bits.py](Easy/binary-number-with-alternating-bits.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/binary-number-with-alternating-bits/" target="_blank">Link</a>
  | [binary-prefix-divisible-by-5.py](Easy/binary-prefix-divisible-by-5.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/binary-prefix-divisible-by-5/" target="_blank">Link</a>
  | [binary-tree-inorder-traversal.py](Easy/binary-tree-inorder-traversal.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/binary-tree-inorder-traversal/" target="_blank">Link</a>
  | [binary-tree-paths.py](Easy/binary-tree-paths.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/binary-tree-paths/" target="_blank">Link</a>
@@ -818,4 +819,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Feb 17 20:57:08 UTC 2026.
+Latest push from RunarFosse: Wed Feb 18 08:58:23 UTC 2026.
