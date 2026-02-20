@@ -804,6 +804,7 @@ All problems are tried solving in the most optimal way possible.
  | [shortest-subarray-with-sum-at-least-k.py](Hard/shortest-subarray-with-sum-at-least-k.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/" target="_blank">Link</a>
  | [sliding-puzzle.py](Hard/sliding-puzzle.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/sliding-puzzle/" target="_blank">Link</a>
  | [sliding-window-maximum.py](Hard/sliding-window-maximum.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/sliding-window-maximum/" target="_blank">Link</a>
+ | [special-binary-string.py](Hard/special-binary-string.py) | O(n^2log n) | O(n) | <a href="https://leetcode.com/problems/special-binary-string/" target="_blank">Link</a>
  | [strange-printer.py](Hard/strange-printer.py) | O(n^3) | O(n^2) | <a href="https://leetcode.com/problems/strange-printer/" target="_blank">Link</a>
  | [string-compression-ii.py](Hard/string-compression-ii.py) | O(n^2*k) | O(m*n) | <a href="https://leetcode.com/problems/string-compression-ii/" target="_blank">Link</a>
  | [student-attendance-record-ii.py](Hard/student-attendance-record-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/student-attendance-record-ii/" target="_blank">Link</a>
@@ -820,4 +821,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Feb 19 20:58:27 UTC 2026.
+Latest push from RunarFosse: Fri Feb 20 10:17:15 UTC 2026.
