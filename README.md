@@ -197,6 +197,7 @@ All problems are tried solving in the most optimal way possible.
  | [power-of-four.py](Easy/power-of-four.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/power-of-four/" target="_blank">Link</a>
  | [power-of-three.py](Easy/power-of-three.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/power-of-three/" target="_blank">Link</a>
  | [power-of-two.py](Easy/power-of-two.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/power-of-two/" target="_blank">Link</a>
+ | [prime-number-of-set-bits-in-binary-representation.py](Easy/prime-number-of-set-bits-in-binary-representation.py) | O(n + log(n)log(log(log(n)))) | O(log(n)) | <a href="https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/" target="_blank">Link</a>
  | [range-addition-ii.py](Easy/range-addition-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/range-addition-ii/" target="_blank">Link</a>
  | [range-sum-of-bst.py](Easy/range-sum-of-bst.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/range-sum-of-bst/" target="_blank">Link</a>
  | [rank-transform-of-an-array.py](Easy/rank-transform-of-an-array.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/rank-transform-of-an-array/" target="_blank">Link</a>
@@ -821,4 +822,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Feb 20 10:17:15 UTC 2026.
+Latest push from RunarFosse: Sat Feb 21 09:57:48 UTC 2026.
