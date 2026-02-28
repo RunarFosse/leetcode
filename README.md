@@ -297,6 +297,7 @@ All problems are tried solving in the most optimal way possible.
  | [closest-prime-numbers-in-range.py](Medium/closest-prime-numbers-in-range.py) | O(nlog(log(n))) | O(n) | <a href="https://leetcode.com/problems/closest-prime-numbers-in-range/" target="_blank">Link</a>
  | [combination-sum-ii.py](Medium/combination-sum-ii.py) | O(2^n) | O(2^n) | <a href="https://leetcode.com/problems/combination-sum-ii/" target="_blank">Link</a>
  | [compare-version-numbers.py](Medium/compare-version-numbers.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/compare-version-numbers/" target="_blank">Link</a>
+ | [concatenation-of-consecutive-binary-numbers.py](Medium/concatenation-of-consecutive-binary-numbers.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/" target="_blank">Link</a>
  | [construct-k-palindrome-strings.py](Medium/construct-k-palindrome-strings.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/construct-k-palindrome-strings/" target="_blank">Link</a>
  | [construct-smallest-number-from-di-string.py](Medium/construct-smallest-number-from-di-string.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/construct-smallest-number-from-di-string/" target="_blank">Link</a>
  | [construct-string-with-repeat-limit.py](Medium/construct-string-with-repeat-limit.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/construct-string-with-repeat-limit/" target="_blank">Link</a>
@@ -826,4 +827,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Feb 27 21:47:12 UTC 2026.
+Latest push from RunarFosse: Sat Feb 28 09:56:59 UTC 2026.
