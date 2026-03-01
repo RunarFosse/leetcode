@@ -597,6 +597,7 @@ All problems are tried solving in the most optimal way possible.
  | [partition-array-such-that-maximum-difference-is-k.py](Medium/partition-array-such-that-maximum-difference-is-k.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/" target="_blank">Link</a>
  | [partition-equal-subset-sum.py](Medium/partition-equal-subset-sum.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/partition-equal-subset-sum/" target="_blank">Link</a>
  | [partition-labels.py](Medium/partition-labels.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/partition-labels/" target="_blank">Link</a>
+ | [partitioning-into-minimum-number-of-deci-binary-numbers.py](Medium/partitioning-into-minimum-number-of-deci-binary-numbers.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/" target="_blank">Link</a>
  | [path-with-maximum-gold.py](Medium/path-with-maximum-gold.py) | O((nm)^2) | O(nm) | <a href="https://leetcode.com/problems/path-with-maximum-gold/" target="_blank">Link</a>
  | [path-with-maximum-probability.py](Medium/path-with-maximum-probability.py) | O((m + n)log n) | O(m + n) | <a href="https://leetcode.com/problems/path-with-maximum-probability/" target="_blank">Link</a>
  | [perfect-squares.py](Medium/perfect-squares.py) | O(sqrt(n)) | O(1) | <a href="https://leetcode.com/problems/perfect-squares/" target="_blank">Link</a>
@@ -827,4 +828,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Feb 28 09:56:59 UTC 2026.
+Latest push from RunarFosse: Sun Mar  1 15:01:35 UTC 2026.
