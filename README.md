@@ -31,6 +31,7 @@ All problems are tried solving in the most optimal way possible.
  | [check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py](Easy/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/" target="_blank">Link</a>
  | [check-if-all-1s-are-at-least-length-k-places-away.py](Easy/check-if-all-1s-are-at-least-length-k-places-away.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/" target="_blank">Link</a>
  | [check-if-array-is-sorted-and-rotated.py](Easy/check-if-array-is-sorted-and-rotated.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/" target="_blank">Link</a>
+ | [check-if-binary-string-has-at-most-one-segment-of-ones.py](Easy/check-if-binary-string-has-at-most-one-segment-of-ones.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/" target="_blank">Link</a>
  | [check-if-digits-are-equal-in-string-after-operations-i.py](Easy/check-if-digits-are-equal-in-string-after-operations-i.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/" target="_blank">Link</a>
  | [check-if-n-and-its-double-exist.py](Easy/check-if-n-and-its-double-exist.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/check-if-n-and-its-double-exist/" target="_blank">Link</a>
  | [check-if-one-string-swap-can-make-strings-equal.py](Easy/check-if-one-string-swap-can-make-strings-equal.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/" target="_blank">Link</a>
@@ -829,4 +830,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Mar  2 09:57:31 UTC 2026.
+Latest push from RunarFosse: Fri Mar  6 11:19:11 UTC 2026.
