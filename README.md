@@ -547,6 +547,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-number-of-arrows-to-burst-balloons.py](Medium/minimum-number-of-arrows-to-burst-balloons.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/" target="_blank">Link</a>
  | [minimum-number-of-changes-to-make-binary-string-beautiful.py](Medium/minimum-number-of-changes-to-make-binary-string-beautiful.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/" target="_blank">Link</a>
  | [minimum-number-of-days-to-make-m-bouquets.py](Medium/minimum-number-of-days-to-make-m-bouquets.py) | O(nlog a) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/" target="_blank">Link</a>
+ | [minimum-number-of-flips-to-make-the-binary-string-alternating.py](Medium/minimum-number-of-flips-to-make-the-binary-string-alternating.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/" target="_blank">Link</a>
  | [minimum-number-of-operations-to-make-all-array-elements-equal-to-1.py](Medium/minimum-number-of-operations-to-make-all-array-elements-equal-to-1.py) | O(n^2log k) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/" target="_blank">Link</a>
  | [minimum-number-of-operations-to-make-array-empty.py](Medium/minimum-number-of-operations-to-make-array-empty.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/" target="_blank">Link</a>
  | [minimum-number-of-operations-to-make-array-xor-equal-to-k.py](Medium/minimum-number-of-operations-to-make-array-xor-equal-to-k.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/" target="_blank">Link</a>
@@ -830,4 +831,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Mar  6 11:19:11 UTC 2026.
+Latest push from RunarFosse: Sat Mar  7 14:34:39 UTC 2026.
