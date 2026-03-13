@@ -554,6 +554,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-number-of-operations-to-move-all-balls-to-each-box.py](Medium/minimum-number-of-operations-to-move-all-balls-to-each-box.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/" target="_blank">Link</a>
  | [minimum-number-of-operations-to-sort-a-binary-tree-by-level.py](Medium/minimum-number-of-operations-to-sort-a-binary-tree-by-level.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/" target="_blank">Link</a>
  | [minimum-number-of-pushes-to-type-word-ii.py](Medium/minimum-number-of-pushes-to-type-word-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/" target="_blank">Link</a>
+ | [minimum-number-of-seconds-to-make-mountain-height-zero.py](Medium/minimum-number-of-seconds-to-make-mountain-height-zero.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/" target="_blank">Link</a>
  | [minimum-number-of-steps-to-make-two-strings-anagram.py](Medium/minimum-number-of-steps-to-make-two-strings-anagram.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/" target="_blank">Link</a>
  | [minimum-number-of-swaps-to-make-the-string-balanced.py](Medium/minimum-number-of-swaps-to-make-the-string-balanced.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/" target="_blank">Link</a>
  | [minimum-operations-to-convert-all-elements-to-zero.py](Medium/minimum-operations-to-convert-all-elements-to-zero.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/" target="_blank">Link</a>
@@ -831,4 +832,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Mar  7 14:34:39 UTC 2026.
+Latest push from RunarFosse: Fri Mar 13 09:31:13 UTC 2026.
