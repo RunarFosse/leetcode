@@ -39,6 +39,7 @@ All problems are tried solving in the most optimal way possible.
  | [circular-sentence.py](Easy/circular-sentence.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/circular-sentence/" target="_blank">Link</a>
  | [clear-digits.py](Easy/clear-digits.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/clear-digits/" target="_blank">Link</a>
  | [climbing-stairs.py](Easy/climbing-stairs.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/climbing-stairs/" target="_blank">Link</a>
+ | [complement-of-base-10-integer.py](Easy/complement-of-base-10-integer.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/complement-of-base-10-integer/" target="_blank">Link</a>
  | [construct-string-from-binary-tree.py](Easy/construct-string-from-binary-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/construct-string-from-binary-tree/" target="_blank">Link</a>
  | [construct-the-minimum-bitwise-array-i.py](Easy/construct-the-minimum-bitwise-array-i.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/" target="_blank">Link</a>
  | [convert-1d-array-into-2d-array.py](Easy/convert-1d-array-into-2d-array.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/convert-1d-array-into-2d-array/" target="_blank">Link</a>
@@ -832,4 +833,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Mar 13 09:31:13 UTC 2026.
+Latest push from RunarFosse: Sat Mar 14 17:15:17 UTC 2026.
