@@ -331,6 +331,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-sub-islands.py](Medium/count-sub-islands.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/count-sub-islands/" target="_blank">Link</a>
  | [count-subarrays-where-max-element-appears-at-least-k-times.py](Medium/count-subarrays-where-max-element-appears-at-least-k-times.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/" target="_blank">Link</a>
  | [count-submatrices-with-equal-frequency-of-x-and-y.py](Medium/count-submatrices-with-equal-frequency-of-x-and-y.py) | O(mn) | O(n) | <a href="https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/" target="_blank">Link</a>
+ | [count-submatrices-with-top-left-element-and-sum-less-than-k.py](Medium/count-submatrices-with-top-left-element-and-sum-less-than-k.py) | O(mn) | O(n) | <a href="https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/" target="_blank">Link</a>
  | [count-the-hidden-sequences.py](Medium/count-the-hidden-sequences.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-the-hidden-sequences/" target="_blank">Link</a>
  | [count-the-number-of-computer-unlocking-permutations.py](Medium/count-the-number-of-computer-unlocking-permutations.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/" target="_blank">Link</a>
  | [count-the-number-of-fair-pairs.py](Medium/count-the-number-of-fair-pairs.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/count-the-number-of-fair-pairs/" target="_blank">Link</a>
@@ -834,4 +835,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Mar 19 10:20:10 UTC 2026.
+Latest push from RunarFosse: Thu Mar 19 10:23:42 UTC 2026.
