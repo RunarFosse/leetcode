@@ -71,6 +71,7 @@ All problems are tried solving in the most optimal way possible.
  | [delete-columns-to-make-sorted.py](Easy/delete-columns-to-make-sorted.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/delete-columns-to-make-sorted/" target="_blank">Link</a>
  | [destination-city.py](Easy/destination-city.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/destination-city/" target="_blank">Link</a>
  | [determine-if-string-halves-are-alike.py](Easy/determine-if-string-halves-are-alike.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/determine-if-string-halves-are-alike/" target="_blank">Link</a>
+ | [determine-whether-matrix-can-be-obtained-by-rotation.py](Easy/determine-whether-matrix-can-be-obtained-by-rotation.py) | O(n^2) | O(1) | <a href="https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/" target="_blank">Link</a>
  | [diameter-of-binary-tree.py](Easy/diameter-of-binary-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/diameter-of-binary-tree/" target="_blank">Link</a>
  | [distribute-elements-into-two-arrays-i.py](Easy/distribute-elements-into-two-arrays-i.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/distribute-elements-into-two-arrays-i/" target="_blank">Link</a>
  | [distribute-money-to-maximum-children.py](Easy/distribute-money-to-maximum-children.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/distribute-money-to-maximum-children/" target="_blank">Link</a>
@@ -836,4 +837,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Mar 21 13:00:48 UTC 2026.
+Latest push from RunarFosse: Sun Mar 22 18:45:02 UTC 2026.
