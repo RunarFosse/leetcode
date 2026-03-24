@@ -303,6 +303,7 @@ All problems are tried solving in the most optimal way possible.
  | [compare-version-numbers.py](Medium/compare-version-numbers.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/compare-version-numbers/" target="_blank">Link</a>
  | [concatenation-of-consecutive-binary-numbers.py](Medium/concatenation-of-consecutive-binary-numbers.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/" target="_blank">Link</a>
  | [construct-k-palindrome-strings.py](Medium/construct-k-palindrome-strings.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/construct-k-palindrome-strings/" target="_blank">Link</a>
+ | [construct-product-matrix.py](Medium/construct-product-matrix.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/construct-product-matrix/" target="_blank">Link</a>
  | [construct-smallest-number-from-di-string.py](Medium/construct-smallest-number-from-di-string.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/construct-smallest-number-from-di-string/" target="_blank">Link</a>
  | [construct-string-with-repeat-limit.py](Medium/construct-string-with-repeat-limit.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/construct-string-with-repeat-limit/" target="_blank">Link</a>
  | [construct-the-lexicographically-largest-valid-sequence.py](Medium/construct-the-lexicographically-largest-valid-sequence.py) | O(2^n) | O(n) | <a href="https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/" target="_blank">Link</a>
@@ -838,4 +839,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Mar 23 09:28:45 UTC 2026.
+Latest push from RunarFosse: Tue Mar 24 21:13:00 UTC 2026.
