@@ -373,6 +373,7 @@ All problems are tried solving in the most optimal way possible.
  | [double-a-number-represented-as-a-linked-list.py](Medium/double-a-number-represented-as-a-linked-list.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/" target="_blank">Link</a>
  | [edit-distance.py](Medium/edit-distance.py) | O(m*n) | O(n) | <a href="https://leetcode.com/problems/edit-distance/" target="_blank">Link</a>
  | [eliminate-maximum-number-of-monsters.py](Medium/eliminate-maximum-number-of-monsters.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/eliminate-maximum-number-of-monsters/" target="_blank">Link</a>
+ | [equal-sum-grid-partition-i.py](Medium/equal-sum-grid-partition-i.py) | O(mn) | O(m + n) | <a href="https://leetcode.com/problems/equal-sum-grid-partition-i/" target="_blank">Link</a>
  | [evaluate-reverse-polish-notation.py](Medium/evaluate-reverse-polish-notation.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/evaluate-reverse-polish-notation/" target="_blank">Link</a>
  | [even-odd-tree.py](Medium/even-odd-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/even-odd-tree/" target="_blank">Link</a>
  | [extra-characters-in-a-string.py](Medium/extra-characters-in-a-string.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/extra-characters-in-a-string/" target="_blank">Link</a>
@@ -839,4 +840,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Mar 24 21:13:00 UTC 2026.
+Latest push from RunarFosse: Wed Mar 25 09:33:23 UTC 2026.
