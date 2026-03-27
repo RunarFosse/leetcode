@@ -146,6 +146,7 @@ All problems are tried solving in the most optimal way possible.
  | [make-array-elements-equal-to-zero.py](Easy/make-array-elements-equal-to-zero.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/make-array-elements-equal-to-zero/" target="_blank">Link</a>
  | [make-the-string-great.py](Easy/make-the-string-great.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/make-the-string-great/" target="_blank">Link</a>
  | [make-two-arrays-equal-by-reversing-subarrays.py](Easy/make-two-arrays-equal-by-reversing-subarrays.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/" target="_blank">Link</a>
+ | [matrix-similarity-after-cyclic-shifts.py](Easy/matrix-similarity-after-cyclic-shifts.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/" target="_blank">Link</a>
  | [maximum-69-number.py](Easy/maximum-69-number.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-69-number/" target="_blank">Link</a>
  | [maximum-area-of-longest-diagonal-rectangle.py](Easy/maximum-area-of-longest-diagonal-rectangle.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/" target="_blank">Link</a>
  | [maximum-ascending-subarray-sum.py](Easy/maximum-ascending-subarray-sum.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-ascending-subarray-sum/" target="_blank">Link</a>
@@ -840,4 +841,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Mar 25 09:33:23 UTC 2026.
+Latest push from RunarFosse: Fri Mar 27 10:08:18 UTC 2026.
