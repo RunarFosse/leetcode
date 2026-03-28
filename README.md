@@ -751,6 +751,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-the-k-th-character-in-string-game-ii.py](Hard/find-the-k-th-character-in-string-game-ii.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/" target="_blank">Link</a>
  | [find-the-maximum-sum-of-node-values.py](Hard/find-the-maximum-sum-of-node-values.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-maximum-sum-of-node-values/" target="_blank">Link</a>
  | [find-the-original-typed-string-ii.py](Hard/find-the-original-typed-string-ii.py) | O(n + k^2) | O(n + k) | <a href="https://leetcode.com/problems/find-the-original-typed-string-ii/" target="_blank">Link</a>
+ | [find-the-string-with-lcp.py](Hard/find-the-string-with-lcp.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/find-the-string-with-lcp/" target="_blank">Link</a>
  | [first-missing-positive.py](Hard/first-missing-positive.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/first-missing-positive/" target="_blank">Link</a>
  | [freedom-trail.py](Hard/freedom-trail.py) | O(mnlog(mn)) | O(mn) | <a href="https://leetcode.com/problems/freedom-trail/" target="_blank">Link</a>
  | [frog-jump.py](Hard/frog-jump.py) | O(nk) | O(n) | <a href="https://leetcode.com/problems/frog-jump/" target="_blank">Link</a>
@@ -841,4 +842,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Mar 27 10:08:18 UTC 2026.
+Latest push from RunarFosse: Sat Mar 28 10:18:00 UTC 2026.
