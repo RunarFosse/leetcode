@@ -35,6 +35,7 @@ All problems are tried solving in the most optimal way possible.
  | [check-if-digits-are-equal-in-string-after-operations-i.py](Easy/check-if-digits-are-equal-in-string-after-operations-i.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/" target="_blank">Link</a>
  | [check-if-n-and-its-double-exist.py](Easy/check-if-n-and-its-double-exist.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/check-if-n-and-its-double-exist/" target="_blank">Link</a>
  | [check-if-one-string-swap-can-make-strings-equal.py](Easy/check-if-one-string-swap-can-make-strings-equal.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/" target="_blank">Link</a>
+ | [check-if-strings-can-be-made-equal-with-operations-i.py](Easy/check-if-strings-can-be-made-equal-with-operations-i.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/" target="_blank">Link</a>
  | [check-if-two-string-arrays-are-equivalent.py](Easy/check-if-two-string-arrays-are-equivalent.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/" target="_blank">Link</a>
  | [circular-sentence.py](Easy/circular-sentence.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/circular-sentence/" target="_blank">Link</a>
  | [clear-digits.py](Easy/clear-digits.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/clear-digits/" target="_blank">Link</a>
@@ -842,4 +843,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Mar 28 10:18:00 UTC 2026.
+Latest push from RunarFosse: Sun Mar 29 11:45:19 UTC 2026.
