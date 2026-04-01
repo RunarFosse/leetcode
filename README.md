@@ -384,6 +384,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-all-duplicates-in-an-array.py](Medium/find-all-duplicates-in-an-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-all-duplicates-in-an-array/" target="_blank">Link</a>
  | [find-all-groups-of-farmland.py](Medium/find-all-groups-of-farmland.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/find-all-groups-of-farmland/" target="_blank">Link</a>
  | [find-all-possible-recipes-from-given-supplies.py](Medium/find-all-possible-recipes-from-given-supplies.py) | O(n + m + k) | O(n + m + k) | <a href="https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/" target="_blank">Link</a>
+ | [find-all-possible-stable-binary-arrays-i.py](Medium/find-all-possible-stable-binary-arrays-i.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/" target="_blank">Link</a>
  | [find-bottom-left-tree-value.py](Medium/find-bottom-left-tree-value.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-bottom-left-tree-value/" target="_blank">Link</a>
  | [find-champion-ii.py](Medium/find-champion-ii.py) | O(m + n) | O(n) | <a href="https://leetcode.com/problems/find-champion-ii/" target="_blank">Link</a>
  | [find-closest-node-to-given-two-nodes.py](Medium/find-closest-node-to-given-two-nodes.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-closest-node-to-given-two-nodes/" target="_blank">Link</a>
@@ -845,4 +846,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Mar 31 20:47:38 UTC 2026.
+Latest push from RunarFosse: Wed Apr  1 10:04:31 UTC 2026.
