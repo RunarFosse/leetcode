@@ -219,6 +219,7 @@ All problems are tried solving in the most optimal way possible.
  | [reverse-linked-list.py](Easy/reverse-linked-list.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/reverse-linked-list/" target="_blank">Link</a>
  | [reverse-prefix-of-word.py](Easy/reverse-prefix-of-word.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/reverse-prefix-of-word/" target="_blank">Link</a>
  | [reverse-string.py](Easy/reverse-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/reverse-string/" target="_blank">Link</a>
+ | [robot-return-to-origin.py](Easy/robot-return-to-origin.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/robot-return-to-origin/" target="_blank">Link</a>
  | [roman-to-integer.py](Easy/roman-to-integer.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/roman-to-integer/" target="_blank">Link</a>
  | [rotate-string.py](Easy/rotate-string.py) | O(n^2) | O(1) | <a href="https://leetcode.com/problems/rotate-string/" target="_blank">Link</a>
  | [same-tree.py](Easy/same-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/same-tree/" target="_blank">Link</a>
@@ -849,4 +850,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Apr  4 09:01:31 UTC 2026.
+Latest push from RunarFosse: Sun Apr  5 10:58:16 UTC 2026.
