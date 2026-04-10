@@ -176,6 +176,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-common-value.py](Easy/minimum-common-value.py) | O(m+n) | O(1) | <a href="https://leetcode.com/problems/minimum-common-value/" target="_blank">Link</a>
  | [minimum-depth-of-binary-tree.py](Easy/minimum-depth-of-binary-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/" target="_blank">Link</a>
  | [minimum-difference-between-highest-and-lowest-of-k-scores.py](Easy/minimum-difference-between-highest-and-lowest-of-k-scores.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/" target="_blank">Link</a>
+ | [minimum-distance-between-three-equal-elements-i.py](Easy/minimum-distance-between-three-equal-elements-i.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/" target="_blank">Link</a>
  | [minimum-number-of-moves-to-seat-everyone.py](Easy/minimum-number-of-moves-to-seat-everyone.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/" target="_blank">Link</a>
  | [minimum-number-of-operations-to-make-elements-in-array-distinct.py](Easy/minimum-number-of-operations-to-make-elements-in-array-distinct.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/" target="_blank">Link</a>
  | [minimum-operations-to-make-array-sum-divisible-by-k.py](Easy/minimum-operations-to-make-array-sum-divisible-by-k.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/" target="_blank">Link</a>
@@ -850,4 +851,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Apr  5 10:58:16 UTC 2026.
+Latest push from RunarFosse: Fri Apr 10 15:11:27 UTC 2026.
