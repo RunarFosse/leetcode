@@ -551,6 +551,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-deletions-to-make-string-balanced.py](Medium/minimum-deletions-to-make-string-balanced.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/" target="_blank">Link</a>
  | [minimum-deletions-to-make-string-k-special.py](Medium/minimum-deletions-to-make-string-k-special.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/" target="_blank">Link</a>
  | [minimum-difference-between-largest-and-smallest-value-in-three-moves.py](Medium/minimum-difference-between-largest-and-smallest-value-in-three-moves.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/" target="_blank">Link</a>
+ | [minimum-distance-between-three-equal-elements-ii.py](Medium/minimum-distance-between-three-equal-elements-ii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/" target="_blank">Link</a>
  | [minimum-domino-rotations-for-equal-row.py](Medium/minimum-domino-rotations-for-equal-row.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/" target="_blank">Link</a>
  | [minimum-equal-sum-of-two-arrays-after-replacing-zeros.py](Medium/minimum-equal-sum-of-two-arrays-after-replacing-zeros.py) | O(m + n) | O(1) | <a href="https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/" target="_blank">Link</a>
  | [minimum-falling-path-sum.py](Medium/minimum-falling-path-sum.py) | O(n^2) | O(1) | <a href="https://leetcode.com/problems/minimum-falling-path-sum/" target="_blank">Link</a>
@@ -851,4 +852,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Apr 10 15:11:27 UTC 2026.
+Latest push from RunarFosse: Sat Apr 11 15:04:24 UTC 2026.
