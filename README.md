@@ -727,6 +727,7 @@ All problems are tried solving in the most optimal way possible.
  | [wiggle-subsequence.py](Medium/wiggle-subsequence.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/wiggle-subsequence/" target="_blank">Link</a>
  | [word-search.py](Medium/word-search.py) | O(mn2^k) | O(k) | <a href="https://leetcode.com/problems/word-search/" target="_blank">Link</a>
  | [word-subsets.py](Medium/word-subsets.py) | O(m + n) | O(n) | <a href="https://leetcode.com/problems/word-subsets/" target="_blank">Link</a>
+ | [xor-after-range-multiplication-queries-i.py](Medium/xor-after-range-multiplication-queries-i.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/xor-after-range-multiplication-queries-i/" target="_blank">Link</a>
  | [xor-queries-of-a-subarray.py](Medium/xor-queries-of-a-subarray.py) | O(m + n) | O(m + n) | <a href="https://leetcode.com/problems/xor-queries-of-a-subarray/" target="_blank">Link</a>
  | [zero-array-transformation-i.py](Medium/zero-array-transformation-i.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/zero-array-transformation-i/" target="_blank">Link</a>
  | [zero-array-transformation-ii.py](Medium/zero-array-transformation-ii.py) | O(nlog m) | O(n) | <a href="https://leetcode.com/problems/zero-array-transformation-ii/" target="_blank">Link</a>
@@ -853,4 +854,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Apr 12 09:46:13 UTC 2026.
+Latest push from RunarFosse: Sun Apr 12 09:55:02 UTC 2026.
