@@ -305,6 +305,7 @@ All problems are tried solving in the most optimal way possible.
  | [check-if-grid-can-be-cut-into-sections.py](Medium/check-if-grid-can-be-cut-into-sections.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/" target="_blank">Link</a>
  | [check-if-number-is-a-sum-of-powers-of-three.py](Medium/check-if-number-is-a-sum-of-powers-of-three.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/" target="_blank">Link</a>
  | [check-if-strings-can-be-made-equal-with-operations-ii.py](Medium/check-if-strings-can-be-made-equal-with-operations-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/" target="_blank">Link</a>
+ | [closest-equal-element-queries.py](Medium/closest-equal-element-queries.py) | O(m + n) | O(n) | <a href="https://leetcode.com/problems/closest-equal-element-queries/" target="_blank">Link</a>
  | [closest-prime-numbers-in-range.py](Medium/closest-prime-numbers-in-range.py) | O(nlog(log(n))) | O(n) | <a href="https://leetcode.com/problems/closest-prime-numbers-in-range/" target="_blank">Link</a>
  | [combination-sum-ii.py](Medium/combination-sum-ii.py) | O(2^n) | O(2^n) | <a href="https://leetcode.com/problems/combination-sum-ii/" target="_blank">Link</a>
  | [compare-version-numbers.py](Medium/compare-version-numbers.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/compare-version-numbers/" target="_blank">Link</a>
@@ -857,4 +858,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Apr 17 07:45:54 UTC 2026.
+Latest push from RunarFosse: Fri Apr 17 08:14:54 UTC 2026.
