@@ -542,6 +542,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimize-the-maximum-difference-of-pairs.py](Medium/minimize-the-maximum-difference-of-pairs.py) | O(n(log m + log n)) | O(1) | <a href="https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/" target="_blank">Link</a>
  | [minimize-xor.py](Medium/minimize-xor.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/minimize-xor/" target="_blank">Link</a>
  | [minimized-maximum-of-products-distributed-to-any-store.py](Medium/minimized-maximum-of-products-distributed-to-any-store.py) | O(mlog k) | O(1) | <a href="https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/" target="_blank">Link</a>
+ | [minimum-absolute-distance-between-mirror-pairs.py](Medium/minimum-absolute-distance-between-mirror-pairs.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/" target="_blank">Link</a>
  | [minimum-add-to-make-parentheses-valid.py](Medium/minimum-add-to-make-parentheses-valid.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/" target="_blank">Link</a>
  | [minimum-amount-of-time-to-collect-garbage.py](Medium/minimum-amount-of-time-to-collect-garbage.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/" target="_blank">Link</a>
  | [minimum-array-end.py](Medium/minimum-array-end.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/minimum-array-end/" target="_blank">Link</a>
@@ -855,4 +856,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Apr 13 08:21:34 UTC 2026.
+Latest push from RunarFosse: Fri Apr 17 07:35:27 UTC 2026.
