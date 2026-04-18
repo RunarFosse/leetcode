@@ -185,6 +185,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-recolors-to-get-k-consecutive-black-blocks.py](Easy/minimum-recolors-to-get-k-consecutive-black-blocks.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/" target="_blank">Link</a>
  | [minimum-string-length-after-removing-substrings.py](Easy/minimum-string-length-after-removing-substrings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/minimum-string-length-after-removing-substrings/" target="_blank">Link</a>
  | [minimum-time-visiting-all-points.py](Easy/minimum-time-visiting-all-points.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-time-visiting-all-points/" target="_blank">Link</a>
+ | [mirror-distance-of-an-integer.py](Easy/mirror-distance-of-an-integer.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/mirror-distance-of-an-integer/" target="_blank">Link</a>
  | [missing-number.py](Easy/missing-number.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/missing-number/" target="_blank">Link</a>
  | [n-ary-tree-postorder-traversal.py](Easy/n-ary-tree-postorder-traversal.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/n-ary-tree-postorder-traversal/" target="_blank">Link</a>
  | [n-repeated-element-in-size-2n-array.py](Easy/n-repeated-element-in-size-2n-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/n-repeated-element-in-size-2n-array/" target="_blank">Link</a>
@@ -858,4 +859,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Apr 17 08:14:54 UTC 2026.
+Latest push from RunarFosse: Sat Apr 18 08:34:35 UTC 2026.
