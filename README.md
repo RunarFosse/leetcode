@@ -255,6 +255,7 @@ All problems are tried solving in the most optimal way possible.
  | [transformed-array.py](Easy/transformed-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/transformed-array/" target="_blank">Link</a>
  | [transpose-matrix.py](Easy/transpose-matrix.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/transpose-matrix/" target="_blank">Link</a>
  | [trionic-array-i.py](Easy/trionic-array-i.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/trionic-array-i/" target="_blank">Link</a>
+ | [two-furthest-houses-with-different-colors.py](Easy/two-furthest-houses-with-different-colors.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/two-furthest-houses-with-different-colors/" target="_blank">Link</a>
  | [two-sum.py](Easy/two-sum.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/two-sum/" target="_blank">Link</a>
  | [type-of-triangle.py](Easy/type-of-triangle.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/type-of-triangle/" target="_blank">Link</a>
  | [uncommon-words-from-two-sentences.py](Easy/uncommon-words-from-two-sentences.py) | O(m+n) | O(m+n) | <a href="https://leetcode.com/problems/uncommon-words-from-two-sentences/" target="_blank">Link</a>
@@ -859,4 +860,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Apr 18 08:56:48 UTC 2026.
+Latest push from RunarFosse: Mon Apr 20 08:34:37 UTC 2026.
