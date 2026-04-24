@@ -114,6 +114,7 @@ All problems are tried solving in the most optimal way possible.
  | [first-unique-character-in-a-string.py](Easy/first-unique-character-in-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/first-unique-character-in-a-string/" target="_blank">Link</a>
  | [flip-square-submatrix-vertically.py](Easy/flip-square-submatrix-vertically.py) | O(k^2) | O(1) | <a href="https://leetcode.com/problems/flip-square-submatrix-vertically/" target="_blank">Link</a>
  | [fruits-into-baskets-ii.py](Easy/fruits-into-baskets-ii.py) | O(n^2) | O(1) | <a href="https://leetcode.com/problems/fruits-into-baskets-ii/" target="_blank">Link</a>
+ | [furthest-point-from-origin.py](Easy/furthest-point-from-origin.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/furthest-point-from-origin/" target="_blank">Link</a>
  | [guess-number-higher-or-lower.py](Easy/guess-number-higher-or-lower.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/guess-number-higher-or-lower/" target="_blank">Link</a>
  | [happy-number.py](Easy/happy-number.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/happy-number/" target="_blank">Link</a>
  | [height-checker.py](Easy/height-checker.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/height-checker/" target="_blank">Link</a>
@@ -860,4 +861,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Apr 20 08:34:37 UTC 2026.
+Latest push from RunarFosse: Fri Apr 24 20:35:06 UTC 2026.
