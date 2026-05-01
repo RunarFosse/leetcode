@@ -662,6 +662,7 @@ All problems are tried solving in the most optimal way possible.
  | [reverse-integer.py](Medium/reverse-integer.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/reverse-integer/" target="_blank">Link</a>
  | [reverse-odd-levels-of-binary-tree.py](Medium/reverse-odd-levels-of-binary-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/" target="_blank">Link</a>
  | [reverse-substrings-between-each-pair-of-parentheses.py](Medium/reverse-substrings-between-each-pair-of-parentheses.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/" target="_blank">Link</a>
+ | [rotate-function.py](Medium/rotate-function.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/rotate-function/" target="_blank">Link</a>
  | [rotate-image.py](Medium/rotate-image.py) | O(n^2) | O(1) | <a href="https://leetcode.com/problems/rotate-image/" target="_blank">Link</a>
  | [rotating-the-box.py](Medium/rotating-the-box.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/rotating-the-box/" target="_blank">Link</a>
  | [score-after-flipping-matrix.py](Medium/score-after-flipping-matrix.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/score-after-flipping-matrix/" target="_blank">Link</a>
@@ -863,4 +864,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Apr 27 17:42:01 UTC 2026.
+Latest push from RunarFosse: Fri May  1 09:12:03 UTC 2026.
