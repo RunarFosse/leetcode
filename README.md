@@ -532,6 +532,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-number-of-moves-in-a-grid.py](Medium/maximum-number-of-moves-in-a-grid.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/" target="_blank">Link</a>
  | [maximum-number-of-operations-to-move-ones-to-the-end.py](Medium/maximum-number-of-operations-to-move-ones-to-the-end.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/" target="_blank">Link</a>
  | [maximum-number-of-points-with-cost.py](Medium/maximum-number-of-points-with-cost.py) | O(mn) | O(n) | <a href="https://leetcode.com/problems/maximum-number-of-points-with-cost/" target="_blank">Link</a>
+ | [maximum-path-score-in-a-grid.py](Medium/maximum-path-score-in-a-grid.py) | O(mnk) | O(nk) | <a href="https://leetcode.com/problems/maximum-path-score-in-a-grid/" target="_blank">Link</a>
  | [maximum-product-of-splitted-binary-tree.py](Medium/maximum-product-of-splitted-binary-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/" target="_blank">Link</a>
  | [maximum-score-from-removing-substrings.py](Medium/maximum-score-from-removing-substrings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-score-from-removing-substrings/" target="_blank">Link</a>
  | [maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py](Medium/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/" target="_blank">Link</a>
@@ -864,4 +865,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri May  1 09:12:03 UTC 2026.
+Latest push from RunarFosse: Fri May  1 10:21:13 UTC 2026.
