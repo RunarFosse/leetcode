@@ -638,7 +638,6 @@ All problems are tried solving in the most optimal way possible.
  | [powx-n.py](Medium/powx-n.py) | O(log n) | O(log n) | <a href="https://leetcode.com/problems/powx-n/" target="_blank">Link</a>
  | [prime-subtraction-operation.py](Medium/prime-subtraction-operation.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/prime-subtraction-operation/" target="_blank">Link</a>
  | [product-of-array-except-self.py](Medium/product-of-array-except-self.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/product-of-array-except-self/" target="_blank">Link</a>
- | [product-of-the-last-k-numbers.py](Medium/product-of-the-last-k-numbers.py) |  |  | <a href="https://leetcode.com/problems/product-of-the-last-k-numbers/" target="_blank">Link</a>
  | [pseudo-palindromic-paths-in-a-binary-tree.py](Medium/pseudo-palindromic-paths-in-a-binary-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/" target="_blank">Link</a>
  | [push-dominoes.py](Medium/push-dominoes.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/push-dominoes/" target="_blank">Link</a>
  | [pyramid-transition-matrix.py](Medium/pyramid-transition-matrix.py) | O(n6^n) | O(n^2) | <a href="https://leetcode.com/problems/pyramid-transition-matrix/" target="_blank">Link</a>
@@ -867,4 +866,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue May  5 18:22:49 UTC 2026.
+Latest push from RunarFosse: Tue May  5 18:27:58 UTC 2026.
