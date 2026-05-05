@@ -665,6 +665,7 @@ All problems are tried solving in the most optimal way possible.
  | [reverse-substrings-between-each-pair-of-parentheses.py](Medium/reverse-substrings-between-each-pair-of-parentheses.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/" target="_blank">Link</a>
  | [rotate-function.py](Medium/rotate-function.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/rotate-function/" target="_blank">Link</a>
  | [rotate-image.py](Medium/rotate-image.py) | O(n^2) | O(1) | <a href="https://leetcode.com/problems/rotate-image/" target="_blank">Link</a>
+ | [rotate-list.py](Medium/rotate-list.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/rotate-list/" target="_blank">Link</a>
  | [rotated-digits.py](Medium/rotated-digits.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/rotated-digits/" target="_blank">Link</a>
  | [rotating-the-box.py](Medium/rotating-the-box.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/rotating-the-box/" target="_blank">Link</a>
  | [score-after-flipping-matrix.py](Medium/score-after-flipping-matrix.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/score-after-flipping-matrix/" target="_blank">Link</a>
@@ -866,4 +867,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat May  2 10:58:56 UTC 2026.
+Latest push from RunarFosse: Tue May  5 17:37:07 UTC 2026.
