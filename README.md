@@ -458,6 +458,7 @@ All problems are tried solving in the most optimal way possible.
  | [integer-to-roman.py](Medium/integer-to-roman.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/integer-to-roman/" target="_blank">Link</a>
  | [interleaving-string.py](Medium/interleaving-string.py) | O(mn) | O(m) | <a href="https://leetcode.com/problems/interleaving-string/" target="_blank">Link</a>
  | [jump-game-ii.py](Medium/jump-game-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/jump-game-ii/" target="_blank">Link</a>
+ | [jump-game-ix.py](Medium/jump-game-ix.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/jump-game-ix/" target="_blank">Link</a>
  | [jump-game.py](Medium/jump-game.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/jump-game/" target="_blank">Link</a>
  | [k-th-smallest-prime-fraction.py](Medium/k-th-smallest-prime-fraction.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/k-th-smallest-prime-fraction/" target="_blank">Link</a>
  | [k-th-symbol-in-grammar.py](Medium/k-th-symbol-in-grammar.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/k-th-symbol-in-grammar/" target="_blank">Link</a>
@@ -866,4 +867,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue May  5 18:27:58 UTC 2026.
+Latest push from RunarFosse: Thu May  7 20:36:10 UTC 2026.
