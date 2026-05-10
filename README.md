@@ -530,6 +530,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-number-of-distinct-elements-after-operations.py](Medium/maximum-number-of-distinct-elements-after-operations.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/" target="_blank">Link</a>
  | [maximum-number-of-fish-in-a-grid.py](Medium/maximum-number-of-fish-in-a-grid.py) | O(mn) | O(m + n) | <a href="https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/" target="_blank">Link</a>
  | [maximum-number-of-integers-to-choose-from-a-range-i.py](Medium/maximum-number-of-integers-to-choose-from-a-range-i.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/" target="_blank">Link</a>
+ | [maximum-number-of-jumps-to-reach-the-last-index.py](Medium/maximum-number-of-jumps-to-reach-the-last-index.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/" target="_blank">Link</a>
  | [maximum-number-of-moves-in-a-grid.py](Medium/maximum-number-of-moves-in-a-grid.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/" target="_blank">Link</a>
  | [maximum-number-of-operations-to-move-ones-to-the-end.py](Medium/maximum-number-of-operations-to-move-ones-to-the-end.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/" target="_blank">Link</a>
  | [maximum-number-of-points-with-cost.py](Medium/maximum-number-of-points-with-cost.py) | O(mn) | O(n) | <a href="https://leetcode.com/problems/maximum-number-of-points-with-cost/" target="_blank">Link</a>
@@ -868,4 +869,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri May  8 21:12:09 UTC 2026.
+Latest push from RunarFosse: Sun May 10 10:30:27 UTC 2026.
