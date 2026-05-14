@@ -30,6 +30,7 @@ All problems are tried solving in the most optimal way possible.
  | [calculate-money-in-leetcode-bank.py](Easy/calculate-money-in-leetcode-bank.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/calculate-money-in-leetcode-bank/" target="_blank">Link</a>
  | [check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py](Easy/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/" target="_blank">Link</a>
  | [check-if-all-1s-are-at-least-length-k-places-away.py](Easy/check-if-all-1s-are-at-least-length-k-places-away.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/" target="_blank">Link</a>
+ | [check-if-array-is-good.py](Easy/check-if-array-is-good.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/check-if-array-is-good/" target="_blank">Link</a>
  | [check-if-array-is-sorted-and-rotated.py](Easy/check-if-array-is-sorted-and-rotated.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/" target="_blank">Link</a>
  | [check-if-binary-string-has-at-most-one-segment-of-ones.py](Easy/check-if-binary-string-has-at-most-one-segment-of-ones.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/" target="_blank">Link</a>
  | [check-if-digits-are-equal-in-string-after-operations-i.py](Easy/check-if-digits-are-equal-in-string-after-operations-i.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/" target="_blank">Link</a>
@@ -870,4 +871,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun May 10 12:28:04 UTC 2026.
+Latest push from RunarFosse: Thu May 14 09:54:02 UTC 2026.
