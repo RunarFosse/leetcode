@@ -407,6 +407,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-kth-bit-in-nth-binary-string.py](Medium/find-kth-bit-in-nth-binary-string.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/" target="_blank">Link</a>
  | [find-largest-value-in-each-tree-row.py](Medium/find-largest-value-in-each-tree-row.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/find-largest-value-in-each-tree-row/" target="_blank">Link</a>
  | [find-longest-special-substring-that-occurs-thrice-i.py](Medium/find-longest-special-substring-that-occurs-thrice-i.py) | O(n) | O(n^2) | <a href="https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/" target="_blank">Link</a>
+ | [find-minimum-in-rotated-sorted-array.py](Medium/find-minimum-in-rotated-sorted-array.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/" target="_blank">Link</a>
  | [find-minimum-time-to-reach-last-room-i.py](Medium/find-minimum-time-to-reach-last-room-i.py) | O(mnlog(mn)) | O(mn) | <a href="https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/" target="_blank">Link</a>
  | [find-minimum-time-to-reach-last-room-ii.py](Medium/find-minimum-time-to-reach-last-room-ii.py) | O(mnlog(mn)) | O(mn) | <a href="https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/" target="_blank">Link</a>
  | [find-missing-observations.py](Medium/find-missing-observations.py) | O(m + n) | O(n) | <a href="https://leetcode.com/problems/find-missing-observations/" target="_blank">Link</a>
@@ -871,4 +872,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu May 14 09:54:02 UTC 2026.
+Latest push from RunarFosse: Fri May 15 20:00:57 UTC 2026.
