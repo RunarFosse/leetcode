@@ -789,6 +789,7 @@ All problems are tried solving in the most optimal way possible.
  | [height-of-binary-tree-after-subtree-removal-queries.py](Hard/height-of-binary-tree-after-subtree-removal-queries.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/" target="_blank">Link</a>
  | [integer-to-english-words.py](Hard/integer-to-english-words.py) | O(log n) | O(log n) | <a href="https://leetcode.com/problems/integer-to-english-words/" target="_blank">Link</a>
  | [ipo.py](Hard/ipo.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/ipo/" target="_blank">Link</a>
+ | [jump-game-iv.py](Hard/jump-game-iv.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/jump-game-iv/" target="_blank">Link</a>
  | [k-inverse-pairs-array.py](Hard/k-inverse-pairs-array.py) | O(nk) | O(k) | <a href="https://leetcode.com/problems/k-inverse-pairs-array/" target="_blank">Link</a>
  | [k-th-smallest-in-lexicographical-order.py](Hard/k-th-smallest-in-lexicographical-order.py) | O((log n)^2) | O(log n) | <a href="https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/" target="_blank">Link</a>
  | [kth-smallest-product-of-two-sorted-arrays.py](Hard/kth-smallest-product-of-two-sorted-arrays.py) | O(nlog mlog k) | O(1) | <a href="https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/" target="_blank">Link</a>
@@ -874,4 +875,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat May 16 21:56:44 UTC 2026.
+Latest push from RunarFosse: Mon May 18 11:24:25 UTC 2026.
