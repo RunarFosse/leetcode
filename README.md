@@ -463,6 +463,7 @@ All problems are tried solving in the most optimal way possible.
  | [jump-game-ii.py](Medium/jump-game-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/jump-game-ii/" target="_blank">Link</a>
  | [jump-game-iii.py](Medium/jump-game-iii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/jump-game-iii/" target="_blank">Link</a>
  | [jump-game-ix.py](Medium/jump-game-ix.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/jump-game-ix/" target="_blank">Link</a>
+ | [jump-game-vii.py](Medium/jump-game-vii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/jump-game-vii/" target="_blank">Link</a>
  | [jump-game.py](Medium/jump-game.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/jump-game/" target="_blank">Link</a>
  | [k-th-smallest-prime-fraction.py](Medium/k-th-smallest-prime-fraction.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/k-th-smallest-prime-fraction/" target="_blank">Link</a>
  | [k-th-symbol-in-grammar.py](Medium/k-th-symbol-in-grammar.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/k-th-symbol-in-grammar/" target="_blank">Link</a>
@@ -877,4 +878,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun May 24 09:42:02 UTC 2026.
+Latest push from RunarFosse: Mon May 25 10:28:36 UTC 2026.
