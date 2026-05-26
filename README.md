@@ -64,6 +64,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-subarrays-of-length-three-with-a-condition.py](Easy/count-subarrays-of-length-three-with-a-condition.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/" target="_blank">Link</a>
  | [count-symmetric-integers.py](Easy/count-symmetric-integers.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/count-symmetric-integers/" target="_blank">Link</a>
  | [count-the-number-of-consistent-strings.py](Easy/count-the-number-of-consistent-strings.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-the-number-of-consistent-strings/" target="_blank">Link</a>
+ | [count-the-number-of-special-characters-i.py](Easy/count-the-number-of-special-characters-i.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-the-number-of-special-characters-i/" target="_blank">Link</a>
  | [counting-bits.py](Easy/counting-bits.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/counting-bits/" target="_blank">Link</a>
  | [counting-words-with-a-given-prefix.py](Easy/counting-words-with-a-given-prefix.py) | O(nm) | O(1) | <a href="https://leetcode.com/problems/counting-words-with-a-given-prefix/" target="_blank">Link</a>
  | [coupon-code-validator.py](Easy/coupon-code-validator.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/coupon-code-validator/" target="_blank">Link</a>
@@ -882,4 +883,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon May 25 12:52:18 UTC 2026.
+Latest push from RunarFosse: Tue May 26 16:32:40 UTC 2026.
