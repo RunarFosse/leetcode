@@ -556,6 +556,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-xor-for-each-query.py](Medium/maximum-xor-for-each-query.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-xor-for-each-query/" target="_blank">Link</a>
  | [merge-in-between-linked-lists.py](Medium/merge-in-between-linked-lists.py) | O(m+n) | O(1) | <a href="https://leetcode.com/problems/merge-in-between-linked-lists/" target="_blank">Link</a>
  | [merge-nodes-in-between-zeros.py](Medium/merge-nodes-in-between-zeros.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/merge-nodes-in-between-zeros/" target="_blank">Link</a>
+ | [minimize-hamming-distance-after-swap-operations.py](Medium/minimize-hamming-distance-after-swap-operations.py) |  |  | <a href="https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/" target="_blank">Link</a>
  | [minimize-maximum-pair-sum-in-array.py](Medium/minimize-maximum-pair-sum-in-array.py) | O(nlog n) | O(log n) | <a href="https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/" target="_blank">Link</a>
  | [minimize-the-maximum-difference-of-pairs.py](Medium/minimize-the-maximum-difference-of-pairs.py) | O(n(log m + log n)) | O(1) | <a href="https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/" target="_blank">Link</a>
  | [minimize-xor.py](Medium/minimize-xor.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/minimize-xor/" target="_blank">Link</a>
@@ -883,4 +884,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue May 26 16:32:40 UTC 2026.
+Latest push from RunarFosse: Tue May 26 17:00:16 UTC 2026.
