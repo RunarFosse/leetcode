@@ -355,6 +355,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-the-number-of-computer-unlocking-permutations.py](Medium/count-the-number-of-computer-unlocking-permutations.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/" target="_blank">Link</a>
  | [count-the-number-of-fair-pairs.py](Medium/count-the-number-of-fair-pairs.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/count-the-number-of-fair-pairs/" target="_blank">Link</a>
  | [count-the-number-of-good-subarrays.py](Medium/count-the-number-of-good-subarrays.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-the-number-of-good-subarrays/" target="_blank">Link</a>
+ | [count-the-number-of-special-characters-ii.py](Medium/count-the-number-of-special-characters-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-the-number-of-special-characters-ii/" target="_blank">Link</a>
  | [count-the-number-of-substrings-with-dominant-ones.py](Medium/count-the-number-of-substrings-with-dominant-ones.py) | O(n sqrt(n)) | O(n) | <a href="https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/" target="_blank">Link</a>
  | [count-total-number-of-colored-cells.py](Medium/count-total-number-of-colored-cells.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/count-total-number-of-colored-cells/" target="_blank">Link</a>
  | [count-triplets-that-can-form-two-arrays-of-equal-xor.py](Medium/count-triplets-that-can-form-two-arrays-of-equal-xor.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/" target="_blank">Link</a>
@@ -884,4 +885,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue May 26 17:00:16 UTC 2026.
+Latest push from RunarFosse: Wed May 27 07:50:02 UTC 2026.
