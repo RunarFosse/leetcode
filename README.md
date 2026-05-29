@@ -181,6 +181,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-difference-between-highest-and-lowest-of-k-scores.py](Easy/minimum-difference-between-highest-and-lowest-of-k-scores.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/" target="_blank">Link</a>
  | [minimum-distance-between-three-equal-elements-i.py](Easy/minimum-distance-between-three-equal-elements-i.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/" target="_blank">Link</a>
  | [minimum-distance-to-the-target-element.py](Easy/minimum-distance-to-the-target-element.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-distance-to-the-target-element/" target="_blank">Link</a>
+ | [minimum-element-after-replacement-with-digit-sum.py](Easy/minimum-element-after-replacement-with-digit-sum.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/" target="_blank">Link</a>
  | [minimum-number-of-moves-to-seat-everyone.py](Easy/minimum-number-of-moves-to-seat-everyone.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/" target="_blank">Link</a>
  | [minimum-number-of-operations-to-make-elements-in-array-distinct.py](Easy/minimum-number-of-operations-to-make-elements-in-array-distinct.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/" target="_blank">Link</a>
  | [minimum-operations-to-make-array-sum-divisible-by-k.py](Easy/minimum-operations-to-make-array-sum-divisible-by-k.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/" target="_blank">Link</a>
@@ -885,4 +886,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed May 27 07:50:02 UTC 2026.
+Latest push from RunarFosse: Fri May 29 12:32:22 UTC 2026.
