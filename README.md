@@ -766,6 +766,7 @@ All problems are tried solving in the most optimal way possible.
  | Problem | Time complexity | Space complexity | Leetcode |
  | :------ | :-------------: | :--------------: | :--------------: |
  | [arithmetic-slices-ii-subsequence.py](Hard/arithmetic-slices-ii-subsequence.py) | O(n^2) | O(n^2) | <a href="https://leetcode.com/problems/arithmetic-slices-ii-subsequence/" target="_blank">Link</a>
+ | [block-placement-queries.py](Hard/block-placement-queries.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/block-placement-queries/" target="_blank">Link</a>
  | [build-array-where-you-can-find-the-maximum-exactly-k-comparisons.py](Hard/build-array-where-you-can-find-the-maximum-exactly-k-comparisons.py) | O(nm^2k) | O(nmk) | <a href="https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/" target="_blank">Link</a>
  | [bus-routes.py](Hard/bus-routes.py) | O(n+m) | O(n+m) | <a href="https://leetcode.com/problems/bus-routes/" target="_blank">Link</a>
  | [candy.py](Hard/candy.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/candy/" target="_blank">Link</a>
@@ -886,4 +887,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri May 29 12:32:22 UTC 2026.
+Latest push from RunarFosse: Sat May 30 21:31:44 UTC 2026.
