@@ -808,6 +808,7 @@ All problems are tried solving in the most optimal way possible.
  | [largest-rectangle-in-histogram.py](Hard/largest-rectangle-in-histogram.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/largest-rectangle-in-histogram/" target="_blank">Link</a>
  | [last-day-where-you-can-still-cross.py](Hard/last-day-where-you-can-still-cross.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/last-day-where-you-can-still-cross/" target="_blank">Link</a>
  | [lexicographically-smallest-generated-string.py](Hard/lexicographically-smallest-generated-string.py) | O(mn) | O(m + n) | <a href="https://leetcode.com/problems/lexicographically-smallest-generated-string/" target="_blank">Link</a>
+ | [longest-common-suffix-queries.py](Hard/longest-common-suffix-queries.py) | O(m + n) | O(n) | <a href="https://leetcode.com/problems/longest-common-suffix-queries/" target="_blank">Link</a>
  | [longest-subsequence-repeated-k-times.py](Hard/longest-subsequence-repeated-k-times.py) | O(n(n/k)!) | O((n/k)!) | <a href="https://leetcode.com/problems/longest-subsequence-repeated-k-times/" target="_blank">Link</a>
  | [making-a-large-island.py](Hard/making-a-large-island.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/making-a-large-island/" target="_blank">Link</a>
  | [max-dot-product-of-two-subsequences.py](Hard/max-dot-product-of-two-subsequences.py) | O(nm) | O(nm) | <a href="https://leetcode.com/problems/max-dot-product-of-two-subsequences/" target="_blank">Link</a>
@@ -888,4 +889,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun May 31 13:03:43 UTC 2026.
+Latest push from RunarFosse: Sun May 31 14:45:27 UTC 2026.
