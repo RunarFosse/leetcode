@@ -377,6 +377,7 @@ All problems are tried solving in the most optimal way possible.
  | [delete-node-in-a-linked-list.py](Medium/delete-node-in-a-linked-list.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/delete-node-in-a-linked-list/" target="_blank">Link</a>
  | [delete-nodes-and-return-forest.py](Medium/delete-nodes-and-return-forest.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/delete-nodes-and-return-forest/" target="_blank">Link</a>
  | [delete-nodes-from-linked-list-present-in-array.py](Medium/delete-nodes-from-linked-list-present-in-array.py) | O(m + n) | O(m) | <a href="https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/" target="_blank">Link</a>
+ | [destroying-asteroids.py](Medium/destroying-asteroids.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/destroying-asteroids/" target="_blank">Link</a>
  | [detect-cycles-in-2d-grid.py](Medium/detect-cycles-in-2d-grid.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/detect-cycles-in-2d-grid/" target="_blank">Link</a>
  | [determine-if-a-cell-is-reachable-at-a-given-time.py](Medium/determine-if-a-cell-is-reachable-at-a-given-time.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/" target="_blank">Link</a>
  | [determine-if-two-strings-are-close.py](Medium/determine-if-two-strings-are-close.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/determine-if-two-strings-are-close/" target="_blank">Link</a>
@@ -887,4 +888,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat May 30 21:31:44 UTC 2026.
+Latest push from RunarFosse: Sun May 31 13:03:43 UTC 2026.
