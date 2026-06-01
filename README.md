@@ -177,6 +177,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-bit-flips-to-convert-number.py](Easy/minimum-bit-flips-to-convert-number.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/minimum-bit-flips-to-convert-number/" target="_blank">Link</a>
  | [minimum-changes-to-make-alternating-binary-string.py](Easy/minimum-changes-to-make-alternating-binary-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/" target="_blank">Link</a>
  | [minimum-common-value.py](Easy/minimum-common-value.py) | O(m+n) | O(1) | <a href="https://leetcode.com/problems/minimum-common-value/" target="_blank">Link</a>
+ | [minimum-cost-of-buying-candies-with-discount.py](Easy/minimum-cost-of-buying-candies-with-discount.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/" target="_blank">Link</a>
  | [minimum-depth-of-binary-tree.py](Easy/minimum-depth-of-binary-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/" target="_blank">Link</a>
  | [minimum-difference-between-highest-and-lowest-of-k-scores.py](Easy/minimum-difference-between-highest-and-lowest-of-k-scores.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/" target="_blank">Link</a>
  | [minimum-distance-between-three-equal-elements-i.py](Easy/minimum-distance-between-three-equal-elements-i.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/" target="_blank">Link</a>
@@ -889,4 +890,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun May 31 14:45:27 UTC 2026.
+Latest push from RunarFosse: Mon Jun  1 17:48:31 UTC 2026.
