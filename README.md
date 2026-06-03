@@ -82,6 +82,7 @@ All problems are tried solving in the most optimal way possible.
  | [divide-an-array-into-subarrays-with-minimum-cost-i.py](Easy/divide-an-array-into-subarrays-with-minimum-cost-i.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/" target="_blank">Link</a>
  | [divide-array-into-equal-pairs.py](Easy/divide-array-into-equal-pairs.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/divide-array-into-equal-pairs/" target="_blank">Link</a>
  | [divisible-and-non-divisible-sums-difference.py](Easy/divisible-and-non-divisible-sums-difference.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/" target="_blank">Link</a>
+ | [earliest-finish-time-for-land-and-water-rides-i.py](Easy/earliest-finish-time-for-land-and-water-rides-i.py) | O(m + n) | O(1) | <a href="https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/" target="_blank">Link</a>
  | [element-appearing-more-than-25-in-sorted-array.py](Easy/element-appearing-more-than-25-in-sorted-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/" target="_blank">Link</a>
  | [evaluate-boolean-binary-tree.py](Easy/evaluate-boolean-binary-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/evaluate-boolean-binary-tree/" target="_blank">Link</a>
  | [final-array-state-after-k-multiplication-operations-i.py](Easy/final-array-state-after-k-multiplication-operations-i.py) | O(n + klog n) | O(n) | <a href="https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/" target="_blank">Link</a>
@@ -890,4 +891,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Jun  1 17:48:31 UTC 2026.
+Latest push from RunarFosse: Wed Jun  3 19:00:44 UTC 2026.
