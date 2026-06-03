@@ -395,6 +395,7 @@ All problems are tried solving in the most optimal way possible.
  | [divide-two-integers.py](Medium/divide-two-integers.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/divide-two-integers/" target="_blank">Link</a>
  | [domino-and-tromino-tiling.py](Medium/domino-and-tromino-tiling.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/domino-and-tromino-tiling/" target="_blank">Link</a>
  | [double-a-number-represented-as-a-linked-list.py](Medium/double-a-number-represented-as-a-linked-list.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/" target="_blank">Link</a>
+ | [earliest-finish-time-for-land-and-water-rides-ii.py](Medium/earliest-finish-time-for-land-and-water-rides-ii.py) | O(m + n) | O(1) | <a href="https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/" target="_blank">Link</a>
  | [edit-distance.py](Medium/edit-distance.py) | O(m*n) | O(n) | <a href="https://leetcode.com/problems/edit-distance/" target="_blank">Link</a>
  | [eliminate-maximum-number-of-monsters.py](Medium/eliminate-maximum-number-of-monsters.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/eliminate-maximum-number-of-monsters/" target="_blank">Link</a>
  | [equal-sum-grid-partition-i.py](Medium/equal-sum-grid-partition-i.py) | O(mn) | O(m + n) | <a href="https://leetcode.com/problems/equal-sum-grid-partition-i/" target="_blank">Link</a>
@@ -891,4 +892,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Jun  3 19:00:44 UTC 2026.
+Latest push from RunarFosse: Wed Jun  3 19:01:49 UTC 2026.
