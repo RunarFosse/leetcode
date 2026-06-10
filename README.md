@@ -138,6 +138,7 @@ All problems are tried solving in the most optimal way possible.
  | [largest-substring-between-two-equal-characters.py](Easy/largest-substring-between-two-equal-characters.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/largest-substring-between-two-equal-characters/" target="_blank">Link</a>
  | [largest-triangle-area.py](Easy/largest-triangle-area.py) | O(n^3) | O(1) | <a href="https://leetcode.com/problems/largest-triangle-area/" target="_blank">Link</a>
  | [leaf-similar-trees.py](Easy/leaf-similar-trees.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/leaf-similar-trees/" target="_blank">Link</a>
+ | [left-and-right-sum-differences.py](Easy/left-and-right-sum-differences.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/left-and-right-sum-differences/" target="_blank">Link</a>
  | [lemonade-change.py](Easy/lemonade-change.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/lemonade-change/" target="_blank">Link</a>
  | [length-of-last-word.py](Easy/length-of-last-word.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/length-of-last-word/" target="_blank">Link</a>
  | [linked-list-cycle.py](Easy/linked-list-cycle.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/linked-list-cycle/" target="_blank">Link</a>
@@ -894,4 +895,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Jun 10 20:59:29 UTC 2026.
+Latest push from RunarFosse: Wed Jun 10 21:00:18 UTC 2026.
