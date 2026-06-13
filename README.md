@@ -274,6 +274,7 @@ All problems are tried solving in the most optimal way possible.
  | [valid-parentheses.py](Easy/valid-parentheses.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/valid-parentheses/" target="_blank">Link</a>
  | [valid-word.py](Easy/valid-word.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/valid-word/" target="_blank">Link</a>
  | [water-bottles.py](Easy/water-bottles.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/water-bottles/" target="_blank">Link</a>
+ | [weighted-word-mapping.py](Easy/weighted-word-mapping.py) | O(mn) | O(n) | <a href="https://leetcode.com/problems/weighted-word-mapping/" target="_blank">Link</a>
 
 
 ## Medium
@@ -897,4 +898,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Jun 10 21:02:37 UTC 2026.
+Latest push from RunarFosse: Sat Jun 13 21:54:08 UTC 2026.
