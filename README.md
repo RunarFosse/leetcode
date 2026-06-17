@@ -873,6 +873,7 @@ All problems are tried solving in the most optimal way possible.
  | [paths-in-matrix-whose-sum-is-divisible-by-k.py](Hard/paths-in-matrix-whose-sum-is-divisible-by-k.py) | O(mnk) | O(nk) | <a href="https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/" target="_blank">Link</a>
  | [perfect-rectangle.py](Hard/perfect-rectangle.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/perfect-rectangle/" target="_blank">Link</a>
  | [poor-pigs.py](Hard/poor-pigs.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/poor-pigs/" target="_blank">Link</a>
+ | [process-string-with-special-operations-ii.py](Hard/process-string-with-special-operations-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/process-string-with-special-operations-ii/" target="_blank">Link</a>
  | [put-marbles-in-bags.py](Hard/put-marbles-in-bags.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/put-marbles-in-bags/" target="_blank">Link</a>
  | [remove-max-number-of-edges-to-keep-graph-fully-traversable.py](Hard/remove-max-number-of-edges-to-keep-graph-fully-traversable.py) | O(mlog m) | O(n+m) | <a href="https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/" target="_blank">Link</a>
  | [robot-collisions.py](Hard/robot-collisions.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/robot-collisions/" target="_blank">Link</a>
@@ -901,4 +902,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Jun 16 20:52:54 UTC 2026.
+Latest push from RunarFosse: Wed Jun 17 19:52:05 UTC 2026.
