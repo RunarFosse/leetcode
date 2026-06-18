@@ -291,6 +291,7 @@ All problems are tried solving in the most optimal way possible.
  | [all-ancestors-of-a-node-in-a-directed-acyclic-graph.py](Medium/all-ancestors-of-a-node-in-a-directed-acyclic-graph.py) | O(n) | O(n+m) | <a href="https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/" target="_blank">Link</a>
  | [alternating-groups-ii.py](Medium/alternating-groups-ii.py) | O(n + k) | O(1) | <a href="https://leetcode.com/problems/alternating-groups-ii/" target="_blank">Link</a>
  | [amount-of-time-for-binary-tree-to-be-infected.py](Medium/amount-of-time-for-binary-tree-to-be-infected.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/" target="_blank">Link</a>
+ | [angle-between-hands-of-a-clock.py](Medium/angle-between-hands-of-a-clock.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/angle-between-hands-of-a-clock/" target="_blank">Link</a>
  | [append-characters-to-string-to-make-subsequence.py](Medium/append-characters-to-string-to-make-subsequence.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/" target="_blank">Link</a>
  | [arithmetic-slices.py](Medium/arithmetic-slices.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/arithmetic-slices/" target="_blank">Link</a>
  | [arithmetic-subarrays.py](Medium/arithmetic-subarrays.py) | O(n*m) | O(n) | <a href="https://leetcode.com/problems/arithmetic-subarrays/" target="_blank">Link</a>
@@ -902,4 +903,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Jun 17 19:52:05 UTC 2026.
+Latest push from RunarFosse: Thu Jun 18 22:02:37 UTC 2026.
