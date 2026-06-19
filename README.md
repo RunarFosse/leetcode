@@ -865,6 +865,7 @@ All problems are tried solving in the most optimal way possible.
  | [number-of-atoms.py](Hard/number-of-atoms.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/number-of-atoms/" target="_blank">Link</a>
  | [number-of-flowers-in-full-bloom.py](Hard/number-of-flowers-in-full-bloom.py) | O((n+m)log n) | O(n) | <a href="https://leetcode.com/problems/number-of-flowers-in-full-bloom/" target="_blank">Link</a>
  | [number-of-submatrices-that-sum-to-target.py](Hard/number-of-submatrices-that-sum-to-target.py) | O(m^2n) | O(m) | <a href="https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/" target="_blank">Link</a>
+ | [number-of-ways-to-assign-edge-weights-ii.py](Hard/number-of-ways-to-assign-edge-weights-ii.py) | O((m + n)log n) | O(nlog n) | <a href="https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/" target="_blank">Link</a>
  | [number-of-ways-to-divide-a-long-corridor.py](Hard/number-of-ways-to-divide-a-long-corridor.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/" target="_blank">Link</a>
  | [number-of-ways-to-form-a-target-string-given-a-dictionary.py](Hard/number-of-ways-to-form-a-target-string-given-a-dictionary.py) | O(mn + mj) | O(mn) | <a href="https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/" target="_blank">Link</a>
  | [number-of-ways-to-paint-n-3-grid.py](Hard/number-of-ways-to-paint-n-3-grid.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/" target="_blank">Link</a>
@@ -905,4 +906,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Jun 19 21:19:33 UTC 2026.
+Latest push from RunarFosse: Fri Jun 19 22:02:58 UTC 2026.
