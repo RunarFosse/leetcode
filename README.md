@@ -828,6 +828,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximal-rectangle.py](Hard/maximal-rectangle.py) | O(mn) | O(n) | <a href="https://leetcode.com/problems/maximal-rectangle/" target="_blank">Link</a>
  | [maximize-the-minimum-powered-city.py](Hard/maximize-the-minimum-powered-city.py) | O(n) | O(r) | <a href="https://leetcode.com/problems/maximize-the-minimum-powered-city/" target="_blank">Link</a>
  | [maximize-the-number-of-target-nodes-after-connecting-trees-ii.py](Hard/maximize-the-number-of-target-nodes-after-connecting-trees-ii.py) | O(m + n) | O(m + n) | <a href="https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/" target="_blank">Link</a>
+ | [maximum-building-height.py](Hard/maximum-building-height.py) | O(mlog m) | O(m) | <a href="https://leetcode.com/problems/maximum-building-height/" target="_blank">Link</a>
  | [maximum-candies-you-can-get-from-boxes.py](Hard/maximum-candies-you-can-get-from-boxes.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/" target="_blank">Link</a>
  | [maximum-employees-to-be-invited-to-a-meeting.py](Hard/maximum-employees-to-be-invited-to-a-meeting.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/" target="_blank">Link</a>
  | [maximum-fruits-harvested-after-at-most-k-steps.py](Hard/maximum-fruits-harvested-after-at-most-k-steps.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/" target="_blank">Link</a>
@@ -906,4 +907,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Jun 19 22:02:58 UTC 2026.
+Latest push from RunarFosse: Sat Jun 20 09:51:12 UTC 2026.
