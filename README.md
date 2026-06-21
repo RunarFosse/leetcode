@@ -535,6 +535,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-beauty-of-an-array-after-applying-operation.py](Medium/maximum-beauty-of-an-array-after-applying-operation.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/" target="_blank">Link</a>
  | [maximum-candies-allocated-to-k-children.py](Medium/maximum-candies-allocated-to-k-children.py) | O(nlog m) | O(1) | <a href="https://leetcode.com/problems/maximum-candies-allocated-to-k-children/" target="_blank">Link</a>
  | [maximum-difference-between-node-and-ancestor.py](Medium/maximum-difference-between-node-and-ancestor.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/" target="_blank">Link</a>
+ | [maximum-distance-between-a-pair-of-values.py](Medium/maximum-distance-between-a-pair-of-values.py) | O(m + n) | O(1) | <a href="https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/" target="_blank">Link</a>
  | [maximum-distance-in-arrays.py](Medium/maximum-distance-in-arrays.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-distance-in-arrays/" target="_blank">Link</a>
  | [maximum-element-after-decreasing-and-rearranging.py](Medium/maximum-element-after-decreasing-and-rearranging.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/" target="_blank">Link</a>
  | [maximum-erasure-value.py](Medium/maximum-erasure-value.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-erasure-value/" target="_blank">Link</a>
@@ -910,4 +911,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Jun 21 14:11:07 UTC 2026.
+Latest push from RunarFosse: Sun Jun 21 14:45:13 UTC 2026.
