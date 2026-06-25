@@ -357,6 +357,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-square-submatrices-with-all-ones.py](Medium/count-square-submatrices-with-all-ones.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/count-square-submatrices-with-all-ones/" target="_blank">Link</a>
  | [count-sub-islands.py](Medium/count-sub-islands.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/count-sub-islands/" target="_blank">Link</a>
  | [count-subarrays-where-max-element-appears-at-least-k-times.py](Medium/count-subarrays-where-max-element-appears-at-least-k-times.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/" target="_blank">Link</a>
+ | [count-subarrays-with-majority-element-i.py](Medium/count-subarrays-with-majority-element-i.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-subarrays-with-majority-element-i/" target="_blank">Link</a>
  | [count-submatrices-with-equal-frequency-of-x-and-y.py](Medium/count-submatrices-with-equal-frequency-of-x-and-y.py) | O(mn) | O(n) | <a href="https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/" target="_blank">Link</a>
  | [count-submatrices-with-top-left-element-and-sum-less-than-k.py](Medium/count-submatrices-with-top-left-element-and-sum-less-than-k.py) | O(mn) | O(n) | <a href="https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/" target="_blank">Link</a>
  | [count-the-hidden-sequences.py](Medium/count-the-hidden-sequences.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-the-hidden-sequences/" target="_blank">Link</a>
@@ -912,4 +913,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Jun 22 18:15:17 UTC 2026.
+Latest push from RunarFosse: Thu Jun 25 21:00:36 UTC 2026.
