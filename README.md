@@ -439,6 +439,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-the-longest-substring-containing-vowels-in-even-counts.py](Medium/find-the-longest-substring-containing-vowels-in-even-counts.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/" target="_blank">Link</a>
  | [find-the-maximum-length-of-valid-subsequence-i.py](Medium/find-the-maximum-length-of-valid-subsequence-i.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/" target="_blank">Link</a>
  | [find-the-maximum-length-of-valid-subsequence-ii.py](Medium/find-the-maximum-length-of-valid-subsequence-ii.py) | O(nk + k^2) | O(k^2) | <a href="https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/" target="_blank">Link</a>
+ | [find-the-maximum-number-of-elements-in-subset.py](Medium/find-the-maximum-number-of-elements-in-subset.py) | O(nlog(log(m))) | O(n) | <a href="https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/" target="_blank">Link</a>
  | [find-the-minimum-and-maximum-number-of-nodes-between-critical-points.py](Medium/find-the-minimum-and-maximum-number-of-nodes-between-critical-points.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/" target="_blank">Link</a>
  | [find-the-minimum-area-to-cover-all-ones-i.py](Medium/find-the-minimum-area-to-cover-all-ones-i.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/" target="_blank">Link</a>
  | [find-the-number-of-distinct-colors-among-the-balls.py](Medium/find-the-number-of-distinct-colors-among-the-balls.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/" target="_blank">Link</a>
@@ -914,4 +915,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Jun 26 18:09:13 UTC 2026.
+Latest push from RunarFosse: Sun Jun 28 11:37:56 UTC 2026.
