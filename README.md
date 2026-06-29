@@ -205,6 +205,7 @@ All problems are tried solving in the most optimal way possible.
  | [number-of-1-bits.py](Easy/number-of-1-bits.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/number-of-1-bits/" target="_blank">Link</a>
  | [number-of-equivalent-domino-pairs.py](Easy/number-of-equivalent-domino-pairs.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/number-of-equivalent-domino-pairs/" target="_blank">Link</a>
  | [number-of-senior-citizens.py](Easy/number-of-senior-citizens.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/number-of-senior-citizens/" target="_blank">Link</a>
+ | [number-of-strings-that-appear-as-substrings-in-word.py](Easy/number-of-strings-that-appear-as-substrings-in-word.py) | O(mk + nk) | O(mk) | <a href="https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/" target="_blank">Link</a>
  | [number-of-students-unable-to-eat-lunch.py](Easy/number-of-students-unable-to-eat-lunch.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/" target="_blank">Link</a>
  | [palindrome-linked-list.py](Easy/palindrome-linked-list.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/palindrome-linked-list/" target="_blank">Link</a>
  | [palindrome-number.py](Easy/palindrome-number.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/palindrome-number/" target="_blank">Link</a>
@@ -915,4 +916,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Jun 28 11:37:56 UTC 2026.
+Latest push from RunarFosse: Mon Jun 29 09:36:55 UTC 2026.
