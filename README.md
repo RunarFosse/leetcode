@@ -1,4 +1,4 @@
-# My Leetcode Solutions
+# My Leetcode Solutions <img src='streak.svg' alt='1000 day streak' align='right' style='height: 1em;'>
 All problems are tried solving in the most optimal way possible.
 
 ## Easy

@@ -29,7 +29,7 @@ print_directory_problems () {
 }
 
 # Print main title and description
-echo -e "# My Leetcode Solutions\nAll problems are tried solving in the most optimal way possible." > README.md
+echo -e "# My Leetcode Solutions <img src='streak.svg' alt='1000 day streak' align='right' style='height: 1em;'>\nAll problems are tried solving in the most optimal way possible." > README.md
 
 # Print all directories
 print_directory_problems Easy >> README.md
