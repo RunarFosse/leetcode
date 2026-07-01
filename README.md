@@ -327,6 +327,7 @@ All problems are tried solving in the most optimal way possible.
  | [combination-sum-ii.py](Medium/combination-sum-ii.py) | O(2^n) | O(2^n) | <a href="https://leetcode.com/problems/combination-sum-ii/" target="_blank">Link</a>
  | [compare-version-numbers.py](Medium/compare-version-numbers.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/compare-version-numbers/" target="_blank">Link</a>
  | [concatenation-of-consecutive-binary-numbers.py](Medium/concatenation-of-consecutive-binary-numbers.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/" target="_blank">Link</a>
+ | [construct-binary-tree-from-preorder-and-postorder-traversal.py](Medium/construct-binary-tree-from-preorder-and-postorder-traversal.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/" target="_blank">Link</a>
  | [construct-k-palindrome-strings.py](Medium/construct-k-palindrome-strings.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/construct-k-palindrome-strings/" target="_blank">Link</a>
  | [construct-product-matrix.py](Medium/construct-product-matrix.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/construct-product-matrix/" target="_blank">Link</a>
  | [construct-smallest-number-from-di-string.py](Medium/construct-smallest-number-from-di-string.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/construct-smallest-number-from-di-string/" target="_blank">Link</a>
@@ -919,4 +920,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Jul  1 10:25:58 UTC 2026.
+Latest push from RunarFosse: Wed Jul  1 10:54:42 UTC 2026.
