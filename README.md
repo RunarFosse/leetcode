@@ -495,6 +495,7 @@ All problems are tried solving in the most optimal way possible.
  | [largest-submatrix-with-rearrangements.py](Medium/largest-submatrix-with-rearrangements.py) | O(mnlog n) | O(n) | <a href="https://leetcode.com/problems/largest-submatrix-with-rearrangements/" target="_blank">Link</a>
  | [last-moment-before-all-ants-fall-out-of-a-plank.py](Medium/last-moment-before-all-ants-fall-out-of-a-plank.py) | O(n+m) | O(1) | <a href="https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/" target="_blank">Link</a>
  | [least-number-of-unique-integers-after-k-removals.py](Medium/least-number-of-unique-integers-after-k-removals.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/" target="_blank">Link</a>
+ | [length-of-longest-fibonacci-subsequence.py](Medium/length-of-longest-fibonacci-subsequence.py) | O(n^2) | O(n^2) | <a href="https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/" target="_blank">Link</a>
  | [length-of-longest-subarray-with-at-most-k-frequency.py](Medium/length-of-longest-subarray-with-at-most-k-frequency.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/" target="_blank">Link</a>
  | [letter-combinations-of-a-phone-number.py](Medium/letter-combinations-of-a-phone-number.py) | O(nm) | O(m) | <a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/" target="_blank">Link</a>
  | [letter-tile-possibilities.py](Medium/letter-tile-possibilities.py) | O(2^n) | O(n) | <a href="https://leetcode.com/problems/letter-tile-possibilities/" target="_blank">Link</a>
@@ -917,4 +918,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Jul  1 09:39:19 UTC 2026.
+Latest push from RunarFosse: Wed Jul  1 09:56:10 UTC 2026.
