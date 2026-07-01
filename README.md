@@ -363,6 +363,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-submatrices-with-equal-frequency-of-x-and-y.py](Medium/count-submatrices-with-equal-frequency-of-x-and-y.py) | O(mn) | O(n) | <a href="https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/" target="_blank">Link</a>
  | [count-submatrices-with-top-left-element-and-sum-less-than-k.py](Medium/count-submatrices-with-top-left-element-and-sum-less-than-k.py) | O(mn) | O(n) | <a href="https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/" target="_blank">Link</a>
  | [count-the-hidden-sequences.py](Medium/count-the-hidden-sequences.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-the-hidden-sequences/" target="_blank">Link</a>
+ | [count-the-number-of-complete-components.py](Medium/count-the-number-of-complete-components.py) | O(mlog n + n) | O(m + n) | <a href="https://leetcode.com/problems/count-the-number-of-complete-components/" target="_blank">Link</a>
  | [count-the-number-of-computer-unlocking-permutations.py](Medium/count-the-number-of-computer-unlocking-permutations.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/" target="_blank">Link</a>
  | [count-the-number-of-fair-pairs.py](Medium/count-the-number-of-fair-pairs.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/count-the-number-of-fair-pairs/" target="_blank">Link</a>
  | [count-the-number-of-good-subarrays.py](Medium/count-the-number-of-good-subarrays.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-the-number-of-good-subarrays/" target="_blank">Link</a>
@@ -920,4 +921,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Jul  1 10:54:42 UTC 2026.
+Latest push from RunarFosse: Wed Jul  1 11:21:00 UTC 2026.
