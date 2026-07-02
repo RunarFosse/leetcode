@@ -413,6 +413,7 @@ All problems are tried solving in the most optimal way possible.
  | [even-odd-tree.py](Medium/even-odd-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/even-odd-tree/" target="_blank">Link</a>
  | [extra-characters-in-a-string.py](Medium/extra-characters-in-a-string.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/extra-characters-in-a-string/" target="_blank">Link</a>
  | [filling-bookcase-shelves.py](Medium/filling-bookcase-shelves.py) | O(nk) | O(n) | <a href="https://leetcode.com/problems/filling-bookcase-shelves/" target="_blank">Link</a>
+ | [find-a-safe-walk-through-a-grid.py](Medium/find-a-safe-walk-through-a-grid.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/find-a-safe-walk-through-a-grid/" target="_blank">Link</a>
  | [find-all-duplicates-in-an-array.py](Medium/find-all-duplicates-in-an-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-all-duplicates-in-an-array/" target="_blank">Link</a>
  | [find-all-groups-of-farmland.py](Medium/find-all-groups-of-farmland.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/find-all-groups-of-farmland/" target="_blank">Link</a>
  | [find-all-possible-recipes-from-given-supplies.py](Medium/find-all-possible-recipes-from-given-supplies.py) | O(n + m + k) | O(n + m + k) | <a href="https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/" target="_blank">Link</a>
@@ -921,4 +922,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Jul  1 11:21:00 UTC 2026.
+Latest push from RunarFosse: Thu Jul  2 08:14:36 UTC 2026.
