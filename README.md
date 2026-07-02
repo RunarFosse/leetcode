@@ -915,6 +915,7 @@ All problems are tried solving in the most optimal way possible.
  | [text-justification.py](Hard/text-justification.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/text-justification/" target="_blank">Link</a>
  | [total-characters-in-string-after-transformations-ii.py](Hard/total-characters-in-string-after-transformations-ii.py) | O(n + log t) | O(1) | <a href="https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/" target="_blank">Link</a>
  | [total-waviness-of-numbers-in-range-ii.py](Hard/total-waviness-of-numbers-in-range-ii.py) | O(log n) | O(log n) | <a href="https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/" target="_blank">Link</a>
+ | [trapping-rain-water-ii.py](Hard/trapping-rain-water-ii.py) | O(mnlog(mn)) | O(mn) | <a href="https://leetcode.com/problems/trapping-rain-water-ii/" target="_blank">Link</a>
  | [trapping-rain-water.py](Hard/trapping-rain-water.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/trapping-rain-water/" target="_blank">Link</a>
  | [valid-arrangement-of-pairs.py](Hard/valid-arrangement-of-pairs.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/valid-arrangement-of-pairs/" target="_blank">Link</a>
  | [valid-number.py](Hard/valid-number.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/valid-number/" target="_blank">Link</a>
@@ -922,4 +923,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Jul  2 08:14:36 UTC 2026.
+Latest push from RunarFosse: Thu Jul  2 16:49:09 UTC 2026.
