@@ -558,6 +558,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-non-negative-product-in-a-matrix.py](Medium/maximum-non-negative-product-in-a-matrix.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/" target="_blank">Link</a>
  | [maximum-number-of-coins-you-can-get.py](Medium/maximum-number-of-coins-you-can-get.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximum-number-of-coins-you-can-get/" target="_blank">Link</a>
  | [maximum-number-of-distinct-elements-after-operations.py](Medium/maximum-number-of-distinct-elements-after-operations.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/" target="_blank">Link</a>
+ | [maximum-number-of-events-that-can-be-attended.py](Medium/maximum-number-of-events-that-can-be-attended.py) | O((m + n)log n) |  | <a href="https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/" target="_blank">Link</a>
  | [maximum-number-of-fish-in-a-grid.py](Medium/maximum-number-of-fish-in-a-grid.py) | O(mn) | O(m + n) | <a href="https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/" target="_blank">Link</a>
  | [maximum-number-of-integers-to-choose-from-a-range-i.py](Medium/maximum-number-of-integers-to-choose-from-a-range-i.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/" target="_blank">Link</a>
  | [maximum-number-of-jumps-to-reach-the-last-index.py](Medium/maximum-number-of-jumps-to-reach-the-last-index.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/" target="_blank">Link</a>
@@ -923,4 +924,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Jul  2 16:49:09 UTC 2026.
+Latest push from RunarFosse: Thu Jul  2 17:39:10 UTC 2026.
