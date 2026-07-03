@@ -844,6 +844,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximize-the-number-of-target-nodes-after-connecting-trees-ii.py](Hard/maximize-the-number-of-target-nodes-after-connecting-trees-ii.py) | O(m + n) | O(m + n) | <a href="https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/" target="_blank">Link</a>
  | [maximum-building-height.py](Hard/maximum-building-height.py) | O(mlog m) | O(m) | <a href="https://leetcode.com/problems/maximum-building-height/" target="_blank">Link</a>
  | [maximum-candies-you-can-get-from-boxes.py](Hard/maximum-candies-you-can-get-from-boxes.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/" target="_blank">Link</a>
+ | [maximum-difference-between-even-and-odd-frequency-ii.py](Hard/maximum-difference-between-even-and-odd-frequency-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/" target="_blank">Link</a>
  | [maximum-employees-to-be-invited-to-a-meeting.py](Hard/maximum-employees-to-be-invited-to-a-meeting.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/" target="_blank">Link</a>
  | [maximum-fruits-harvested-after-at-most-k-steps.py](Hard/maximum-fruits-harvested-after-at-most-k-steps.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/" target="_blank">Link</a>
  | [maximum-number-of-events-that-can-be-attended-ii.py](Hard/maximum-number-of-events-that-can-be-attended-ii.py) | O(n(k + log n)) | O(nk) | <a href="https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/" target="_blank">Link</a>
@@ -925,4 +926,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Jul  3 10:36:40 UTC 2026.
+Latest push from RunarFosse: Fri Jul  3 20:35:22 UTC 2026.
