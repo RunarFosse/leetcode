@@ -878,6 +878,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-window-substring.py](Hard/minimum-window-substring.py) | O(m + n) | O(m) | <a href="https://leetcode.com/problems/minimum-window-substring/" target="_blank">Link</a>
  | [n-queens-ii.py](Hard/n-queens-ii.py) | O(n!) | O(1) | <a href="https://leetcode.com/problems/n-queens-ii/" target="_blank">Link</a>
  | [n-queens.py](Hard/n-queens.py) | O(n!) | O(n^2) | <a href="https://leetcode.com/problems/n-queens/" target="_blank">Link</a>
+ | [network-recovery-pathways.py](Hard/network-recovery-pathways.py) | O((m + n)log w) | O(m + n) | <a href="https://leetcode.com/problems/network-recovery-pathways/" target="_blank">Link</a>
  | [number-of-atoms.py](Hard/number-of-atoms.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/number-of-atoms/" target="_blank">Link</a>
  | [number-of-flowers-in-full-bloom.py](Hard/number-of-flowers-in-full-bloom.py) | O((n+m)log n) | O(n) | <a href="https://leetcode.com/problems/number-of-flowers-in-full-bloom/" target="_blank">Link</a>
  | [number-of-submatrices-that-sum-to-target.py](Hard/number-of-submatrices-that-sum-to-target.py) | O(m^2n) | O(m) | <a href="https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/" target="_blank">Link</a>
@@ -924,4 +925,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Jul  2 17:39:10 UTC 2026.
+Latest push from RunarFosse: Fri Jul  3 10:36:40 UTC 2026.
