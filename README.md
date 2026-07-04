@@ -630,6 +630,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-penalty-for-a-shop.py](Medium/minimum-penalty-for-a-shop.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-penalty-for-a-shop/" target="_blank">Link</a>
  | [minimum-removals-to-balance-array.py](Medium/minimum-removals-to-balance-array.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-removals-to-balance-array/" target="_blank">Link</a>
  | [minimum-remove-to-make-valid-parentheses.py](Medium/minimum-remove-to-make-valid-parentheses.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/" target="_blank">Link</a>
+ | [minimum-score-of-a-path-between-two-cities.py](Medium/minimum-score-of-a-path-between-two-cities.py) | O(m + n) | O(n) | <a href="https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/" target="_blank">Link</a>
  | [minimum-swaps-to-arrange-a-binary-grid.py](Medium/minimum-swaps-to-arrange-a-binary-grid.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/" target="_blank">Link</a>
  | [minimum-swaps-to-group-all-1s-together-ii.py](Medium/minimum-swaps-to-group-all-1s-together-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/" target="_blank">Link</a>
  | [minimum-time-difference.py](Medium/minimum-time-difference.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-time-difference/" target="_blank">Link</a>
@@ -926,4 +927,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Jul  3 20:35:22 UTC 2026.
+Latest push from RunarFosse: Sat Jul  4 13:52:00 UTC 2026.
