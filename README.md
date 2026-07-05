@@ -883,6 +883,7 @@ All problems are tried solving in the most optimal way possible.
  | [network-recovery-pathways.py](Hard/network-recovery-pathways.py) | O((m + n)log w) | O(m + n) | <a href="https://leetcode.com/problems/network-recovery-pathways/" target="_blank">Link</a>
  | [number-of-atoms.py](Hard/number-of-atoms.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/number-of-atoms/" target="_blank">Link</a>
  | [number-of-flowers-in-full-bloom.py](Hard/number-of-flowers-in-full-bloom.py) | O((n+m)log n) | O(n) | <a href="https://leetcode.com/problems/number-of-flowers-in-full-bloom/" target="_blank">Link</a>
+ | [number-of-paths-with-max-score.py](Hard/number-of-paths-with-max-score.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/number-of-paths-with-max-score/" target="_blank">Link</a>
  | [number-of-submatrices-that-sum-to-target.py](Hard/number-of-submatrices-that-sum-to-target.py) | O(m^2n) | O(m) | <a href="https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/" target="_blank">Link</a>
  | [number-of-ways-to-assign-edge-weights-ii.py](Hard/number-of-ways-to-assign-edge-weights-ii.py) | O((m + n)log n) | O(nlog n) | <a href="https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/" target="_blank">Link</a>
  | [number-of-ways-to-divide-a-long-corridor.py](Hard/number-of-ways-to-divide-a-long-corridor.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/" target="_blank">Link</a>
@@ -927,4 +928,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Jul  4 13:52:00 UTC 2026.
+Latest push from RunarFosse: Sun Jul  5 10:49:20 UTC 2026.
