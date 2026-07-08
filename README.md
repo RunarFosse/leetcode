@@ -327,6 +327,7 @@ All problems are tried solving in the most optimal way possible.
  | [closest-prime-numbers-in-range.py](Medium/closest-prime-numbers-in-range.py) | O(nlog(log(n))) | O(n) | <a href="https://leetcode.com/problems/closest-prime-numbers-in-range/" target="_blank">Link</a>
  | [combination-sum-ii.py](Medium/combination-sum-ii.py) | O(2^n) | O(2^n) | <a href="https://leetcode.com/problems/combination-sum-ii/" target="_blank">Link</a>
  | [compare-version-numbers.py](Medium/compare-version-numbers.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/compare-version-numbers/" target="_blank">Link</a>
+ | [concatenate-non-zero-digits-and-multiply-by-sum-ii.py](Medium/concatenate-non-zero-digits-and-multiply-by-sum-ii.py) | O(mlog n + n) | O(m + n) | <a href="https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/" target="_blank">Link</a>
  | [concatenation-of-consecutive-binary-numbers.py](Medium/concatenation-of-consecutive-binary-numbers.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/" target="_blank">Link</a>
  | [construct-binary-tree-from-preorder-and-postorder-traversal.py](Medium/construct-binary-tree-from-preorder-and-postorder-traversal.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/" target="_blank">Link</a>
  | [construct-k-palindrome-strings.py](Medium/construct-k-palindrome-strings.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/construct-k-palindrome-strings/" target="_blank">Link</a>
@@ -930,4 +931,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Jul  7 17:30:03 UTC 2026.
+Latest push from RunarFosse: Wed Jul  8 17:37:40 UTC 2026.
