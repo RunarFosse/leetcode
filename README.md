@@ -898,6 +898,7 @@ All problems are tried solving in the most optimal way possible.
  | [parallel-courses-iii.py](Hard/parallel-courses-iii.py) | O(n + m) | O(n + m) | <a href="https://leetcode.com/problems/parallel-courses-iii/" target="_blank">Link</a>
  | [parsing-a-boolean-expression.py](Hard/parsing-a-boolean-expression.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/parsing-a-boolean-expression/" target="_blank">Link</a>
  | [patching-array.py](Hard/patching-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/patching-array/" target="_blank">Link</a>
+ | [path-existence-queries-in-a-graph-ii.py](Hard/path-existence-queries-in-a-graph-ii.py) | O((m + n)log n) | O(m + nlog n) | <a href="https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/" target="_blank">Link</a>
  | [paths-in-matrix-whose-sum-is-divisible-by-k.py](Hard/paths-in-matrix-whose-sum-is-divisible-by-k.py) | O(mnk) | O(nk) | <a href="https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/" target="_blank">Link</a>
  | [perfect-rectangle.py](Hard/perfect-rectangle.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/perfect-rectangle/" target="_blank">Link</a>
  | [poor-pigs.py](Hard/poor-pigs.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/poor-pigs/" target="_blank">Link</a>
@@ -932,4 +933,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Jul  9 19:19:28 UTC 2026.
+Latest push from RunarFosse: Sun Jul 12 11:37:16 UTC 2026.
