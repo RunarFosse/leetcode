@@ -928,6 +928,7 @@ All problems are tried solving in the most optimal way possible.
  | [sum-of-distances-in-tree.py](Hard/sum-of-distances-in-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/sum-of-distances-in-tree/" target="_blank">Link</a>
  | [sum-of-k-mirror-numbers.py](Hard/sum-of-k-mirror-numbers.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/sum-of-k-mirror-numbers/" target="_blank">Link</a>
  | [sum-of-prefix-scores-of-strings.py](Hard/sum-of-prefix-scores-of-strings.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/sum-of-prefix-scores-of-strings/" target="_blank">Link</a>
+ | [swim-in-rising-water.py](Hard/swim-in-rising-water.py) | O(n^2log n) | O(n^2) | <a href="https://leetcode.com/problems/swim-in-rising-water/" target="_blank">Link</a>
  | [text-justification.py](Hard/text-justification.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/text-justification/" target="_blank">Link</a>
  | [total-characters-in-string-after-transformations-ii.py](Hard/total-characters-in-string-after-transformations-ii.py) | O(n + log t) | O(1) | <a href="https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/" target="_blank">Link</a>
  | [total-waviness-of-numbers-in-range-ii.py](Hard/total-waviness-of-numbers-in-range-ii.py) | O(log n) | O(log n) | <a href="https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/" target="_blank">Link</a>
@@ -939,4 +940,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Jul 15 20:29:34 UTC 2026.
+Latest push from RunarFosse: Wed Jul 15 20:53:49 UTC 2026.
