@@ -738,6 +738,7 @@ All problems are tried solving in the most optimal way possible.
  | [sort-an-array.py](Medium/sort-an-array.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/sort-an-array/" target="_blank">Link</a>
  | [sort-characters-by-frequency.py](Medium/sort-characters-by-frequency.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/sort-characters-by-frequency/" target="_blank">Link</a>
  | [sort-colors.py](Medium/sort-colors.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/sort-colors/" target="_blank">Link</a>
+ | [sort-matrix-by-diagonals.py](Medium/sort-matrix-by-diagonals.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/sort-matrix-by-diagonals/" target="_blank">Link</a>
  | [sort-the-jumbled-numbers.py](Medium/sort-the-jumbled-numbers.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/sort-the-jumbled-numbers/" target="_blank">Link</a>
  | [sort-vowels-in-a-string.py](Medium/sort-vowels-in-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/sort-vowels-in-a-string/" target="_blank">Link</a>
  | [soup-servings.py](Medium/soup-servings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/soup-servings/" target="_blank">Link</a>
@@ -940,4 +941,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Jul 15 20:53:49 UTC 2026.
+Latest push from RunarFosse: Wed Jul 15 21:07:31 UTC 2026.
