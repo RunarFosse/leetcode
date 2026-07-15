@@ -908,6 +908,7 @@ All problems are tried solving in the most optimal way possible.
  | [poor-pigs.py](Hard/poor-pigs.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/poor-pigs/" target="_blank">Link</a>
  | [process-string-with-special-operations-ii.py](Hard/process-string-with-special-operations-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/process-string-with-special-operations-ii/" target="_blank">Link</a>
  | [put-marbles-in-bags.py](Hard/put-marbles-in-bags.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/put-marbles-in-bags/" target="_blank">Link</a>
+ | [rearranging-fruits.py](Hard/rearranging-fruits.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/rearranging-fruits/" target="_blank">Link</a>
  | [recover-a-tree-from-preorder-traversal.py](Hard/recover-a-tree-from-preorder-traversal.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/" target="_blank">Link</a>
  | [remove-max-number-of-edges-to-keep-graph-fully-traversable.py](Hard/remove-max-number-of-edges-to-keep-graph-fully-traversable.py) | O(mlog m) | O(n+m) | <a href="https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/" target="_blank">Link</a>
  | [robot-collisions.py](Hard/robot-collisions.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/robot-collisions/" target="_blank">Link</a>
@@ -937,4 +938,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Jul 15 18:37:57 UTC 2026.
+Latest push from RunarFosse: Wed Jul 15 19:24:26 UTC 2026.
