@@ -800,6 +800,7 @@ All problems are tried solving in the most optimal way possible.
 ## Hard
  | Problem | Time complexity | Space complexity | Leetcode |
  | :------ | :-------------: | :--------------: | :--------------: |
+ | [24-game.py](Hard/24-game.py) | O(3^n * (n!)^2) | O(n) | <a href="https://leetcode.com/problems/24-game/" target="_blank">Link</a>
  | [arithmetic-slices-ii-subsequence.py](Hard/arithmetic-slices-ii-subsequence.py) | O(n^2) | O(n^2) | <a href="https://leetcode.com/problems/arithmetic-slices-ii-subsequence/" target="_blank">Link</a>
  | [block-placement-queries.py](Hard/block-placement-queries.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/block-placement-queries/" target="_blank">Link</a>
  | [build-array-where-you-can-find-the-maximum-exactly-k-comparisons.py](Hard/build-array-where-you-can-find-the-maximum-exactly-k-comparisons.py) | O(nm^2k) | O(nmk) | <a href="https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/" target="_blank">Link</a>
@@ -938,4 +939,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Jul 15 19:24:26 UTC 2026.
+Latest push from RunarFosse: Wed Jul 15 20:29:34 UTC 2026.
