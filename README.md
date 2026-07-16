@@ -758,6 +758,7 @@ All problems are tried solving in the most optimal way possible.
  | [subsets.py](Medium/subsets.py) | O(n2^n) | O(n2^n) | <a href="https://leetcode.com/problems/subsets/" target="_blank">Link</a>
  | [sum-of-absolute-differences-in-a-sorted-array.py](Medium/sum-of-absolute-differences-in-a-sorted-array.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/" target="_blank">Link</a>
  | [sum-of-distances.py](Medium/sum-of-distances.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/sum-of-distances/" target="_blank">Link</a>
+ | [sum-of-gcd-of-formed-pairs.py](Medium/sum-of-gcd-of-formed-pairs.py) | O(n(log n + log m)) | O(n) | <a href="https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/" target="_blank">Link</a>
  | [sum-of-square-numbers.py](Medium/sum-of-square-numbers.py) | O(sqrt(c)) | O(1) | <a href="https://leetcode.com/problems/sum-of-square-numbers/" target="_blank">Link</a>
  | [sum-of-subarray-minimums.py](Medium/sum-of-subarray-minimums.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/sum-of-subarray-minimums/" target="_blank">Link</a>
  | [sum-root-to-leaf-numbers.py](Medium/sum-root-to-leaf-numbers.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/sum-root-to-leaf-numbers/" target="_blank">Link</a>
@@ -941,4 +942,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Jul 15 21:07:31 UTC 2026.
+Latest push from RunarFosse: Thu Jul 16 17:59:09 UTC 2026.
