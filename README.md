@@ -760,6 +760,7 @@ All problems are tried solving in the most optimal way possible.
  | [subarray-sums-divisible-by-k.py](Medium/subarray-sums-divisible-by-k.py) | O(n) | O(k) | <a href="https://leetcode.com/problems/subarray-sums-divisible-by-k/" target="_blank">Link</a>
  | [subsets-ii.py](Medium/subsets-ii.py) | O(n2^n) | O(n2^n) | <a href="https://leetcode.com/problems/subsets-ii/" target="_blank">Link</a>
  | [subsets.py](Medium/subsets.py) | O(n2^n) | O(n2^n) | <a href="https://leetcode.com/problems/subsets/" target="_blank">Link</a>
+ | [successful-pairs-of-spells-and-potions.py](Medium/successful-pairs-of-spells-and-potions.py) | O((m + n)log m) | O(m + n) | <a href="https://leetcode.com/problems/successful-pairs-of-spells-and-potions/" target="_blank">Link</a>
  | [sum-of-absolute-differences-in-a-sorted-array.py](Medium/sum-of-absolute-differences-in-a-sorted-array.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/" target="_blank">Link</a>
  | [sum-of-distances.py](Medium/sum-of-distances.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/sum-of-distances/" target="_blank">Link</a>
  | [sum-of-gcd-of-formed-pairs.py](Medium/sum-of-gcd-of-formed-pairs.py) | O(n(log n + log m)) | O(n) | <a href="https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/" target="_blank">Link</a>
@@ -950,4 +951,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Jul 18 22:21:54 UTC 2026.
+Latest push from RunarFosse: Sat Jul 18 22:38:05 UTC 2026.
