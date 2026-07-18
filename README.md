@@ -918,6 +918,7 @@ All problems are tried solving in the most optimal way possible.
  | [rearranging-fruits.py](Hard/rearranging-fruits.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/rearranging-fruits/" target="_blank">Link</a>
  | [recover-a-tree-from-preorder-traversal.py](Hard/recover-a-tree-from-preorder-traversal.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/" target="_blank">Link</a>
  | [remove-max-number-of-edges-to-keep-graph-fully-traversable.py](Hard/remove-max-number-of-edges-to-keep-graph-fully-traversable.py) | O(mlog m) | O(n+m) | <a href="https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/" target="_blank">Link</a>
+ | [replace-non-coprime-numbers-in-array.py](Hard/replace-non-coprime-numbers-in-array.py) | O(nlog m) | O(n) | <a href="https://leetcode.com/problems/replace-non-coprime-numbers-in-array/" target="_blank">Link</a>
  | [robot-collisions.py](Hard/robot-collisions.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/robot-collisions/" target="_blank">Link</a>
  | [russian-doll-envelopes.py](Hard/russian-doll-envelopes.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/russian-doll-envelopes/" target="_blank">Link</a>
  | [second-minimum-time-to-reach-destination.py](Hard/second-minimum-time-to-reach-destination.py) | O(m + n) | O(m + n) | <a href="https://leetcode.com/problems/second-minimum-time-to-reach-destination/" target="_blank">Link</a>
@@ -947,4 +948,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Jul 18 15:35:10 UTC 2026.
+Latest push from RunarFosse: Sat Jul 18 21:09:44 UTC 2026.
