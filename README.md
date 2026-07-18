@@ -94,6 +94,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-closest-person.py](Easy/find-closest-person.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/find-closest-person/" target="_blank">Link</a>
  | [find-common-characters.py](Easy/find-common-characters.py) | O(nm) | O(1) | <a href="https://leetcode.com/problems/find-common-characters/" target="_blank">Link</a>
  | [find-first-palindromic-string-in-the-array.py](Easy/find-first-palindromic-string-in-the-array.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/find-first-palindromic-string-in-the-array/" target="_blank">Link</a>
+ | [find-greatest-common-divisor-of-array.py](Easy/find-greatest-common-divisor-of-array.py) | O(n + log m) | O(1) | <a href="https://leetcode.com/problems/find-greatest-common-divisor-of-array/" target="_blank">Link</a>
  | [find-if-path-exists-in-graph.py](Easy/find-if-path-exists-in-graph.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-if-path-exists-in-graph/" target="_blank">Link</a>
  | [find-indices-with-index-and-value-difference-i.py](Easy/find-indices-with-index-and-value-difference-i.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/" target="_blank">Link</a>
  | [find-lucky-integer-in-an-array.py](Easy/find-lucky-integer-in-an-array.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-lucky-integer-in-an-array/" target="_blank">Link</a>
@@ -944,4 +945,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Jul 18 09:45:57 UTC 2026.
+Latest push from RunarFosse: Sat Jul 18 09:47:46 UTC 2026.
