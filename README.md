@@ -888,6 +888,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-distance-to-type-a-word-using-two-fingers.py](Hard/minimum-distance-to-type-a-word-using-two-fingers.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/" target="_blank">Link</a>
  | [minimum-falling-path-sum-ii.py](Hard/minimum-falling-path-sum-ii.py) | O(n^2) | O(1) | <a href="https://leetcode.com/problems/minimum-falling-path-sum-ii/" target="_blank">Link</a>
  | [minimum-initial-energy-to-finish-tasks.py](Hard/minimum-initial-energy-to-finish-tasks.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/" target="_blank">Link</a>
+ | [minimum-number-of-days-to-disconnect-island.py](Hard/minimum-number-of-days-to-disconnect-island.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/" target="_blank">Link</a>
  | [minimum-number-of-k-consecutive-bit-flips.py](Hard/minimum-number-of-k-consecutive-bit-flips.py) | O(n) | O(k) | <a href="https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/" target="_blank">Link</a>
  | [minimum-number-of-operations-to-make-array-continuous.py](Hard/minimum-number-of-operations-to-make-array-continuous.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/" target="_blank">Link</a>
  | [minimum-obstacle-removal-to-reach-corner.py](Hard/minimum-obstacle-removal-to-reach-corner.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/" target="_blank">Link</a>
@@ -955,4 +956,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Jul 19 12:07:41 UTC 2026.
+Latest push from RunarFosse: Sun Jul 19 20:07:07 UTC 2026.
