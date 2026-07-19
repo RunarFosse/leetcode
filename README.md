@@ -891,6 +891,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-number-of-days-to-disconnect-island.py](Hard/minimum-number-of-days-to-disconnect-island.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/" target="_blank">Link</a>
  | [minimum-number-of-k-consecutive-bit-flips.py](Hard/minimum-number-of-k-consecutive-bit-flips.py) | O(n) | O(k) | <a href="https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/" target="_blank">Link</a>
  | [minimum-number-of-operations-to-make-array-continuous.py](Hard/minimum-number-of-operations-to-make-array-continuous.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/" target="_blank">Link</a>
+ | [minimum-number-of-removals-to-make-mountain-array.py](Hard/minimum-number-of-removals-to-make-mountain-array.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/" target="_blank">Link</a>
  | [minimum-obstacle-removal-to-reach-corner.py](Hard/minimum-obstacle-removal-to-reach-corner.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/" target="_blank">Link</a>
  | [minimum-one-bit-operations-to-make-integers-zero.py](Hard/minimum-one-bit-operations-to-make-integers-zero.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/" target="_blank">Link</a>
  | [minimum-operations-to-equalize-binary-string.py](Hard/minimum-operations-to-equalize-binary-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/" target="_blank">Link</a>
@@ -956,4 +957,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Jul 19 20:07:07 UTC 2026.
+Latest push from RunarFosse: Sun Jul 19 21:24:26 UTC 2026.
