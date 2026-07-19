@@ -128,6 +128,7 @@ All problems are tried solving in the most optimal way possible.
  | [image-smoother.py](Easy/image-smoother.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/image-smoother/" target="_blank">Link</a>
  | [intersection-of-two-arrays-ii.py](Easy/intersection-of-two-arrays-ii.py) | O(n+m) | O(1) | <a href="https://leetcode.com/problems/intersection-of-two-arrays-ii/" target="_blank">Link</a>
  | [intersection-of-two-arrays.py](Easy/intersection-of-two-arrays.py) | O(n+m) | O(n) | <a href="https://leetcode.com/problems/intersection-of-two-arrays/" target="_blank">Link</a>
+ | [intersection-of-two-linked-lists.py](Easy/intersection-of-two-linked-lists.py) | O(m + n) | O(1) | <a href="https://leetcode.com/problems/intersection-of-two-linked-lists/" target="_blank">Link</a>
  | [invert-binary-tree.py](Easy/invert-binary-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/invert-binary-tree/" target="_blank">Link</a>
  | [is-subsequence.py](Easy/is-subsequence.py) | O(m+n) | O(1) | <a href="https://leetcode.com/problems/is-subsequence/" target="_blank">Link</a>
  | [island-perimeter.py](Easy/island-perimeter.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/island-perimeter/" target="_blank">Link</a>
@@ -957,4 +958,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Jul 19 21:24:26 UTC 2026.
+Latest push from RunarFosse: Sun Jul 19 21:49:00 UTC 2026.
