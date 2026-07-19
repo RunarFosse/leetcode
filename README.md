@@ -737,6 +737,7 @@ All problems are tried solving in the most optimal way possible.
  | [smallest-missing-non-negative-integer-after-operations.py](Medium/smallest-missing-non-negative-integer-after-operations.py) | O(n) | O(m) | <a href="https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/" target="_blank">Link</a>
  | [smallest-string-starting-from-leaf.py](Medium/smallest-string-starting-from-leaf.py) | O(nlog n) | O(nlog n) | <a href="https://leetcode.com/problems/smallest-string-starting-from-leaf/" target="_blank">Link</a>
  | [smallest-subarrays-with-maximum-bitwise-or.py](Medium/smallest-subarrays-with-maximum-bitwise-or.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/" target="_blank">Link</a>
+ | [smallest-subsequence-of-distinct-characters.py](Medium/smallest-subsequence-of-distinct-characters.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/" target="_blank">Link</a>
  | [smallest-subtree-with-all-the-deepest-nodes.py](Medium/smallest-subtree-with-all-the-deepest-nodes.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/" target="_blank">Link</a>
  | [snakes-and-ladders.py](Medium/snakes-and-ladders.py) | O(n^2) | O(n^2) | <a href="https://leetcode.com/problems/snakes-and-ladders/" target="_blank">Link</a>
  | [solving-questions-with-brainpower.py](Medium/solving-questions-with-brainpower.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/solving-questions-with-brainpower/" target="_blank">Link</a>
@@ -952,4 +953,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Jul 18 23:16:55 UTC 2026.
+Latest push from RunarFosse: Sun Jul 19 10:41:15 UTC 2026.
