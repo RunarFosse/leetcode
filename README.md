@@ -581,6 +581,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-subarray-sum-with-length-divisible-by-k.py](Medium/maximum-subarray-sum-with-length-divisible-by-k.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/" target="_blank">Link</a>
  | [maximum-sum-of-distinct-subarrays-with-length-k.py](Medium/maximum-sum-of-distinct-subarrays-with-length-k.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/" target="_blank">Link</a>
  | [maximum-swap.py](Medium/maximum-swap.py) | O(log n) | O(log n) | <a href="https://leetcode.com/problems/maximum-swap/" target="_blank">Link</a>
+ | [maximum-total-damage-with-spell-casting.py](Medium/maximum-total-damage-with-spell-casting.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximum-total-damage-with-spell-casting/" target="_blank">Link</a>
  | [maximum-total-importance-of-roads.py](Medium/maximum-total-importance-of-roads.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximum-total-importance-of-roads/" target="_blank">Link</a>
  | [maximum-total-subarray-value-i.py](Medium/maximum-total-subarray-value-i.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-total-subarray-value-i/" target="_blank">Link</a>
  | [maximum-twin-sum-of-a-linked-list.py](Medium/maximum-twin-sum-of-a-linked-list.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/" target="_blank">Link</a>
@@ -960,4 +961,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Jul 20 19:07:30 UTC 2026.
+Latest push from RunarFosse: Mon Jul 20 20:30:55 UTC 2026.
