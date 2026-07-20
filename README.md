@@ -794,6 +794,7 @@ All problems are tried solving in the most optimal way possible.
  | [valid-triangle-number.py](Medium/valid-triangle-number.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/valid-triangle-number/" target="_blank">Link</a>
  | [validate-binary-tree-nodes.py](Medium/validate-binary-tree-nodes.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/validate-binary-tree-nodes/" target="_blank">Link</a>
  | [vowel-spellchecker.py](Medium/vowel-spellchecker.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/vowel-spellchecker/" target="_blank">Link</a>
+ | [vowels-game-in-a-string.py](Medium/vowels-game-in-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/vowels-game-in-a-string/" target="_blank">Link</a>
  | [walking-robot-simulation.py](Medium/walking-robot-simulation.py) | O(n + m) | O(n) | <a href="https://leetcode.com/problems/walking-robot-simulation/" target="_blank">Link</a>
  | [water-bottles-ii.py](Medium/water-bottles-ii.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/water-bottles-ii/" target="_blank">Link</a>
  | [ways-to-express-an-integer-as-sum-of-powers.py](Medium/ways-to-express-an-integer-as-sum-of-powers.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/" target="_blank">Link</a>
@@ -959,4 +960,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Jul 20 17:47:21 UTC 2026.
+Latest push from RunarFosse: Mon Jul 20 19:07:30 UTC 2026.
