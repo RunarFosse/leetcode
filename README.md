@@ -245,6 +245,7 @@ All problems are tried solving in the most optimal way possible.
  | [search-insert-position.py](Easy/search-insert-position.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/search-insert-position/" target="_blank">Link</a>
  | [separate-the-digits-in-an-array.py](Easy/separate-the-digits-in-an-array.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/separate-the-digits-in-an-array/" target="_blank">Link</a>
  | [set-mismatch.py](Easy/set-mismatch.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/set-mismatch/" target="_blank">Link</a>
+ | [shift-2d-grid.py](Easy/shift-2d-grid.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/shift-2d-grid/" target="_blank">Link</a>
  | [shortest-distance-to-target-string-in-a-circular-array.py](Easy/shortest-distance-to-target-string-in-a-circular-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/" target="_blank">Link</a>
  | [single-number.py](Easy/single-number.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/single-number/" target="_blank">Link</a>
  | [smallest-number-with-all-set-bits.py](Easy/smallest-number-with-all-set-bits.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/smallest-number-with-all-set-bits/" target="_blank">Link</a>
@@ -958,4 +959,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Jul 19 21:49:00 UTC 2026.
+Latest push from RunarFosse: Mon Jul 20 17:47:21 UTC 2026.
