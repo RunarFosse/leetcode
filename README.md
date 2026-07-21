@@ -304,6 +304,7 @@ All problems are tried solving in the most optimal way possible.
  | [arithmetic-slices.py](Medium/arithmetic-slices.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/arithmetic-slices/" target="_blank">Link</a>
  | [arithmetic-subarrays.py](Medium/arithmetic-subarrays.py) | O(n*m) | O(n) | <a href="https://leetcode.com/problems/arithmetic-subarrays/" target="_blank">Link</a>
  | [average-waiting-time.py](Medium/average-waiting-time.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/average-waiting-time/" target="_blank">Link</a>
+ | [avoid-flood-in-the-city.py](Medium/avoid-flood-in-the-city.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/avoid-flood-in-the-city/" target="_blank">Link</a>
  | [bag-of-tokens.py](Medium/bag-of-tokens.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/bag-of-tokens/" target="_blank">Link</a>
  | [balance-a-binary-search-tree.py](Medium/balance-a-binary-search-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/balance-a-binary-search-tree/" target="_blank">Link</a>
  | [best-sightseeing-pair.py](Medium/best-sightseeing-pair.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/best-sightseeing-pair/" target="_blank">Link</a>
@@ -964,4 +965,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Jul 21 18:14:50 UTC 2026.
+Latest push from RunarFosse: Tue Jul 21 19:55:05 UTC 2026.
