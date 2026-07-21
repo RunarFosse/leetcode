@@ -543,6 +543,7 @@ All problems are tried solving in the most optimal way possible.
  | [max-difference-you-can-get-from-changing-an-integer.py](Medium/max-difference-you-can-get-from-changing-an-integer.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/" target="_blank">Link</a>
  | [max-sum-of-a-pair-with-equal-sum-of-digits.py](Medium/max-sum-of-a-pair-with-equal-sum-of-digits.py) | O(nlog m) | O(n) | <a href="https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/" target="_blank">Link</a>
  | [maximal-score-after-applying-k-operations.py](Medium/maximal-score-after-applying-k-operations.py) | O(n + klog n) | O(1) | <a href="https://leetcode.com/problems/maximal-score-after-applying-k-operations/" target="_blank">Link</a>
+ | [maximize-active-section-with-trade-i.py](Medium/maximize-active-section-with-trade-i.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximize-active-section-with-trade-i/" target="_blank">Link</a>
  | [maximize-area-of-square-hole-in-grid.py](Medium/maximize-area-of-square-hole-in-grid.py) | O(hlog h + vlog v) | O(h + v) | <a href="https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/" target="_blank">Link</a>
  | [maximize-happiness-of-selected-children.py](Medium/maximize-happiness-of-selected-children.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximize-happiness-of-selected-children/" target="_blank">Link</a>
  | [maximize-the-number-of-target-nodes-after-connecting-trees-i.py](Medium/maximize-the-number-of-target-nodes-after-connecting-trees-i.py) | O(m^2 + n^2) | O(m + n) | <a href="https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/" target="_blank">Link</a>
@@ -961,4 +962,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Jul 20 20:30:55 UTC 2026.
+Latest push from RunarFosse: Tue Jul 21 16:08:28 UTC 2026.
