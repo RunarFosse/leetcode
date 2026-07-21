@@ -777,6 +777,7 @@ All problems are tried solving in the most optimal way possible.
  | [sum-root-to-leaf-numbers.py](Medium/sum-root-to-leaf-numbers.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/sum-root-to-leaf-numbers/" target="_blank">Link</a>
  | [swap-nodes-in-pairs.py](Medium/swap-nodes-in-pairs.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/swap-nodes-in-pairs/" target="_blank">Link</a>
  | [take-k-of-each-character-from-left-and-right.py](Medium/take-k-of-each-character-from-left-and-right.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/" target="_blank">Link</a>
+ | [taking-maximum-energy-from-the-mystic-dungeon.py](Medium/taking-maximum-energy-from-the-mystic-dungeon.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/" target="_blank">Link</a>
  | [target-sum.py](Medium/target-sum.py) | O(2^n) | O(2^n) | <a href="https://leetcode.com/problems/target-sum/" target="_blank">Link</a>
  | [task-scheduler.py](Medium/task-scheduler.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/task-scheduler/" target="_blank">Link</a>
  | [the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py](Medium/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/" target="_blank">Link</a>
@@ -963,4 +964,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Jul 21 18:01:07 UTC 2026.
+Latest push from RunarFosse: Tue Jul 21 18:14:50 UTC 2026.
