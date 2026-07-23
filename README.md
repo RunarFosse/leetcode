@@ -669,6 +669,7 @@ All problems are tried solving in the most optimal way possible.
  | [number-of-subsequences-that-satisfy-the-given-sum-condition.py](Medium/number-of-subsequences-that-satisfy-the-given-sum-condition.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/" target="_blank">Link</a>
  | [number-of-substrings-containing-all-three-characters.py](Medium/number-of-substrings-containing-all-three-characters.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/" target="_blank">Link</a>
  | [number-of-substrings-with-only-1s.py](Medium/number-of-substrings-with-only-1s.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/number-of-substrings-with-only-1s/" target="_blank">Link</a>
+ | [number-of-unique-xor-triplets-i.py](Medium/number-of-unique-xor-triplets-i.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/number-of-unique-xor-triplets-i/" target="_blank">Link</a>
  | [number-of-ways-to-arrive-at-destination.py](Medium/number-of-ways-to-arrive-at-destination.py) | O((m + n)log n) | O(m + n) | <a href="https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/" target="_blank">Link</a>
  | [number-of-ways-to-assign-edge-weights-i.py](Medium/number-of-ways-to-assign-edge-weights-i.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/" target="_blank">Link</a>
  | [number-of-ways-to-split-array.py](Medium/number-of-ways-to-split-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/number-of-ways-to-split-array/" target="_blank">Link</a>
@@ -967,4 +968,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Jul 22 19:26:15 UTC 2026.
+Latest push from RunarFosse: Thu Jul 23 16:08:48 UTC 2026.
