@@ -944,6 +944,7 @@ All problems are tried solving in the most optimal way possible.
  | [robot-collisions.py](Hard/robot-collisions.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/robot-collisions/" target="_blank">Link</a>
  | [russian-doll-envelopes.py](Hard/russian-doll-envelopes.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/russian-doll-envelopes/" target="_blank">Link</a>
  | [second-minimum-time-to-reach-destination.py](Hard/second-minimum-time-to-reach-destination.py) | O(m + n) | O(m + n) | <a href="https://leetcode.com/problems/second-minimum-time-to-reach-destination/" target="_blank">Link</a>
+ | [separate-squares-ii.py](Hard/separate-squares-ii.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/separate-squares-ii/" target="_blank">Link</a>
  | [set-intersection-size-at-least-two.py](Hard/set-intersection-size-at-least-two.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/set-intersection-size-at-least-two/" target="_blank">Link</a>
  | [shortest-palindrome.py](Hard/shortest-palindrome.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/shortest-palindrome/" target="_blank">Link</a>
  | [shortest-subarray-with-sum-at-least-k.py](Hard/shortest-subarray-with-sum-at-least-k.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/" target="_blank">Link</a>
@@ -970,4 +971,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Jul 23 18:53:30 UTC 2026.
+Latest push from RunarFosse: Thu Jul 23 20:13:42 UTC 2026.
