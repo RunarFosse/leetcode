@@ -362,6 +362,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-number-of-teams.py](Medium/count-number-of-teams.py) | O(n^2) | O(1) | <a href="https://leetcode.com/problems/count-number-of-teams/" target="_blank">Link</a>
  | [count-number-of-trapezoids-i.py](Medium/count-number-of-trapezoids-i.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-number-of-trapezoids-i/" target="_blank">Link</a>
  | [count-of-interesting-subarrays.py](Medium/count-of-interesting-subarrays.py) | O(n) | O(min(n, modulo)) | <a href="https://leetcode.com/problems/count-of-interesting-subarrays/" target="_blank">Link</a>
+ | [count-partitions-with-max-min-difference-at-most-k.py](Medium/count-partitions-with-max-min-difference-at-most-k.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/" target="_blank">Link</a>
  | [count-servers-that-communicate.py](Medium/count-servers-that-communicate.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/count-servers-that-communicate/" target="_blank">Link</a>
  | [count-special-triplets.py](Medium/count-special-triplets.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-special-triplets/" target="_blank">Link</a>
  | [count-square-submatrices-with-all-ones.py](Medium/count-square-submatrices-with-all-ones.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/count-square-submatrices-with-all-ones/" target="_blank">Link</a>
@@ -971,4 +972,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Jul 23 20:13:42 UTC 2026.
+Latest push from RunarFosse: Thu Jul 23 20:42:25 UTC 2026.
