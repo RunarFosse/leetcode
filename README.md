@@ -536,6 +536,7 @@ All problems are tried solving in the most optimal way possible.
  | [longest-subarray-of-1s-after-deleting-one-element.py](Medium/longest-subarray-of-1s-after-deleting-one-element.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/" target="_blank">Link</a>
  | [longest-subarray-with-maximum-bitwise-and.py](Medium/longest-subarray-with-maximum-bitwise-and.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/" target="_blank">Link</a>
  | [longest-substring-without-repeating-characters.py](Medium/longest-substring-without-repeating-characters.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/" target="_blank">Link</a>
+ | [longest-unequal-adjacent-groups-subsequence-ii.py](Medium/longest-unequal-adjacent-groups-subsequence-ii.py) | O(mn^2) | O(n) | <a href="https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/" target="_blank">Link</a>
  | [lowest-common-ancestor-of-deepest-leaves.py](Medium/lowest-common-ancestor-of-deepest-leaves.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/" target="_blank">Link</a>
  | [magic-squares-in-grid.py](Medium/magic-squares-in-grid.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/magic-squares-in-grid/" target="_blank">Link</a>
  | [magnetic-force-between-two-balls.py](Medium/magnetic-force-between-two-balls.py) | O(n(log n + log a)) | O(n) | <a href="https://leetcode.com/problems/magnetic-force-between-two-balls/" target="_blank">Link</a>
@@ -974,4 +975,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Jul 24 21:01:03 UTC 2026.
+Latest push from RunarFosse: Fri Jul 24 21:46:21 UTC 2026.
