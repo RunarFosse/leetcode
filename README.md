@@ -879,6 +879,7 @@ All problems are tried solving in the most optimal way possible.
  | [max-dot-product-of-two-subsequences.py](Hard/max-dot-product-of-two-subsequences.py) | O(nm) | O(nm) | <a href="https://leetcode.com/problems/max-dot-product-of-two-subsequences/" target="_blank">Link</a>
  | [maximal-rectangle.py](Hard/maximal-rectangle.py) | O(mn) | O(n) | <a href="https://leetcode.com/problems/maximal-rectangle/" target="_blank">Link</a>
  | [maximize-active-section-with-trade-ii.py](Hard/maximize-active-section-with-trade-ii.py) | O(mlog n + n) | O(m + n) | <a href="https://leetcode.com/problems/maximize-active-section-with-trade-ii/" target="_blank">Link</a>
+ | [maximize-the-distance-between-points-on-a-square.py](Hard/maximize-the-distance-between-points-on-a-square.py) | O(nk(log n)(log m)) | O(n) | <a href="https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/" target="_blank">Link</a>
  | [maximize-the-minimum-powered-city.py](Hard/maximize-the-minimum-powered-city.py) | O(n) | O(r) | <a href="https://leetcode.com/problems/maximize-the-minimum-powered-city/" target="_blank">Link</a>
  | [maximize-the-number-of-target-nodes-after-connecting-trees-ii.py](Hard/maximize-the-number-of-target-nodes-after-connecting-trees-ii.py) | O(m + n) | O(m + n) | <a href="https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/" target="_blank">Link</a>
  | [maximum-building-height.py](Hard/maximum-building-height.py) | O(mlog m) | O(m) | <a href="https://leetcode.com/problems/maximum-building-height/" target="_blank">Link</a>
@@ -977,4 +978,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Jul 25 09:12:26 UTC 2026.
+Latest push from RunarFosse: Sat Jul 25 11:45:29 UTC 2026.
