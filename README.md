@@ -172,6 +172,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-number-of-words-you-can-type.py](Easy/maximum-number-of-words-you-can-type.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-number-of-words-you-can-type/" target="_blank">Link</a>
  | [maximum-odd-binary-number.py](Easy/maximum-odd-binary-number.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-odd-binary-number/" target="_blank">Link</a>
  | [maximum-product-difference-between-two-pairs.py](Easy/maximum-product-difference-between-two-pairs.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-product-difference-between-two-pairs/" target="_blank">Link</a>
+ | [maximum-product-of-two-digits.py](Easy/maximum-product-of-two-digits.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/maximum-product-of-two-digits/" target="_blank">Link</a>
  | [maximum-product-of-two-elements-in-an-array.py](Easy/maximum-product-of-two-elements-in-an-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/" target="_blank">Link</a>
  | [maximum-score-after-splitting-a-string.py](Easy/maximum-score-after-splitting-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-score-after-splitting-a-string/" target="_blank">Link</a>
  | [maximum-unique-subarray-sum-after-deletion.py](Easy/maximum-unique-subarray-sum-after-deletion.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/" target="_blank">Link</a>
@@ -975,4 +976,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Jul 24 21:46:21 UTC 2026.
+Latest push from RunarFosse: Sat Jul 25 08:30:51 UTC 2026.
