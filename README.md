@@ -849,6 +849,7 @@ All problems are tried solving in the most optimal way possible.
  | [divide-nodes-into-the-maximum-number-of-groups.py](Hard/divide-nodes-into-the-maximum-number-of-groups.py) | O(n(m + n)) | O(n) | <a href="https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/" target="_blank">Link</a>
  | [find-all-people-with-secret.py](Hard/find-all-people-with-secret.py) | O(n) | O(m+n) | <a href="https://leetcode.com/problems/find-all-people-with-secret/" target="_blank">Link</a>
  | [find-all-possible-stable-binary-arrays-ii.py](Hard/find-all-possible-stable-binary-arrays-ii.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/" target="_blank">Link</a>
+ | [find-building-where-alice-and-bob-can-meet.py](Hard/find-building-where-alice-and-bob-can-meet.py) | O(mlog n + n) | O(m + n) | <a href="https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/" target="_blank">Link</a>
  | [find-in-mountain-array.py](Hard/find-in-mountain-array.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/find-in-mountain-array/" target="_blank">Link</a>
  | [find-k-th-smallest-pair-distance.py](Hard/find-k-th-smallest-pair-distance.py) | O(nlog n + nlog m) | O(n) | <a href="https://leetcode.com/problems/find-k-th-smallest-pair-distance/" target="_blank">Link</a>
  | [find-minimum-diameter-after-merging-two-trees.py](Hard/find-minimum-diameter-after-merging-two-trees.py) | O(m + n) | O(m + n) | <a href="https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/" target="_blank">Link</a>
@@ -980,4 +981,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Jul 26 12:06:38 UTC 2026.
+Latest push from RunarFosse: Sun Jul 26 19:03:21 UTC 2026.
