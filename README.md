@@ -902,6 +902,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-total-subarray-value-ii.py](Hard/maximum-total-subarray-value-ii.py) | O((n + k)log n) | O(n) | <a href="https://leetcode.com/problems/maximum-total-subarray-value-ii/" target="_blank">Link</a>
  | [meeting-rooms-iii.py](Hard/meeting-rooms-iii.py) | O(mlog(mn)) | O(m + n) | <a href="https://leetcode.com/problems/meeting-rooms-iii/" target="_blank">Link</a>
  | [merge-k-sorted-lists.py](Hard/merge-k-sorted-lists.py) | O(nlog m) | O(n) | <a href="https://leetcode.com/problems/merge-k-sorted-lists/" target="_blank">Link</a>
+ | [minimum-cost-path-with-teleportations.py](Hard/minimum-cost-path-with-teleportations.py) | O(mn(log(mn) + k)) | O(mn) | <a href="https://leetcode.com/problems/minimum-cost-path-with-teleportations/" target="_blank">Link</a>
  | [minimum-cost-to-hire-k-workers.py](Hard/minimum-cost-to-hire-k-workers.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-cost-to-hire-k-workers/" target="_blank">Link</a>
  | [minimum-cost-to-make-at-least-one-valid-path-in-a-grid.py](Hard/minimum-cost-to-make-at-least-one-valid-path-in-a-grid.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/" target="_blank">Link</a>
  | [minimum-difference-in-sums-after-removal-of-elements.py](Hard/minimum-difference-in-sums-after-removal-of-elements.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/" target="_blank">Link</a>
@@ -981,4 +982,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Jul 26 19:03:21 UTC 2026.
+Latest push from RunarFosse: Sun Jul 26 19:37:54 UTC 2026.
