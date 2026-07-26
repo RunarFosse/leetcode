@@ -919,6 +919,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-pair-removal-to-sort-array-ii.py](Hard/minimum-pair-removal-to-sort-array-ii.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/" target="_blank">Link</a>
  | [minimum-score-after-removals-on-a-tree.py](Hard/minimum-score-after-removals-on-a-tree.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/" target="_blank">Link</a>
  | [minimum-time-to-visit-a-cell-in-a-grid.py](Hard/minimum-time-to-visit-a-cell-in-a-grid.py) | O(mnlog(mn)) | O(mn) | <a href="https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/" target="_blank">Link</a>
+ | [minimum-total-distance-traveled.py](Hard/minimum-total-distance-traveled.py) | O(mn + mlog m + nlog n) | O(m + n) | <a href="https://leetcode.com/problems/minimum-total-distance-traveled/" target="_blank">Link</a>
  | [minimum-window-substring.py](Hard/minimum-window-substring.py) | O(m + n) | O(m) | <a href="https://leetcode.com/problems/minimum-window-substring/" target="_blank">Link</a>
  | [n-queens-ii.py](Hard/n-queens-ii.py) | O(n!) | O(1) | <a href="https://leetcode.com/problems/n-queens-ii/" target="_blank">Link</a>
  | [n-queens.py](Hard/n-queens.py) | O(n!) | O(n^2) | <a href="https://leetcode.com/problems/n-queens/" target="_blank">Link</a>
@@ -979,4 +980,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Jul 26 10:45:10 UTC 2026.
+Latest push from RunarFosse: Sun Jul 26 12:06:38 UTC 2026.
