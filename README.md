@@ -172,6 +172,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-number-of-words-you-can-type.py](Easy/maximum-number-of-words-you-can-type.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-number-of-words-you-can-type/" target="_blank">Link</a>
  | [maximum-odd-binary-number.py](Easy/maximum-odd-binary-number.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-odd-binary-number/" target="_blank">Link</a>
  | [maximum-product-difference-between-two-pairs.py](Easy/maximum-product-difference-between-two-pairs.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-product-difference-between-two-pairs/" target="_blank">Link</a>
+ | [maximum-product-of-three-numbers.py](Easy/maximum-product-of-three-numbers.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-product-of-three-numbers/" target="_blank">Link</a>
  | [maximum-product-of-two-digits.py](Easy/maximum-product-of-two-digits.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/maximum-product-of-two-digits/" target="_blank">Link</a>
  | [maximum-product-of-two-elements-in-an-array.py](Easy/maximum-product-of-two-elements-in-an-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/" target="_blank">Link</a>
  | [maximum-score-after-splitting-a-string.py](Easy/maximum-score-after-splitting-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-score-after-splitting-a-string/" target="_blank">Link</a>
@@ -978,4 +979,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Jul 25 11:45:29 UTC 2026.
+Latest push from RunarFosse: Sun Jul 26 10:45:10 UTC 2026.
