@@ -901,6 +901,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-score-words-formed-by-letters.py](Hard/maximum-score-words-formed-by-letters.py) | O(m2^n) | O(n) | <a href="https://leetcode.com/problems/maximum-score-words-formed-by-letters/" target="_blank">Link</a>
  | [maximum-sum-of-3-non-overlapping-subarrays.py](Hard/maximum-sum-of-3-non-overlapping-subarrays.py) | O(nk) | O(nk) | <a href="https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/" target="_blank">Link</a>
  | [maximum-total-subarray-value-ii.py](Hard/maximum-total-subarray-value-ii.py) | O((n + k)log n) | O(n) | <a href="https://leetcode.com/problems/maximum-total-subarray-value-ii/" target="_blank">Link</a>
+ | [maximum-walls-destroyed-by-robots.py](Hard/maximum-walls-destroyed-by-robots.py) | O((m log m + nlog n) | O(m + n) | <a href="https://leetcode.com/problems/maximum-walls-destroyed-by-robots/" target="_blank">Link</a>
  | [meeting-rooms-iii.py](Hard/meeting-rooms-iii.py) | O(mlog(mn)) | O(m + n) | <a href="https://leetcode.com/problems/meeting-rooms-iii/" target="_blank">Link</a>
  | [merge-k-sorted-lists.py](Hard/merge-k-sorted-lists.py) | O(nlog m) | O(n) | <a href="https://leetcode.com/problems/merge-k-sorted-lists/" target="_blank">Link</a>
  | [minimum-cost-path-with-teleportations.py](Hard/minimum-cost-path-with-teleportations.py) | O(mn(log(mn) + k)) | O(mn) | <a href="https://leetcode.com/problems/minimum-cost-path-with-teleportations/" target="_blank">Link</a>
@@ -983,4 +984,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Jul 28 17:02:06 UTC 2026.
+Latest push from RunarFosse: Tue Jul 28 18:12:47 UTC 2026.
