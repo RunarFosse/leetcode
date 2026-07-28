@@ -752,6 +752,7 @@ All problems are tried solving in the most optimal way possible.
  | [single-number-iii.py](Medium/single-number-iii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/single-number-iii/" target="_blank">Link</a>
  | [smallest-integer-divisible-by-k.py](Medium/smallest-integer-divisible-by-k.py) | O(k) | O(1) | <a href="https://leetcode.com/problems/smallest-integer-divisible-by-k/" target="_blank">Link</a>
  | [smallest-missing-non-negative-integer-after-operations.py](Medium/smallest-missing-non-negative-integer-after-operations.py) | O(n) | O(m) | <a href="https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/" target="_blank">Link</a>
+ | [smallest-palindromic-rearrangement-i.py](Medium/smallest-palindromic-rearrangement-i.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/smallest-palindromic-rearrangement-i/" target="_blank">Link</a>
  | [smallest-string-starting-from-leaf.py](Medium/smallest-string-starting-from-leaf.py) | O(nlog n) | O(nlog n) | <a href="https://leetcode.com/problems/smallest-string-starting-from-leaf/" target="_blank">Link</a>
  | [smallest-subarrays-with-maximum-bitwise-or.py](Medium/smallest-subarrays-with-maximum-bitwise-or.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/" target="_blank">Link</a>
  | [smallest-subsequence-of-distinct-characters.py](Medium/smallest-subsequence-of-distinct-characters.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/" target="_blank">Link</a>
@@ -982,4 +983,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Jul 26 19:37:54 UTC 2026.
+Latest push from RunarFosse: Tue Jul 28 17:02:06 UTC 2026.
