@@ -195,6 +195,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-element-after-replacement-with-digit-sum.py](Easy/minimum-element-after-replacement-with-digit-sum.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/" target="_blank">Link</a>
  | [minimum-number-of-moves-to-seat-everyone.py](Easy/minimum-number-of-moves-to-seat-everyone.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/" target="_blank">Link</a>
  | [minimum-number-of-operations-to-make-elements-in-array-distinct.py](Easy/minimum-number-of-operations-to-make-elements-in-array-distinct.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/" target="_blank">Link</a>
+ | [minimum-number-of-pushes-to-type-word-i.py](Easy/minimum-number-of-pushes-to-type-word-i.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/" target="_blank">Link</a>
  | [minimum-operations-to-make-array-sum-divisible-by-k.py](Easy/minimum-operations-to-make-array-sum-divisible-by-k.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/" target="_blank">Link</a>
  | [minimum-operations-to-make-array-values-equal-to-k.py](Easy/minimum-operations-to-make-array-values-equal-to-k.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/" target="_blank">Link</a>
  | [minimum-pair-removal-to-sort-array-i.py](Easy/minimum-pair-removal-to-sort-array-i.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/" target="_blank">Link</a>
@@ -985,4 +986,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Jul 29 18:58:46 UTC 2026.
+Latest push from RunarFosse: Thu Jul 30 07:27:28 UTC 2026.
