@@ -968,6 +968,7 @@ All problems are tried solving in the most optimal way possible.
  | [smallest-palindromic-rearrangement-ii.py](Hard/smallest-palindromic-rearrangement-ii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/" target="_blank">Link</a>
  | [sorted-gcd-pair-queries.py](Hard/sorted-gcd-pair-queries.py) | O(n + (m + k)log k) | O(m + k) | <a href="https://leetcode.com/problems/sorted-gcd-pair-queries/" target="_blank">Link</a>
  | [special-binary-string.py](Hard/special-binary-string.py) | O(n^2log n) | O(n) | <a href="https://leetcode.com/problems/special-binary-string/" target="_blank">Link</a>
+ | [stone-game-iii.py](Hard/stone-game-iii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/stone-game-iii/" target="_blank">Link</a>
  | [strange-printer.py](Hard/strange-printer.py) | O(n^3) | O(n^2) | <a href="https://leetcode.com/problems/strange-printer/" target="_blank">Link</a>
  | [string-compression-ii.py](Hard/string-compression-ii.py) | O(n^2*k) | O(m*n) | <a href="https://leetcode.com/problems/string-compression-ii/" target="_blank">Link</a>
  | [student-attendance-record-ii.py](Hard/student-attendance-record-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/student-attendance-record-ii/" target="_blank">Link</a>
@@ -988,4 +989,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Aug  3 09:21:28 UTC 2026.
+Latest push from RunarFosse: Mon Aug  3 11:23:34 UTC 2026.
