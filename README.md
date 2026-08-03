@@ -774,6 +774,7 @@ All problems are tried solving in the most optimal way possible.
  | [split-a-string-into-the-max-number-of-unique-substrings.py](Medium/split-a-string-into-the-max-number-of-unique-substrings.py) | O(n^22^n) | O(n) | <a href="https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/" target="_blank">Link</a>
  | [split-linked-list-in-parts.py](Medium/split-linked-list-in-parts.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/split-linked-list-in-parts/" target="_blank">Link</a>
  | [stone-game-ii.py](Medium/stone-game-ii.py) | O(n^3) | O(n) | <a href="https://leetcode.com/problems/stone-game-ii/" target="_blank">Link</a>
+ | [stone-game.py](Medium/stone-game.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/stone-game/" target="_blank">Link</a>
  | [string-compression-iii.py](Medium/string-compression-iii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/string-compression-iii/" target="_blank">Link</a>
  | [string-compression.py](Medium/string-compression.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/string-compression/" target="_blank">Link</a>
  | [string-to-integer-atoi.py](Medium/string-to-integer-atoi.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/string-to-integer-atoi/" target="_blank">Link</a>
@@ -987,4 +988,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Aug  3 09:09:27 UTC 2026.
+Latest push from RunarFosse: Mon Aug  3 09:21:28 UTC 2026.
