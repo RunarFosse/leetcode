@@ -703,6 +703,7 @@ All problems are tried solving in the most optimal way possible.
  | [permutations-ii.py](Medium/permutations-ii.py) | O(n!) | O(n!) | <a href="https://leetcode.com/problems/permutations-ii/" target="_blank">Link</a>
  | [permutations.py](Medium/permutations.py) | O(n!) | O(n!) | <a href="https://leetcode.com/problems/permutations/" target="_blank">Link</a>
  | [powx-n.py](Medium/powx-n.py) | O(log n) | O(log n) | <a href="https://leetcode.com/problems/powx-n/" target="_blank">Link</a>
+ | [predict-the-winner.py](Medium/predict-the-winner.py) | O(n^2) | O(n^2) | <a href="https://leetcode.com/problems/predict-the-winner/" target="_blank">Link</a>
  | [prime-subtraction-operation.py](Medium/prime-subtraction-operation.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/prime-subtraction-operation/" target="_blank">Link</a>
  | [process-string-with-special-operations-i.py](Medium/process-string-with-special-operations-i.py) | O(2^n) | O(2^n) | <a href="https://leetcode.com/problems/process-string-with-special-operations-i/" target="_blank">Link</a>
  | [product-of-array-except-self.py](Medium/product-of-array-except-self.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/product-of-array-except-self/" target="_blank">Link</a>
@@ -986,4 +987,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Jul 30 07:27:28 UTC 2026.
+Latest push from RunarFosse: Mon Aug  3 09:09:27 UTC 2026.
