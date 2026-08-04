@@ -100,6 +100,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-lucky-integer-in-an-array.py](Easy/find-lucky-integer-in-an-array.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-lucky-integer-in-an-array/" target="_blank">Link</a>
  | [find-minimum-operations-to-make-all-elements-divisible-by-three.py](Easy/find-minimum-operations-to-make-all-elements-divisible-by-three.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/" target="_blank">Link</a>
  | [find-missing-and-repeated-values.py](Easy/find-missing-and-repeated-values.py) | O(n^2) | O(1) | <a href="https://leetcode.com/problems/find-missing-and-repeated-values/" target="_blank">Link</a>
+ | [find-missing-elements.py](Easy/find-missing-elements.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-missing-elements/" target="_blank">Link</a>
  | [find-mode-in-binary-search-tree.py](Easy/find-mode-in-binary-search-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-mode-in-binary-search-tree/" target="_blank">Link</a>
  | [find-most-frequent-vowel-and-consonant.py](Easy/find-most-frequent-vowel-and-consonant.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/" target="_blank">Link</a>
  | [find-n-unique-integers-sum-up-to-zero.py](Easy/find-n-unique-integers-sum-up-to-zero.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/" target="_blank">Link</a>
@@ -989,4 +990,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Aug  3 11:23:34 UTC 2026.
+Latest push from RunarFosse: Tue Aug  4 08:33:31 UTC 2026.
