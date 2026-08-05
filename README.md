@@ -722,6 +722,7 @@ All problems are tried solving in the most optimal way possible.
  | [remove-duplicate-letters.py](Medium/remove-duplicate-letters.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/remove-duplicate-letters/" target="_blank">Link</a>
  | [remove-duplicates-from-sorted-array-ii.py](Medium/remove-duplicates-from-sorted-array-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/" target="_blank">Link</a>
  | [remove-k-digits.py](Medium/remove-k-digits.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/remove-k-digits/" target="_blank">Link</a>
+ | [remove-methods-from-project.py](Medium/remove-methods-from-project.py) | O(m + n) | O(m + n) | <a href="https://leetcode.com/problems/remove-methods-from-project/" target="_blank">Link</a>
  | [remove-nodes-from-linked-list.py](Medium/remove-nodes-from-linked-list.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/remove-nodes-from-linked-list/" target="_blank">Link</a>
  | [remove-nth-node-from-end-of-list.py](Medium/remove-nth-node-from-end-of-list.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/" target="_blank">Link</a>
  | [remove-sub-folders-from-the-filesystem.py](Medium/remove-sub-folders-from-the-filesystem.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/" target="_blank">Link</a>
@@ -990,4 +991,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Aug  4 08:33:31 UTC 2026.
+Latest push from RunarFosse: Wed Aug  5 10:29:33 UTC 2026.
