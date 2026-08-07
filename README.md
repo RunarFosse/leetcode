@@ -968,6 +968,7 @@ All problems are tried solving in the most optimal way possible.
  | [shortest-subarray-with-sum-at-least-k.py](Hard/shortest-subarray-with-sum-at-least-k.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/" target="_blank">Link</a>
  | [sliding-puzzle.py](Hard/sliding-puzzle.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/sliding-puzzle/" target="_blank">Link</a>
  | [sliding-window-maximum.py](Hard/sliding-window-maximum.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/sliding-window-maximum/" target="_blank">Link</a>
+ | [smallest-divisible-digit-product-ii.py](Hard/smallest-divisible-digit-product-ii.py) | O(nlog t) | O(n) | <a href="https://leetcode.com/problems/smallest-divisible-digit-product-ii/" target="_blank">Link</a>
  | [smallest-palindromic-rearrangement-ii.py](Hard/smallest-palindromic-rearrangement-ii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/" target="_blank">Link</a>
  | [sorted-gcd-pair-queries.py](Hard/sorted-gcd-pair-queries.py) | O(n + (m + k)log k) | O(m + k) | <a href="https://leetcode.com/problems/sorted-gcd-pair-queries/" target="_blank">Link</a>
  | [special-binary-string.py](Hard/special-binary-string.py) | O(n^2log n) | O(n) | <a href="https://leetcode.com/problems/special-binary-string/" target="_blank">Link</a>
@@ -992,4 +993,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Aug  6 09:43:16 UTC 2026.
+Latest push from RunarFosse: Fri Aug  7 16:28:40 UTC 2026.
