@@ -455,6 +455,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-the-largest-area-of-square-inside-two-rectangles.py](Medium/find-the-largest-area-of-square-inside-two-rectangles.py) | O(n^2) | O(1) | <a href="https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/" target="_blank">Link</a>
  | [find-the-length-of-the-longest-common-prefix.py](Medium/find-the-length-of-the-longest-common-prefix.py) | O(m + n) | O(m) | <a href="https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/" target="_blank">Link</a>
  | [find-the-lexicographically-largest-string-from-the-box-i.py](Medium/find-the-lexicographically-largest-string-from-the-box-i.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/" target="_blank">Link</a>
+ | [find-the-lexicographically-smallest-valid-sequence.py](Medium/find-the-lexicographically-smallest-valid-sequence.py) | O(n) | O(m + n) | <a href="https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/" target="_blank">Link</a>
  | [find-the-longest-substring-containing-vowels-in-even-counts.py](Medium/find-the-longest-substring-containing-vowels-in-even-counts.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/" target="_blank">Link</a>
  | [find-the-maximum-length-of-valid-subsequence-i.py](Medium/find-the-maximum-length-of-valid-subsequence-i.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/" target="_blank">Link</a>
  | [find-the-maximum-length-of-valid-subsequence-ii.py](Medium/find-the-maximum-length-of-valid-subsequence-ii.py) | O(nk + k^2) | O(k^2) | <a href="https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/" target="_blank">Link</a>
@@ -993,4 +994,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Aug  7 16:28:40 UTC 2026.
+Latest push from RunarFosse: Sat Aug  8 09:18:54 UTC 2026.
