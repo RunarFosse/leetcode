@@ -886,6 +886,7 @@ All problems are tried solving in the most optimal way possible.
  | [lexicographically-smallest-generated-string.py](Hard/lexicographically-smallest-generated-string.py) | O(mn) | O(m + n) | <a href="https://leetcode.com/problems/lexicographically-smallest-generated-string/" target="_blank">Link</a>
  | [longest-common-suffix-queries.py](Hard/longest-common-suffix-queries.py) | O(m + n) | O(n) | <a href="https://leetcode.com/problems/longest-common-suffix-queries/" target="_blank">Link</a>
  | [longest-subsequence-repeated-k-times.py](Hard/longest-subsequence-repeated-k-times.py) | O(n(n/k)!) | O((n/k)!) | <a href="https://leetcode.com/problems/longest-subsequence-repeated-k-times/" target="_blank">Link</a>
+ | [longest-substring-of-one-repeating-character.py](Hard/longest-substring-of-one-repeating-character.py) | O((m + n)log n) | O(n) | <a href="https://leetcode.com/problems/longest-substring-of-one-repeating-character/" target="_blank">Link</a>
  | [making-a-large-island.py](Hard/making-a-large-island.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/making-a-large-island/" target="_blank">Link</a>
  | [max-dot-product-of-two-subsequences.py](Hard/max-dot-product-of-two-subsequences.py) | O(nm) | O(nm) | <a href="https://leetcode.com/problems/max-dot-product-of-two-subsequences/" target="_blank">Link</a>
  | [maximal-rectangle.py](Hard/maximal-rectangle.py) | O(mn) | O(n) | <a href="https://leetcode.com/problems/maximal-rectangle/" target="_blank">Link</a>
@@ -996,4 +997,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Aug 11 15:19:23 UTC 2026.
+Latest push from RunarFosse: Thu Aug 13 18:45:11 UTC 2026.
