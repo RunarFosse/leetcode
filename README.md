@@ -168,6 +168,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-difference-between-even-and-odd-frequency-i.py](Easy/maximum-difference-between-even-and-odd-frequency-i.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/" target="_blank">Link</a>
  | [maximum-difference-between-increasing-elements.py](Easy/maximum-difference-between-increasing-elements.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-difference-between-increasing-elements/" target="_blank">Link</a>
  | [maximum-difference-by-remapping-a-digit.py](Easy/maximum-difference-by-remapping-a-digit.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/" target="_blank">Link</a>
+ | [maximum-length-substring-with-two-occurrences.py](Easy/maximum-length-substring-with-two-occurrences.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/" target="_blank">Link</a>
  | [maximum-nesting-depth-of-the-parentheses.py](Easy/maximum-nesting-depth-of-the-parentheses.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/" target="_blank">Link</a>
  | [maximum-number-of-balloons.py](Easy/maximum-number-of-balloons.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-number-of-balloons/" target="_blank">Link</a>
  | [maximum-number-of-words-you-can-type.py](Easy/maximum-number-of-words-you-can-type.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-number-of-words-you-can-type/" target="_blank">Link</a>
@@ -997,4 +998,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Aug 13 18:45:11 UTC 2026.
+Latest push from RunarFosse: Fri Aug 14 09:41:48 UTC 2026.
