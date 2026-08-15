@@ -543,6 +543,7 @@ All problems are tried solving in the most optimal way possible.
  | [longest-square-streak-in-an-array.py](Medium/longest-square-streak-in-an-array.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/longest-square-streak-in-an-array/" target="_blank">Link</a>
  | [longest-subarray-of-1s-after-deleting-one-element.py](Medium/longest-subarray-of-1s-after-deleting-one-element.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/" target="_blank">Link</a>
  | [longest-subarray-with-maximum-bitwise-and.py](Medium/longest-subarray-with-maximum-bitwise-and.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/" target="_blank">Link</a>
+ | [longest-subsequence-with-non-zero-bitwise-xor.py](Medium/longest-subsequence-with-non-zero-bitwise-xor.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/" target="_blank">Link</a>
  | [longest-substring-without-repeating-characters.py](Medium/longest-substring-without-repeating-characters.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/" target="_blank">Link</a>
  | [longest-unequal-adjacent-groups-subsequence-ii.py](Medium/longest-unequal-adjacent-groups-subsequence-ii.py) | O(mn^2) | O(n) | <a href="https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/" target="_blank">Link</a>
  | [lowest-common-ancestor-of-deepest-leaves.py](Medium/lowest-common-ancestor-of-deepest-leaves.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/" target="_blank">Link</a>
@@ -998,4 +999,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Aug 14 09:41:48 UTC 2026.
+Latest push from RunarFosse: Sat Aug 15 11:00:14 UTC 2026.
