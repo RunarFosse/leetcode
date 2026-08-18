@@ -111,6 +111,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-the-highest-altitude.py](Easy/find-the-highest-altitude.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-highest-altitude/" target="_blank">Link</a>
  | [find-the-index-of-the-first-occurrence-in-a-string.py](Easy/find-the-index-of-the-first-occurrence-in-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/" target="_blank">Link</a>
  | [find-the-k-th-character-in-string-game-i.py](Easy/find-the-k-th-character-in-string-game-i.py) | O(log k) | O(1) | <a href="https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/" target="_blank">Link</a>
+ | [find-the-largest-almost-missing-integer.py](Easy/find-the-largest-almost-missing-integer.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-the-largest-almost-missing-integer/" target="_blank">Link</a>
  | [find-the-original-typed-string-i.py](Easy/find-the-original-typed-string-i.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-original-typed-string-i/" target="_blank">Link</a>
  | [find-the-pivot-integer.py](Easy/find-the-pivot-integer.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/find-the-pivot-integer/" target="_blank">Link</a>
  | [find-the-town-judge.py](Easy/find-the-town-judge.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-the-town-judge/" target="_blank">Link</a>
@@ -1000,4 +1001,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Aug 16 11:02:55 UTC 2026.
+Latest push from RunarFosse: Tue Aug 18 17:13:38 UTC 2026.
