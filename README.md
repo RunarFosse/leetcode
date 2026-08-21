@@ -885,6 +885,7 @@ All problems are tried solving in the most optimal way possible.
  | [jump-game-v.py](Hard/jump-game-v.py) | O(nd) | O(n) | <a href="https://leetcode.com/problems/jump-game-v/" target="_blank">Link</a>
  | [k-inverse-pairs-array.py](Hard/k-inverse-pairs-array.py) | O(nk) | O(k) | <a href="https://leetcode.com/problems/k-inverse-pairs-array/" target="_blank">Link</a>
  | [k-th-smallest-in-lexicographical-order.py](Hard/k-th-smallest-in-lexicographical-order.py) | O((log n)^2) | O(log n) | <a href="https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/" target="_blank">Link</a>
+ | [kth-smallest-amount-with-single-denomination-combination.py](Hard/kth-smallest-amount-with-single-denomination-combination.py) | O(2^nlog k) | O(2^n) | <a href="https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/" target="_blank">Link</a>
  | [kth-smallest-product-of-two-sorted-arrays.py](Hard/kth-smallest-product-of-two-sorted-arrays.py) | O(nlog mlog k) | O(1) | <a href="https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/" target="_blank">Link</a>
  | [largest-rectangle-in-histogram.py](Hard/largest-rectangle-in-histogram.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/largest-rectangle-in-histogram/" target="_blank">Link</a>
  | [last-day-where-you-can-still-cross.py](Hard/last-day-where-you-can-still-cross.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/last-day-where-you-can-still-cross/" target="_blank">Link</a>
@@ -1002,4 +1003,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Aug 19 18:33:38 UTC 2026.
+Latest push from RunarFosse: Fri Aug 21 19:14:16 UTC 2026.
