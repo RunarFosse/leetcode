@@ -28,6 +28,7 @@ All problems are tried solving in the most optimal way possible.
  | [build-array-from-permutation.py](Easy/build-array-from-permutation.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/build-array-from-permutation/" target="_blank">Link</a>
  | [buy-two-chocolates.py](Easy/buy-two-chocolates.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/buy-two-chocolates/" target="_blank">Link</a>
  | [calculate-money-in-leetcode-bank.py](Easy/calculate-money-in-leetcode-bank.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/calculate-money-in-leetcode-bank/" target="_blank">Link</a>
+ | [check-divisibility-by-digit-sum-and-product.py](Easy/check-divisibility-by-digit-sum-and-product.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/" target="_blank">Link</a>
  | [check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py](Easy/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/" target="_blank">Link</a>
  | [check-if-all-1s-are-at-least-length-k-places-away.py](Easy/check-if-all-1s-are-at-least-length-k-places-away.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/" target="_blank">Link</a>
  | [check-if-array-is-good.py](Easy/check-if-array-is-good.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/check-if-array-is-good/" target="_blank">Link</a>
@@ -1003,4 +1004,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Aug 21 19:14:16 UTC 2026.
+Latest push from RunarFosse: Sat Aug 22 08:04:48 UTC 2026.
