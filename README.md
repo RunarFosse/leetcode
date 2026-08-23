@@ -839,6 +839,7 @@ All problems are tried solving in the most optimal way possible.
  | [xor-queries-of-a-subarray.py](Medium/xor-queries-of-a-subarray.py) | O(m + n) | O(m + n) | <a href="https://leetcode.com/problems/xor-queries-of-a-subarray/" target="_blank">Link</a>
  | [zero-array-transformation-i.py](Medium/zero-array-transformation-i.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/zero-array-transformation-i/" target="_blank">Link</a>
  | [zero-array-transformation-ii.py](Medium/zero-array-transformation-ii.py) | O(nlog m) | O(n) | <a href="https://leetcode.com/problems/zero-array-transformation-ii/" target="_blank">Link</a>
+ | [zero-array-transformation-iii.py](Medium/zero-array-transformation-iii.py) | O(mlog m + n) | O(m + n) | <a href="https://leetcode.com/problems/zero-array-transformation-iii/" target="_blank">Link</a>
  | [zigzag-conversion.py](Medium/zigzag-conversion.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/zigzag-conversion/" target="_blank">Link</a>
 
 
@@ -1007,4 +1008,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Aug 23 11:27:44 UTC 2026.
+Latest push from RunarFosse: Sun Aug 23 13:29:05 UTC 2026.
