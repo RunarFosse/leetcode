@@ -720,6 +720,7 @@ All problems are tried solving in the most optimal way possible.
  | [push-dominoes.py](Medium/push-dominoes.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/push-dominoes/" target="_blank">Link</a>
  | [pyramid-transition-matrix.py](Medium/pyramid-transition-matrix.py) | O(n6^n) | O(n^2) | <a href="https://leetcode.com/problems/pyramid-transition-matrix/" target="_blank">Link</a>
  | [rabbits-in-forest.py](Medium/rabbits-in-forest.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/rabbits-in-forest/" target="_blank">Link</a>
+ | [range-product-queries-of-powers.py](Medium/range-product-queries-of-powers.py) | O(m + log n) | O(m + log n) | <a href="https://leetcode.com/problems/range-product-queries-of-powers/" target="_blank">Link</a>
  | [range-sum-of-sorted-subarray-sums.py](Medium/range-sum-of-sorted-subarray-sums.py) | O(n^2log n) | O(n) | <a href="https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/" target="_blank">Link</a>
  | [rearrange-array-elements-by-sign.py](Medium/rearrange-array-elements-by-sign.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/rearrange-array-elements-by-sign/" target="_blank">Link</a>
  | [reduction-operations-to-make-the-array-elements-equal.py](Medium/reduction-operations-to-make-the-array-elements-equal.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/" target="_blank">Link</a>
@@ -1006,4 +1007,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Aug 23 09:36:43 UTC 2026.
+Latest push from RunarFosse: Sun Aug 23 11:27:44 UTC 2026.
