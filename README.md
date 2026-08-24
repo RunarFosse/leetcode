@@ -988,6 +988,7 @@ All problems are tried solving in the most optimal way possible.
  | [stone-game-iii.py](Hard/stone-game-iii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/stone-game-iii/" target="_blank">Link</a>
  | [stone-game-iv.py](Hard/stone-game-iv.py) | O(nsqrt(n)) | O(n) | <a href="https://leetcode.com/problems/stone-game-iv/" target="_blank">Link</a>
  | [stone-game-v.py](Hard/stone-game-v.py) | O(n^2) | O(n^2) | <a href="https://leetcode.com/problems/stone-game-v/" target="_blank">Link</a>
+ | [stone-game-viii.py](Hard/stone-game-viii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/stone-game-viii/" target="_blank">Link</a>
  | [strange-printer.py](Hard/strange-printer.py) | O(n^3) | O(n^2) | <a href="https://leetcode.com/problems/strange-printer/" target="_blank">Link</a>
  | [string-compression-ii.py](Hard/string-compression-ii.py) | O(n^2*k) | O(m*n) | <a href="https://leetcode.com/problems/string-compression-ii/" target="_blank">Link</a>
  | [student-attendance-record-ii.py](Hard/student-attendance-record-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/student-attendance-record-ii/" target="_blank">Link</a>
@@ -1008,4 +1009,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Aug 23 13:29:05 UTC 2026.
+Latest push from RunarFosse: Mon Aug 24 18:35:04 UTC 2026.
