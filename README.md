@@ -288,6 +288,7 @@ All problems are tried solving in the most optimal way possible.
  | [two-sum.py](Easy/two-sum.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/two-sum/" target="_blank">Link</a>
  | [type-of-triangle.py](Easy/type-of-triangle.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/type-of-triangle/" target="_blank">Link</a>
  | [uncommon-words-from-two-sentences.py](Easy/uncommon-words-from-two-sentences.py) | O(m+n) | O(m+n) | <a href="https://leetcode.com/problems/uncommon-words-from-two-sentences/" target="_blank">Link</a>
+ | [unique-3-digit-even-numbers.py](Easy/unique-3-digit-even-numbers.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/unique-3-digit-even-numbers/" target="_blank">Link</a>
  | [unique-number-of-occurrences.py](Easy/unique-number-of-occurrences.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/unique-number-of-occurrences/" target="_blank">Link</a>
  | [valid-anagram.py](Easy/valid-anagram.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/valid-anagram/" target="_blank">Link</a>
  | [valid-palindrome.py](Easy/valid-palindrome.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/valid-palindrome/" target="_blank">Link</a>
@@ -1018,4 +1019,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Sep  9 18:07:48 UTC 2026.
+Latest push from RunarFosse: Sat Sep 12 10:13:03 UTC 2026.
