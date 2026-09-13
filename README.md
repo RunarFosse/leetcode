@@ -928,6 +928,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-profit-in-job-scheduling.py](Hard/maximum-profit-in-job-scheduling.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximum-profit-in-job-scheduling/" target="_blank">Link</a>
  | [maximum-running-time-of-n-computers.py](Hard/maximum-running-time-of-n-computers.py) | O(mlog k) | O(1) | <a href="https://leetcode.com/problems/maximum-running-time-of-n-computers/" target="_blank">Link</a>
  | [maximum-score-of-a-good-subarray.py](Hard/maximum-score-of-a-good-subarray.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-score-of-a-good-subarray/" target="_blank">Link</a>
+ | [maximum-score-of-non-overlapping-intervals.py](Hard/maximum-score-of-non-overlapping-intervals.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/" target="_blank">Link</a>
  | [maximum-score-words-formed-by-letters.py](Hard/maximum-score-words-formed-by-letters.py) | O(m2^n) | O(n) | <a href="https://leetcode.com/problems/maximum-score-words-formed-by-letters/" target="_blank">Link</a>
  | [maximum-sum-of-3-non-overlapping-subarrays.py](Hard/maximum-sum-of-3-non-overlapping-subarrays.py) | O(nk) | O(nk) | <a href="https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/" target="_blank">Link</a>
  | [maximum-total-subarray-value-ii.py](Hard/maximum-total-subarray-value-ii.py) | O((n + k)log n) | O(n) | <a href="https://leetcode.com/problems/maximum-total-subarray-value-ii/" target="_blank">Link</a>
@@ -1020,4 +1021,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Sep 13 08:38:43 UTC 2026.
+Latest push from RunarFosse: Sun Sep 13 10:22:36 UTC 2026.
