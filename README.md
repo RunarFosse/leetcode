@@ -260,6 +260,7 @@ All problems are tried solving in the most optimal way possible.
  | [shortest-distance-to-target-string-in-a-circular-array.py](Easy/shortest-distance-to-target-string-in-a-circular-array.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/" target="_blank">Link</a>
  | [single-number.py](Easy/single-number.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/single-number/" target="_blank">Link</a>
  | [smallest-divisible-digit-product-i.py](Easy/smallest-divisible-digit-product-i.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/smallest-divisible-digit-product-i/" target="_blank">Link</a>
+ | [smallest-index-with-digit-sum-equal-to-index.py](Easy/smallest-index-with-digit-sum-equal-to-index.py) | O(nlog m) | O(1) | <a href="https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/" target="_blank">Link</a>
  | [smallest-missing-integer-greater-than-sequential-prefix-sum.py](Easy/smallest-missing-integer-greater-than-sequential-prefix-sum.py) | O(m + n) | O(n) | <a href="https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/" target="_blank">Link</a>
  | [smallest-missing-multiple-of-k.py](Easy/smallest-missing-multiple-of-k.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/smallest-missing-multiple-of-k/" target="_blank">Link</a>
  | [smallest-number-with-all-set-bits.py](Easy/smallest-number-with-all-set-bits.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/smallest-number-with-all-set-bits/" target="_blank">Link</a>
@@ -1029,4 +1030,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Sep 23 16:10:17 UTC 2026.
+Latest push from RunarFosse: Thu Sep 24 15:27:02 UTC 2026.
