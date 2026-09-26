@@ -441,6 +441,7 @@ All problems are tried solving in the most optimal way possible.
  | [eliminate-maximum-number-of-monsters.py](Medium/eliminate-maximum-number-of-monsters.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/eliminate-maximum-number-of-monsters/" target="_blank">Link</a>
  | [equal-sum-grid-partition-i.py](Medium/equal-sum-grid-partition-i.py) | O(mn) | O(m + n) | <a href="https://leetcode.com/problems/equal-sum-grid-partition-i/" target="_blank">Link</a>
  | [evaluate-reverse-polish-notation.py](Medium/evaluate-reverse-polish-notation.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/evaluate-reverse-polish-notation/" target="_blank">Link</a>
+ | [evaluate-the-bracket-pairs-of-a-string.py](Medium/evaluate-the-bracket-pairs-of-a-string.py) | O(m + n) | O(m + n) | <a href="https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/" target="_blank">Link</a>
  | [even-odd-tree.py](Medium/even-odd-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/even-odd-tree/" target="_blank">Link</a>
  | [extra-characters-in-a-string.py](Medium/extra-characters-in-a-string.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/extra-characters-in-a-string/" target="_blank">Link</a>
  | [filling-bookcase-shelves.py](Medium/filling-bookcase-shelves.py) | O(nk) | O(n) | <a href="https://leetcode.com/problems/filling-bookcase-shelves/" target="_blank">Link</a>
@@ -1030,4 +1031,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Sep 24 15:27:02 UTC 2026.
+Latest push from RunarFosse: Sat Sep 26 08:45:33 UTC 2026.
