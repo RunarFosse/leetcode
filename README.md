@@ -871,6 +871,7 @@ All problems are tried solving in the most optimal way possible.
  | [build-array-where-you-can-find-the-maximum-exactly-k-comparisons.py](Hard/build-array-where-you-can-find-the-maximum-exactly-k-comparisons.py) | O(nm^2k) | O(nmk) | <a href="https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/" target="_blank">Link</a>
  | [bus-routes.py](Hard/bus-routes.py) | O(n+m) | O(n+m) | <a href="https://leetcode.com/problems/bus-routes/" target="_blank">Link</a>
  | [candy.py](Hard/candy.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/candy/" target="_blank">Link</a>
+ | [check-if-there-is-a-valid-parentheses-string-path.py](Hard/check-if-there-is-a-valid-parentheses-string-path.py) | O(mn(m + n)) | O(n(m + n)) | <a href="https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/" target="_blank">Link</a>
  | [cherry-pickup-ii.py](Hard/cherry-pickup-ii.py) | O(mn^2) | O(mn^2) | <a href="https://leetcode.com/problems/cherry-pickup-ii/" target="_blank">Link</a>
  | [constrained-subsequence-sum.py](Hard/constrained-subsequence-sum.py) | O(n) | O(k) | <a href="https://leetcode.com/problems/constrained-subsequence-sum/" target="_blank">Link</a>
  | [count-good-triplets-in-an-array.py](Hard/count-good-triplets-in-an-array.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/count-good-triplets-in-an-array/" target="_blank">Link</a>
@@ -1031,4 +1032,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Sep 26 08:45:33 UTC 2026.
+Latest push from RunarFosse: Tue Sep 29 17:39:11 UTC 2026.
