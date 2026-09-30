@@ -596,6 +596,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-manhattan-distance-after-k-changes.py](Medium/maximum-manhattan-distance-after-k-changes.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/" target="_blank">Link</a>
  | [maximum-matching-of-players-with-trainers.py](Medium/maximum-matching-of-players-with-trainers.py) | O(mlog m + nlog n) | O(m + n) | <a href="https://leetcode.com/problems/maximum-matching-of-players-with-trainers/" target="_blank">Link</a>
  | [maximum-matrix-sum.py](Medium/maximum-matrix-sum.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/maximum-matrix-sum/" target="_blank">Link</a>
+ | [maximum-nesting-depth-of-two-valid-parentheses-strings.py](Medium/maximum-nesting-depth-of-two-valid-parentheses-strings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/" target="_blank">Link</a>
  | [maximum-non-negative-product-in-a-matrix.py](Medium/maximum-non-negative-product-in-a-matrix.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/" target="_blank">Link</a>
  | [maximum-number-of-coins-you-can-get.py](Medium/maximum-number-of-coins-you-can-get.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximum-number-of-coins-you-can-get/" target="_blank">Link</a>
  | [maximum-number-of-distinct-elements-after-operations.py](Medium/maximum-number-of-distinct-elements-after-operations.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/" target="_blank">Link</a>
@@ -1032,4 +1033,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Sep 29 17:39:11 UTC 2026.
+Latest push from RunarFosse: Wed Sep 30 20:53:17 UTC 2026.
