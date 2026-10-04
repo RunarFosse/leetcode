@@ -696,6 +696,7 @@ All problems are tried solving in the most optimal way possible.
  | [number-of-islands.py](Medium/number-of-islands.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/number-of-islands/" target="_blank">Link</a>
  | [number-of-laser-beams-in-a-bank.py](Medium/number-of-laser-beams-in-a-bank.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/number-of-laser-beams-in-a-bank/" target="_blank">Link</a>
  | [number-of-people-aware-of-a-secret.py](Medium/number-of-people-aware-of-a-secret.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/number-of-people-aware-of-a-secret/" target="_blank">Link</a>
+ | [number-of-sets-of-k-non-overlapping-line-segments.py](Medium/number-of-sets-of-k-non-overlapping-line-segments.py) | O(k) | O(1) | <a href="https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/" target="_blank">Link</a>
  | [number-of-smooth-descent-periods-of-a-stock.py](Medium/number-of-smooth-descent-periods-of-a-stock.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/" target="_blank">Link</a>
  | [number-of-steps-to-reduce-a-number-in-binary-representation-to-one.py](Medium/number-of-steps-to-reduce-a-number-in-binary-representation-to-one.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/" target="_blank">Link</a>
  | [number-of-sub-arrays-with-odd-sum.py](Medium/number-of-sub-arrays-with-odd-sum.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/" target="_blank">Link</a>
@@ -1035,4 +1036,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Oct  4 10:53:04 UTC 2026.
+Latest push from RunarFosse: Sun Oct  4 11:08:50 UTC 2026.
