@@ -935,6 +935,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximum-fruits-harvested-after-at-most-k-steps.py](Hard/maximum-fruits-harvested-after-at-most-k-steps.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/" target="_blank">Link</a>
  | [maximum-number-of-events-that-can-be-attended-ii.py](Hard/maximum-number-of-events-that-can-be-attended-ii.py) | O(n(k + log n)) | O(nk) | <a href="https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/" target="_blank">Link</a>
  | [maximum-number-of-k-divisible-components.py](Hard/maximum-number-of-k-divisible-components.py) | O(m + n) | O(m + n) | <a href="https://leetcode.com/problems/maximum-number-of-k-divisible-components/" target="_blank">Link</a>
+ | [maximum-number-of-non-overlapping-substrings.py](Hard/maximum-number-of-non-overlapping-substrings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/" target="_blank">Link</a>
  | [maximum-number-of-points-from-grid-queries.py](Hard/maximum-number-of-points-from-grid-queries.py) | O(klog k + mnlog(mn)) | O(k + mn) | <a href="https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/" target="_blank">Link</a>
  | [maximum-number-of-tasks-you-can-assign.py](Hard/maximum-number-of-tasks-you-can-assign.py) | O((m + n)^2log(m + n)) | O(m + n) | <a href="https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/" target="_blank">Link</a>
  | [maximum-profit-from-trading-stocks-with-discounts.py](Hard/maximum-profit-from-trading-stocks-with-discounts.py) | O(nk^2) | O(nk) | <a href="https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/" target="_blank">Link</a>
@@ -1034,4 +1035,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Oct  3 21:12:04 UTC 2026.
+Latest push from RunarFosse: Sun Oct  4 10:53:04 UTC 2026.
