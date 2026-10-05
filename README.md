@@ -770,6 +770,7 @@ All problems are tried solving in the most optimal way possible.
  | [rotated-digits.py](Medium/rotated-digits.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/rotated-digits/" target="_blank">Link</a>
  | [rotating-the-box.py](Medium/rotating-the-box.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/rotating-the-box/" target="_blank">Link</a>
  | [score-after-flipping-matrix.py](Medium/score-after-flipping-matrix.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/score-after-flipping-matrix/" target="_blank">Link</a>
+ | [score-of-parentheses.py](Medium/score-of-parentheses.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/score-of-parentheses/" target="_blank">Link</a>
  | [search-a-2d-matrix.py](Medium/search-a-2d-matrix.py) | O(log(n*m)) | O(1) | <a href="https://leetcode.com/problems/search-a-2d-matrix/" target="_blank">Link</a>
  | [search-in-rotated-sorted-array.py](Medium/search-in-rotated-sorted-array.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/search-in-rotated-sorted-array/" target="_blank">Link</a>
  | [sentence-similarity-iii.py](Medium/sentence-similarity-iii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/sentence-similarity-iii/" target="_blank">Link</a>
@@ -1037,4 +1038,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Oct  4 11:48:06 UTC 2026.
+Latest push from RunarFosse: Mon Oct  5 16:20:43 UTC 2026.
