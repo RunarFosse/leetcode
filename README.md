@@ -999,6 +999,7 @@ All problems are tried solving in the most optimal way possible.
  | [put-marbles-in-bags.py](Hard/put-marbles-in-bags.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/put-marbles-in-bags/" target="_blank">Link</a>
  | [rearranging-fruits.py](Hard/rearranging-fruits.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/rearranging-fruits/" target="_blank">Link</a>
  | [recover-a-tree-from-preorder-traversal.py](Hard/recover-a-tree-from-preorder-traversal.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/" target="_blank">Link</a>
+ | [remove-invalid-parentheses.py](Hard/remove-invalid-parentheses.py) | O(n^22^n) | O(n2^n) | <a href="https://leetcode.com/problems/remove-invalid-parentheses/" target="_blank">Link</a>
  | [remove-max-number-of-edges-to-keep-graph-fully-traversable.py](Hard/remove-max-number-of-edges-to-keep-graph-fully-traversable.py) | O(mlog m) | O(n+m) | <a href="https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/" target="_blank">Link</a>
  | [replace-non-coprime-numbers-in-array.py](Hard/replace-non-coprime-numbers-in-array.py) | O(nlog m) | O(n) | <a href="https://leetcode.com/problems/replace-non-coprime-numbers-in-array/" target="_blank">Link</a>
  | [robot-collisions.py](Hard/robot-collisions.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/robot-collisions/" target="_blank">Link</a>
@@ -1038,4 +1039,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Oct  5 16:20:43 UTC 2026.
+Latest push from RunarFosse: Wed Oct  7 14:31:36 UTC 2026.
