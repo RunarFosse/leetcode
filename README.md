@@ -243,6 +243,7 @@ All problems are tried solving in the most optimal way possible.
  | [remove-duplicates-from-sorted-list.py](Easy/remove-duplicates-from-sorted-list.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list/" target="_blank">Link</a>
  | [remove-element.py](Easy/remove-element.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/remove-element/" target="_blank">Link</a>
  | [remove-linked-list-elements.py](Easy/remove-linked-list-elements.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/remove-linked-list-elements/" target="_blank">Link</a>
+ | [remove-outermost-parentheses.py](Easy/remove-outermost-parentheses.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/remove-outermost-parentheses/" target="_blank">Link</a>
  | [reverse-bits.py](Easy/reverse-bits.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/reverse-bits/" target="_blank">Link</a>
  | [reverse-degree-of-a-string.py](Easy/reverse-degree-of-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/reverse-degree-of-a-string/" target="_blank">Link</a>
  | [reverse-linked-list.py](Easy/reverse-linked-list.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/reverse-linked-list/" target="_blank">Link</a>
@@ -1039,4 +1040,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Oct  7 14:31:36 UTC 2026.
+Latest push from RunarFosse: Thu Oct  8 15:12:56 UTC 2026.
