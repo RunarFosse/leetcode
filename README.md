@@ -650,6 +650,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-height-trees.py](Medium/minimum-height-trees.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/minimum-height-trees/" target="_blank">Link</a>
  | [minimum-increment-to-make-array-unique.py](Medium/minimum-increment-to-make-array-unique.py) | O(m) | O(m) | <a href="https://leetcode.com/problems/minimum-increment-to-make-array-unique/" target="_blank">Link</a>
  | [minimum-index-of-a-valid-split.py](Medium/minimum-index-of-a-valid-split.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-index-of-a-valid-split/" target="_blank">Link</a>
+ | [minimum-insertions-to-balance-a-parentheses-string.py](Medium/minimum-insertions-to-balance-a-parentheses-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/" target="_blank">Link</a>
  | [minimum-jumps-to-reach-end-via-prime-teleportation.py](Medium/minimum-jumps-to-reach-end-via-prime-teleportation.py) | O(nlog(log(n))) | O(n) | <a href="https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/" target="_blank">Link</a>
  | [minimum-length-of-string-after-deleting-similar-ends.py](Medium/minimum-length-of-string-after-deleting-similar-ends.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/" target="_blank">Link</a>
  | [minimum-length-of-string-after-operations.py](Medium/minimum-length-of-string-after-operations.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-length-of-string-after-operations/" target="_blank">Link</a>
@@ -1040,4 +1041,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Thu Oct  8 15:12:56 UTC 2026.
+Latest push from RunarFosse: Fri Oct  9 19:03:28 UTC 2026.
