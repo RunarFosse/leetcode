@@ -280,6 +280,7 @@ All problems are tried solving in the most optimal way possible.
  | [sum-of-digits-of-string-after-convert.py](Easy/sum-of-digits-of-string-after-convert.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/sum-of-digits-of-string-after-convert/" target="_blank">Link</a>
  | [sum-of-left-leaves.py](Easy/sum-of-left-leaves.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/sum-of-left-leaves/" target="_blank">Link</a>
  | [sum-of-root-to-leaf-binary-numbers.py](Easy/sum-of-root-to-leaf-binary-numbers.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/" target="_blank">Link</a>
+ | [sum-of-squares-of-special-elements.py](Easy/sum-of-squares-of-special-elements.py) | O(sqrt(n)) | O(1) | <a href="https://leetcode.com/problems/sum-of-squares-of-special-elements/" target="_blank">Link</a>
  | [sum-of-values-at-indices-with-k-set-bits.py](Easy/sum-of-values-at-indices-with-k-set-bits.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/" target="_blank">Link</a>
  | [symmetric-tree.py](Easy/symmetric-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/symmetric-tree/" target="_blank">Link</a>
  | [take-gifts-from-the-richest-pile.py](Easy/take-gifts-from-the-richest-pile.py) | O(n + klog n) | O(1) | <a href="https://leetcode.com/problems/take-gifts-from-the-richest-pile/" target="_blank">Link</a>
@@ -1042,4 +1043,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Oct 10 10:57:26 UTC 2026.
+Latest push from RunarFosse: Sun Oct 11 09:15:10 UTC 2026.
