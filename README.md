@@ -874,6 +874,7 @@ All problems are tried solving in the most optimal way possible.
  | Problem | Time complexity | Space complexity | Leetcode |
  | :------ | :-------------: | :--------------: | :--------------: |
  | [24-game.py](Hard/24-game.py) | O(3^n * (n!)^2) | O(n) | <a href="https://leetcode.com/problems/24-game/" target="_blank">Link</a>
+ | [apply-operations-on-array-to-maximize-sum-of-squares.py](Hard/apply-operations-on-array-to-maximize-sum-of-squares.py) | O(n + k) | O(1) | <a href="https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/" target="_blank">Link</a>
  | [arithmetic-slices-ii-subsequence.py](Hard/arithmetic-slices-ii-subsequence.py) | O(n^2) | O(n^2) | <a href="https://leetcode.com/problems/arithmetic-slices-ii-subsequence/" target="_blank">Link</a>
  | [block-placement-queries.py](Hard/block-placement-queries.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/block-placement-queries/" target="_blank">Link</a>
  | [build-array-where-you-can-find-the-maximum-exactly-k-comparisons.py](Hard/build-array-where-you-can-find-the-maximum-exactly-k-comparisons.py) | O(nm^2k) | O(nmk) | <a href="https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/" target="_blank">Link</a>
@@ -1043,4 +1044,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Oct 11 09:15:10 UTC 2026.
+Latest push from RunarFosse: Mon Oct 12 15:14:49 UTC 2026.
