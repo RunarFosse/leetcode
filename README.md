@@ -583,6 +583,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximize-happiness-of-selected-children.py](Medium/maximize-happiness-of-selected-children.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximize-happiness-of-selected-children/" target="_blank">Link</a>
  | [maximize-the-number-of-target-nodes-after-connecting-trees-i.py](Medium/maximize-the-number-of-target-nodes-after-connecting-trees-i.py) | O(m^2 + n^2) | O(m + n) | <a href="https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/" target="_blank">Link</a>
  | [maximum-absolute-sum-of-any-subarray.py](Medium/maximum-absolute-sum-of-any-subarray.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/" target="_blank">Link</a>
+ | [maximum-alternating-sum-of-squares.py](Medium/maximum-alternating-sum-of-squares.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximum-alternating-sum-of-squares/" target="_blank">Link</a>
  | [maximum-amount-of-money-robot-can-earn.py](Medium/maximum-amount-of-money-robot-can-earn.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/" target="_blank">Link</a>
  | [maximum-average-pass-ratio.py](Medium/maximum-average-pass-ratio.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximum-average-pass-ratio/" target="_blank">Link</a>
  | [maximum-beauty-of-an-array-after-applying-operation.py](Medium/maximum-beauty-of-an-array-after-applying-operation.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/" target="_blank">Link</a>
@@ -1044,4 +1045,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Oct 12 15:14:49 UTC 2026.
+Latest push from RunarFosse: Tue Oct 13 15:14:56 UTC 2026.
