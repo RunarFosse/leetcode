@@ -581,6 +581,7 @@ All problems are tried solving in the most optimal way possible.
  | [maximize-active-section-with-trade-i.py](Medium/maximize-active-section-with-trade-i.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximize-active-section-with-trade-i/" target="_blank">Link</a>
  | [maximize-area-of-square-hole-in-grid.py](Medium/maximize-area-of-square-hole-in-grid.py) | O(hlog h + vlog v) | O(h + v) | <a href="https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/" target="_blank">Link</a>
  | [maximize-happiness-of-selected-children.py](Medium/maximize-happiness-of-selected-children.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximize-happiness-of-selected-children/" target="_blank">Link</a>
+ | [maximize-sum-of-squares-of-digits.py](Medium/maximize-sum-of-squares-of-digits.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/maximize-sum-of-squares-of-digits/" target="_blank">Link</a>
  | [maximize-the-number-of-target-nodes-after-connecting-trees-i.py](Medium/maximize-the-number-of-target-nodes-after-connecting-trees-i.py) | O(m^2 + n^2) | O(m + n) | <a href="https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/" target="_blank">Link</a>
  | [maximum-absolute-sum-of-any-subarray.py](Medium/maximum-absolute-sum-of-any-subarray.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/" target="_blank">Link</a>
  | [maximum-alternating-sum-of-squares.py](Medium/maximum-alternating-sum-of-squares.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/maximum-alternating-sum-of-squares/" target="_blank">Link</a>
@@ -1045,4 +1046,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Oct 13 15:14:56 UTC 2026.
+Latest push from RunarFosse: Wed Oct 14 08:57:27 UTC 2026.
