@@ -682,6 +682,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-operations-to-make-binary-array-elements-equal-to-one-i.py](Medium/minimum-operations-to-make-binary-array-elements-equal-to-one-i.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/" target="_blank">Link</a>
  | [minimum-operations-to-make-the-integer-zero.py](Medium/minimum-operations-to-make-the-integer-zero.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/" target="_blank">Link</a>
  | [minimum-operations-to-reduce-x-to-zero.py](Medium/minimum-operations-to-reduce-x-to-zero.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/" target="_blank">Link</a>
+ | [minimum-operations-to-sort-a-permutation.py](Medium/minimum-operations-to-sort-a-permutation.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/" target="_blank">Link</a>
  | [minimum-path-sum.py](Medium/minimum-path-sum.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-path-sum/" target="_blank">Link</a>
  | [minimum-penalty-for-a-shop.py](Medium/minimum-penalty-for-a-shop.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-penalty-for-a-shop/" target="_blank">Link</a>
  | [minimum-removals-to-balance-array.py](Medium/minimum-removals-to-balance-array.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-removals-to-balance-array/" target="_blank">Link</a>
@@ -1050,4 +1051,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Oct 25 12:18:40 UTC 2026.
+Latest push from RunarFosse: Sun Oct 25 12:57:34 UTC 2026.
