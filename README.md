@@ -74,6 +74,7 @@ All problems are tried solving in the most optimal way possible.
  | [counting-words-with-a-given-prefix.py](Easy/counting-words-with-a-given-prefix.py) | O(nm) | O(1) | <a href="https://leetcode.com/problems/counting-words-with-a-given-prefix/" target="_blank">Link</a>
  | [coupon-code-validator.py](Easy/coupon-code-validator.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/coupon-code-validator/" target="_blank">Link</a>
  | [crawler-log-folder.py](Easy/crawler-log-folder.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/crawler-log-folder/" target="_blank">Link</a>
+ | [create-grid-with-exactly-one-path.py](Easy/create-grid-with-exactly-one-path.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/create-grid-with-exactly-one-path/" target="_blank">Link</a>
  | [defuse-the-bomb.py](Easy/defuse-the-bomb.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/defuse-the-bomb/" target="_blank">Link</a>
  | [delete-characters-to-make-fancy-string.py](Easy/delete-characters-to-make-fancy-string.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/delete-characters-to-make-fancy-string/" target="_blank">Link</a>
  | [delete-columns-to-make-sorted.py](Easy/delete-columns-to-make-sorted.py) | O(mn) | O(1) | <a href="https://leetcode.com/problems/delete-columns-to-make-sorted/" target="_blank">Link</a>
@@ -1052,4 +1053,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Oct 26 16:43:50 UTC 2026.
+Latest push from RunarFosse: Tue Oct 27 17:46:12 UTC 2026.
