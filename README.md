@@ -696,6 +696,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-time-difference.py](Medium/minimum-time-difference.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-time-difference/" target="_blank">Link</a>
  | [minimum-time-to-make-rope-colorful.py](Medium/minimum-time-to-make-rope-colorful.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-time-to-make-rope-colorful/" target="_blank">Link</a>
  | [minimum-time-to-repair-cars.py](Medium/minimum-time-to-repair-cars.py) | O(nlog m) | O(n) | <a href="https://leetcode.com/problems/minimum-time-to-repair-cars/" target="_blank">Link</a>
+ | [minimum-xor-path-in-a-grid.py](Medium/minimum-xor-path-in-a-grid.py) | O(mn) | O(n) | <a href="https://leetcode.com/problems/minimum-xor-path-in-a-grid/" target="_blank">Link</a>
  | [most-beautiful-item-for-each-query.py](Medium/most-beautiful-item-for-each-query.py) | O((n + m)log n) | O(n + m) | <a href="https://leetcode.com/problems/most-beautiful-item-for-each-query/" target="_blank">Link</a>
  | [most-profit-assigning-work.py](Medium/most-profit-assigning-work.py) | O(mlog m + nlog n) | O(m+n) | <a href="https://leetcode.com/problems/most-profit-assigning-work/" target="_blank">Link</a>
  | [most-profitable-path-in-a-tree.py](Medium/most-profitable-path-in-a-tree.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/most-profitable-path-in-a-tree/" target="_blank">Link</a>
@@ -1053,4 +1054,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Oct 27 17:46:12 UTC 2026.
+Latest push from RunarFosse: Wed Oct 28 21:12:16 UTC 2026.
