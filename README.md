@@ -795,6 +795,7 @@ All problems are tried solving in the most optimal way possible.
  | [shifting-letters-ii.py](Medium/shifting-letters-ii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/shifting-letters-ii/" target="_blank">Link</a>
  | [shortest-and-lexicographically-smallest-beautiful-string.py](Medium/shortest-and-lexicographically-smallest-beautiful-string.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/" target="_blank">Link</a>
  | [shortest-distance-after-road-addition-queries-i.py](Medium/shortest-distance-after-road-addition-queries-i.py) | O(m(n + m)) | O(n + m) | <a href="https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/" target="_blank">Link</a>
+ | [shortest-path-with-at-most-k-consecutive-identical-characters.py](Medium/shortest-path-with-at-most-k-consecutive-identical-characters.py) | O((nk)log(nk)) | O(nk) | <a href="https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/" target="_blank">Link</a>
  | [shortest-subarray-to-be-removed-to-make-array-sorted.py](Medium/shortest-subarray-to-be-removed-to-make-array-sorted.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/" target="_blank">Link</a>
  | [shortest-subarray-with-or-at-least-k-ii.py](Medium/shortest-subarray-with-or-at-least-k-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/" target="_blank">Link</a>
  | [simplify-path.py](Medium/simplify-path.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/simplify-path/" target="_blank">Link</a>
@@ -1054,4 +1055,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Wed Oct 28 21:12:16 UTC 2026.
+Latest push from RunarFosse: Fri Oct 30 19:35:51 UTC 2026.
