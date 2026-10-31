@@ -853,6 +853,7 @@ All problems are tried solving in the most optimal way possible.
  | [total-waviness-of-numbers-in-range-i.py](Medium/total-waviness-of-numbers-in-range-i.py) | O(nlog n) | O(1) | <a href="https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/" target="_blank">Link</a>
  | [triangle.py](Medium/triangle.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/triangle/" target="_blank">Link</a>
  | [tuple-with-same-product.py](Medium/tuple-with-same-product.py) | O(n^2) | O(n^2) | <a href="https://leetcode.com/problems/tuple-with-same-product/" target="_blank">Link</a>
+ | [twisted-mirror-path-count.py](Medium/twisted-mirror-path-count.py) | O(mn) | O(n) | <a href="https://leetcode.com/problems/twisted-mirror-path-count/" target="_blank">Link</a>
  | [two-best-non-overlapping-events.py](Medium/two-best-non-overlapping-events.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/two-best-non-overlapping-events/" target="_blank">Link</a>
  | [ugly-number-ii.py](Medium/ugly-number-ii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/ugly-number-ii/" target="_blank">Link</a>
  | [unique-length-3-palindromic-subsequences.py](Medium/unique-length-3-palindromic-subsequences.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/unique-length-3-palindromic-subsequences/" target="_blank">Link</a>
@@ -1055,4 +1056,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Oct 30 19:35:51 UTC 2026.
+Latest push from RunarFosse: Sat Oct 31 10:04:05 UTC 2026.
