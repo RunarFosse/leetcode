@@ -695,6 +695,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-sum-of-squared-difference.py](Medium/minimum-sum-of-squared-difference.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-sum-of-squared-difference/" target="_blank">Link</a>
  | [minimum-swaps-to-arrange-a-binary-grid.py](Medium/minimum-swaps-to-arrange-a-binary-grid.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/" target="_blank">Link</a>
  | [minimum-swaps-to-group-all-1s-together-ii.py](Medium/minimum-swaps-to-group-all-1s-together-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/" target="_blank">Link</a>
+ | [minimum-swaps-to-sort-by-digit-sum.py](Medium/minimum-swaps-to-sort-by-digit-sum.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/" target="_blank">Link</a>
  | [minimum-time-difference.py](Medium/minimum-time-difference.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-time-difference/" target="_blank">Link</a>
  | [minimum-time-to-make-rope-colorful.py](Medium/minimum-time-to-make-rope-colorful.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-time-to-make-rope-colorful/" target="_blank">Link</a>
  | [minimum-time-to-repair-cars.py](Medium/minimum-time-to-repair-cars.py) | O(nlog m) | O(n) | <a href="https://leetcode.com/problems/minimum-time-to-repair-cars/" target="_blank">Link</a>
@@ -1058,4 +1059,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Nov  1 11:08:57 UTC 2026.
+Latest push from RunarFosse: Sun Nov  1 11:50:06 UTC 2026.
