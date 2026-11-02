@@ -664,6 +664,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-length-of-string-after-operations.py](Medium/minimum-length-of-string-after-operations.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-length-of-string-after-operations/" target="_blank">Link</a>
  | [minimum-limit-of-balls-in-a-bag.py](Medium/minimum-limit-of-balls-in-a-bag.py) | O(nlog m) | O(1) | <a href="https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/" target="_blank">Link</a>
  | [minimum-moves-to-clean-the-classroom.py](Medium/minimum-moves-to-clean-the-classroom.py) | O(mnk2^l) | O(mnk2^l) | <a href="https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/" target="_blank">Link</a>
+ | [minimum-moves-to-equal-array-elements-ii.py](Medium/minimum-moves-to-equal-array-elements-ii.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/" target="_blank">Link</a>
  | [minimum-moves-to-equal-array-elements.py](Medium/minimum-moves-to-equal-array-elements.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-moves-to-equal-array-elements/" target="_blank">Link</a>
  | [minimum-moves-to-make-array-complementary.py](Medium/minimum-moves-to-make-array-complementary.py) | O(n + m) | O(m) | <a href="https://leetcode.com/problems/minimum-moves-to-make-array-complementary/" target="_blank">Link</a>
  | [minimum-number-of-arrows-to-burst-balloons.py](Medium/minimum-number-of-arrows-to-burst-balloons.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/" target="_blank">Link</a>
@@ -1059,4 +1060,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Nov  1 11:50:06 UTC 2026.
+Latest push from RunarFosse: Mon Nov  2 19:43:19 UTC 2026.
