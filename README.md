@@ -202,6 +202,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-distance-between-three-equal-elements-i.py](Easy/minimum-distance-between-three-equal-elements-i.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/" target="_blank">Link</a>
  | [minimum-distance-to-the-target-element.py](Easy/minimum-distance-to-the-target-element.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-distance-to-the-target-element/" target="_blank">Link</a>
  | [minimum-element-after-replacement-with-digit-sum.py](Easy/minimum-element-after-replacement-with-digit-sum.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/" target="_blank">Link</a>
+ | [minimum-moves-to-equal-array-elements-iii.py](Easy/minimum-moves-to-equal-array-elements-iii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/" target="_blank">Link</a>
  | [minimum-number-of-moves-to-seat-everyone.py](Easy/minimum-number-of-moves-to-seat-everyone.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/" target="_blank">Link</a>
  | [minimum-number-of-operations-to-make-elements-in-array-distinct.py](Easy/minimum-number-of-operations-to-make-elements-in-array-distinct.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/" target="_blank">Link</a>
  | [minimum-number-of-pushes-to-type-word-i.py](Easy/minimum-number-of-pushes-to-type-word-i.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/" target="_blank">Link</a>
@@ -1060,4 +1061,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Nov  2 19:43:19 UTC 2026.
+Latest push from RunarFosse: Tue Nov  3 17:22:40 UTC 2026.
