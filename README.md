@@ -114,6 +114,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-smallest-letter-greater-than-target.py](Easy/find-smallest-letter-greater-than-target.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/find-smallest-letter-greater-than-target/" target="_blank">Link</a>
  | [find-subsequence-of-length-k-with-the-largest-sum.py](Easy/find-subsequence-of-length-k-with-the-largest-sum.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/" target="_blank">Link</a>
  | [find-target-indices-after-sorting-array.py](Easy/find-target-indices-after-sorting-array.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-target-indices-after-sorting-array/" target="_blank">Link</a>
+ | [find-the-distance-value-between-two-arrays.py](Easy/find-the-distance-value-between-two-arrays.py) | O((m + n)log m) | O(m) | <a href="https://leetcode.com/problems/find-the-distance-value-between-two-arrays/" target="_blank">Link</a>
  | [find-the-highest-altitude.py](Easy/find-the-highest-altitude.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-highest-altitude/" target="_blank">Link</a>
  | [find-the-index-of-the-first-occurrence-in-a-string.py](Easy/find-the-index-of-the-first-occurrence-in-a-string.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/" target="_blank">Link</a>
  | [find-the-k-th-character-in-string-game-i.py](Easy/find-the-k-th-character-in-string-game-i.py) | O(log k) | O(1) | <a href="https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/" target="_blank">Link</a>
@@ -1062,4 +1063,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Nov  6 17:42:20 UTC 2026.
+Latest push from RunarFosse: Fri Nov  6 17:44:00 UTC 2026.
