@@ -412,6 +412,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-unguarded-cells-in-the-grid.py](Medium/count-unguarded-cells-in-the-grid.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/count-unguarded-cells-in-the-grid/" target="_blank">Link</a>
  | [count-vowel-strings-in-ranges.py](Medium/count-vowel-strings-in-ranges.py) | O(m + n) | O(m + n) | <a href="https://leetcode.com/problems/count-vowel-strings-in-ranges/" target="_blank">Link</a>
  | [count-ways-to-build-good-strings.py](Medium/count-ways-to-build-good-strings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-ways-to-build-good-strings/" target="_blank">Link</a>
+ | [count-zero-request-servers.py](Medium/count-zero-request-servers.py) | O(mlog m + klog k) | O(m + n + k) | <a href="https://leetcode.com/problems/count-zero-request-servers/" target="_blank">Link</a>
  | [course-schedule-iv.py](Medium/course-schedule-iv.py) | O(mnk) | O(n^2) | <a href="https://leetcode.com/problems/course-schedule-iv/" target="_blank">Link</a>
  | [course-schedule.py](Medium/course-schedule.py) | O(n+m) | O(n+m) | <a href="https://leetcode.com/problems/course-schedule/" target="_blank">Link</a>
  | [cousins-in-binary-tree-ii.py](Medium/cousins-in-binary-tree-ii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/cousins-in-binary-tree-ii/" target="_blank">Link</a>
@@ -1061,4 +1062,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Nov  3 17:22:40 UTC 2026.
+Latest push from RunarFosse: Fri Nov  6 17:42:20 UTC 2026.
