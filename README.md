@@ -755,6 +755,7 @@ All problems are tried solving in the most optimal way possible.
  | [predict-the-winner.py](Medium/predict-the-winner.py) | O(n^2) | O(n^2) | <a href="https://leetcode.com/problems/predict-the-winner/" target="_blank">Link</a>
  | [prime-subtraction-operation.py](Medium/prime-subtraction-operation.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/prime-subtraction-operation/" target="_blank">Link</a>
  | [process-string-with-special-operations-i.py](Medium/process-string-with-special-operations-i.py) | O(2^n) | O(2^n) | <a href="https://leetcode.com/problems/process-string-with-special-operations-i/" target="_blank">Link</a>
+ | [process-tasks-using-servers.py](Medium/process-tasks-using-servers.py) | O(mlog n + n) | O(m + n) | <a href="https://leetcode.com/problems/process-tasks-using-servers/" target="_blank">Link</a>
  | [product-of-array-except-self.py](Medium/product-of-array-except-self.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/product-of-array-except-self/" target="_blank">Link</a>
  | [pseudo-palindromic-paths-in-a-binary-tree.py](Medium/pseudo-palindromic-paths-in-a-binary-tree.py) | O(n) | O(log n) | <a href="https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/" target="_blank">Link</a>
  | [push-dominoes.py](Medium/push-dominoes.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/push-dominoes/" target="_blank">Link</a>
@@ -1063,4 +1064,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Fri Nov  6 17:44:00 UTC 2026.
+Latest push from RunarFosse: Sat Nov  7 09:10:07 UTC 2026.
