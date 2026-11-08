@@ -1012,6 +1012,7 @@ All problems are tried solving in the most optimal way possible.
  | [number-of-ways-to-stay-in-the-same-place-after-some-steps.py](Hard/number-of-ways-to-stay-in-the-same-place-after-some-steps.py) | O(n min(n,m)) | O(n min(n,m)) | <a href="https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/" target="_blank">Link</a>
  | [number-of-zigzag-arrays-i.py](Hard/number-of-zigzag-arrays-i.py) | O(mn) | O(m) | <a href="https://leetcode.com/problems/number-of-zigzag-arrays-i/" target="_blank">Link</a>
  | [number-of-zigzag-arrays-ii.py](Hard/number-of-zigzag-arrays-ii.py) | O(m^3log n) | O(m^2) | <a href="https://leetcode.com/problems/number-of-zigzag-arrays-ii/" target="_blank">Link</a>
+ | [painting-a-grid-with-three-different-colors.py](Hard/painting-a-grid-with-three-different-colors.py) | O(m4^m + n3^m) | O(3^m) | <a href="https://leetcode.com/problems/painting-a-grid-with-three-different-colors/" target="_blank">Link</a>
  | [painting-the-walls.py](Hard/painting-the-walls.py) | O(n^2) | O(n) | <a href="https://leetcode.com/problems/painting-the-walls/" target="_blank">Link</a>
  | [parallel-courses-iii.py](Hard/parallel-courses-iii.py) | O(n + m) | O(n + m) | <a href="https://leetcode.com/problems/parallel-courses-iii/" target="_blank">Link</a>
  | [parsing-a-boolean-expression.py](Hard/parsing-a-boolean-expression.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/parsing-a-boolean-expression/" target="_blank">Link</a>
@@ -1064,4 +1065,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Nov  8 10:26:34 UTC 2026.
+Latest push from RunarFosse: Sun Nov  8 11:28:21 UTC 2026.
