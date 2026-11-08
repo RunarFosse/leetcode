@@ -393,7 +393,7 @@ All problems are tried solving in the most optimal way possible.
  | [count-of-interesting-subarrays.py](Medium/count-of-interesting-subarrays.py) | O(n) | O(min(n, modulo)) | <a href="https://leetcode.com/problems/count-of-interesting-subarrays/" target="_blank">Link</a>
  | [count-of-substrings-containing-every-vowel-and-k-consonants-ii.py](Medium/count-of-substrings-containing-every-vowel-and-k-consonants-ii.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/" target="_blank">Link</a>
  | [count-partitions-with-max-min-difference-at-most-k.py](Medium/count-partitions-with-max-min-difference-at-most-k.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/" target="_blank">Link</a>
- | [count-servers-that-communicate.py](Medium/count-servers-that-communicate.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/count-servers-that-communicate/" target="_blank">Link</a>
+ | [count-servers-that-communicate.py](Medium/count-servers-that-communicate.py) | O(mn) | O(m + n) | <a href="https://leetcode.com/problems/count-servers-that-communicate/" target="_blank">Link</a>
  | [count-special-triplets.py](Medium/count-special-triplets.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-special-triplets/" target="_blank">Link</a>
  | [count-square-submatrices-with-all-ones.py](Medium/count-square-submatrices-with-all-ones.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/count-square-submatrices-with-all-ones/" target="_blank">Link</a>
  | [count-sub-islands.py](Medium/count-sub-islands.py) | O(mn) | O(mn) | <a href="https://leetcode.com/problems/count-sub-islands/" target="_blank">Link</a>
@@ -1064,4 +1064,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Nov  7 09:10:07 UTC 2026.
+Latest push from RunarFosse: Sun Nov  8 10:26:34 UTC 2026.
