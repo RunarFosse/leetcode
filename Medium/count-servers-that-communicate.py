@@ -1,55 +1,21 @@
 # Author: Runar Fosse
 # Time complexity: O(mn)
-# Space complexity: O(mn)
+# Space complexity: O(m + n)
 
 class Solution:
-    def countServers(self, grid: List[List[int]]) -> int:
-        # Using Union-Find
+    def countServers(self, grid: list[list[int]]) -> int:
+        # Count the number of servers at each row and column
         m, n = len(grid), len(grid[0])
+        rows = [sum(row) for row in grid]
+        columns = [sum(column) for column in zip(*grid)]
 
-        # Iterate the grid, storing a server in each row / column
-        # Also add every server to Union-Find datastructure
-        uf = UnionFind()
-        self.rows, self.columns = {}, {}
+        # Then iterate the grid
+        communicates = 0
         for i in range(m):
             for j in range(n):
-                if grid[i][j]:
-                    if not i in self.rows:
-                        self.rows[i] = (i, j)
-                    if not j in self.columns:
-                        self.columns[j] = (i, j)
-                    
-                    # Connect this server to all neighbours in Union-Find
-                    uf.merge((i, j), self.rows[i])
-                    uf.merge((i, j), self.columns[j])
+                # A server communicates with another if it shares a row or a column
+                if grid[i][j] and (rows[i] > 1 or columns[j] > 1):
+                    communicates += 1
         
-        # Return number of servers with at least one partner
-        return sum(1 if uf.size[node] > 1 else 0 for node in uf.root.values())
-
-# Union-Find implementation
-# with union by rank and path compression
-class UnionFind:
-    def __init__(self):
-        self.root, self.size = {}, {}
-    
-    def find(self, node):
-        if node not in self.root:
-            self.root[node] = node
-            self.size[node] = 1
-
-        if self.root[node] == node:
-            return node
-        
-        self.root[node] = self.find(self.root[node])
-        return self.root[node]
-    
-    def merge(self, node1, node2):
-        parent1, parent2 = self.find(node1), self.find(node2)
-        if parent1 == parent2:
-            return
-        
-        if self.size[parent2] > self.size[parent1]:
-            parent1, parent2 = parent2, parent1
-        
-        self.root[parent2] = parent1
-        self.size[parent1] += self.size[parent2]
+        # Finally, return the number of server which communicate with another
+        return communicates
