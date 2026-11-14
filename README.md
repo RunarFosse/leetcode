@@ -210,6 +210,7 @@ All problems are tried solving in the most optimal way possible.
  | [minimum-operations-to-make-array-sum-divisible-by-k.py](Easy/minimum-operations-to-make-array-sum-divisible-by-k.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/" target="_blank">Link</a>
  | [minimum-operations-to-make-array-values-equal-to-k.py](Easy/minimum-operations-to-make-array-values-equal-to-k.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/" target="_blank">Link</a>
  | [minimum-pair-removal-to-sort-array-i.py](Easy/minimum-pair-removal-to-sort-array-i.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/" target="_blank">Link</a>
+ | [minimum-positive-sum-subarray.py](Easy/minimum-positive-sum-subarray.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/minimum-positive-sum-subarray/" target="_blank">Link</a>
  | [minimum-recolors-to-get-k-consecutive-black-blocks.py](Easy/minimum-recolors-to-get-k-consecutive-black-blocks.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/" target="_blank">Link</a>
  | [minimum-string-length-after-removing-substrings.py](Easy/minimum-string-length-after-removing-substrings.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/minimum-string-length-after-removing-substrings/" target="_blank">Link</a>
  | [minimum-time-visiting-all-points.py](Easy/minimum-time-visiting-all-points.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/minimum-time-visiting-all-points/" target="_blank">Link</a>
@@ -1066,4 +1067,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Tue Nov 10 17:43:15 UTC 2026.
+Latest push from RunarFosse: Sat Nov 14 19:24:17 UTC 2026.
