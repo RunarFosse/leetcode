@@ -907,6 +907,7 @@ All problems are tried solving in the most optimal way possible.
  | [cherry-pickup-ii.py](Hard/cherry-pickup-ii.py) | O(mn^2) | O(mn^2) | <a href="https://leetcode.com/problems/cherry-pickup-ii/" target="_blank">Link</a>
  | [constrained-subsequence-sum.py](Hard/constrained-subsequence-sum.py) | O(n) | O(k) | <a href="https://leetcode.com/problems/constrained-subsequence-sum/" target="_blank">Link</a>
  | [count-good-triplets-in-an-array.py](Hard/count-good-triplets-in-an-array.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/count-good-triplets-in-an-array/" target="_blank">Link</a>
+ | [count-non-decreasing-subarrays-after-k-operations.py](Hard/count-non-decreasing-subarrays-after-k-operations.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/" target="_blank">Link</a>
  | [count-subarrays-with-fixed-bounds.py](Hard/count-subarrays-with-fixed-bounds.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-subarrays-with-fixed-bounds/" target="_blank">Link</a>
  | [count-subarrays-with-majority-element-ii.py](Hard/count-subarrays-with-majority-element-ii.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/count-subarrays-with-majority-element-ii/" target="_blank">Link</a>
  | [count-subarrays-with-score-less-than-k.py](Hard/count-subarrays-with-score-less-than-k.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/count-subarrays-with-score-less-than-k/" target="_blank">Link</a>
@@ -1068,4 +1069,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Nov 14 19:30:03 UTC 2026.
+Latest push from RunarFosse: Sun Nov 15 11:53:30 UTC 2026.
