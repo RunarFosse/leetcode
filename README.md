@@ -1014,6 +1014,7 @@ All problems are tried solving in the most optimal way possible.
  | [number-of-ways-to-divide-a-long-corridor.py](Hard/number-of-ways-to-divide-a-long-corridor.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/" target="_blank">Link</a>
  | [number-of-ways-to-form-a-target-string-given-a-dictionary.py](Hard/number-of-ways-to-form-a-target-string-given-a-dictionary.py) | O(mn + mj) | O(mn) | <a href="https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/" target="_blank">Link</a>
  | [number-of-ways-to-paint-n-3-grid.py](Hard/number-of-ways-to-paint-n-3-grid.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/" target="_blank">Link</a>
+ | [number-of-ways-to-reorder-array-to-get-same-bst.py](Hard/number-of-ways-to-reorder-array-to-get-same-bst.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/" target="_blank">Link</a>
  | [number-of-ways-to-stay-in-the-same-place-after-some-steps.py](Hard/number-of-ways-to-stay-in-the-same-place-after-some-steps.py) | O(n min(n,m)) | O(n min(n,m)) | <a href="https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/" target="_blank">Link</a>
  | [number-of-zigzag-arrays-i.py](Hard/number-of-zigzag-arrays-i.py) | O(mn) | O(m) | <a href="https://leetcode.com/problems/number-of-zigzag-arrays-i/" target="_blank">Link</a>
  | [number-of-zigzag-arrays-ii.py](Hard/number-of-zigzag-arrays-ii.py) | O(m^3log n) | O(m^2) | <a href="https://leetcode.com/problems/number-of-zigzag-arrays-ii/" target="_blank">Link</a>
@@ -1070,4 +1071,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Nov 15 12:22:54 UTC 2026.
+Latest push from RunarFosse: Sun Nov 15 13:39:40 UTC 2026.
