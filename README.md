@@ -27,6 +27,7 @@ All problems are tried solving in the most optimal way possible.
  | [binary-watch.py](Easy/binary-watch.py) | O(10 choose n) | O(1) | <a href="https://leetcode.com/problems/binary-watch/" target="_blank">Link</a>
  | [build-array-from-permutation.py](Easy/build-array-from-permutation.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/build-array-from-permutation/" target="_blank">Link</a>
  | [buy-two-chocolates.py](Easy/buy-two-chocolates.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/buy-two-chocolates/" target="_blank">Link</a>
+ | [calculate-digit-sum-of-a-string.py](Easy/calculate-digit-sum-of-a-string.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/calculate-digit-sum-of-a-string/" target="_blank">Link</a>
  | [calculate-money-in-leetcode-bank.py](Easy/calculate-money-in-leetcode-bank.py) | O(1) | O(1) | <a href="https://leetcode.com/problems/calculate-money-in-leetcode-bank/" target="_blank">Link</a>
  | [check-divisibility-by-digit-sum-and-product.py](Easy/check-divisibility-by-digit-sum-and-product.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/" target="_blank">Link</a>
  | [check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py](Easy/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/" target="_blank">Link</a>
@@ -1071,4 +1072,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sun Nov 15 13:39:40 UTC 2026.
+Latest push from RunarFosse: Mon Nov 16 18:52:25 UTC 2026.
