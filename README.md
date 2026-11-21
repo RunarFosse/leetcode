@@ -479,6 +479,7 @@ All problems are tried solving in the most optimal way possible.
  | [find-players-with-zero-or-one-losses.py](Medium/find-players-with-zero-or-one-losses.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/find-players-with-zero-or-one-losses/" target="_blank">Link</a>
  | [find-polygon-with-the-largest-perimeter.py](Medium/find-polygon-with-the-largest-perimeter.py) | O(nlog n) | O(n) | <a href="https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/" target="_blank">Link</a>
  | [find-score-of-an-array-after-marking-all-elements.py](Medium/find-score-of-an-array-after-marking-all-elements.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/" target="_blank">Link</a>
+ | [find-subtree-sizes-after-changes.py](Medium/find-subtree-sizes-after-changes.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/find-subtree-sizes-after-changes/" target="_blank">Link</a>
  | [find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.py](Medium/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.py) | O(n^3) | O(n^2) | <a href="https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/" target="_blank">Link</a>
  | [find-the-duplicate-number.py](Medium/find-the-duplicate-number.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/find-the-duplicate-number/" target="_blank">Link</a>
  | [find-the-largest-area-of-square-inside-two-rectangles.py](Medium/find-the-largest-area-of-square-inside-two-rectangles.py) | O(n^2) | O(1) | <a href="https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/" target="_blank">Link</a>
@@ -1072,4 +1073,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Mon Nov 16 18:52:25 UTC 2026.
+Latest push from RunarFosse: Sat Nov 21 14:58:12 UTC 2026.
