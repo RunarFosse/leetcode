@@ -32,6 +32,7 @@ All problems are tried solving in the most optimal way possible.
  | [check-divisibility-by-digit-sum-and-product.py](Easy/check-divisibility-by-digit-sum-and-product.py) | O(log n) | O(1) | <a href="https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/" target="_blank">Link</a>
  | [check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py](Easy/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/" target="_blank">Link</a>
  | [check-if-all-1s-are-at-least-length-k-places-away.py](Easy/check-if-all-1s-are-at-least-length-k-places-away.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/" target="_blank">Link</a>
+ | [check-if-all-as-appears-before-all-bs.py](Easy/check-if-all-as-appears-before-all-bs.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/" target="_blank">Link</a>
  | [check-if-array-is-good.py](Easy/check-if-array-is-good.py) | O(n) | O(n) | <a href="https://leetcode.com/problems/check-if-array-is-good/" target="_blank">Link</a>
  | [check-if-array-is-sorted-and-rotated.py](Easy/check-if-array-is-sorted-and-rotated.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/" target="_blank">Link</a>
  | [check-if-binary-string-has-at-most-one-segment-of-ones.py](Easy/check-if-binary-string-has-at-most-one-segment-of-ones.py) | O(n) | O(1) | <a href="https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/" target="_blank">Link</a>
@@ -1073,4 +1074,4 @@ All problems are tried solving in the most optimal way possible.
 
 
 
-Latest push from RunarFosse: Sat Nov 21 14:58:12 UTC 2026.
+Latest push from RunarFosse: Sun Nov 22 09:25:26 UTC 2026.
